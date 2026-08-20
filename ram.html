@@ -30,6 +30,7 @@
       max-width: 800px;
       margin: 0 auto;
       flex: 1;
+      width: 100%;
     }
 
     header {
@@ -218,14 +219,32 @@
       z-index: 1000;
     }
 
+    /* Updated Custom Footer Styles */
     footer {
       margin-top: 40px;
-      padding: 20px 0;
+      padding: 24px 0;
       border-top: 1px solid var(--border-color);
       text-align: center;
       font-size: 0.9rem;
       color: #6c757d;
       background-color: var(--bg-color);
+    }
+
+    footer p {
+      margin: 6px 0;
+    }
+
+    .footer-dedication {
+      font-size: 1.1rem;
+      font-weight: bold;
+      color: var(--accent-color);
+      margin-bottom: 8px;
+    }
+
+    .footer-subtext {
+      font-size: 0.85rem;
+      color: #8c959e;
+      margin-top: 10px;
     }
 
     footer a {
@@ -237,9 +256,23 @@
     footer a:hover {
       text-decoration: underline;
     }
+
+    kbd {
+      background-color: #e9ecef;
+      border: 1px solid #ced4da;
+      border-radius: 4px;
+      box-shadow: 0 1px 1px rgba(0,0,0,0.2);
+      color: #495057;
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 700;
+      line-height: 1;
+      padding: 2px 5px;
+      white-space: nowrap;
+    }
   </style>
 </head>
-<body>
+<body id="top">
 
   <div class="container">
     <header>
@@ -271,7 +304,7 @@
     </div>
 
     <div class="search-bar">
-      <input type="text" id="searchInput" placeholder="🔍 Search text or explanation across current Kanda...">
+      <input type="text" id="searchInput" placeholder="🔍 Search text or explanation across current Kanda... (Press '/' to focus)">
     </div>
 
     <div id="content"></div>
@@ -279,10 +312,12 @@
 
   <button id="scrollTopBtn" title="Go to top">▲</button>
 
+  <!-- Updated Custom Footer -->
   <footer>
-    <div class="container">
-      <p>Source Data: Gita Press Valmiki Ramayana | Developed by <a href="https://github.com/satishsanthanam" target="_blank" rel="noopener">Satish Santhanam</a></p>
-    </div>
+    <div class="footer-dedication">🙏 Shri Krishnarpanam Asthu 🙏</div>
+    <p>Source: <strong>Gita Press Edition</strong> (Sanskrit Ślokas & English Translations)</p>
+    <p>Dataset Source: <a href="https://github.com/satishsanthanam/gitabookpress_valmiki_ramayan" target="_blank" rel="noopener noreferrer">Gita Book Press Mistral OCR Dataset, Assisted by Gemini AI</a></p>
+    <p class="footer-subtext">Press <kbd>/</kbd> to search anytime &bull; <a href="#top">Back to Top ↑</a></p>
   </footer>
 
   <script>
@@ -442,6 +477,14 @@
 
     scrollTopBtn.addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // Keyboard shortcut: '/' focuses search input
+    window.addEventListener('keydown', (e) => {
+      if (e.key === '/' && document.activeElement !== searchInput) {
+        e.preventDefault();
+        searchInput.focus();
+      }
     });
 
     function initFromURL() {
