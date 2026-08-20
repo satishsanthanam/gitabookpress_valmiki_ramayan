@@ -66,7 +66,7 @@
       box-sizing: border-box;
     }
 
-    input, select, button, .home-btn {
+    select, button, .home-btn, input[type="text"] {
       padding: 10px 14px;
       border: 1px solid var(--border-color);
       border-radius: 6px;
@@ -77,11 +77,12 @@
 
     select {
       flex: 1;
-      min-width: 150px;
+      min-width: 140px;
     }
 
-    input[type="number"] {
-      width: 80px;
+    .sarga-select {
+      min-width: 150px;
+      font-weight: 500;
     }
 
     button, .home-btn {
@@ -144,6 +145,10 @@
       border-radius: 12px;
     }
 
+    .badge-summary {
+      background: #2b580c;
+    }
+
     .toggle-icon {
       font-size: 0.9rem;
       color: #6c757d;
@@ -183,10 +188,16 @@
       height: 36px;
     }
 
-    .empty-state {
+    .empty-state, .loading-state {
       text-align: center;
       color: #6c757d;
       padding: 40px;
+      font-size: 1.1rem;
+    }
+
+    .loading-state {
+      font-weight: 600;
+      color: var(--accent-color);
     }
 
     #scrollTopBtn {
@@ -237,7 +248,6 @@
     </header>
 
     <div class="controls">
-      <!-- Home Button -->
       <a href="index.html" class="home-btn" title="Back to Home">🏠 Home</a>
       
       <button id="prevSargaBtn" class="nav-btn" title="Previous Sarga">◄ Prev</button>
@@ -252,10 +262,10 @@
         <option value="data/Valmiki_Ramayan_Uttarakanda.json">Uttara Kanda</option>
       </select>
 
-      <input type="number" id="sargaInput" placeholder="Sarga" min="1" value="1">
-      <button id="nextSargaBtn" class="nav-btn" title="Next Sarga">Next ►</button>
+      <!-- Sarga Dropdown Combo -->
+      <select id="sargaSelect" class="sarga-select"></select>
 
-      <input type="number" id="shlokaInput" placeholder="Shloka" min="1">
+      <button id="nextSargaBtn" class="nav-btn" title="Next Sarga">Next ►</button>
       
       <button id="toggleAllBtn">Expand All</button>
     </div>
@@ -269,13 +279,11 @@
 
   <button id="scrollTopBtn" title="Go to top">▲</button>
 
-   <footer>
-            <div class="footer-dedication">🙏 Shri Krishnarpanam Asthu 🙏</div>
-            <p>Source: <strong>Gita Press Edition</strong> (Sanskrit Ślokas & English Translations)</p>
-            <p>Dataset Source: <a href="https://github.com/satishsanthanam/gitabookpress_valmiki_ramayan" target="_blank"
-                    rel="noopener noreferrer">Dataset generated using Mistral OCR 4.0 and Google Gemini AI</a></p>
-            <p class="footer-subtext">Press <kbd>/</kbd> to search anytime &bull; <a href="#top">Back to Top ↑</a></p>
-        </footer>
+  <footer>
+    <div class="container">
+      <p>Source Data: Gita Press Valmiki Ramayana | Developed by <a href="https://github.com/satishsanthanam" target="_blank" rel="noopener">Satish Santhanam</a></p>
+    </div>
+  </footer>
 
   <script>
     let currentData = [];
@@ -284,8 +292,7 @@
 
     const kandaSelect = document.getElementById('kandaSelect');
     const kandaSubtitle = document.getElementById('kandaSubtitle');
-    const sargaInput = document.getElementById('sargaInput');
-    const shlokaInput = document.getElementById('shlokaInput');
+    const sargaSelect = document.getElementById('sargaSelect');
     const searchInput = document.getElementById('searchInput');
     const prevSargaBtn = document.getElementById('prevSargaBtn');
     const nextSargaBtn = document.getElementById('nextSargaBtn');
@@ -293,17 +300,39 @@
     const scrollTopBtn = document.getElementById('scrollTopBtn');
     const contentDiv = document.getElementById('content');
 
-    // Load Kanda Data
-    async function loadKanda(filePath) {
+    // Populate Sarga Dropdown Options
+    function populateSargaDropdown(targetSarga = 1) {
+      const uniqueSargas = [...new Set(currentData.map(item => item.sarga))].sort((a, b) => a - b);
+      maxSarga = uniqueSargas.length > 0 ? Math.max(...uniqueSargas) : 1;
+
+      sargaSelect.innerHTML = '';
+      uniqueSargas.forEach(sNum => {
+        const option = document.createElement('option');
+        option.value = sNum;
+        option.textContent = `Sarga ${sNum} of ${maxSarga}`;
+        sargaSelect.appendChild(option);
+      });
+
+      if (uniqueSargas.includes(targetSarga)) {
+        sargaSelect.value = targetSarga;
+      } else if (uniqueSargas.length > 0) {
+        sargaSelect.value = uniqueSargas[0];
+      }
+    }
+
+    // Load Kanda Data with Loading State
+    async function loadKanda(filePath, initialSarga = 1) {
+      contentDiv.innerHTML = `<div class="loading-state">⏳ Loading JSON, please wait...</div>`;
+      
       try {
         const response = await fetch(filePath);
         if (!response.ok) throw new Error('File not found');
         currentData = await response.json();
         
-        maxSarga = Math.max(...currentData.map(item => item.sarga));
+        populateSargaDropdown(initialSarga);
 
         const selectedOptionName = kandaSelect.options[kandaSelect.selectedIndex].text;
-        kandaSubtitle.textContent = `${selectedOptionName} (${currentData.length} entries)`;
+        kandaSubtitle.textContent = `${selectedOptionName} (${maxSarga} Sargas, ${currentData.length} entries)`;
 
         render();
       } catch (err) {
@@ -313,10 +342,10 @@
 
     // Render Filtered Entries
     function render() {
-      const selectedSarga = parseInt(sargaInput.value) || 1;
-      const targetShloka = parseInt(shlokaInput.value);
+      const selectedSarga = parseInt(sargaSelect.value) || 1;
       const query = searchInput.value.trim().toLowerCase();
 
+      // Navigation Buttons State
       prevSargaBtn.disabled = selectedSarga <= 1;
       nextSargaBtn.disabled = selectedSarga >= maxSarga;
 
@@ -329,12 +358,6 @@
         );
       } else {
         filtered = filtered.filter(item => item.sarga === selectedSarga);
-
-        if (!isNaN(targetShloka)) {
-          filtered = filtered.filter(item => 
-            targetShloka >= item.shloka_start && targetShloka <= item.shloka_end
-          );
-        }
       }
 
       if (filtered.length === 0) {
@@ -344,20 +367,24 @@
 
       contentDiv.innerHTML = filtered.map(item => {
         let verseLabel = `Sarga ${item.sarga}`;
-        if (item.shloka_start === 0) {
+        let badgeClass = "badge";
+        const isSummary = item.shloka_start === 0;
+
+        if (isSummary) {
           verseLabel += ` • Summary`;
+          badgeClass += " badge-summary";
         } else if (item.shloka_start === item.shloka_end) {
           verseLabel += ` • Shloka ${item.shloka_start}`;
         } else {
           verseLabel += ` • Shlokas ${item.shloka_start}–${item.shloka_end}`;
         }
 
-        const isOpen = allExpanded || !isNaN(targetShloka) || query.length > 0 ? 'open' : '';
+        const isOpen = allExpanded || query.length > 0 || isSummary ? 'open' : '';
 
         return `
           <div class="card ${isOpen}">
             <div class="card-header" onclick="toggleCard(this)">
-              <span class="badge">${verseLabel}</span>
+              <span class="${badgeClass}">${verseLabel}</span>
               <span class="toggle-icon">▼</span>
             </div>
             
@@ -382,20 +409,18 @@
     }
 
     prevSargaBtn.addEventListener('click', () => {
-      let current = parseInt(sargaInput.value) || 1;
+      let current = parseInt(sargaSelect.value) || 1;
       if (current > 1) {
-        sargaInput.value = current - 1;
-        shlokaInput.value = '';
+        sargaSelect.value = current - 1;
         searchInput.value = '';
         render();
       }
     });
 
     nextSargaBtn.addEventListener('click', () => {
-      let current = parseInt(sargaInput.value) || 1;
+      let current = parseInt(sargaSelect.value) || 1;
       if (current < maxSarga) {
-        sargaInput.value = current + 1;
-        shlokaInput.value = '';
+        sargaSelect.value = current + 1;
         searchInput.value = '';
         render();
       }
@@ -419,30 +444,28 @@
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
 
-    // Check URL parameters for direct links from index.html (e.g. ram.html?kanda=0&sarga=1&shloka=18)
     function initFromURL() {
       const params = new URLSearchParams(window.location.search);
       const kandaIndex = params.get('kanda');
-      const sarga = params.get('sarga');
-      const shloka = params.get('shloka');
+      const sarga = parseInt(params.get('sarga')) || 1;
 
       if (kandaIndex !== null && kandaSelect.options[kandaIndex]) {
         kandaSelect.selectedIndex = parseInt(kandaIndex);
       }
-      if (sarga) sargaInput.value = sarga;
-      if (shloka) shlokaInput.value = shloka;
 
-      loadKanda(kandaSelect.value);
+      loadKanda(kandaSelect.value, sarga);
     }
 
     kandaSelect.addEventListener('change', (e) => {
-      sargaInput.value = 1;
-      shlokaInput.value = '';
       searchInput.value = '';
-      loadKanda(e.target.value);
+      loadKanda(e.target.value, 1);
     });
-    sargaInput.addEventListener('input', render);
-    shlokaInput.addEventListener('input', render);
+    
+    sargaSelect.addEventListener('change', () => {
+      searchInput.value = '';
+      render();
+    });
+
     searchInput.addEventListener('input', render);
 
     initFromURL();
