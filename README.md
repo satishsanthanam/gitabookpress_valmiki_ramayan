@@ -104,7 +104,7 @@ print(df.head())
 * [ ] English translation pipeline integration.
 * [ ] Multi-language commentary alignment (Hindi, Tamil, Telugu).
 * [ ] Audio pairing and MP3 timing alignment for verse playback.
-
+* [ ] Outstanding issues documented in errors_to_fix.xlsx
 ---
 
 ## 📜 License & Credits
