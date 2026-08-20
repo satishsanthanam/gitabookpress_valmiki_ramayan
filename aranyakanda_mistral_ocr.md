@@ -40,7 +40,7 @@ With the sacred Kuśa grass and bark-garments scattered all around, nay, envelop
 
 716
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 shone like the residence of Lord Brahmā
 resounding with the chanting to Vedic hymns.
@@ -99,7 +99,7 @@ Performing auspicious rites with great delight the magnanimous sages offered roo
 
 Thus speaking, they entertained the
 
-* ARAṆYAKĀṆḌA *
+
 
 717
 
@@ -154,7 +154,7 @@ Rāma (a descendant of Kakutstha) together with Sītā saw in that forest, full 
 
 718
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of Videha country, Sītā, in his arms, went afar and then said, “You two having matted hair and wearing a bark-garment, and still having a wife with you, with your life coming to an end, have entered the Daṇḍaka forest, taking arrows, bow and sword in your hands. Again, how are you two ascetics staying with a woman? (4—11)
 
@@ -210,7 +210,7 @@ While the descendant of Kakutstha, Rāma, was thus speaking, shedding tears of s
 
 My anger, which was directed against Bharata, having the desire for kingdom, now I shall ventilate against Virādha as did the
 
-* ARANYAKĀṆḌA *
+
 
 719
 
@@ -279,7 +279,7 @@ Rāma, with his eyes blood-red from anger, replied thus to that ogre, Virādha, 
 
 720
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततः सञ्यं धनुः कृत्वा रामः सुनिश्चितान् शरान् ।
 सुशीघ्रमभिसंधाय राक्षसं निजघान ह ॥ १० ॥
@@ -353,7 +353,7 @@ Reading his mind, Rāma said to Lakṣmaṇa—“Let this ogre gladly carry us 
 
 That night-wanderer, for his part, proud
 
-* ARANYAKĀṆḌA *
+
 
 721
 
@@ -418,7 +418,7 @@ Those two, while beating the ogre with their fists, arms and kicks, also crushed
 
 722
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स विद्धौ बहुभिर्बाणैः खड्गाभ्यां च परिक्षतः ।
 निष्पिष्टो बहुधा भूमौ न ममार स राक्षसः ॥ ८ ॥
@@ -487,7 +487,7 @@ Hearing the command given by the scion of Raghu, the ogre Virādha made this pol
 अवटे चापि मां राम निक्षिप्य कुशली ब्रज ।
 रक्षसां गतसत्त्वानामेष धर्मः सनातनः ॥ २२ ॥
 
-* ARANYAKĀṆḌA *
+
 
 723
 
@@ -559,7 +559,7 @@ And then, having killed the ogre and
 
 724
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 received Maithili, those two princes,
 possessed of lovely golden bows, happily
@@ -647,7 +647,7 @@ with Śarabhaṅga. (5—11)
 
 Seeing Indra there, Rāma addressed
 
-* ARANYAKĀṆḌA *
+
 
 725
 
@@ -727,7 +727,7 @@ Rāma, Sītā and Lakṣmaṇa touched his feet and sat down with his permission
 
 726
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततः शक्रोपयानं तु पर्यपृच्छत्स राघवः।
 शरभङ्गश्च तत् सर्वं राघवाय न्यवेदयत् ॥ २७ ॥
@@ -796,7 +796,7 @@ Then, kindling the fire and pouring oblations of ghee with chants, that Śarabha
 
 Presently the fire burnt the hair on the body and head, old skin and bones and whatever flesh and blood that great soul had. (40)
 
-* ARAṆYAKĀṆḌA *
+
 
 727
 
@@ -849,7 +849,7 @@ hair), sages who washed the utensils after their meals (keeping nothing for anot
 
 728
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अभिगम्य च धर्मज्ञा रामं धर्मभूतां वरम्।
 ऊचुः परमधर्मज्ञमृषिसङ्घाः समागताः ॥ ७ ॥
@@ -915,7 +915,7 @@ than life, keeping himself engaged, he attains, O Rāma, continuous fame lasting
 
 “Hence we have come to you, who are a fit resort, for protection. Rāma, protect us; we are being killed by the ogres, the night-stalkers. (19)
 
-* ARANYAKĀṆḌA *
+
 
 729
 
@@ -985,7 +985,7 @@ Then those two Rāghavas, the best amongst the Ikṣwākus, together with Sītā
 
 730
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Having entered the fearful forest having trees laden with flowers and fruits, he saw in one corner a hermitage decorated with bark-garments and garlands. (4)
 
@@ -1055,7 +1055,7 @@ Thus addressed by Rāma, the great sage, well-known in the world, uttered the fo
 इममाश्रममागम्य मृगसंघा महीयसः ।
 अहत्वा प्रतिगच्छन्ति लोभयित्वाकुतोभयाः ॥ १८ ॥
 
-* ARANYAKĀṆḌA *
+
 
 731
 
@@ -1116,7 +1116,7 @@ Then they—Rāma, Lakṣmaṇa and Sītā—who were free from sins, worshipped
 
 732
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सुखोषिताः स्म भगवंस्त्वया पूज्येन पूजिताः ।
 आपृच्छामः प्रयास्यामो मुनयस्त्वरयन्ति नः ॥ ५ ॥
@@ -1182,7 +1182,7 @@ Then Sītā, possessed of large eyes, handed to those two brothers highly superb
 आबध्य च शुभे तृणी चापे चादाय सस्वने ।
 निष्क्रान्तावाश्रमाद् गन्तुमुभौ तौ रामलक्ष्मणौ ॥ १९ ॥
 
-* ARANYAKĀṆḌA *
+
 
 733
 
@@ -1251,7 +1251,7 @@ destroys Dharma? You have not got it, nor was it ever with you. (5)
 
 734
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एतन्निमित्तं च वनं दण्डका इति विश्रुतम्।
 प्रस्थितस्त्वं सह भ्रात्रा धृतबाणशरासनः ॥ ११ ॥
@@ -1318,7 +1318,7 @@ destroys Dharma? You have not got it, nor was it ever with you. (5)
 
 “This is what happened in the past as a result of association with that weapon. Association with a weapon is said to be of the same consequence as is the association with fire. (23)
 
-* ARANYAKĀṆḌA *
+
 
 735
 
@@ -1379,7 +1379,7 @@ Thus ends Canto Nine in the Arāṇyakāṇḍa of the glorious Rāmāyaṇa of 
 
 736
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # दशमः सर्गः
 
@@ -1438,7 +1438,7 @@ Having heard these words uttered by Vaidehi, devoted to her husband, Rāma, firm
 
 “Coming together, all of them made the following submission : ‘We have been greatly tormented in the Daṇḍaka forest by many ogres assuming different forms according to their will. Rāma, you protect us from them. When the time comes for pouring oblations into the sacred fire and also on holy occasions, the flesh-eating, unassailable
 
-* ARANYAKĀṆḌA *
+
 
 737
 
@@ -1480,7 +1480,7 @@ Thus ends Canto Ten in the Arāṇyakāṇḍa of the glorious Rāmāyaṇa of V
 
 738
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकादशः सर्गः
 
@@ -1620,7 +1620,7 @@ Rāghava together with Vaidehi and Lakṣmaṇa then entered that beautiful grou
 
 740
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 sages and passing time happily and comfortably, ten years passed. Having thus wandered, Rāghava, the knower of Dharma, together with Sītā came again, they say, to the site of Sutikṣṇa's hermitage. Coming to that hermitage, and honoured by the sages, the said Rāma, the vanquisher of foes, stayed there also for some time. Then, while sitting in the hermitage modestly beside the great sage, the said Kākutstha on one occasion spoke as follows to Sutikṣṇa: "Sir, I have heard from those talking among themselves that Agastya, the foremost of sages, permanently dwells in this forest. However, due to the vastness of this forest, I do not know that place. (22—30)
 
@@ -1744,7 +1744,7 @@ Seeing varied forests and cloud-like mountains, lakes and rivers on the way, he 
 
 742
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 used to feed those Brāhmaṇas according to the injunctions laid down for Śrāddha. (57)
 
@@ -1885,7 +1885,7 @@ Then the lotus-eyed Rāma said to the heroic Lakṣmaṇa, who was closely follo
 
 744
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “This is the beautiful hermitage, the resort of tame animals, of that long-lived Agastya whose deeds are well-known in the world. (86)
 
@@ -1951,7 +1951,7 @@ Entering the site of the hermitage and approaching a disciple of Agastya, that y
 
 “There was a king named Daśaratha. His mighty, eldest son, Rāma, has come with Sītā, his wife, to call on the sage. (2)
 
-* ARANYAKĀṆḌA *
+
 
 745
 
@@ -2015,7 +2015,7 @@ do next.” Then, hearing from his pupil that Rāma and Vaidehi of great fortune
 
 746
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Janaka. Repeating the words of Agastya, the pupil modestly ushered him into the sanctuary with due respect and ceremony such as he deserved. Then Rāma with Sītā and Lakṣmaṇa actually entered the sanctuary, seeing the hermitage crowded with peaceful deer. He saw there the place assigned to Brahmā (the creator) and also the place of Śiva, the place of Viṣṇu, the place of the great Indra as also of Vivaswān (the sun-god), the place of Soma (the moon-god), the place of Bhaga and the place of Kubera (the deity presiding over the northern quarter), the place of Dhātā and Vidhātā and also the place of Vāyu (the wind-god) and the place of the high-souled Varuṇa distinguished by a noose in his hand, as also the place of Gāyatri (one of the consorts of Brahmā) and the place of the Vasus as well and the place of Vāsuki (the king of the Nāgas) and the place of Garuḍa (the king of birds), the place of Kārtikeya (the younger son of Lord Śiva) and the place of Dharma (the god of piety). Then, surrounded by his pupils, the sage also came forward. (11—21)
 
@@ -2065,7 +2065,7 @@ Sitting down himself first, the knower of Dharma, the foremost among sages, said
 
 “You, the king of the whole world, a righteous and great car-warrior, an adorable and respectable dear guest, have come.” (30)
 
-* ARANYAKĀṆḌA *
+
 
 747
 
@@ -2137,7 +2137,7 @@ Princess of Mithilā, daughter of Janaka, too longs for rest. (2)
 
 748
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 this Sītā feels happy and comfortable here. Coming with you to the forest, she has done a difficult thing. (4)
 
@@ -2206,7 +2206,7 @@ Hearing the submission of Śrī Rāma, the righteous Agastya, the foremost of sa
 
 “It is, therefore, that I say to you : ‘Go to Pañcavaṭī’. For, that part of the forest is charming. The princess of Mithilā will rejoice there. (17)
 
-* ARANYAKĀṆḌA *
+
 
 749
 
@@ -2274,7 +2274,7 @@ with a gigantic body and possessed of terrific prowess. (1)
 
 750
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Seeing him in the forest, those two highly blessed princes, Rāma and Lakṣmaṇa, thought the bird to be an ogre and said to him, “Who are you?” (2)
 
@@ -2415,7 +2415,7 @@ baboons are the progeny of Hari. Śārdūli bore tigers as her sons. (25)
 
 752
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 supporters of the earth. Garuḍa and Aruṇa are the two sons of Vinatā. (32)
 
@@ -2551,7 +2551,7 @@ He went to that spot selected for setting up a hermitage and clasping Lakṣma�
 
 754
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 abounds in deer and birds, O son of Sumitrā !
 We will stay here with this bird (Jaṭāyu)." (19)
@@ -2616,7 +2616,7 @@ Attended upon by Sītā and Lakṣmaṇa, that righteous prince stayed for some 
 
 Thus ends Canto Fifteen in the Aṛaṇyakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* ARANYAKĀṆḌA *
+
 
 755
 
@@ -2688,7 +2688,7 @@ Following at the heels of Śrī Rāma, his brave brother, the son of Sumitrā, a
 
 756
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the constellation known by the name of Puṣya, look dusty with frost, and become colder and longer. (12)
 
@@ -2820,7 +2820,7 @@ Unable to endure such condemnation of his (step-) mother, while the righteous La
 
 758
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 निश्चितैव हि मे बुद्धिर्वनवासे दृढव्रता।
 भरतस्नेहसंतप्ता बालिशीक्रियते पुनः ॥ ३८ ॥
@@ -2945,7 +2945,7 @@ Thus spoken to by the ogress Śūrpaṇakhā, Śrī Rāma (the tormentor of foes
 
 760
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 as you are of charming limbs, you appear to me to be an ogress (capable of assuming any form at will) on the face of it. (18)
 
@@ -3080,7 +3080,7 @@ Spoken to in these words by the ogress, Lakṣmaṇa, the son of Sumitrā, who w
 
 762
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 on human ladies, O charming lady with an excellent complexion?" (12)
 
@@ -3149,7 +3149,7 @@ Dropping profusely blood on the way, raising her arms and roaring in various way
 उपेत्य तं भ्रातरमुग्रतेजसं
 पपात भूमौ गगनाद् यथाशनिः ॥ २५ ॥
 
-* ARANYAKĀṆḌA *
+
 
 763
 
@@ -3214,7 +3214,7 @@ Overcome with a swoon through fear and drenched in blood, that sister of Khara t
 
 764
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Today I shall take the offender’s life with my deadly arrows, even as a swan drains off the milk mixed up in water, while heartily drinking it. (8)
 
@@ -3282,7 +3282,7 @@ eyes and clad in the bark of trees and black antelope skin, living on fruits and
 
 Even while she was speaking thus, the infuriated Khara commanded (as follows) fourteen ogres, who were possessed
 
-* ARANYAKĀṆḌA *
+
 
 765
 
@@ -3355,7 +3355,7 @@ Hearing these words of Rāma, the knower of his own Self, and bowing his head to
 
 766
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 The pious-minded Rāghava too strung his mighty bow ornamented with gold and said to those ogres : (6)
 
@@ -3423,7 +3423,7 @@ Saying so, those fourteen ogres ran in their zeal towards Rāma alone, their wea
 
 They threw those darts at Rāghava, who was difficult to conquer. Kākutstha cut
 
-* ARANYAKĀṆḌA *
+
 
 767
 
@@ -3477,7 +3477,7 @@ Seeing Śūrpaṇakhā, who had come to bring disaster to her brothers' family i
 
 768
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 creature? Get up. Rise. Don't, don't behave like this. Cease to be unnerved." (5)
 
@@ -3542,7 +3542,7 @@ Feeling comforted in everyway when spoken to in these words by Khara, and rubbin
 मानुषौ तौ न शक्नोषि हन्तुं वै रामलक्ष्मणौ।
 निःसत्त्वस्याल्पवीर्यस्य वासस्ते कीदृशस्त्विह ॥ १९ ॥
 
-* ARANYAKĀṆḌA *
+
 
 769
 
@@ -3602,7 +3602,7 @@ Extremely delighted to hear the words fallen from the lips of Khara, she once ag
 
 770
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तया परुषितः पूर्वं पुनरेव प्रशंसितः।
 अबवीद् दूषणं नाम खरः सेनापतिं तदा ॥ ७ ॥
@@ -3660,7 +3660,7 @@ Then that army of ogres, equipped with dreadful shields, weapons and ensigns, sa
 
 With clubs, Paṭṭiśas, darts, exceptionally sharp axes, glittering swords, discuses held in their hands alongwith iron clubs and also with javelins, fearful clubs tipped with iron and huge bows, maces, scimitars, Musalas and terrible-looking thunderbolts seized by them, all the fourteen thousand of the most dreadful ogres, who followed the mind of Khara, sallied forth from Janasthāna. (18—20)
 
-* ARANYAKĀṆḌA *
+
 
 771
 
@@ -3729,7 +3729,7 @@ Reaching the precincts of Janasthāna, carnivorous beasts and birds uttering shr
 
 772
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 प्रभिन्नगजसंकाशास्तोयशोणितधारिणः ।
 आकाशं तदनाकाशं चक्रुर्भीमाम्बुवाहकाः ॥ ७ ॥
@@ -3845,7 +3845,7 @@ Eagerly seeking a combat, that most formidable army of Rākṣasa warriors,
 
 774
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 possessed as it was with terrible impetuosity,
 suddenly approached those two princes like
@@ -4013,7 +4013,7 @@ Coming together, high-souled Ṛṣis too, as well as those recognized as the fo
 
 776
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Speaking thus, royal sages and Siddhas accompanied by their entourage, as also gods, the foremost of Brāhmaṇas seated in their aerial cars stood filled with curiosity. (24)
 
@@ -4140,7 +4140,7 @@ Given up to fury, the ogres violently struck the hero on the battlefield, with c
 
 778
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अन्तरिक्षगता रेजुर्दीप्ताग्रिसमतेजसः ।
 असंख्येयास्तु रामस्य सायकाश्चापमण्डलात् ॥ २० ॥
@@ -4241,7 +4241,7 @@ The darkness spread by the arrows enveloped the sky including the sun. And Śrī
 
 780
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 arrows as though mechanically. (40)
 
@@ -4353,7 +4353,7 @@ In the meanwhile, three generals (who
 
 782
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 marched in the van of the army)—Mahākapāla, Sthūlākṣa and Pramāthī, who was possessed of great might—rushed towards Śrī Rāma together, bound as they were with the noose of Death, the ogre Mahākapāla lifting a huge pike, Sthūlākṣa holding a scimitar and Pramāthī an axe. Seeing them approaching, Śrī Rāma (a scion of Raghu) for his part greeted them with whetted and sharp-edged arrows as one would receive newcomers arrived in one's presence. Śrī Rāma (the delight of the Raghus) severed the head of Mahākapāla, overpowered Pramāthī with innumerable volleys of arrows and filled the large eyes of Sthūlākṣa with arrows. (17—21)
 
@@ -4403,7 +4403,7 @@ With their coats of mail and ornaments shattered and bows split into two and bro
 
 Like a large sacrificial altar with blades of the sacred Kuśa grass, the whole area was completely strewn with the ogres fallen
 
-* ARANYAKĀṆḌA *
+
 
 783
 
@@ -4470,7 +4470,7 @@ Approaching Khara who was marching to meet Śrī Rāma, his other general, the o
 
 784
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 प्रहृष्टो वा हते रामे जनस्थानं प्रयास्यसि।
 मयि वा निहते रामं संयुगाय प्रयास्यसि॥ ५॥
@@ -4539,7 +4539,7 @@ by Triśirā with three arrows on the forehead, the indignant Śrī Rāma spoke 
 
 Śrī Rāma further broke his tall ensign with an arrow. Then he pierced with arrows the ogre himself in his heart while he was jumping from his shattered chariot, so that he became motionless. Nay, full of indignation, Śrī Rāma
 
-* ARANYAKĀṆḌA *
+
 
 785
 
@@ -4599,7 +4599,7 @@ Thickly set with arrows on all sides because of the sharp arrows discharged both
 
 786
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Screened by the network of arrows discharged by both the warriors, who were fiercely fighting in their zeal to kill each other, the sun was not visible at that time. (9)
 
@@ -4668,7 +4668,7 @@ Raising that excellent and very mighty bow belonging to Lord Viṣṇu, that had
 
 Then, highly enraged, Śrī Rāma cut down the ensign of Khara on the battlefield by
 
-* ARANYAKĀṆḌA *
+
 
 787
 
@@ -4736,7 +4736,7 @@ Thus ends Canto Twenty-eight in the Arāṇyakāṇḍa of the glorious Rāmāya
 
 788
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकोनत्रिंशः सर्गः
 
@@ -4872,7 +4872,7 @@ in the world, brag in vain as you do, O Rāma ! (18)
 
 790
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इत्युक्त्वा परमकृद्भिः स गदां परमाङ्गदाम्।
 खरश्चिक्षेप रामाय प्रदीप्तामशनि यथा ॥ २५ ॥
@@ -4999,7 +4999,7 @@ Cutting down with his volleys of arrows the approaching tree, the glorious Śrī
 
 792
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 summoned violent anger to make short work of Khara in the battle. (19)
 
@@ -5066,7 +5066,7 @@ In the meanwhile, united with the Cāraṇas (celestial bards) and loudly beatin
 
 Ah, great indeed was the feat of Śrī
 
-* ARANYAKĀṆḌA *
+
 
 793
 
@@ -5109,7 +5109,7 @@ Thus ends Canto Thirty in the Aranyakāṇḍa of the glorious Rāmāyaṇa of V
 
 794
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकत्रिंशः सर्गः
 
@@ -5237,7 +5237,7 @@ When these words were uttered by Rāvaṇa, Akampana spoke as follows: “Hear O
 
 796
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 संहत्य वा पुनर्लोकान् विक्रमेण महायशाः ।
 शक्तः श्रेष्ठः स पुरुषः स्वष्टुं पुनरपि प्रजाः ॥ २६ ॥
@@ -5370,7 +5370,7 @@ you (as his tool) he desires to extract a fang from the jaws of a snake. (44)
 
 798
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 fathomless ocean in the form of Rāma, which is infested with alligators in the form of his bow, whose bottom contains mire in the form of the might of his arms, which is rough with waves in the form of arrows and which contains waters in the form of a fierce battle. (48)
 
@@ -5492,7 +5492,7 @@ Having practised austerities in a large forest for ten thousand years, the stron
 
 800
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 born) in the remote past his ten heads by way of oblation at a sacrifice. As a result of this, immunity was secured by him on the battlefield from fear of death at the hands of gods, demons, Gandharvas, fiends, birds and serpents barring human beings. In the course of sacrifices that ogre of great might used to spill the holy Soma drink glorified through the chanting of sacred texts by Brāhmaṇas in sanctuaries where the Soma juice was extracted. The wicked fellow used to wreck sacrifices which had reached the stage of completion, killed Brāhmaṇas and perpetrated other cruel acts, was rough, pitiless and intent on doing harm to created beings. The said ogress saw her cruel brother, who was possessed of great might, made all living beings cry through his tyranny and persecution and was a source of terror to all the worlds. Approaching him, the celebrated and highly blessed Rāvaṇa, the ruler of ogres, the delight of the race of Rākṣasas (the scions
 
@@ -5532,7 +5532,7 @@ enjoyments, licentious and unbridled, you do not perceive the frightful danger t
 
 “The people do not hold in high esteem a rapacious monarch attached to vulgar sense-enjoyments and acting according to his will, any more than the fire in a crematorium. (3)
 
-* ARANYAKĀṆḌA *
+
 
 801
 
@@ -5601,7 +5601,7 @@ enjoyments, licentious and unbridled, you do not perceive the frightful danger t
 
 802
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Even his own people kill in adversity a man or a ruler of men excessively vain, worth disowning and egotistic. (16)
 
@@ -5712,7 +5712,7 @@ deformed.” Overwhelmed with anger when questioned by the ruler of ogres in the
 
 804
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Nay, his mighty brother, Lakṣmaṇa by name, who is possessed of exceptional glory and equally valorous, is attached and devoted to him because of his (rare) virtues. (13)
 
@@ -5770,7 +5770,7 @@ whom she embraces with delight is sure to live more happily in all the worlds ev
 
 “Realizing the weakness of these people, Rāma and others, and your own superior strength, O ruler of ogres, let Sītā of faultless limbs be taken to wife, O my brother of extraordinary might! (25)
 
-* ARANYAKĀṆḌA *
+
 
 805
 
@@ -5831,7 +5831,7 @@ Having taken his seat in that chariot, which could go wherever one liked, the te
 
 806
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of the foremost among ascetics—who was being fanned with a white whisk, and had a white canopy spread over him, who shone brightly like a glossy cat's-eye gem and was adorned with ornaments of refined gold, and who was distinguished by ten necks and twenty arms and attractive paraphernalia and looked like a great mountain with ten peaks—cast his splendour like a cloud in the sky encircled with lightning and accompanied by a flock of herons. (8—10)
 
@@ -5928,7 +5928,7 @@ It was to a bough of this tree that Garuḍa (the king of birds and the carrier 
 
 808
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and fishery etc.) and delivering the eminent ascetics, Garuḍa (the foremost of birds), whose mind was set on righteousness, derived excessive joy beyond comparison.
 
@@ -5985,7 +5985,7 @@ Questioned in these words by Mārīca, the celebrated Rāvaṇa, who was investe
 
 Thus ends Canto Thirty-five in the Aranyakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* ARANYAKĀṆḌA *
+
 
 809
 
@@ -6040,7 +6040,7 @@ Fourteen thousand valiant ogres of terrible deeds, who received encouragement in
 
 810
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Janasthāna Sītā, resembling a daughter of gods, the wife of Rāma, by whom, relying on his physical strength alone, was my sister, Śūrpaṇakhā, deformed in the forest by depriving her of her ears and nose without any show of hostility. Be my helper in the said undertaking. Indeed, with you as my associate standing by my side here and backed by my brothers (Kumbhakarṇa and others), O exceptionally mighty ogre, I do not care a fig for all the gods. Therefore, be you my helper since you are powerful enough to help me. (6—15)
 
@@ -6093,7 +6093,7 @@ With a frightened and dejected mind and joined palms, Mārīca, who had come to 
 
 Thus ends Canto Thirty-six in the Aṛaṇyakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* ARANYAKĀṆḌA *
+
 
 811
 
@@ -6162,7 +6162,7 @@ licentious and unbridled as you are, as its master, the city of Laṅkā did not
 
 812
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 order to accomplish the cherished desire of Kaikeyi as well as of King Daśaratha. (11)
 
@@ -6226,7 +6226,7 @@ order to accomplish the cherished desire of Kaikeyi as well as of King Daśarath
 
 “Taking counsel with all your most virtuous ministers headed by Vibhīṣaṇa, and
 
-* ARAṆYAKĀṆḌA *
+
 
 813
 
@@ -6278,7 +6278,7 @@ mind was set on righteousness, and who was greatly afraid of me, spoke to the ki
 
 814
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वधिष्यामि मुनिश्रेष्ठं शत्रुं तव यथेप्सितम्।
 एवमुक्तः स तु मुनी राजानमिदमब्रवीत् ॥ ८ ॥
@@ -6409,7 +6409,7 @@ was a hundred Yojanas (800 miles) long. (19)
 
 816
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 your friends, do not give offence to Rāma. (32)
 
@@ -6533,7 +6533,7 @@ been forced to turn a recluse here and, being calm and collected, have taken to 
 
 818
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 in my presence, if you would see me alive.
 (20)
@@ -6666,7 +6666,7 @@ yet wholesome, and are uttered with politeness and in soft accents. (10)
 
 820
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 आश्रमे तस्य रामस्य सीतायाः प्रमुखे चर।
 प्रलोभयित्वा वैदेहीं यथेष्टं गन्तुमर्हसि ॥ १८ ॥
@@ -6792,7 +6792,7 @@ Commanded in the foregoing words by Rāvaṇa like a king to do a thing which wa
 
 822
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 who is boorish in his manners, O night-stalker! (11)
 
@@ -6916,7 +6916,7 @@ Thereupon Mārīca (son of the ogress Tātakā) answered him saying, “Be it so
 
 824
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 suzerain lord of ogres, than beheld the hermitage of Śrī Rāma, a scion of Raghu. Descending from that chariot decked with gold and taking Mārīca by the hand, Rāvaṇa spoke to him as follows : “Here is seen the site of Rāma’s hermitage, hemmed in with plantain trees. (9—13)
 
@@ -6964,7 +6964,7 @@ Having returned after disappearing awhile, that jewel among the deer roamed abou
 
 Nay, playing about at one time, it sat down on the ground once more. And reaching
 
-* ARANYAKĀṆḌA *
+
 
 825
 
@@ -7016,7 +7016,7 @@ adorned with flanks, presenting the hue of gold and silver, respectively, the co
 
 826
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 आहूयाहूय च पुनस्तं मृगं साधु वीक्षते।
 आगच्छागच्छ शीघ्रं वै आर्यपुत्र सहानुज ॥ ३ ॥
@@ -7142,7 +7142,7 @@ The mind of Śrī Rāma (a scion of Raghu) too was, however, filled with curiosi
 
 828
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Behold the tongue, burning like a flame, shooting forth from its mouth when it yawns, like a flash of lightning darting from a cloud. (28)
 
@@ -7201,7 +7201,7 @@ The mind of Śrī Rāma (a scion of Raghu) too was, however, filled with curiosi
 कदली तु बिले शेते मृदुसूक्ष्मोच्चकबुरैः । नीलाग्रैर्लोमभिर्युक्ता सा विशत्यहुलायता ।
 प्रियकी लोमभिर्युक्ता मृदुच्यममृगैर्धनैः ।
 
-* ARANYAKĀṆḌA *
+
 
 829
 
@@ -7266,7 +7266,7 @@ retribution for this sin you have been digested by me.’ (44)
 
 830
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 प्रदक्षिणेनातिबलेन पक्षिणा
 जटायुषा बुद्धिमता च लक्ष्मण ।
@@ -7386,7 +7386,7 @@ Casting off the aforesaid form of a deer, deeply pierced in the vital parts by t
 
 832
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 मारीचस्य तु मायैषा पूर्वोक्तं लक्ष्मणेन तु।
 तत् तथा ह्यभवच्चाद्य मारीचोऽयं मया हतः ॥ २३ ॥
@@ -7442,7 +7442,7 @@ Recognizing the piteous cry heard in the forest as akin to the voice of her lord
 
 "Surely, you ought to rescue your elder brother, crying piteously in the forest. Rush you at once to the side of your brother fallen into the hands of ogres as a bull into the clutches of lions and as such seeking your protection." Recalling as he did the command of his brother not to leave her alone, Lakṣmaṇa, however, did not stir even though urged in the foregoing words. (3-4)
 
-* ARANYAKĀṆḌA *
+
 
 833
 
@@ -7503,7 +7503,7 @@ Having killed the foremost of deer, your husband will soon return. Clearly it wa
 
 834
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 It was surely a conjuring trick of that ogre and unreal like an imaginary city in the sky (visible due to some natural phenomenon). You are a sacred trust placed in my charge by the high-souled Śrī Rāma, O comely princess of the Videha territory. I dare not, therefore, leave you alone. On the score of extermination of the ogres' colony in Janasthāna at the time of Khara's death we have been made into enemies by these night-stalkers, O blessed lady ! Ogres who indulge in destruction of life as a recreation simulate diverse voices in the huge forest, O princess of the Videha kingdom ! You need not, therefore, feel anxious." Reassured in these words by Lakṣmaṇa, Sītā for her part addressed the following harsh words to Lakṣmaṇa, who had spoken the truth, her eyes turning blood-red through anger : "O ignoble and merciless Lakṣmaṇa of cruel deeds, O disgrace of your race, I believe Śrī Rāma's great adversity is dear to you. That is why you complacently utter such words even on seeing the distress of Śrī Rāma. (17—22)
 
@@ -7548,7 +7548,7 @@ Bharata will not be accomplished, O son of Sumitrā ! Having served as my husban
 न्यायवादी यथा वाक्यमुक्तोऽहं परुषं त्वया ।
 धिक् त्वामद्य विनश्यन्तीं यन्मामेवं विशङ्कसे ॥ ३२ ॥
 
-* ARANYAKĀṆḌA *
+
 
 835
 
@@ -7603,7 +7603,7 @@ Thus ends Canto Forty-five in the Aranyakāṇḍa of the glorious Rāmāyaṇa 
 
 836
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षट्चत्वारिंशः सर्गः
 
@@ -7650,7 +7650,7 @@ Getting an opportunity to meet Sītā alone, provided by the departure of Lakṣ
 
 Appearing in the form of a wandering recluse, clad in a neat ochre-coloured garment, with a tuft of hair on the crown of his head and with shoes on, carrying an umbrella on the right shoulder and bearing a glossy staff and a bright Kamaṇḍalu (a vessel made of marine cocoanut shell for carrying water) on the left shoulder, he tried to humour Sītā, a princess of the Videha kingdom. Rāvaṇa, who was possessed of great might, approached her while she was bereft of the two brothers, Śrī Rāma and Lakṣmaṇa, even as thick darkness overtakes dusk, which is without the sun and the moon. The exceedingly cruel fellow then saw that illustrious and youthful princess in the same way as an unpropitious planet would frown at Rohiṇī (a consort of the moon-god and a constellation of that name) bereft of the moon. Perceiving that fierce ogre of sinful deeds, the trees existing in Janasthāna did not wave nor did the wind blow freely. Seeing the red-eyed monster looking intently on the river, the river Godāvarī too, which had a swift current, began to course slowly for fear of him. Seeking to obtain an opportunity when Śrī Rāma should be away from Sītā, Rāvaṇa, the ten-headed monster, sought the presence of Sītā, a princess of the Videha territory, in the guise of a wandering mendicant during the absence of Śrī Rāma. In a propitious garb the unpropitious Rāvaṇa approached Sītā, a princess of the Videha kingdom, who was then grieving for her husband, even as the
 
-* ARANYAKĀṆḌA *
+
 
 837
 
@@ -7705,7 +7705,7 @@ over modesty), Śrī (the goddess of elegance), Kīrti (the deity presiding over
 
 838
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Your waist can be enclosed within the tips of one thumb and index finger, O lady with sleek hair and close breasts! Neither a goddess, nor a Gandharva lady, nor a Yakṣa woman nor a Kinnara girl nor a human lady of such passing comeliness was seen by me ever before on the face of the earth. Your comeliness, which is foremost in all the three worlds, as also your tenderness and youth, on the one hand, and your residence in this forest, on the other hand, agitate my mind. As such depart from this place, may prosperity attend on you ! You ought no longer to stay here.
 
@@ -7754,7 +7754,7 @@ Having offered him a seat first and tended upon him with water to wash his feet 
 
 Perceiving him arrived without previous notice in the garb of a Brāhmaṇa, carrying a water-pot (made of marine cocoanut-shell) and clad in saffron-coloured robes and unworthy of neglect because of her having perceived the marks of a Brāhmaṇa on his person, Sītā invited him in the following
 
-* ARANYAKĀṆḌA *
+
 
 839
 
@@ -7836,7 +7836,7 @@ Sītā for her part spoke to him as follows :
 
 840
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 enjoying the luxuries available to humankind,
 I lived in the midst of an abundance of all
@@ -7934,7 +7934,7 @@ followed it. He would ever bestow and never
 accept a gift. He would ever speak the truth
 and never tell a lie. (15—17)
 
-* ARANYAKĀṆḌA *
+
 
 841
 
@@ -7998,7 +7998,7 @@ While Sītā, the consort of Śrī Rāma, was speaking as aforesaid, Rāvaṇa, 
 
 842
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Five thousand maid-servants decked with all kinds of ornaments will wait on you, if you choose to become my wife, O Sītā !” (31)
 
@@ -8056,7 +8056,7 @@ Enraged when spoken to as above by Rāvaṇa and disdaining that ogre, Sītā, d
 
 “You desire to cross a sea having tied a slab of stone to your neck and wish to snatch away the sun and the moon both with your hands—you who seek to bear away by force the beloved consort of Śrī Rāma ! Seeing a blazing fire, you desire to
 
-* ARANYAKĀṆḌA *
+
 
 843
 
@@ -8112,7 +8112,7 @@ Thus ends Canto Forty-seven in the Aṛaṇyakāṇḍa of the glorious Rāmāya
 
 844
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # अष्टचत्वारिंशः सर्गः
 
@@ -8241,7 +8241,7 @@ Enraged when spoken to as aforesaid, Sītā, a princess of the Videha territory,
 
 846
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 survive long, but on treating with indignity a woman like me there is no escape from
 
@@ -8307,7 +8307,7 @@ Rāvaṇa, the suzerain lord of ogres, resumed his native form and gazing on Sī
 स तामसितकेशान्तां भास्करस्य प्रभामिव।
 वसनाभरणोपेतां मैथिलीं रावणोऽब्रवीत् ॥ १० ॥
 
-* ARANYAKĀṆḌA *
+
 
 847
 
@@ -8363,7 +8363,7 @@ Stricken with agony when seized by Rāvaṇa, the illustrious and well-known Sī
 
 848
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तामकामां स कामार्तः पन्नगेन्द्रवधूमिव।
 विचेष्टमानामादाय उत्पपाताथ रावणः ॥ २२ ॥
@@ -8427,7 +8427,7 @@ of an act, as it does in the ripening of foodgrains. (27)
 ह्रियमाणां प्रियां भर्तुः प्राणेभ्योऽपि गरीयसीम्।
 विवशा ते हता सीता रावणेनेति शंसत ॥ ३४ ॥
 
-* ARAṆYAKĀṆḌA *
+
 
 849
 
@@ -8485,7 +8485,7 @@ Continuing on the tree, the glorious Jaṭāyu, the foremost of birds, who looke
 
 850
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दशग्रीव स्थितो धर्मे पुराणे सत्यसंश्रयः।
 भ्रातस्त्वं निन्दितं कर्म कर्तुं नाहंसि साम्प्रतम् ॥ ३ ॥
@@ -8610,7 +8610,7 @@ on a chariot. Nevertheless you shall not bear away Sītā, a princess of the Vid
 
 852
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तिष्ठ तिष्ठ दशग्रीव मुहूर्तं पश्य रावण।
 वृत्तादिव फलं त्वां तु पातयेयं रथोत्तमात्।
@@ -8672,7 +8672,7 @@ With intent to compass the death of his adversary, Rāvaṇa (the ten-headed mon
 
 Rāvaṇa, who was possessed of
 
-* ARANYAKĀṆḌA *
+
 
 853
 
@@ -8740,7 +8740,7 @@ Seeing Rāvaṇa dashed to the ground, his chariot smashed, all beings applauded
 
 854
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 परिश्रान्तं तु तं दृष्ट्वा जरया पक्षियूथपम्।
 उत्पपात पुनर्हृष्टो मैथिलीं गृह्य रावणः ॥ २१ ॥
@@ -8881,7 +8881,7 @@ Then, embracing the aforesaid bird,
 
 856
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 who had been fatally injured by the vehemence of Rāvaṇa and thrown on the ground, Sītā, daughter of Janaka, for her
 
@@ -9001,7 +9001,7 @@ Shaken with fear of Rāvaṇa (the ruler of ogres), that lovely face of Sītā�
 
 858
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 lips and possessed a golden hue—did not look charming in the heavens in the absence of Śrī Rāma any more than the moon risen during the day. (21-22)
 
@@ -9067,7 +9067,7 @@ Dissociated from the heart of the aforesaid princess of the Videha territory and
 
 Violently shaken by a portentous blast (released by the flight of Rāvaṇa) and inhabited by birds of every description, the
 
-* ARANYAKĀṆḌA *
+
 
 859
 
@@ -9126,7 +9126,7 @@ Thus ends Canto Fifty-two in the Aranyakāṇḍa of the glorious Rāmāyaṇa o
 
 860
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # त्रिपञ्चाशः सर्गः
 
@@ -9188,7 +9188,7 @@ a combat with my husband even after disclosing your name, O vile ogre! (6)
 
 “Having reached the range of sight of those two princes, Śrī Rāma and Lakṣmaṇa, you will surely not be able to survive even for an hour or so, no matter if you are followed by an army. (11)
 
-* ARANYAKĀṆḌA *
+
 
 861
 
@@ -9238,7 +9238,7 @@ a combat with my husband even after disclosing your name, O vile ogre! (6)
 
 862
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Videha territory, who was fully possessed with fear and grief, wailed piteously: so the tradition goes. (23—25)
 
@@ -9294,7 +9294,7 @@ The lovely lady with large eyes and other comely limbs took off from her person 
 संरूढकक्ष्यां बहुलां स्वमन्तःपुरमाविशत्।
 तत्र तामसितापाङ्गीं शोकमोहसमन्विताम् ॥ १३ ॥
 
-* ARANYAKĀṆḌA *
+
 
 863
 
@@ -9325,7 +9325,7 @@ Having met and extolled them on the score of their strength and prowess, and bli
 
 864
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तत्रास्यतां जनस्थाने शून्ये निहतराक्षसे।
 पौरुषं बलमाश्रित्य त्रासमुत्सृज्य दूरतः ॥ २१ ॥
@@ -9387,7 +9387,7 @@ Extremely rejoiced to secure Sītā, the princess of Mithilā, and having placed
 
 Thus ends Canto Fifty-four in the Aṛaṇyakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* ARANYAKĀṆḌA *
+
 
 865
 
@@ -9465,7 +9465,7 @@ Rāvaṇa (the ten-headed monster) showed Sītā (the princess of Mithilā) the 
 
 866
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Rāvaṇa also showed Sītā, who was given over to grief, spacious wells with staircases and ponds hemmed in with flowers of various kinds. (12)
 
@@ -9583,7 +9583,7 @@ earth and the intermediate region, I do not perceive a man who may snatch by din
 
 868
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Show your grace to me at once; I am your obedient servant. Let not these words uttered by me pining from love fall flat on your ears. It is well-known that Rāvaṇa never salutes any woman whatsoever with his head
 
@@ -9628,7 +9628,7 @@ Giving expression to her undivided love for Śrī Rāma, Sītā reproaches Rāva
 
 * According to the Hindu etiquette a virtuous lady must not talk to a male stranger, much less to a sinner like Rāvaṇa, without a medium. Being forced to violate this rule at this emergency, Sītā takes recourse to this expedient.
 
-* ARANYAKĀṆḌA *
+
 
 869
 
@@ -9694,7 +9694,7 @@ Giving expression to her undivided love for Śrī Rāma, Sītā reproaches Rāva
 
 870
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तथाहं धर्मनित्यस्य धर्मपत्नी दृढव्रता।
 त्वया स्पृष्टुं न शक्याहं राक्षसाधम पापिना ॥ १९ ॥
@@ -9760,7 +9760,7 @@ Taking a few strides, the celebrated King Rāvaṇa, referred to above, spoke to
 इति प्रतिसमादिष्टा राक्षस्यो रावणेन ताः।
 अशोकवनिकां जग्मुमैथिलीं परिगृह्य तु ॥ ३२ ॥
 
-* ARANYAKĀṆḌA *
+
 
 871
 
@@ -9815,7 +9815,7 @@ When Sītā had been brought into Laṅkā, Brahmā, the progenitor of the entir
 
 872
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “The highly blessed Sītā, who is pledged to the service of her lord and has ever been brought up in comfort, is now unable to see her husband and sees all around her ogresses alone, surrounded as she always is by them, and is eager to see her husband. The city of Laṅkā is located on the brink of the ocean (the lord of rivers and streams). (3-4)
 
@@ -9929,7 +9929,7 @@ Taking leave of Sītā, the said celebrated and high-souled Indra too, accompani
 
 874
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 heaven-world in order to accomplish the purpose of Śrī Rāma (a scion of Raghu)
 
@@ -10035,7 +10035,7 @@ In the meantime he espied Lakṣmaṇa approaching, his splendour entirely gone.
 
 876
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 हतं कर्थचिन्महता श्रमेण
 स राक्षसोऽभून्मियमाण एव ॥ २२ ॥
@@ -10092,7 +10092,7 @@ Seeing Lakṣmaṇa distressed and cheerless and arrived without Sītā (a princ
 
 “Is Sītā (a princess of the Videha territory), who is dearer to me than life, still living? I hope my exile to the forest for a period of fourteen years will not be rendered
 
-* ARANYAKĀṆḌA *
+
 
 877
 
@@ -10160,7 +10160,7 @@ Thus thinking solely of Sītā of excellent limbs, Śrī Rāma, a scion of Raghu
 
 878
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Severely reproaching his younger brother, Lakṣmaṇa, who wore a distressed appearance, nay, heaving a deep breath, Śrī Rāma, whose mouth was parched from hunger, fatigue and thirst, grew despondent to perceive the site of his hermitage desolate on reaching it. (19)
 
@@ -10288,7 +10288,7 @@ Twitted in these words, Lakṣmaṇa, son of Sumitrā, for his part, who was end
 
 880
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 I for my part came away straight from the hermitage.” (20)
 
@@ -10402,7 +10402,7 @@ Though looking about for her in that forest with effort, he did not find his dar
 
 882
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वृक्षाद् वृक्षं प्रधावन् स गिरिंश्चापि नदीनदम्।
 
@@ -10542,7 +10542,7 @@ Imagining to see Sītā before him, he addresses her: “Why do you run, my darl
 
 884
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 हा लक्ष्मण महाबाहो पश्यसे त्वं प्रियां क्वचित्।
 हा प्रिये क्व गता भद्रे हा सीतेति पुनः पुनः ॥ ३५ ॥
@@ -10599,7 +10599,7 @@ Sītā, a princess of the Videha kingdom, be? Nay, to what territory has she gon
 
 “Bereft of you, the fearless offsprings
 
-* ARANYAKĀṆḌA *
+
 
 885
 
@@ -10650,7 +10650,7 @@ with agony. Śrī Rāma (a scion of Raghu) could not, however, see Janaka’s da
 
 886
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एवमुक्तः स सौहार्दल्लक्ष्मणेन समाहितः।
 सह सौमित्रिणा रामो विचेतुमुपचक्रमे ॥ १९ ॥
@@ -10711,7 +10711,7 @@ Sighing again and again, the aforesaid Śrī Rāma, for his part, who had lotus-
 तं सान्त्वयामास ततो लक्ष्मणः प्रियबान्धवम्।
 बहुप्रकारं शोकार्तः प्रश्नितः प्रश्निताञ्जलिः ॥ ३० ॥
 
-* ARANYAKĀṆḌA *
+
 
 887
 
@@ -10776,7 +10776,7 @@ resembling as they do the stem of a plantain tree; you are no longer able to hid
 
 888
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 hasten to me, O Lakṣmaṇa, even though I am wailing for her. These herds of deer with tearful eyes inform me, as it were, of my queen having actually been devoured by ogres, O Lakṣmaṇa! (Addressing Sītā, he continued:) Ah my worthy queen, where have you gone? Ah, pious lady with excellent complexion! (7—9)
 
@@ -10831,7 +10831,7 @@ While, having entered the forest, Śrī Rāma (a scion of Raghu) was wailing as 
 
 Thus ends Canto Sixty-two in the Aṛaṇyakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* ARANYAKĀṆḌA *
+
 
 889
 
@@ -10897,7 +10897,7 @@ deeds, fondly designed, were perpetrated by me more than once. The fruit of some
 
 890
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वृत्तौ स्तनौ शोणितपङ्कदिग्धौ
 नूनं प्रियाया मम नाभिपातः ॥ ८ ॥
@@ -10956,7 +10956,7 @@ deeds, fondly designed, were perpetrated by me more than once. The fruit of some
 आदित्य भो लोककृताकृतज्ञ
 लोकस्य सत्यानृतकर्मसाक्षिन् ।
 
-* ARANYAKĀṆḌA *
+
 
 891
 
@@ -11016,7 +11016,7 @@ Thus ends Canto Sixty-three in the Arāṇyakāṇḍa of the glorious Rāmāya�
 
 892
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चतुःषष्टितमः सर्गः
 
@@ -11063,7 +11063,7 @@ Thereupon the river was requested by the elements in the following words: “Pra
 
 Nay, recollecting that terrible form as well as the deed of the evil-minded Rāvaṇa, the said river for her part did not speak about Sītā (a princess of the Videha territory) for fear of Rāvaṇa: so the tradition goes. (9)
 
-* ARANYAKĀṆḌA *
+
 
 893
 
@@ -11106,7 +11106,7 @@ Like one distressed, the wise Lakṣmaṇa submitted to his eldest brother, Śr�
 
 894
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 deer pointed to the vault of heaven as well as to the southern quarter, we had better move in this south-westerly direction, which is presided over by ogres headed by Nirṛti, my lord ! (21-22)
 
@@ -11150,7 +11150,7 @@ Thereupon Śrī Rāma (son of Daśaratha) once more said to the rocky mass, "Con
 
 "Nay, stripped of all grass, trees and leaves, you will become uninhabitable on all sides. Turning to Lakṣmaṇa, he continued: Nay, I shall even dry up this Godāvari river today, O Lakṣmaṇa, if it does not tell me the whereabouts of Sītā of moon-like countenance." Thus enraged Śrī Rāma looked at the river as though he would consume it with his fiery eye. (34-35)
 
-* ARANYAKĀṆḌA *
+
 
 895
 
@@ -11207,7 +11207,7 @@ has ensued a terrible conflict between two ogres contending for the sake of the 
 
 896
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 प्रतोदाभीषुहस्तोऽयं कस्य वा सारथिर्हतः।
 पदवी पुरुषस्यैषा व्यक्तं कस्यापि रक्षसः ॥ ५० ॥
@@ -11304,7 +11304,7 @@ The personality of the aforesaid Śrī Rāma, who, though full of wisdom, looked
 
 898
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 लक्ष्मणादथ चादाय रामो निष्पीड्य कार्मुकम् ।
 शरमादाय संदीमं घोरमाशीविषोपमम् ॥ ७४ ॥
@@ -11357,7 +11357,7 @@ Lakṣmaṇa submitted as follows with joined palms and lips getting parched : (
 
 “As loveliness dwells in the moon, brilliance in the sun, movement in the wind and forbearance in the earth, all these as also unsurpassed fame ever invariably dwell in you. (5)
 
-* ARANYAKĀṆḌA *
+
 
 899
 
@@ -11405,7 +11405,7 @@ Thus ends Canto Sixty-five in the Aranyakāṇḍa of the glorious Rāmāyaṇa 
 
 900
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षट्षष्टितमः सर्गः
 
@@ -11465,7 +11465,7 @@ Take heart, O flower of men ! What living being do calamities not visit? They im
 
 “Even the sun and the moon endowed
 
-* ARANYAKĀṆḌA *
+
 
 901
 
@@ -11529,7 +11529,7 @@ Thus ends Canto Sixty-six in the Aṛaṇyakāṇḍa of the glorious Rāmāya�
 
 902
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # समषष्ठितमः सर्गः
 
@@ -11583,7 +11583,7 @@ To Śrī Rāma, who was stricken with agony as aforesaid, Lakṣmaṇa replied a
 
 “Having eaten up the large-eyed Sītā, it is lying at ease. I shall make short work of it by means of straight-going dreaded arrows with fiery heads.” (12)
 
-* ARANYAKĀṆḌA *
+
 
 903
 
@@ -11649,7 +11649,7 @@ Distressed to perceive the vulture lying all by himself in a precarious conditio
 
 904
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 to the brim just to refresh myself and assuage my feelings today, even the ocean, the lord of rivers, will surely dry up due to my misfortune. (25)
 
@@ -11777,7 +11777,7 @@ In the presence of Śrī Rāma, who went on saying : “Speak, speak (further)!�
 
 906
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स निक्षिप्य शिरौ भूमौ प्रसार्य चरणौ तथा।
 विक्षिप्य च शरीरं स्वं पपात धरणीतले ॥ १८ ॥
@@ -11843,7 +11843,7 @@ protection are found everywhere—even amongst those belonging to the sub-human 
 
 (Turning to the vulture,) "duly permitted by me, ascend you to unsurpassed realms, O king of vultures of extraordinary energy ! Nay, cremated by me, attain the destiny which is the lot of those given to the performance of sacrifices and which is attained by him who has maintained the sacred fire all his life, nay, which is reserved for those who never retreat on the battle-field and which is intended for those who make gifts of land." (29-30)
 
-* ARANYAKĀṆḌA *
+
 
 907
 
@@ -11897,7 +11897,7 @@ Thus ends Canto Sixty-eight in the Aranyakāṇḍa of the glorious Rāmāyaṇa
 
 908
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकोनसप्ततितमः सर्गः
 
@@ -11954,7 +11954,7 @@ Eager to behold Sītā (a princess of the Videha territory), they explored that 
 
 Then having travelled two leagues in an easterly direction and leaving the Kraunca forest behind, and seeing the hermitage of Sage Mataṅga midway, the aforesaid two brothers, Śrī Rāma and Lakṣmaṇa, for their part sighted the dreadful forest adjoining it, which was infested with many fearful beasts and birds and thickly set with trees of every description, and which was all full of dense clusters of trees. Reaching there a cave in the mountain, which was deep like Pātāla (the nethermost of the subterranean regions) and eternally enveloped in darkness, the two sons of Daśaratha, tigers among men, beheld not far from that cave an ogress of
 
-* ARANYAKĀṆḌA *
+
 
 909
 
@@ -12024,7 +12024,7 @@ The forest was enveloped, as it were, in a storm. From the heart of the forest t
 
 910
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तं शब्दं कांक्षमाणस्तु रामः खड्गी सहानुजः ।
 ददर्श सुमहाकायं राक्षसं विपुलोरसम् ॥ २६ ॥
@@ -12187,7 +12187,7 @@ field of battle perish like dams of sand.” (50)
 
 912
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इति ब्रुवाणो दृढसत्यविक्रमो
 महायशा दाशरथिः प्रतापवान् ।
@@ -12308,7 +12308,7 @@ Rejoiced when spoken to in these excellent words by Lakṣmaṇa, Kabandha for h
 
 914
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 relate to you, O tiger among men, how and
 through what insolence this monstrous
@@ -12408,7 +12408,7 @@ encounter, you will forthwith ascend to heaven’ I prefer to lay hold of with t
 
 916
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 धक्ष्यामस्त्वां वयं वीर श्वभ्रे महति कल्पिते।
 स त्वं सीतां समाचक्ष्व येन वा यत्र वा हता ॥ २५ ॥
@@ -12527,7 +12527,7 @@ Taking his seat in a splendid aerial car, conferring glory on its occupant and d
 
 918
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ऋष्यमूके गिरिवरे पम्पापर्यन्तशोभिते।
 निवसत्यात्मवान् वीरश्चतुर्भिः सह वानरैः ॥ १२ ॥
@@ -12584,7 +12584,7 @@ free from enmity ever afterwards. And the said chief of monkeys, Sugriva, should
 अन्विष्य वानरैः सार्धं पत्नीं तेऽधिगमिष्यति।
 वानरांश्च महाकायान् प्रेषयिष्यति राघव ॥ २५ ॥
 
-* ARANYAKĀṆḌA *
+
 
 919
 
@@ -12636,7 +12636,7 @@ Having shown to Śrī Rāma the means of searching out Sītā, Kabandha, who kne
 
 920
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 blossom, O scion of Kākutstha, you will reach another woodland resembling the Nandana grove in paradise, the trees in which bear fruit during all the seasons and drip honey all the time as is the case with the territory of the Uttarakurus (one of the nine divisions of the world). (3—7)
 
@@ -12740,7 +12740,7 @@ Rāma, Lakṣmaṇa will show you stout monkeys roaming in the forest and reposi
 
 922
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 शयानः पुरुषो राम तस्य शैलस्य मूर्धनि।
 यत् स्वप्नं लभते वित्तं तत् प्रबुद्धोऽधिगच्छति ॥ ३३ ॥
@@ -12793,7 +12793,7 @@ Taking leave of the two princes, who felt highly pleased, Kabandha departed fort
 
 Having regained his pristine form, and
 
-* ARANYAKĀṆḌA *
+
 
 923
 
@@ -12888,7 +12888,7 @@ by you? Is your asceticism steadily growing?
 
 924
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Has anger been fully controlled by you as well as your diet, O lady! with asceticism alone as your wealth? (8)
 
@@ -13010,7 +13010,7 @@ Hearing the most pious submission of Śabarī, Śrī Rāma (a scion of Raghu) fo
 
 926
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Casting herself into the fire when spoken to as aforesaid and granted leave by Śrī Rāma, Śabarī, who wore matted locks on her head and was clad in the bark of trees and black deerskin before she leapt into the fire, rose to the highest heaven alone, looking, as she did, like a blazing fire : so the tradition goes. Adorned with celestial jewels and celestial garlands, daubed with heavenly sandal-paste and clad in heavenly raiment,
 
@@ -13126,7 +13126,7 @@ Frequented by Kinnaras, Nāgas, Gandharvas, Yakṣas and ogres and hemmed in wit
 
 928
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 पद्मसौगन्धिकैस्ताम्नां शुक्लां कुमुदमण्डलैः ।
 नीलां कुवलयोद्घाटैर्बहुवर्णां कुथामिव ॥ २० ॥

@@ -5,8 +5,13 @@ import os
 
 # Configuration for all 7 Kandas
 KANDAS_CONFIG = [
-    
-    {"md_file": "yuddhakanda_mistral_ocr.md", "json_file": "data/Valmiki_Ramayan_Yuddhakanda.json", "kanda_name": "Yuddha Kanda", "folder": "yuddhakanda"}
+    {"md_file": "balakanda_mistral_ocr.md", "json_file": "data/Valmiki_Ramayan_Balakanda.json", "kanda_name": "Bala Kanda", "folder": "balakanda"},
+    {"md_file": "ayodhyakanda_mistral_ocr.md", "json_file": "data/Valmiki_Ramayan_Ayodhyakanda.json", "kanda_name": "Ayodhya Kanda", "folder": "ayodhyakanda"},
+    {"md_file": "aranyakanda_mistral_ocr.md", "json_file": "data/Valmiki_Ramayan_Aranyakanda.json", "kanda_name": "Aranya Kanda", "folder": "aranyakanda"},
+    {"md_file": "kishkindhakanda_mistral_ocr.md", "json_file": "data/Valmiki_Ramayan_Kishkindhakanda.json", "kanda_name": "Kishkindha Kanda", "folder": "kishkindhakanda"},
+    {"md_file": "sundarakanda_mistral_ocr.md", "json_file": "data/Valmiki_Ramayan_Sundarakanda.json", "kanda_name": "Sundara Kanda", "folder": "sundarakanda"},
+    {"md_file": "yuddhakanda_mistral_ocr.md", "json_file": "data/Valmiki_Ramayan_Yuddhakanda.json", "kanda_name": "Yuddha Kanda", "folder": "yuddhakanda"},
+    {"md_file": "uttarakanda_mistral_ocr.md", "json_file": "data/Valmiki_Ramayan_Uttarakanda.json", "kanda_name": "Uttara Kanda", "folder": "uttarakanda"},
 ]
 
 def parse_markdown_file(file_path, kanda_name, folder_name):
@@ -37,10 +42,9 @@ def parse_markdown_file(file_path, kanda_name, folder_name):
                 shlokas_data.append({
                     "kanda": kanda_name,
                     "sarga": sarga_num,
-                    "shloka": 0,
+                    "shloka_start": 0,
+                    "shloka_end": 0,
                     "shloka_text": "",
-                    "transliteration": "",
-                    "translation": "",
                     "explanation": summary_clean,
                     "comments": None,
                     "audio_file": f"ramayana/{folder_name}/{sarga_num}_0.mp3"
@@ -51,8 +55,15 @@ def parse_markdown_file(file_path, kanda_name, folder_name):
         matches = re.findall(pattern, block_content, re.MULTILINE)
 
         for v_num, (sanskrit_text, raw_english) in enumerate(matches, 1):
-            match_num = re.search(r'\((\d+)(?:[—\-]\d+)?\)', raw_english)
-            shloka_no = int(match_num.group(1)) if match_num else v_num
+            # Check for single vs multi-shloka range e.g., (18) vs (19—22)
+            match_range = re.search(r'\((\d+)(?:[—\-](\d+))?\)', raw_english)
+            
+            if match_range:
+                shloka_start = int(match_range.group(1))
+                shloka_end = int(match_range.group(2)) if match_range.group(2) else shloka_start
+            else:
+                shloka_start = v_num
+                shloka_end = v_num
 
             # Clean Sanskrit
             sanskrit_cleaned = re.sub(r'^\s*[\.\*•]\s*', '', sanskrit_text)
@@ -66,18 +77,17 @@ def parse_markdown_file(file_path, kanda_name, folder_name):
             shlokas_data.append({
                 "kanda": kanda_name,
                 "sarga": sarga_num,
-                "shloka": shloka_no,
+                "shloka_start": shloka_start,
+                "shloka_end": shloka_end,
                 "shloka_text": sanskrit_cleaned,
-                "transliteration": "",
-                "translation": "",
                 "explanation": exp_cleaned,
                 "comments": None,
-                "audio_file": f"ramayana/{folder_name}/{sarga_num}_{shloka_no}.mp3"
+                "audio_file": f"ramayana/{folder_name}/{sarga_num}_{shloka_start}.mp3"
             })
             
         current_sarga += 1
 
-    # 3. CRITICAL: Group by Sarga & Sort Slokas Numerically (Fixes Out-of-Order sequence)
+    # 3. Group by Sarga & Sort Shlokas Numerically by shloka_start
     sarga_groups = {}
     for item in shlokas_data:
         s = item["sarga"]
@@ -87,7 +97,7 @@ def parse_markdown_file(file_path, kanda_name, folder_name):
 
     final_sorted_data = []
     for s_num in sorted(sarga_groups.keys()):
-        sorted_sarga = sorted(sarga_groups[s_num], key=lambda x: x["shloka"])
+        sorted_sarga = sorted(sarga_groups[s_num], key=lambda x: x["shloka_start"])
         final_sorted_data.extend(sorted_sarga)
 
     return final_sorted_data

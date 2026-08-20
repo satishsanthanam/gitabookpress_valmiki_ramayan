@@ -54,7 +54,7 @@ Hearing this appeal of Vālmīki, the sage Nārada, who possessed knowledge of t
 
 60
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 rare virtues that have been described by you. (7)
 
@@ -118,9 +118,9 @@ rare virtues that have been described by you. (7)
 ज्येष्ठं ज्येष्ठगुणैर्युक्तं प्रियं दशरथः सुतम्।
 प्रकृतीनां हितैर्युक्तं प्रकृतिप्रियकाम्यया ॥ २० ॥
 
-* BĀLAKĀṆḌA *
 
-61
+
+
 
 यौवरान्येन संयोक्तुमेच्छत् प्रीत्या महीपतिः।
 तस्याभिषेकसम्भारान् दृष्ट्वा भार्याथ कैकयी ॥ २१ ॥
@@ -166,7 +166,7 @@ rare virtues that have been described by you. (7)
 
 62
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 नियुज्यमानो राज्याय नैच्छद् राज्यं महाबलः।
 स जगाम वनं वीरो रामपादप्रसादकः ॥ ३४ ॥
@@ -204,7 +204,7 @@ rare virtues that have been described by you. (7)
 ऋषयोऽभ्यागमन् सर्वे वधायासुररक्षसाम्।
 स तेषां प्रतिशुश्राव राक्षसानां तदा वने ॥ ४४ ॥
 
-* BĀLAKĀṆḌA *
+
 
 63
 
@@ -242,7 +242,7 @@ rare virtues that have been described by you. (7)
 
 64
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तं निहत्य महाबाहुर्ददाह स्वर्गतश्च सः।
 स चास्य कथयामास शबरीं धर्मचारिणीम् ॥ ५६ ॥
@@ -291,7 +291,7 @@ enmity with his own elder brother, Vāli, the whole incident was then related by
 
 * It has been customary among the Hindus to contract friendships—more especially matrimonial alliances—in the presence of the sacred fire as a witness with a view to solemnizing them.
 
-* BĀLAKĀṆḌA *
+
 
 65
 
@@ -347,7 +347,7 @@ plane including the five preceding ones viz., Atala, Vitala, Sutala, Talātala a
 
 66
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Though knowing himself as released by the aforesaid missile in consequence of a boon granted by Brahmā to the effect that after undergoing bondage for about a couple of hours, the missile associated with his name being infallible, he would be rid of it, the hero, Hanumān, who was keen to meet Rāvaṇa, deliberately bore with those ogres who carried him in bondage to Rāvaṇa. (76)
 
@@ -398,7 +398,7 @@ plane including the five preceding ones viz., Atala, Vitala, Sutala, Talātala a
 
 “Having received a boon to the effect that all the combatants that had fought on the side of Śrī Rāma and fallen in battle be restored to life, from the gods, who came in
 
-* BĀLAKĀṆḌA *
+
 
 67
 
@@ -457,7 +457,7 @@ their aerial cars to felicitate Śrī Rāma on his victory, that had brought sol
 
 68
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इदं पवित्रं पापघ्नं पुण्यं वेदैश्च सम्मितम्।
 यः पठेद् रामचरितं सर्वपापैः प्रमुच्यते ॥ १८ ॥
@@ -516,7 +516,7 @@ Duly reaching the bank of the Tamasā and finding the descent to the river free 
 
 "Let your pitcher be laid on the bank, O dear one! and the bark be handed over to me for being wrapped about my loins when I have bathed. I shall take my dip at this very descent of the Tamasā, excellent as it is." (6)
 
-* BĀLAKĀṆḌA *
+
 
 69
 
@@ -579,7 +579,7 @@ Brooding awhile, the sage, who was highly learned and full of wisdom, made up hi
 
 70
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम्।
 प्रतिजग्राह् संतुष्टस्तस्य तुष्टोऽभवन्मुनिः ॥ १९ ॥
@@ -634,7 +634,7 @@ Making himself comfortable on the most exalted seat offered by Vālmiki, the alm
 
 Duly permitted by Brahmā, Vālmiki too made himself comfortable on his seat. Even though Brahmā, the progenitor of the entire creation, was directly seated before him at that time, Vālmiki remained absorbed in reverie with his mind fixed on that very incident. He said to himself : “A grave wrong was perpetrated by the wicked fowler, who was bent upon catching the bird with malicious intent, in that he struck down without any fault the crane in that state, cooing so delightfully!” Even while bewailing the lot of the female crane, disunited from its mate, he repeated the same couplet in the presence of Brahmā and, pondering over the meaning of the verse, fell a prey to
 
-* BĀLAKĀṆḌA *
+
 
 71
 
@@ -690,7 +690,7 @@ The thought occurred to the great sage of purified mind that he should compose t
 
 72
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 The illustrious sage, endowed as he was with a catholic outlook, then composed in hundreds and thousands of soul-ravishing verses with their feet comprising an even number of syllables and consisting of words depicting the noble deeds of the glorious Śrī Rāma, a poem which has brought great renown to him. (42)
 
@@ -736,7 +736,7 @@ Likewise, he further directly perceived in order of sequence all that was enacte
 
 Absorbed in deep meditation, that pious sage thereby saw, as clearly as one would see a myrobalan placed in one's palm, all that had happened in the past in relation to Śrī Rāma, Lakṣmaṇa and Sītā as well as that which still awaited them. (6)
 
-* BĀLAKĀṆḌA *
+
 
 73
 
@@ -791,7 +791,7 @@ his erection of a leaf-thatched hut at Citrakūṭa and taking up his residence 
 
 74
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and accept his rightful heritage in the shape of the throne of Ayodhyā and how Śrī Rāma offered water to the spirit of his deceased father as his last obsequies to the latter; (16)
 
@@ -837,7 +837,7 @@ his arrival at Mount Rīṣyamūka where the monkey chief, Sugrīva, was encampi
 
 the destruction of Vāli and the installation of Sugrīva on the throne of Kiṣkindhā; the
 
-* BĀLAKĀṆḌA *
+
 
 75
 
@@ -887,7 +887,7 @@ how Sītā gave her own jewel for the head to Hanumān as a proof of his having 
 
 76
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ग्रहणं वायुसूनोश्च लङ्कादाहाभिगर्जनम्।
 प्रतिप्लवनमेवाथ मधूनां हरणं तथा ॥ ३३ ॥
@@ -929,7 +929,7 @@ Nay, Vālmiki, the glorious sage, also described in his superb poem whatever dee
 
 Thus ends Canto Three in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 77
 
@@ -980,7 +980,7 @@ The two boys chanted this poem, which was delightful to read and chant, could be
 
 78
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 characterized by the nine sentiments of love, pathos, mirth, wrath, terror and heroism etc., including disgust, wonder and serenity. (8-9)
 
@@ -1027,7 +1027,7 @@ On a certain day the two boys, who were exceptionally talented, highly blessed a
 
 Full of delight, a certain sage, who had earned great fame for his proficiency in the science of music, gave them the bark of a tree for being used as loin-cloth. Another gave them the skin of a black deer and still another a sacred thread for being worn baldric wise. (21)
 
-* BĀLAKĀṆḌA *
+
 
 79
 
@@ -1081,7 +1081,7 @@ In this way the sages present in that assembly, who all habitually spoke the tru
 
 80
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 by you from the lips of these two boys possessing the splendour of gods.” At the same time he urged the two singers to commence their recitation. They too chanted the poem, whose theme was too well-known, in a melodious and lovable tone, sweet as the sound of a lute, nay, raised to a pitch conformable to one’s will and agreeable to the mind of the listeners. That song, which sent a thrill through all the limbs and gladdened the mind as well as the heart of the listeners and was delightful to the ear, made its mark in any gathering of men.
 
@@ -1131,7 +1131,7 @@ This great story, known by the name of “Rāmāyaṇa”, has its seeds in the 
 
 * Our Śāstras mention two styles of singing, the Mārga style and the Deśī style. The former is resorted to in singing songs in Sanskrit, while the latter is used in singing songs in the various Prākṛta dialects or vernaculars.
 
-* BĀLAKĀṆḌA *
+
 
 81
 
@@ -1194,7 +1194,7 @@ It is ever thronged with crowds of feudatory princes that flock from all sides o
 
 82
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Adorned with mountain-like mansions built of precious stones, and thickly set with attics, it looks like Indra's Amarāvatī. (15)
 
@@ -1246,7 +1246,7 @@ According to another definition a Mahāratha is he who is able to fight single-h
 
 2. The six branches of knowledge auxiliary to a study of the Vedas are : (1) Śikṣā (Phonetics), (2) Vyākaraṇa (Grammar), (3) Chandas (Prosody), (4) Nirukta (Etymology), (5) Jyautiṣa (Astronomy) and (6) Kalpa (which prescribes the ritual and gives rules for ceremonial or sacrificial acts).
 
-* BĀLAKĀṆḌA *
+
 
 83
 
@@ -1312,7 +1312,7 @@ There was no one in Ayodhyā who was devoid of gold ear-rings, diadem and flower
 
 84
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 enjoyment. There was none who did not put on a smart appearance after taking bath. No one was there who did not smear his body with sandal-paste and did not use scents. (10)
 
@@ -1374,7 +1374,7 @@ Like a cave full of lions, the city was thronged with warriors who had mastered 
 काम्बोजविषये जातैर्बाह्लीकैश्च हयोत्तमैः ।
 वनायुजैर्नदीजैश्च पूर्णा हरिहयोत्तमैः ॥ २२ ॥
 
-* BĀLAKĀṆḌA *
+
 
 85
 
@@ -1430,7 +1430,7 @@ others and were ever devoted to the welfare of their beloved master. In short, t
 
 86
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Eight¹ were the ministers of that heroic king, who were all glorious, pure of mind and conduct and ever devoted to the interests of the king (i.e., affairs of the state). (2)
 
@@ -1490,7 +1490,7 @@ They filled the coffers of the state without harassing the Brāhmaṇa and the K
 
 "The time and place of punishment as well as the age and capacity of the convict should be taken into consideration while awarding punishment."
 
-* BĀLAKĀṆḌA *
+
 
 87
 
@@ -1560,7 +1560,7 @@ The following eight constitute the vices born of anger :
 
 88
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 through righteousness, nay, providing maintenance for his subjects and abstaining from unrighteousness, the said tiger among men, who was munificent and true to his promise and well-known as such in all the three worlds, ruled over this earth while residing in Ayodhyā. (21-22)
 
@@ -1610,7 +1610,7 @@ Having made a firm resolve in consultation with all his counsellors of pure inte
 
 Proceeding at once with quick steps, the said Sumantra thereupon brought together in a body the aforesaid preceptors, all of whom had mastered the Vedas. (5)
 
-* BĀLAKĀṆḌA *
+
 
 89
 
@@ -1672,7 +1672,7 @@ known requisites for the performance of a horse-sacrifice may be got together an
 
 90
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Let propitiatory rites intended to avert evils be elaborately gone through in the proper order of sequence and in accordance with the scriptural ordinance. This horse-sacrifice is capable of being accomplished by any and every monarch provided there is no grievous transgression in the shape of omission of certain essential rites made in the course of this pre-eminent sacrificial performance; for Brāhmaṇas that have attained the form of an ogre (due to omission of Mantras and rites), though well-versed in the science of ritual acts are on the lookout for minor transgressions (in order to get an opportunity to spoil the sacrifice and thereby get the share of the gods). (16-17)
 
@@ -1700,7 +1700,7 @@ known requisites for the performance of a horse-sacrifice may be got together an
 
 Thus ends Canto Eight in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 91
 
@@ -1750,7 +1750,7 @@ Hearing of this intention of Emperor Daśaratha to undertake a horse-sacrifice f
 
 92
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 call together Brāhmaṇas advanced in learning and address them as follows : 'You have heard about my past actions responsible for this drought and are aware of the practices of the world. (4—10)
 
@@ -1802,7 +1802,7 @@ In this way (according to the suggestion of the family priest and the ministers 
 
 "And Ṛṣyaśṛṅga, your son-in-law, will actually get sons for you by pouring oblations into the sacred fire. This prophecy of the
 
-* BĀLAKĀṆḌA *
+
 
 93
 
@@ -1863,7 +1863,7 @@ Hearing the royal command, the
 
 94
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 foremost of the courtesans of Romapāda's capital entered the extensive forest and, staying not very far from the hermitage of the sage Vibhāṇḍaka in the woodland (adjoining Śṛṅgaverapura, associated with the name of Ṛṣyaśṛṅga) made attempts to have a look at the Ṛṣi's son, who was full of self-control and always stayed in the hermitage. Ever contented with his father's affection and fostering care, he never stepped beyond the hermitage. (7-8)
 
@@ -1919,7 +1919,7 @@ On hearing the reply of Ṛṣyaśṛṅga (son of sage Vibhāṇḍaka) there a
 
 Accepting the aforesaid worship hospitality, however, all of them actually made up their mind to return apace, ill at ease as they were, being afraid of the Ṛṣi Vibhāṇḍaka, who had gone out on some errand at that particular moment. (18)
 
-* BĀLAKĀṆḌA *
+
 
 95
 
@@ -1983,7 +1983,7 @@ Fully composed in mind he offered him
 
 96
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 with due ceremony water to wash his hands with and begged of that prince among Brāhmaṇas a boon to the effect that no wrath might enter the mind of the sage or his father for his having caused the sage to be lured away to his kingdom from his father's hermitage. (31)
 
@@ -2038,7 +2038,7 @@ Further hear from me, O king of kings, the wholesome words which the aforesaid w
 
 "Hearing the aforesaid request of the emperor and revolving it in his mind, and resolving to comply with it, the noble-minded
 
-* BĀLAKĀṆḌA *
+
 
 97
 
@@ -2094,7 +2094,7 @@ Daśaratha was rejoiced to hear the advice of Sumantra; nay, having conveyed the
 
 98
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 accompanied him with particular reverence because of the emperor being his esteemed friend. By Romapāda was made known to the enlightened Ṛṣyaśṛṅga (the son of Vibhāṇḍaka) his friendship with the emperor as well as the relation in which the emperor stood to the sage (being the real father of his wife, Śāntā) as also how Śāntā was given in adoption by the emperor to Romapāda, who was issueless, at the latter's request; thereupon Ṛṣyaśṛṅga honoured the emperor in return for the latter's salutations. Greatly honoured in this way by Romapāda and having stayed with him for seven or eight days, the emperor, the foremost among men, spoke to the king as follows: "Let your daughter, Śāntā, O king, proceed alongwith her husband to my capital, O ruler of the people, since there is a great undertaking on foot there." Having promised the visit of that wise man, Ṛṣyaśṛṅga, with the words "Amen!", the king addressed the following request to the Brāhmaṇa: "Proceed you to Ayodhyā with your wife!" Hearing this, Ṛṣyaśṛṅga (the son of Vibhāṇḍaka) said to the king at once, "So be it!" (13—21)
 
@@ -2132,7 +2132,7 @@ Seeing the large-eyed Śāntā come with her husband in that state with a babe, 
 पूज्यमाना तु ताभिः सा राज्ञा चैव विशेषतः।
 उवास तत्र सुखिता कंचित् कालं सहद्विजा ॥ ३१ ॥
 
-* BĀLAKĀṆḌA *
+
 
 99
 
@@ -2182,7 +2182,7 @@ The sage accordingly said to the king, who ruled over the entire globe, “Requi
 
 100
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ऋषिपुत्रप्रभावेण कामान् प्राप्स्यामि चाप्यहम्।
 ततः साध्विति तद्वाक्यं ब्राह्मणाः प्रत्यपूजयन् ॥ १० ॥
@@ -2241,7 +2241,7 @@ Thereupon all the counsellors of the king acclaimed the aforesaid command of the
 
 Those Brāhmaṇas next glorified the Emperor, who knew what was right. Then,
 
-* BĀLAKĀṆḌA *
+
 
 101
 
@@ -2300,7 +2300,7 @@ The sage Vasiṣṭha then spoke to elderly Brāhmaṇas well-versed in ritual a
 
 102
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 sacrificial session, artists, carpenters, those entrusted with the work of digging the sacrificial pits, astronomers and artisans, nay, even to actors and dancers and likewise to pure-minded men well-versed in sacred lore and to those whose knowledge extended over a very wide range of subjects : “Undertake you your respective duties connected with the sacrifice under orders of His Majesty. (6—8)
 
@@ -2355,7 +2355,7 @@ Approaching Vasiṣṭha, they all thereupon spoke to him as follows : “Everyt
 निमन्त्रयस्व नृपतीन् पृथिव्यां ये च धार्मिकाः।
 ब्राह्मणान् क्षत्रियान् वैश्याञ्शूद्रांश्चैव सहस्रशः ॥ २० ॥
 
-* BĀLAKĀṆḌA *
+
 
 103
 
@@ -2415,7 +2415,7 @@ Nay, all those who had been employed to work for the sacrifice till the end repo
 
 104
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततः प्रीतो द्विजश्रेष्ठस्तान् सर्वान् मुनिरब्रवीत्।
 अवज्ञया न दातव्यं कस्यचिल्लीलयापि वा ॥ ३३ ॥
@@ -2459,7 +2459,7 @@ Having reached the sacrificial hall in a body, placing Ṛṣyaśṛṅga ahead,
 
 Thus ends Canto Thirteen in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 105
 
@@ -2514,7 +2514,7 @@ Ascertaining the procedure by reference to the Śāstras, those jewels among the
 
 106
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Savana on behalf of this exceptionally noble-minded monarch. (7)
 
@@ -2568,7 +2568,7 @@ The noble Brāhmaṇas spoke well of the food they ate as indeed cooked in the p
 स्वलंकृताश्च पुरुषा ब्राह्मणान् पर्यवेषयन्।
 उपासन्ते च तानन्ये सुमृष्टमणिकुण्डलाः ॥ १८ ॥
 
-* BĀLAKĀṆḌA *
+
 
 107
 
@@ -2626,7 +2626,7 @@ The bricks had been made according to the measurements given in the scriptures
 
 108
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and with them was the sacrificial altar constructed by priests skilled in the architecture pertaining to sacrifices. (28)
 
@@ -2669,7 +2669,7 @@ The four archpriests$^{1}$ officiating at the sacrifice, viz., the Hotā, the Ad
 
 2. The kings in ancient India generally had three wives. The first of them, who was required to be a Kṣatriya princess, and was consecrated alongwith her husband during the ceremony of installation on the throne, bore the generic name of Mahiṣī; the second one, who could be taken from the Vaiśya class, was known by the name of Vāvātā; while the third wife, who could be taken from the Śūdra class, bore the designation of Parivṛtti. In the case of Daśaratha, however, all the three queens, severally known by the names of Kausalyā, Sumitrā and Kaikeyī—were Kṣatriya princesses.
 
-* BĀLAKĀṆḌA *
+
 
 109
 
@@ -2727,7 +2727,7 @@ Having made the aforesaid gifts, the
 
 110
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 glorious Daśaratha, a scion of Ikṣwāku, felt extremely delighted. All the priests, however, spoke as follows to the sinless king : (46)
 
@@ -2773,7 +2773,7 @@ Told thus by the Brāhmaṇas, who were all masters of the Vedas, the king, who 
 
 “Be pleased, O sage of auspicious vows, to do further that which may tend to promote my race.” “I shall do accordingly,”
 
-* BĀLAKĀṆḌA *
+
 
 111
 
@@ -2822,7 +2822,7 @@ Approaching Brahmā, the maker of the universe, in that very assembly, congregat
 
 112
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 भगवंत्वत्प्रसादेन रावणो नाम राक्षसः।
 सर्वान् नो बाधते वीर्याच्छासितुं तं न शक्नुमः ॥ ६ ॥
@@ -2886,7 +2886,7 @@ In the meantime arrived there, riding on the back of Guruḍa (the king of birds
 
 Nay, meeting Brahmā, He took His position there (in that assembly), composed in mind. Duly extolling Him and bent low
 
-* BĀLAKĀṆḌA *
+
 
 113
 
@@ -2936,7 +2936,7 @@ by that fierce ogre. For getting rid of him, we as well as Siddhas, Gandharvas a
 
 114
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 years.” Having granted the aforesaid boon, the high-souled Lord Viṣṇu, the adored even of gods, now thought of Ayodhyā, the place of His projected birth, on the mortal plane. Then Himself taking the form of four personalities, the Lord, whose eyes resemble the petals of a lotus, wished King Daśaratha to be His father in that descent. Thereupon the gods, Ṛṣis and Gandharvas, accompanied by Lord Rudra and bevies of Apsarās, extolled Lord Viṣṇu (the Destroyer of the demon Madhu) by means of hymns, depicting His transcendent personality :
 
@@ -2984,7 +2984,7 @@ Asked thus by the Lord, all the gods replied to the immortal Lord Viṣṇu as f
 स हि तेपे तपस्तीव्रं दीर्घकालमरिंदम ।
 येन तुष्टोऽभवद् ब्रह्मा लोककुल्लोकपूर्वजः ॥ ४ ॥
 
-* BĀLAKĀṆḌA *
+
 
 115
 
@@ -3046,7 +3046,7 @@ His figure shone like the sun and he looked like a flame of blazing fire and per
 
 116
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Gazing at King Daśaratha he addressed the following words to him : “Know me, O protector of men, to be a messenger of Viṣṇu (the Protector of created beings) arrived here from His realm.” (16)
 
@@ -3107,7 +3107,7 @@ With the object of getting them a son each, the king then gave half of the Pāya
 कैकेय्यै चावशिष्टार्धं ददौ पुत्रार्थकारणात् ।
 प्रददौ चावशिष्टार्धं पायसस्यामृतोपमम् ॥ २८ ॥
 
-* BĀLAKĀṆḌA *
+
 
 117
 
@@ -3163,7 +3163,7 @@ Lord Viṣṇu having all but assumed the role of sons to that high-souled monar
 
 118
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Vidyādhara women, the wombs of female Kinnaras* and she-monkeys procreate sons in the form of monkeys, equal in strength to you, well-versed in conjuring tricks, gallant, swift as the wind in speed, expert in policy, gifted with intelligence, equal in prowess to Lord Viṣṇu, incapable of being killed by the enemy, conversant with various contrivances, endowed with an ethereal body, skilled in the use and withdrawal etc., of missiles and resembling the gods that feed on ambrosia. (3—6)
 
@@ -3222,7 +3222,7 @@ The glorious monkey named Hanumān is the own son of the wind-god. He is endowed
 
 * A class of demigods with a human figure and the head of a horse or with a horse's body and the head of a human being.
 
-* BĀLAKĀṆḌA *
+
 
 119
 
@@ -3281,7 +3281,7 @@ They could penetrate into the firmament and catch hold of the clouds. They could
 
 120
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 शतं शतसहस्राणि यूथपानां महात्मनाम्।
 ते प्रधानेषु यूथेषु हरीणां हरियूथपाः ॥ ३० ॥
@@ -3331,7 +3331,7 @@ The earth was filled with those mighty leaders of monkey chiefs, who looked like
 
 Emperor, having been concluded, the immortals, who personally attended it, returned even as they had come, after receiving their respective shares of the offerings made in the sacrifices. (1)
 
-* BĀLAKĀṆḌA *
+
 
 121
 
@@ -3387,7 +3387,7 @@ Kausalyā shone brightly with that son possessed of immense glory even as Aditi,
 
 122
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 wielder of a thunderbolt, the foremost of gods. (12)
 
@@ -3444,7 +3444,7 @@ He further performed the naming ceremony with respect to his sons on completing 
 
 "The impurity of a Kṣatriya, occasioned by childbirth, lasts for twelve days." And a Smṛti text says: त्रयोदशे राज्ञां नामकरणम् (The naming ceremony of Kṣatriya boys takes place on the thirteenth day).
 
-* BĀLAKĀṆḌA *
+
 
 123
 
@@ -3515,7 +3515,7 @@ He took delight in the science of archery and was devoted to the service of his 
 
 124
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 moving outside his body. Without him Śrī Rāma, the foremost of men, did not have even a wink of sleep, nor did he partake of a dainty dish brought for him without Lakṣmaṇa. Whenever Śrī Rāma, the celebrated scion of Raghu, went out a-hunting, mounted on horseback, Lakṣmaṇa forthwith followed at his heels, armed with a bow and arrows and guarding him on all sides. Śatrughna, the younger brother of Lakṣmaṇa, was dearer to Bharata even than the latter's own life and Bharata likewise was ever dear to Śatrughna.
 
@@ -3543,7 +3543,7 @@ Now, when their studies neared completion, King Daśaratha, whose mind was given
 
 Seeing the hermit of austere vows and shining with effulgence, the king with a most cheerful countenance thereupon offered to him water to wash his hands with. Accepting the water for washing the hands with and other attentions offered by the king with ceremony, as enjoined by the scriptures, he duly inquired of the king after his health and prosperity. The exceedingly pious sage Viśwāmitra also duly inquired after the welfare of the king's capital, treasury, kingdom, relations and friends. He then said, "I hope all your vassals—are fully submissive to you and your enemies subdued. (40—46)
 
-* BĀLAKĀṆḌA *
+
 
 125
 
@@ -3594,7 +3594,7 @@ The great sage Viśwāmitra, whose renown occasioned by his excellences had spre
 
 126
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 distinguished by his virtues, experienced supreme delight on hearing the aforesaid prayer, which was not only pleasing to the
 
@@ -3641,7 +3641,7 @@ performance for the realization of my aim, O jewel among men ! Two ogres, capabl
 
 “Towards its conclusion, when the sacred observance had been gone through in a large measure, however, these two notorious Rākṣasas, Mārīca and Subāhu, who are not only possessed of great prowess but are highly trained in the methods of warfare, polluted the sacrificial altar with a large volume of flesh and blood dropped from the airspace. My vow in connection with that sacred observance, which had well-nigh been completed as aforesaid, having thus been interrupted, I came away dispirited from that region, having achieved nothing beyond fruitless exertion. And there is no prompting in me to give vent to my wrath in the form of an execration, O ruler of the earth ! (5—7)
 
-* BĀLAKĀṆḌA *
+
 
 127
 
@@ -3687,7 +3687,7 @@ performance for the realization of my aim, O jewel among men ! Two ogres, capabl
 
 128
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इति हृदयमनोविदारणं मुनिवचनं तदतीव शुश्रुवान् ।
 नरपतिरभवन्महान् महात्मा व्यथितमनाः प्रचचाल चासनात् ॥ २२ ॥
@@ -3747,7 +3747,7 @@ fighting with hosts of ogres. But you should not take away Rāma. (4)
 
 * An Akṣauhiṇī consists of 21,870 elephants, an equal number of chariots, 65,610 horses and 109,350 foot.
 
-* BĀLAKĀṆḌA *
+
 
 129
 
@@ -3790,7 +3790,7 @@ Thus addressed by the aforesaid sage, Viśwāmitra, the king then replied to the
 
 130
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स त्वं प्रसादं धर्मज्ञ कुरुष्व मम पुत्रके।
 मम चैवाल्पभाग्यस्य दैवतं हि भवान् गुरुः ॥ २१ ॥
@@ -3829,7 +3829,7 @@ A fierce rage possessed the mind of Viśwāmitra (son of Gādhi, a scion of Kuś
 
 Thus ends Canto Twenty in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 131
 
@@ -3889,7 +3889,7 @@ Perceiving the entire world to be greatly alarmed indeed, the great and wise Ṛ
 
 132
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एष विग्रहवान् धर्म एष वीर्यवतां वरः।
 एष विद्याधिको लोके तपसश्च परायणम् ॥ १० ॥
@@ -3948,7 +3948,7 @@ Perceiving the entire world to be greatly alarmed indeed, the great and wise Ṛ
 
 “Though capable of punishing the Rākṣasas himself, it is for the sake of doing good to your son, Śrī Rāma, that the sage Viśwāmitra (son of Gādhi) has sought you and has solicited him.” (21)
 
-* BĀLAKĀṆḌA *
+
 
 133
 
@@ -4007,7 +4007,7 @@ Equipped each with a pair of quivers, bow in hand, and illuminating the ten
 
 134
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 directions, viz., the four quarters, the four corners intervening the quarters, the upper and the lower directions, the two high-souled princes, who were devoted to the sage and were resplendent with glory and were irreproachable in everyway, and looked like a pair of three-headed serpents (the two quivers appearing like two additional heads), followed the noble-minded Viśwāmitra even as the twin-gods Aświnikumāras, the physicians of gods, would accompany Brahmā (the progenitor of the entire creation)—adding lustre to the sage. (7-8)
 
@@ -4052,7 +4052,7 @@ instruction in the chain of Mantras known by the name of Balā and the other kno
 क्षुत्पिपासे न ते राम भविष्यते नरोत्तम।
 बलामतिबलां चैव पठतस्तात राघव ॥ १८ ॥
 
-* BĀLAKĀṆḌA *
+
 
 135
 
@@ -4107,7 +4107,7 @@ scions of Kakutstha), lying on a bed of dry leaves mixed with straw : (1)
 
 136
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 in you, O Rāma ! The morning twilight has set in. Therefore, get up, O tiger among men ! Contemplation on the Deity and the daily routine of duties making for the purification of the body have to be gone through.” (2)
 
@@ -4154,7 +4154,7 @@ Hearing the aforesaid submission of the two brothers, Viśwāmitra, the foremost
 
 * The scripture tells us : न गायत्र्याः परं जप्यम्.
 
-* BĀLAKĀṆḌA *
+
 
 137
 
@@ -4208,7 +4208,7 @@ At dusk when day and night meet, the aforesaid Ṛṣis (including Viśwāmitra 
 
 138
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 hermitage with them, Viśwāmitra and his two pupils stayed most comfortably on that site of the hermitage, associated with the name of Kāma; while Viśwāmitra (a scion
 
@@ -4264,7 +4264,7 @@ Reaching the middle of the stream, the highly glorious Rāma alongwith Lakṣma�
 वारिसंक्षोभजो राम प्रणामं नियतः कुरु।
 ताभ्यां तु तावुभौ कृत्वा प्रणाममाधर्मिकौ ॥ ११ ॥
 
-* BĀLAKĀṆḌA *
+
 
 139
 
@@ -4301,7 +4301,7 @@ beasts of prey and vultures raising harsh notes and various other kinds of birds
 
 140
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the pangs of hunger fallen off from the body of the great Indra in this tract of land, the gods derived joy thereby. And Indra, for his part, was completely rid of his impurity and hunger. (17—21)
 
@@ -4343,7 +4343,7 @@ woman, Tātakā by name, capable of assuming any form at will and possessing at 
 
 Thus ends Canto Twenty-four in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 141
 
@@ -4394,7 +4394,7 @@ Hearing the aforesaid question of Śrī Rāma, a scion of Raghu, possessed of in
 
 142
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सुदे तु निहते राम अगस्त्यमृषिसत्तमम्।
 ताटका सह पुत्रेण प्रधर्षयितुमिच्छति ॥ १० ॥
@@ -4452,7 +4452,7 @@ Hearing the aforesaid question of Śrī Rāma, a scion of Raghu, possessed of in
 
 * We read in the Matsya-Purāṇa (Discourse XLVII) how during the absence of her son, Śukra, who
 
-* BĀLAKĀṆḌA *
+
 
 143
 
@@ -4512,7 +4512,7 @@ had gone out to practise austerities, the demons, hard pressed by the heavenly a
 
 144
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 terrified by that sound; while Tāṭakā, who was stunned in the first instance by that sound, got terribly enraged. (7)
 
@@ -4576,7 +4576,7 @@ Then out of anger Lakṣmaṇa (son of Sumitrā, the second wife of Daśaratha) 
 
 Assuming numerous forms, the said Yakṣa woman, however, capable as she
 
-* BĀLAKĀṆḌA *
+
 
 145
 
@@ -4628,7 +4628,7 @@ A great object of gods is going to be
 
 146
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 accomplished by the prince, Śrī Rāma.” Saying so all the gods disappeared into the heavens, extolling Viśwāmitra, and then the twilight set in. Lovingly smelling the crown of the head of Śrī Rāma, Viśwāmitra, the foremost of hermits, who felt consoled by the death of Tātakā, then addressed the following words to Śrī Rāma : “Let us spend this night here, O good-looking Rāma ! Next morning at sunrise we shall proceed to the site of my well-known hermitage.” Pleased to hear the words of Viśwāmitra, Śrī Rāma, son of Daśaratha, happily spent the night in that forest, which had so long been the
 
@@ -4672,7 +4672,7 @@ and demons including the Gandharvas and Nāgas. (2-3)
 
 “I deliver to you all those celestial missiles, may good betide you! I shall deliver to you, O scion of Raghu, the great and ethereal Daṇḍa-Cakra and then the Dharma-Cakra, O gallant prince, as well as the Kāla-Cakra, also the Viṣṇu-Cakra as well as the most formidable Indra-Cakra and the missile in the shape of a thunderbolt, O jewel among men, similarly the Śula of Śiva, the best among all presided over by Lord Śiva, as
 
-* BĀLAKĀṆḌA *
+
 
 147
 
@@ -4722,7 +4722,7 @@ well as the missile called Brahmaśirā and even the Aṣika (that employed thro
 
 148
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Receive from me, O illustrious prince, O tiger among men, the well-known missile beloved of the fiends, Mohana by name, so-called because it infatuates the enemy, as also the missiles Tāmasa and the mighty Saumana, O tiger among men, as well as Samvarta and the formidable Mausala, O son of King Daśaratha, the missile known by the name of Satya as also the great missile called Māyāmaya, O mighty-armed one, the missile presided over by the sun-god, Tejaḥprabha by name, which takes away the glory of the enemy, the missile presided over by the moon-god, Śiśra by name, the most formidable missile presided over by Twaṣṭā, the architect of gods, the dreadful missile of Bhaga (one of the twelve sons of Aditi, presiding over the sun by turns month after month) as well as the missile presided over by Manu, known by the name of Śiteṣu. (17—20)
 
@@ -4764,7 +4764,7 @@ Saluting the great sage Viśwāmitra, the highly glorious Śrī Rāma with a del
 
 Thus ends Canto Twenty-seven in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 149
 
@@ -4818,7 +4818,7 @@ He said : “Receive from me, O Rāma, a scion of Raghu, since you are a fit rec
 
 150
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Some of them shone like live coal, others were smoky in appearance, while still others were brilliant as the sun and the moon and were inclined forwards with their palms joined together so as to form a cavity. (12)
 
@@ -4870,7 +4870,7 @@ Having come to know them, Śrī Rāma forthwith addressed the following sweet an
 
 Thus ends Canto Twenty-eight in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 151
 
@@ -4925,7 +4925,7 @@ Hearing the question of Śrī Rāma, who though possessed of infinite glory made
 
 152
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 by his wife, Aditi, as though glowing with his incarnate glory. (10)
 
@@ -4980,7 +4980,7 @@ satisfied as You are, and disposed to confer a boon, O Lord of noble vows, be pl
 
 "Asking of him ground which could be covered by three strides and accepting the offer of land granted by him, the Lord, who sought to have all the three worlds, devoted as He was to the good of the entire creation, covered all the three worlds in three strides, by His all-pervading form and, taming Bali by His divine might, restored them to the great Indra. In this way, the Lord, who is possessed of exceptional
 
-* BĀLAKĀṆḌA *
+
 
 153
 
@@ -5043,7 +5043,7 @@ Having reposed during that night with a calm and composed mind and rising at
 
 154
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 dawn next morning, the two lads, who resembled Skanda and Viśākha, the two sons of Lord Śiva, and were exceedingly pure by nature offered prayer to the morning twilight after getting purified through bath
 
@@ -5091,7 +5091,7 @@ Hearing the aforesaid answer made by the hermits the two illustrious princes for
 
 * It is laid down in the scriptures that having gone through the ceremony of consecration for a sacrificial performance one should no longer pour daily oblations (chiefly consisting of milk, oil and sour gruel) into the sacred fire, nor perform the half-monthly sacrifices performed on the new moon and the full moon and known by the names of Darśa and Pūrṇamāsa respectively—दीक्षामध्ये नागिनहोत्रं न दर्शपूर्णमासाभ्यां यजेत.
 
-* BĀLAKĀṆḌA *
+
 
 155
 
@@ -5145,7 +5145,7 @@ Seeing the two Rākṣasas rushing headlong towards him, the lotus-eyed Rāma fo
 
 156
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 them as they are destined to survive for some more years.” Having made this observation, Śrī Rāma, a scion of Raghu, who was full of agility, put to his bow the most excellent and supremely effulgent missile presided over by Manu, and hurled it most angrily at the breast of Mārīca. (15—17)
 
@@ -5194,7 +5194,7 @@ The sacrificial proceedings having been brought to a close, the great sage Viśw
 
 Thus ends Canto Thirty in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 157
 
@@ -5262,7 +5262,7 @@ At the aforesaid submission of the two brothers all the great Ṛṣis present t
 
 158
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “There, O Rāma (a scion of Kakutstha), you will be able to see that bow of the high-souled king of Mithilā as well as his most wonderful sacrifice, O tiger among men ! (11)
 
@@ -5323,7 +5323,7 @@ Thereupon Viśwāmitra, accompanied by the host of seers, persuaded the birds as
 
 प्रीतश्च भगवानीशस्त्रिशूली नीललोहितः । प्रददौ शत्रुनाशार्थं जनकायाद्भुतं धनुः ॥
 
-* BĀLAKĀṆḌA *
+
 
 159
 
@@ -5369,7 +5369,7 @@ Hearing the admonition of Kuśa all those four jewels among men, who were the no
 
 160
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Kuśāmba, who was possessed of exceptional glory, for his part founded the city of Kauśāmbī (named after himself); while Kuśanābha, whose mind was given to piety, built the city named Mahodaya, the modern Kannauja. (6)
 
@@ -5427,7 +5427,7 @@ Seeing them all endowed with excellences and rich in beauty and youth, one day t
 
 * In the Mahābhārata (Sabhā., XXI.2) these five hills have been named as Vipula, Varāha, Vṛṣabha (Rṣabha), Ṛṣigiri (Mātaṅga) and Caityaka.
 
-* BĀLAKĀṆḌA *
+
 
 161
 
@@ -5482,7 +5482,7 @@ Thus ends Canto Thirty-two in the Bālakāṇḍa of the glorious Rāmāyaṇa o
 
 162
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # त्रयस्त्रिंशः सर्गः
 
@@ -5537,7 +5537,7 @@ Having sent away the girls to the gynaecium, O scion of Kakutstha, the king (Ku�
 
 At this very time a Brahmacāri
 
-* BĀLAKĀṆḌA *
+
 
 163
 
@@ -5601,7 +5601,7 @@ Calling the said Brahmadatta, the
 
 164
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 exceptionally glorious king (Kuśanābha), the ruler of the earth, gave away with a most cheerful mind all the hundred girls to him. (21)
 
@@ -5651,7 +5651,7 @@ The aforesaid Brahmadatta having left after being married, O scion of Raghu, Ku�
 
 In the meantime, while the sacrifice was actually going on, the highly magnanimous Kuśa, the father of Kuśanābha and son of Brahmā (the creator) prophesied to King Kuśanābha as follows : (2)
 
-* BĀLAKĀṆḌA *
+
 
 165
 
@@ -5716,7 +5716,7 @@ character, whose waters confer merit on those using it—and is thus engaged in 
 
 166
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 निष्पन्दास्तरवः सर्वे निलीना मृगपक्षिणः।
 नैशेन तमसा व्याप्ता दिशश्च रघुनन्दन ॥ १५ ॥
@@ -5773,7 +5773,7 @@ Thus ends Canto Thirty-four in the Bālakāṇḍa of the glorious Rāmāyaṇa 
 
 * From the above description it can be easily inferred that it was the ninth night of a dark fortnight.
 
-* BĀLAKĀṆḌA *
+
 
 167
 
@@ -5879,7 +5879,7 @@ ordinance, (i.e., after reciting a Vedic hymn
 
 168
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 known as the Aghamarṣaṇa-Sūkta—vide Ṛgveda X. 190), duly propitiated the manes and gods (including Ṛṣis) with libations of water and also poured oblations into the sacred fire and partaken of the remnants of the sacrifice, which have been likened* to ambrosia in the Śāstras, the blessed Ṛṣis sat down on the bank of the Gaṅgā with a cheerful mind surrounding the high-souled Viśwāmitra on all sides. When they were all comfortably seated in order of seniority as also Śrī Rāma and Lakṣmaṇa (the two scions of Raghu) according to their position, Śrī Rāma presently addressed Viśwāmitra as follows with an overjoyed mind : (10-11)
 
@@ -5927,7 +5927,7 @@ Impelled by the inquiry of Śrī Rāma, the great sage Viśwāmitra started disc
 
 “Those partaking of ambrosia in the form of the remnants of a sacrifice attain the everlasting Brahma.”
 
-* BĀLAKĀṆḌA *
+
 
 169
 
@@ -5983,7 +5983,7 @@ The aforesaid sage, Viśwāmitra, having concluded his speech, both the heroes, 
 
 170
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “With what motive did that world-purifying stream choose to wash all the three regions (heaven, earth and the space intervening them)? How did the Gaṅgā, which takes a threefold course, come to be known as the foremost of rivers? (3)
 
@@ -6029,7 +6029,7 @@ The aforesaid sage, Viśwāmitra, having concluded his speech, both the heroes, 
 
 (12-13)
 
-* BĀLAKĀṆḌA *
+
 
 171
 
@@ -6084,7 +6084,7 @@ Having addressed all the gods as aforesaid, she cursed Earth, too, in the follow
 
 172
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Seeing all those gods tormented by the curse of His Spouse, Lord Śiva (the Ruler of gods) prepared to proceed in a westerly direction, the quarter ruled over by Varuṇa, the god of water. (25)
 
@@ -6144,7 +6144,7 @@ a commander for our forces was vouchsafed in the form of seed some time back is 
 
 “What has been uttered by Goddess Pārvatī, the daughter of Himavān, viz., that
 
-* BĀLAKĀṆḌA *
+
 
 173
 
@@ -6208,7 +6208,7 @@ approaching the heavenly Gaṅgā, the god of fire prayed to her as follows : �
 
 174
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 grand-daughter of Sumeru, a mountain of gold, it shone accordingly as molten gold of the purest type. (17-18)
 
@@ -6269,7 +6269,7 @@ forming the constellation of that name) in a body for the purpose of suckling th
 
 “Then there appeared milk, excelled by no other milk, in the breasts of the
 
-* BĀLAKĀṆḌA *
+
 
 175
 
@@ -6330,7 +6330,7 @@ known by the name of Keśini, O Rāma, was the eldest wife of Sagara. She was ex
 
 176
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अथ वर्षशते पूर्णे तपसाऽऽराधितो मुनिः।
 सगराय वरं प्रादाद् भृगुः सत्यवतां वरः ॥ ६ ॥
@@ -6397,7 +6397,7 @@ known by the name of Keśini, O Rāma, was the eldest wife of Sagara. She was ex
 
 “The nurses nurtured them placing them
 
-* BĀLAKĀṆḌA *
+
 
 177
 
@@ -6452,7 +6452,7 @@ Seized with wonder to hear that question of Śrī Rāma, Viśwāmitra for his pa
 
 178
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 श्रूयतां विस्तरो राम सगरस्य महात्मनः।
 शंकरश्वशुरो नाम्ना हिमवानिति विश्रुतः॥४॥
@@ -6497,7 +6497,7 @@ officiating at the sacrifice forthwith addressed the sacrificer as follows: ‘O
 
 आर्यावर्तः पुण्यभूमिर्मध्यं हिमवद्विन्ध्ययोः।
 
-* BĀLAKĀṆḌA *
+
 
 179
 
@@ -6563,7 +6563,7 @@ subterranean regions, that were being killed in the course of the excavation. (2
 
 180
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 that whosoever comes before them has interfered with their sacrificial performance
 
@@ -6615,7 +6615,7 @@ Having walked round the whole earth and excavated it too, all the sons of Sagara
 
 * The thirty-three principal gods are the eight Vasus, the eleven Rudras, the twelve Ādityas and the two Aświnīkumāras (the twin-born physicians of gods).
 
-* BĀLAKĀṆḌA *
+
 
 181
 
@@ -6685,7 +6685,7 @@ In the western quarter too those very
 
 182
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 mighty princes beheld the great elephant guarding that quarter, Saumanasa by name, that resembled a mountain in size. (20)
 
@@ -6737,7 +6737,7 @@ Thoughtlessly suspecting him to be the man who had interrupted the sacrificial p
 
 Thus ends Canto Forty in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 183
 
@@ -6799,7 +6799,7 @@ Hearing the aforesaid reply of the elephant, Aṁśumān proceeded to ask the sa
 
 184
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the quarters in their order of seniority and in a befitting manner. (10)
 
@@ -6859,7 +6859,7 @@ Gaṅgā is the elder daughter of Himavān, the deity presiding over the Himāla
 
 "Death at the hands of a pariah or a Brāhmaṇa or through being submerged in water, through snake-bite, through being struck by lightning or through being bitten by animals with fangs falls to the lot of men of sinful deeds alone. Offering water or lumps of cooked rice or uncooked flour etc., is not recommended for their peace in the other world."
 
-* BĀLAKĀṆḌA *
+
 
 185
 
@@ -6905,7 +6905,7 @@ Thus ends Canto Forty-one in the Bālakāṇḍa of the glorious Rāmāyaṇa of
 
 186
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # द्विचत्वारिंशः सर्गः
 
@@ -6961,7 +6961,7 @@ Failing to arrive at any decision on the question of deliverance of his forbears
 इन्द्रलोकं गतो राजा स्वाजितेनैव कर्मणा।
 राज्ये भगीरथं पुत्रमभिषिच्य नरर्षभः ॥ १० ॥
 
-* BĀLAKĀṆḌA *
+
 
 187
 
@@ -7023,7 +7023,7 @@ Brahmā, the progenitor of all the worlds, thereupon answered the king, who had 
 
 188
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इयं हैमवती ज्येष्ठा गङ्गा हिमवतः सुता।
 तां वै धारयितुं राजन् हरस्तत्र नियुज्यताम् ॥ २३ ॥
@@ -7077,7 +7077,7 @@ Having thus spoken to the aforesaid king and instructed Gaṅgā as well to obli
 तिरोभावयितुं बुद्धिं चक्रे त्रिनयनस्तदा।
 सा तस्मिन् पतिता पुण्या पुण्ये रुद्रस्य मूर्धनि ॥ ७ ॥
 
-* BĀLAKĀṆḌA *
+
 
 189
 
@@ -7133,7 +7133,7 @@ Again, the seventh of them forthwith followed the chariot of Bhagiratha. Mounted
 
 190
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 शतादित्यमिवाभाति गगनं गततोयदम्।
 शिशुमारोरगगणैर्मीनैरपि च चञ्चलैः ॥ २१ ॥
@@ -7176,7 +7176,7 @@ the earth's surface. At that time, seized with great bewilderment those celestia
 
 The Gaṅgā now flowed very swiftly, now tortuously; now it broadened out and now again narrowed down when forcing its way through a ravine; now it was tossed high when dashed against a rock and now it glided. Now buffeted by the waves of the same water indeed (when turned back by the wind), the water of the Gaṅgā spouted upwards once more and dashed to the ground again. First fallen on the head of Lord Saṅkara and again dropped on the earth's surface, the limpid water of the Gaṅgā, which rids those who come in contact with it of all sin, shone bright on that occasion. On that spot hosts of Ṛṣis and Gandharvas as well as the inhabitants of the globe touched (sipped) the water fallen from the person of Lord Śiva (the Source of the universe) as purifying. Those who had fallen from the heavens to the
 
-* BĀLAKĀṆḌA *
+
 
 191
 
@@ -7210,7 +7210,7 @@ Thus ends Canto Forty-three in the Bālakāṇḍa of the glorious Rāmāyaṇa 
 
 192
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चतुश्चत्वारिंशः सर्गः
 
@@ -7265,7 +7265,7 @@ When their ashes had been thoroughly washed by the water of the Gaṅgā, Brahm�
 
 "Even so, the vow could not be redeemed, O dear child, even by the royal sage Amśūmān, who was invested with a
 
-* BĀLAKĀṆḌA *
+
 
 193
 
@@ -7327,7 +7327,7 @@ to your own capital, O protector of men !” (15)
 
 194
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 यः शृणोति च काकुत्स्थ सर्वान् कामानवाप्नुयात् ।
 सर्वे पापाः प्रणश्यन्ति आयुः कीर्तिश्च वर्धते ॥ २३ ॥
@@ -7371,7 +7371,7 @@ Struck with great wonder to hear the speech of Viśwāmitra, Śrī Rāma (a scio
 
 Then, on the day having clearly dawned, Śrī Rāma, a scion of Emperor Raghu, the subduer of his enemy, submitted as follows
 
-* BĀLAKĀṆḌA *
+
 
 195
 
@@ -7436,7 +7436,7 @@ Hearing the aforesaid request of Śrī Rāma, Viśwāmitra, a jewel among sages,
 
 196
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 thought haunted those high-souled beings :
 “How can we possibly be immortal, immune
@@ -7547,7 +7547,7 @@ His own realm.
 ततो देवासुराः सर्वे ममन्थू रघुनन्दन ।
 प्रविवेशार्थ पातालं मन्थानः पर्वतोत्तमः ॥ २७ ॥
 
-* BĀLAKĀṆḌA *
+
 
 197
 
@@ -7601,7 +7601,7 @@ His own realm.
 
 198
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 reason Aditi's sons became known as Suras (those who take wine). The gods felt thrilled and overjoyed due to their acceptance of Vāruṇī. (38)
 
@@ -7646,7 +7646,7 @@ reason Aditi's sons became known as Suras (those who take wine). The gods felt t
 
 Thus ends Canto Forty-five in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 199
 
@@ -7703,7 +7703,7 @@ While she practised austerities, Indra, the thousand-eyed god, O jewel among men
 
 200
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 rendered personal service to her through his exuberant wealth of virtues : so the tradition goes. (9)
 
@@ -7769,7 +7769,7 @@ Indra went on saying to the foetus, "Pray, do not cry, do not cry !" Nay, the ex
 
 Diti only said, "The foetus should not be killed, it should not be killed." Out of deference to the remonstrance of his
 
-* BĀLAKĀṆḌA *
+
 
 201
 
@@ -7826,7 +7826,7 @@ of my foetus fill the place of the seven batches of wind-gods (each consisting o
 
 202
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the celestial air and enjoying great fame, blow in the aerial region. (5)
 
@@ -7887,7 +7887,7 @@ him was built on this very site a city named Viśālā, after his own name. (9�
 
 “We shall comfortably repose here for this one night; tomorrow morning you ought
 
-* BĀLAKĀṆḌA *
+
 
 203
 
@@ -7943,7 +7943,7 @@ Having inquired after the sage's welfare, Sumati, at the end of the dialogue tha
 
 204
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 किमर्थं च नरश्रेष्ठौ सम्प्राप्तौ दुर्गमे पथि।
 वरायुधधरौ वीरौ श्रोतुमिच्छामि तत्त्वतः ॥ ६ ॥
@@ -8001,7 +8001,7 @@ Hearing the aforesaid question asked by Śrī Rāma (a scion of Raghu), the grea
 तस्यान्तरं विदित्वा च सहस्राक्षः शचीपतिः।
 मुनिवेषधरो भूत्वा अहल्यामिदमब्रवीत् ॥ १७ ॥
 
-* BĀLAKĀṆḌA *
+
 
 205
 
@@ -8060,7 +8060,7 @@ The testicles of Indra (the thousand-eyed god) dropped instantly on the ground e
 
 206
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तथा शप्त्वा च वै शक्रं भार्यामपि च शप्तवान् ।
 इह वर्षसहस्राणि बहूनि निवसिष्यसि ॥ २९ ॥
@@ -8116,7 +8116,7 @@ the high-souled Gautama by exciting his wrath and thereby foiling his attempt to
 
 "In a fit of anger I have accordingly been deprived of my virility and Ahalyā too has been disowned by him. He has thus been robbed by me of his spiritual
 
-* BĀLAKĀṆḌA *
+
 
 207
 
@@ -8176,7 +8176,7 @@ Hearing the intercession of Viśwāmitra, Śrī Rāma, a scion of Raghu, accompa
 
 208
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 produced by the creator with great effort and looked like a product of magic, who looked like a blazing flame wrapped all over in smoke or like the halo of the full moon obscured by a veneer of snow and screened by a cloud or again like a dazzling bright circle of light round the sun appearing in the midst of water existing in clouds. (12—15)
 
@@ -8224,7 +8224,7 @@ There was an abundant shower of flowers, from the heavens, accompanied by the be
 
 Having duly received the highest honour at the hands of the eminent sage Gautama, Śrī Rāma too proceeded from that hermitage to Mithilā. (22)
 
-* BĀLAKĀṆḌA *
+
 
 209
 
@@ -8275,7 +8275,7 @@ Hearing of Viśwāmitra having arrived (with his party) on that occasion, the ir
 
 210
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 with great delight. The king then submitted to Viśwāmitra, the foremost of hermits with folded hands as follows : (6—10)
 
@@ -8324,7 +8324,7 @@ grounds alongwith a number of sages. The wise among the priests, O Brāhmaṇa �
 
 (20-21)
 
-* BĀLAKĀṆḌA *
+
 
 211
 
@@ -8383,7 +8383,7 @@ and Lakṣmaṇa, seated and comfortably ensconced, the celebrated Śatānanda n
 
 212
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अपि रामाय कथितं यद् वृत्तं तत् पुरातनम्।
 मम मातुर्महातेजो देवेन दुरनुष्ठितम् ॥ ६ ॥
@@ -8448,7 +8448,7 @@ Hearing the aforesaid reply of the celebrated Viśwāmitra, a man of wisdom, the
 प्रजापतिसुतस्त्वासीत् कुशो नाम महीपतिः।
 कुशस्य पुत्रो बलवान् कुशनाभः सुधार्मिकः ॥ १८ ॥
 
-* BĀLAKĀṆḌA *
+
 
 213
 
@@ -8501,7 +8501,7 @@ Thus ends Canto Fifty-one in the Bālakāṇḍa of the glorious Rāmāyaṇa of
 
 214
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # द्विपञ्जाशः सर्गः
 
@@ -8557,7 +8557,7 @@ Brahmā (the creator), the foremost of ascetics, questioned the king as follows 
 
 “Having carried on all such talks for a very long time on that occasion, and full of supreme joy, the two celebrated and most pious souls felt pleased with each other. (11)
 
-* BĀLAKĀṆḌA *
+
 
 215
 
@@ -8623,7 +8623,7 @@ Full of delight, when addressed thus by Viśwāmitra, the exceptionally glorious
 
 216
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 accompanied by sweetmeats, drinks of various kinds and dishes that can be licked,
 
@@ -8672,7 +8672,7 @@ well as with sweetmeats. (3-4)
 
 “I have been honoured and sumptuously entertained by you, who are deserving of honour yourself, O holy one! I shall now prefer a request to you, O master of expression; pray, listen! (8)
 
-* BĀLAKĀṆḌA *
+
 
 217
 
@@ -8720,7 +8720,7 @@ up into the air, near the house-door, morsels of food before taking one's meals)
 
 218
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 above these, I shall give you one crore of young cows distinguished by their different colours. Only let Śabalā be given (in exchange for these). (16—20)
 
@@ -8776,7 +8776,7 @@ Being taken away by force by the mighty king, Śabalā for her part felt afflict
 किं मयापकृतं तस्य महर्षेभावितात्मनः।
 यन्मामनागसं दृष्ट्वा भक्तां त्यजति धार्मिकः ॥ ४ ॥
 
-* BĀLAKĀṆḌA *
+
 
 219
 
@@ -8844,7 +8844,7 @@ Thus addressed by Vasiṣṭha, Śabalā, who correctly understood the sense of 
 
 220
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 end to the pride, strength and endeavour of that wretch of a Viśwāmitra.” (16)
 
@@ -8884,7 +8884,7 @@ The entire army of Viśwāmitra was consumed by them as by blazing fires. Thereu
 
 Thus ends Canto Fifty-four in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 221
 
@@ -8944,7 +8944,7 @@ Having lost his sons and army, he felt
 
 222
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 miserable like a bird whose wings have been clipped. Nay, with all his strength and spirit shattered, he reached a state of despondency. (10)
 
@@ -9005,7 +9005,7 @@ Deity, the science of archery with its inmost secrets, including the branches of
 उदीर्यमाणमस्त्रं तद् विश्वामित्रस्य धीमतः।
 दृष्ट्वा विप्रदुता भीता मुनयः शतशो दिशः ॥ २२ ॥
 
-* BĀLAKĀṆḌA *
+
 
 223
 
@@ -9067,7 +9067,7 @@ Steadily uplifting his Brahmanical staff, which looked like another rod of Yama,
 
 224
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 I shall crush your pride as well as the pride of your weapons today, O son of Gādhi ! (3)
 
@@ -9106,7 +9106,7 @@ He then hurled, O scion of Raghu, at Vasiṣṭha, the foremost of ascetics, all
 तेषु शान्तेषु ब्रह्मास्त्रं क्षिप्तवान् गाधिनन्दनः।
 तदस्त्रमुद्यतं दृष्ट्वा देवाः साग्निपुरोगमाः ॥ १४ ॥
 
-* BĀLAKĀṆḌA *
+
 
 225
 
@@ -9168,7 +9168,7 @@ Thus ends Canto Fifty-six in the Bālakāṇḍa of the glorious Rāmāyaṇa of
 
 226
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # समपञ्चाशः सर्गः
 
@@ -9218,7 +9218,7 @@ been won by you through askesis, O son of Kuśika (Gādhi) ! (3—5)
 
 Filled with great agony to hear the aforesaid compliment and with his face downcast a bit through shame, Viśwāmitra too spoke to himself in a mood of dejection as follows : ‘Even though most severe austerities have been practised by me, all the gods including the hosts of Ṛṣis recognize
 
-* BĀLAKĀṆḌA *
+
 
 227
 
@@ -9274,7 +9274,7 @@ Approaching and greeting in order of seniority all the high-souled sons of Vasi�
 
 228
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 "The family priest, in the person of Vasiṣṭha, indeed has been the supreme
 
@@ -9326,7 +9326,7 @@ Filled with rage to hear the submission of Triśaṅku, O Rāma, the hundred son
 
 "How shall we be able to offer indignity to him by embarking on a venture which has been declared by him as something which cannot be taken in hand?" Hearing the aforesaid admonition of Vasiṣṭha's sons, couched as it was in words full of anger, the said king, however, once more made the following submission to them : "I have actually been repulsed by the venerable Vasiṣṭha and even so by you, my preceptor's sons. I shall accordingly approach another
 
-* BĀLAKĀṆḌA *
+
 
 229
 
@@ -9366,7 +9366,7 @@ Hearing the question of Viśwāmitra, the king, who knew the art of speaking, ev
 
 230
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 were intended to be performed by me in order that I might ascend bodily to heaven, O sage of pleasing aspect! But neither is that consummation (in the shape of my being able to perform a hundred sacrifices) attained by me nor the reward sought by me in the shape of my being translated to heaven. No untruth has ever been uttered by me in the past nor shall I ever tell a lie in future even when reduced to straits, O good Sir! I swear by my allegiance to the duties of a Kṣatriya. Worship has been offered by me to God through sacrificial performances of various kinds and people have been governed with righteousness.
 
@@ -9417,7 +9417,7 @@ the state of a Caṇḍāla, when he had finished his say : (1)
 
 "Welcome is your visit to my hermitage,
 
-* BĀLAKĀṆḌA *
+
 
 231
 
@@ -9479,7 +9479,7 @@ In due course exponents of the Vedas began to pour from all lands. Nay, returnin
 
 232
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 sages, all the observations they made in an angry tone. How would gods, they said, partake of the offerings and how would Ṛṣis eat the remains of those offerings in the sacrificial assembly of a sacrificer whose sacrifice is being conducted by a Kṣatriya, much less of a Caṇḍāla? And how, on eating the food offered by a Caṇḍāla, would the high-souled Brāhmaṇas patronized by Viśwāmitra attain to heaven after death? Such harshness of language did all the sons of Vasisṭha alongwith Mahodaya use with bloodshot eyes, O tiger among sages !” Hearing the aforesaid comment of all those sages, Viśwāmitra (a jewel among ascetics) indignantly spoke as follows with eyes blood-red through anger : “Since they speak ill of me, even though engaged in severe austerities and as such irreproachable, the evil-minded fellows will be reduced to ashes, and conveyed to the abode of Yama (son of the sun-god) this very day by the noose of Kāla, the god of death: there is no doubt about it. (10—18)
 
@@ -9501,7 +9501,7 @@ sages, all the observations they made in an angry tone. How would gods, they sai
 
 Thus ends Canto Fifty-nine in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 233
 
@@ -9551,7 +9551,7 @@ another the following observation, consistent with righteousness : "This sage, V
 
 234
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 चकारावाहनं तत्र भागार्थं सर्वदेवताः ।
 नाभ्यागमंस्तदा तत्र भागार्थं सर्वदेवताः ॥ ११ ॥
@@ -9597,7 +9597,7 @@ Overwhelmed with anger, the eminent sage Viśwāmitra thereupon lifted up the sa
 दक्षिणां दिशमास्थाय ऋषिमध्ये महायशाः ।
 सृष्ट्वा नक्षत्रवंशं च क्रोधेन कलुषीकृतः ॥ २२ ॥
 
-* BĀLAKĀṆḌA *
+
 
 235
 
@@ -9657,7 +9657,7 @@ Requested thus, all the gods replied as follows to Viśwāmitra, a jewel among s
 
 236
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 among men, all the gods as well as the high-souled Ṛṣis, whose only wealth was
 
@@ -9703,7 +9703,7 @@ At this very time the great king of Ayodhyā, known by the name of Ambariṣa, f
 
 Even while he was carrying on his sacrificial performance, Indra stole away the sacrificial animal: so it is said. The animal having mysteriously disappeared, the arch-priest officiating at the sacrifice, addressed the following words to the king : (6)
 
-* BĀLAKĀṆḌA *
+
 
 237
 
@@ -9759,7 +9759,7 @@ Bowing low to him and thereby securing his goodwill and also inquiring after his
 
 238
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 boy on any account, O jewel among men !”
 Hearing the answer of Ṛcika (her husband),
@@ -9835,7 +9835,7 @@ left for his capital. (24)
 Thus ends Canto Sixty-one in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki,
 the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 239
 
@@ -9883,7 +9883,7 @@ Hearing the aforesaid prayer of Śunaḥśepa and consoling him in many ways,
 
 240
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the great ascetic, Viśwāmitra, spoke to his own sons as follows, so it is said : (8)
 
@@ -9946,7 +9946,7 @@ Having subjected his sons to a curse as aforesaid, Viśwāmitra, the foremost of
 
 “Scrambling to the sacrificial post sacred to Lord Viṣṇu, when you have been bound with cords of Darbha grass and adorned with a wreath of crimson flowers and bedaubed with red sandal-paste for being offered as a victim at the sacrificial
 
-* BĀLAKĀṆḌA *
+
 
 241
 
@@ -10000,7 +10000,7 @@ Thus ends Canto Sixty-two in the Bālakāṇḍa of the glorious Rāmāyaṇa of
 
 242
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # त्रिषष्टितमः सर्गः
 
@@ -10050,7 +10050,7 @@ Succumbing to the passion of love, the sage (Viśwāmitra) spoke to her in the f
 विश्वामित्राश्रमे सौम्ये सुखेन व्यतिचक्रमुः।
 अथ काले गते तस्मिन् विश्वामित्रो महामुनिः ॥ ९ ॥
 
-* BĀLAKĀṆḌA *
+
 
 243
 
@@ -10093,7 +10093,7 @@ son of Kuśika, proceeded to the northern mountain, the Himālayas: so the tradi
 
 244
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 used for me the epithet 'Brahmarṣi' (a Brāhmaṇa seer), which has no equal in my eyes, as earned through pious acts performed by myself, then only I should consider myself as having thoroughly conquered my senses." Thereupon Brahmā replied to him, "You have not been able to conquer your senses. (17—21)
 
@@ -10144,7 +10144,7 @@ Feeling abashed when told thus by the sagacious Indra (the thousand-eyed god), O
 
 "This hot-tempered and eminent sage, Viśwāmitra, will pronounce a terrible curse
 
-* BĀLAKĀṆḌA *
+
 
 245
 
@@ -10207,7 +10207,7 @@ Having spoken thus, unable as he was to control his anger, the highly glorious a
 
 246
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Under his terrible curse Rambhā instantly got petrified. And, hearing the curse of the great Ṛṣi Viśwāmitra, Love as well as Indra slipped away. (15)
 
@@ -10262,7 +10262,7 @@ On Viśwāmitra not ceasing from his austerities even on his being conferred the
 स कृत्वा निश्चयं राम तप आतिष्ठताव्ययम्।
 तस्य वर्षसहस्रस्य व्रते पूर्णे महाव्रतः ॥ ४ ॥
 
-* BĀLAKĀṆḌA *
+
 
 247
 
@@ -10316,7 +10316,7 @@ thrown into confusion and felt heated as it were. Bewildered by his askesis and 
 
 248
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तावत् प्रसादो भगवन्नगिरूपो महाद्युतिः ।
 कालाग्निना यथा पूर्वं त्रैलोक्यं दह्यतेऽखिलम् ॥ १७ ॥
@@ -10365,7 +10365,7 @@ Having attained the highest status of a Brāhmaṇa, the pious Viśwāmitra too 
 कृतकामो महीं सर्वां चचार तपसि स्थितः ।
 एवं त्वनेन ब्राह्मण्यं प्राप्तं राम महात्मना ॥ २८ ॥
 
-* BĀLAKĀṆḌA *
+
 
 249
 
@@ -10426,7 +10426,7 @@ Accompanied by Śrī Rāma and
 
 250
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Lakṣmaṇa, Viśwāmitra, whose mind is ever given to piety, retired to his camp, being
 
@@ -10484,7 +10484,7 @@ Urged in these words, Janaka for his part replied as follows to Viśwāmitra, th
 
 “Nimi’s eldest son was known as King
 
-* BĀLAKĀṆḌA *
+
 
 251
 
@@ -10542,7 +10542,7 @@ name of Sītā*. That daughter of mine, who had emerged from the soil, gradually
 
 252
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “They, however, could not even support it, much less toss it in order to be able to ascertain its weight. Perceiving as I did the prowess of those princes, who claimed great prowess, to be deficient, O eminent sage, those rulers of men were rejected by me. Now hear what they did next, O sage rich in asceticism ! “Their prowess having been called in question, all the kings in extreme anger thereupon besieged Mithilā, O jewel among sages ! Considering themselves as having been insulted by me and, therefore, filled with great anger, those jewels among kings inflicted suffering on the city of Mithilā. Consequent on that siege, at the end of a full twelve month all my resources got depleted, O jewel among sages ! As a result of that I felt very wretched. Thereupon I propitiated through askesis all the hosts of gods. (19—23)
 
@@ -10582,7 +10582,7 @@ Thereupon the celebrated King Janaka gladly instructed as follows his counsellor
 
 Commanded by Janaka, his counsellors,
 
-* BĀLAKĀṆḌA *
+
 
 253
 
@@ -10658,7 +10658,7 @@ Nay, the celebrated scion of Raghu, whose mind is given to righteousness, strung
 
 254
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Having set the string to the bow, the highly illustrious Śrī Rāma, a jewel among men, bent the said bow and lo! the bow broke into two at the middle. (17)
 
@@ -10719,7 +10719,7 @@ The son of Kuśika, Viśwāmitra, for his part said, "Amen!" And, summoning his 
 
 Thus ends Canto Sixty-seven in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 255
 
@@ -10778,7 +10778,7 @@ All the envoys, whose feeling of awe had altogether disappeared, thanks to the b
 
 256
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 to be given away by me to that exalted soul.
 By doing so I seek to redeem my pledge.
@@ -10873,7 +10873,7 @@ night at Ayodhyā. (19)
 Thus ends Canto Sixty-eight in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki,
 the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 257
 
@@ -10936,7 +10936,7 @@ The extremely noble Janaka submitted as follows to the delighted Daśaratha, the
 
 258
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वाक्यं वाक्यविदां श्रेष्ठः प्रत्युवाच महीपतिम्।
 प्रतिग्रहो दातृवशः श्रुतमेतन्मया पुरा ॥ १४ ॥
@@ -10964,7 +10964,7 @@ Thus ends Canto Sixty-nine in the Bālakāṇḍa of the glorious Rāmāyaṇa o
 
 “We shall do as you will bid us do, O knower of what is right !” Janaka, the ruler of the territory of the Videhas, was filled with great astonishment to hear that most pious reply of the truthful monarch, which was conducive to glory. Filled with great delight at their meeting with one another, all the hosts of sages assembled there thereupon spent that night happily. Placing Viśwāmitra at his head, the highly glorious Śrī Rāma with Lakṣmaṇa then proceeded to touch the feet of his father. Greatly delighted to behold his two sons, the ornaments of Raghu's race, and honoured in every way by Janaka, king Daśaratha retired for the night full of great joy. Having concluded with piety the rites connected with the sacrifice which was being performed by him as well as those positively conducive to the good of his two daughters, Sītā and Ūrmilā, who were now going to be married, Janaka, a knower of the truth, retired for the night: so the tradition goes. (15—19)
 
-* BĀLAKĀṆḌA *
+
 
 259
 
@@ -11029,7 +11029,7 @@ Hearing the story of Janaka as told by the foremost of his envoys, who were very
 
 260
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स त्वां द्रष्टुं व्यवसितः सोपाध्यायपुरोहितम्।
 मन्त्रिश्रेष्ठवचः श्रुत्वा राजा सर्षिगणस्तथा ॥ १४ ॥
@@ -11070,7 +11070,7 @@ king, that the very powerful sage Vasiṣṭha, the adored of the house of Ikṣ
 
 “The highly glorious and mighty Bāṇa, again, was the son of Vikukṣi, and even so Anaraṇya was the highly glorious and mighty son of Bāṇa. (23)
 
-* BĀLAKĀṆḌA *
+
 
 261
 
@@ -11128,7 +11128,7 @@ Having saluted Cyavana, the widowed princess, who was solely devoted to her husb
 
 262
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the grace of the sage the glorious lady safely delivered a son. (36)
 
@@ -11181,7 +11181,7 @@ Thus ends Canto Seventy in the Bālakāṇḍa of the glorious Rāmāyaṇa of V
 
 3. The order in which the names occur here is different from that followed in some of the Purāṇas. The difference can, however, be reconciled by the fact that the accounts relate to different Kalpas or cycles.
 
-* BĀLAKĀṆḌA *
+
 
 263
 
@@ -11247,7 +11247,7 @@ To Vasiṣṭha, who was speaking as aforesaid, Janaka with folded hands replied
 
 264
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 महारोम्पस्तु धर्मात्मा स्वर्णरोमा व्यजायत।
 स्वर्णरोम्पस्तु राजर्षेर्हुस्वरोमा व्यजायत ॥ १२ ॥
@@ -11305,7 +11305,7 @@ To Vasiṣṭha, who was speaking as aforesaid, Janaka with folded hands replied
 
 * The word ‘गोदान’ in Sanskrit also means the shaving of one’s hair.
 
-* BĀLAKĀṆḌA *
+
 
 265
 
@@ -11360,7 +11360,7 @@ We sue, O jewel among men, as a wife to prince Bharata as also to the shrewd Śa
 
 266
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 पुत्रा दशरथस्येमे रूपयौवनशालिनः ।
 लोकपालसमाः सर्वे देवतुल्यपराक्रमाः ॥ ७ ॥
@@ -11422,7 +11422,7 @@ While Janaka, who belonged to the line of the Videhas, was speaking thus, King D
 
 “You two brothers, the rulers of Mithilā, possess innumerable qualities. Sages and hosts of princes have been entertained by you both on many occasions.” (18)
 
-* BĀLAKĀṆḌA *
+
 
 267
 
@@ -11499,7 +11499,7 @@ Vālmiki, the work of a Ṛṣi and the oldest epic.
 
 268
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # त्रिसप्ततितमः सर्गः
 
@@ -11543,7 +11543,7 @@ On that very day when in fact Emperor Daśaratha performed the grand Samāvartan
 
 Placing ahead sage Vasiṣṭha and other eminent sages too, and accompanied by all his three brothers, adorned with every ornament, Śrī Rāma, who was himself dressed in a festive attire appropriate to the occasion of wedding, also arrived at the hour known (in astronomical works) by the name of Vijaya (so-called because it is calculated to bring success to an enterprise undertaken during that hour), propitious for a wedding. Arriving there, the holy Vasiṣṭha spoke to
 
-* BĀLAKĀṆḌA *
+
 
 269
 
@@ -11604,7 +11604,7 @@ Saying “Amen !” to Janaka, and placing Viśwāmitra and the pious Śatānand
 
 270
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 properly made of Palāśa or Khadira wood about as long as an arm, with a receptacle at the end of the size of a hand) and Sruvās (smaller wooden ladles used for pouring ghee into the Sruk), vessels brimful with water to be offered to a deity for washing the hands etc., with, as well as with vessels full of parched grains of paddy and smaller vessels as also with grains of unbroken rice dyed with the powder of dried turmeric root. Again, bestrewing the altar with blades of Darbha grass equal in length and placing the fire on it according to the scriptural ordinance while reciting sacred texts, the highly glorious Vasiṣṭha, the foremost of sages, poured oblations into it with due ceremony with the recitation of sacred texts. (18—24)
 
@@ -11648,7 +11648,7 @@ Saying so, king Janaka forthwith transferred to Śrī Rāma's hand the water in 
 
 "Let yourselves be married, O scions of Kakutstha! Let there be no delay." Hearing the request of Janaka, all the four princes,
 
-* BĀLAKĀṆḌA *
+
 
 271
 
@@ -11696,7 +11696,7 @@ Asking permission of Janaka, who belonged to the line of the Videhas, the ruler 
 
 272
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अथ राजा विदेहानां ददौ कन्याधनं बहु।
 गवां शतसहस्राणि बहूनि मिथिलेश्वरः ॥ ३ ॥
@@ -11751,7 +11751,7 @@ Seeing them, Daśaratha, a tiger among kings, respectfully inquired of Vasiṣ�
 कैलासमिव दुर्धर्षं कालाग्निमिव दुःसहम्।
 ज्वलन्तमिव तेजोभिर्दुर्निरीक्ष्यं पृथग्जनैः ॥ १८ ॥
 
-* BĀLAKĀṆḌA *
+
 
 273
 
@@ -11791,7 +11791,7 @@ Thus ends Canto Seventy-four in the Bālakāṇḍa of the glorious Rāmāyaṇa
 
 274
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # पञ्चसप्ततितमः सर्गः
 
@@ -11849,7 +11849,7 @@ Hearing that challenge of Paraśurāma, King Daśaratha felt miserable and, pull
 
 Turning a deaf ear to his entreaty, however, even though Daśaratha prayed as aforesaid, the glorious Paraśurāma (son of Jamadagni) continued to address Śrī Rāma alone and said : (10)
 
-* BĀLAKĀṆḌA *
+
 
 275
 
@@ -11901,7 +11901,7 @@ Turning a deaf ear to his entreaty, however, even though Daśaratha prayed as af
 
 276
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of the royal sage Devarāta born in the line of the Videha kings. Lord Viṣṇu, on the other hand, O Rāma, made over this superb bow of His own, capable of subduing the enemy's stronghold, as a trust to Ṛcika, a scion of sage Bhrgu. The highly glorious Ṛcika in his turn bestowed the heavenly gift on his own son, the high-souled Jamadagni, my father, who was too good to retaliate a wrong and had therefore no use for it. Reckoning my father, who had given up the use of arms and was richly endowed with spiritual energy earned through his austerities, as a common man, Arjuna (more popularly known by the name of Sahasrabāhu because of his thousand arms) caused his death. Hearing of my father's most cruel and unmerited death, I for my part uprooted more than once (as many as twenty-one times) out of indignation the Kṣatriyas even as they were born. (14—24)
 
@@ -11933,7 +11933,7 @@ Placing above all else the noble duty of a Kṣatriya (which consists in accepti
 
 Thus ends Canto Seventy-five in the Bālakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* BĀLAKĀṆḌA *
+
 
 277
 
@@ -11992,7 +11992,7 @@ This is also borne out by verse 11 of this very Canto.
 
 278
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इमां वा त्वद्गतिं राम तपोबलसमर्जितान्।
 लोकानप्रतिमान् वापि हनिष्यामीति मे मतिः ॥ ७ ॥
@@ -12049,7 +12049,7 @@ Dazed by the brilliance of Śrī Rāma, due to his having been rendered powerles
 एते सुरगणाः सर्वे निरीक्षन्ते समागताः।
 त्वामप्रतिमकर्माणमप्रतिद्वन्द्वमाहवे ॥ १८ ॥
 
-* BĀLAKĀṆḌA *
+
 
 279
 
@@ -12093,7 +12093,7 @@ Having walked clockwise round Śrī Rāma, son of Daśaratha, the mighty Paraśu
 
 280
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # सप्तसप्ततितमः सर्गः
 
@@ -12144,7 +12144,7 @@ He urged his army forward and then speedily reached his delightful capital. The 
 वधूप्रतिग्रहे युक्ता याश्चान्या राजयोषितः।
 ततः सीतां महाभागामूर्मिलां च यशस्विनीम् ॥ ११ ॥
 
-* BĀLAKĀṆḌA *
+
 
 281
 
@@ -12189,7 +12189,7 @@ Duly entertained with luxuries by his own people, the king rejoiced at his house
 
 282
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ever did in everyway all business relating to the citizens, which was dear to them as well as conducive to their interests. Doing all the work of his three mothers for their sake, Śrī Rāma, who was highly self-restrained, attended from time to time the important business of his elders. In this was King Daśaratha, the Brāhmaṇas as well as the traders—in fact, all the people of the kingdom of Ayodhyā were pleased with the disposition and conduct of Śrī Rāma. Śrī Rāma, who was endowed with true unfailing valour, outshone all his brothers in reputation and, like Brahmā, the self-born creator, excelled all created beings in merit. The high-minded Śrī Rāma, whose heart was set on his spouse and who stood enthroned in her heart, enjoyed life with her for many months. Sītā was dear to Śrī Rāma as a partner made available to him by his father. Nay, because of her manifold virtues and comeliness of form, his affection for her grew all the more. Her husband too (because of his excellences and lovely appearance) gained a doubly
 

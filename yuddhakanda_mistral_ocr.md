@@ -43,7 +43,7 @@ Filled with delight to hear the story of Hanumān, faithfully narrated, Śrī R�
 
 294
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 by Hanumān to Sugrīva by manifesting his strength in proportion to his valour in this way. (4—6)
 
@@ -102,7 +102,7 @@ Exercising his mind awhile, Śrī Rāma, the foremost among the Raghus, once mor
 
 “How on earth will the monkeys, gather together for the purpose of recovering Sītā from the enemy’s hands, reach the southern shore of the sea, which is so difficult to cross and comprises a vast sheet of water? (17)
 
-* YUDDHAKĀṆḌA *
+
 
 295
 
@@ -163,7 +163,7 @@ To the said Śrī Rāma, sprung from the loins of Daśaratha, who was sore stric
 
 296
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “These leaders of monkey troops are gallant and powerful in everyway; they are ready even to enter fire in order to oblige you. I conclude this from their joy on the proposal of an expedition against Laṅkā being made to them, and my reason in favour of this conclusion is also strong. (7)
 
@@ -221,7 +221,7 @@ are capable of assuming any form at will, are all heroic in battle. (12)
 
 “I do not actually see anyone in all the three worlds (the earth, heaven and the intermediate region), who can stand face to face with you on a field of battle when you have seized a bow, O scion of Raghu! (17)
 
-* YUDDHAKĀṆḌA *
+
 
 297
 
@@ -286,7 +286,7 @@ accepted it and spoke to Hanumān as follows: (1)
 
 298
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 this sea, either by strength of will acquired by virtue of my asceticism, or by throwing a bridge across it or even by drying up the sea by use of mystic missiles. (2)
 
@@ -406,7 +406,7 @@ and alert in reviewing his forces. (19)
 
 300
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “A lakh of ogres, with a complete army of four limbs, viz., horses, foot soldiers, elephants and chariots, are garrisoned at the southern gate of this city. Warriors unsurpassed by others stand comprised in that army. (25)
 
@@ -458,7 +458,7 @@ a part of the army of the gigantic ogres destroyed. (29)
 
 Thus ends Canto Three in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 301
 
@@ -528,7 +528,7 @@ Warmly applauded by Sugrīva, the ruler of monkeys, as well as by Lakṣmaṇa, 
 
 302
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Addressing the Commander-in-Chief, Nila, he said: “O Nila, my generalissimo, lead the army speedily by a route full of fruits and roots as well as of honey and abounding in woods with a cool shade and fresh water. (10)
 
@@ -587,7 +587,7 @@ Addressing the Commander-in-Chief, Nila, he said: “O Nila, my generalissimo, l
 
 Hearing the command of Śrī Rāma, a scion of Raghu, Sugrīva, the foremost of monkeys and the ruler of the army, who was endowed with extraordinary prowess,
 
-* YUDDHAKĀṆḌA *
+
 
 303
 
@@ -654,7 +654,7 @@ Followed by a hundred crores of monkeys, Kesarī and Panasa protected the right 
 
 304
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Arka, who were followed by numerous monkeys, guarded the other, left, flank. (33)
 
@@ -752,7 +752,7 @@ the foremost constellation in the eyes of the Ikṣwākus (being their tutelary 
 
 306
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Thus spoke Lakṣmaṇa (son of Sumitrā), feeling cheerful on having reassured his eldest brother, Śrī Rāma. Meanwhile, the army of the monkeys moved along, covering the entire globe, as it were. (55)
 
@@ -862,7 +862,7 @@ Mango as well as Pāṭala and Kovidāra, Muculinda as well as Arjuna, Śimśap�
 
 308
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 चक्रवाकानुचरिताः कारण्डवनिषेविताः ।
 प्लवैः क्रौञ्चैश्च संकीर्णा वराहमृगसेविताः ॥ ८३ ॥
@@ -914,7 +914,7 @@ Having duly crossed in the first place the Sahya mountain as well as the great M
 
 * roughly about 40 Kg.
 
-* YUDDHAKĀṆḌA *
+
 
 309
 
@@ -980,7 +980,7 @@ The noise of the movement of the army, while they were encamping, was distinctly
 
 310
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सा वानराणां ध्वजिनी सुग्रीवेणाभिपालिता।
 त्रिधा निविष्टा महती रामस्यार्थपराभवत् ॥ १०७ ॥
@@ -1021,7 +1021,7 @@ With its sparkling spray, the sea, which is always the dread refuge of demons (t
 तं यो गिलति मत्स्यः स तिमिंगिल इतीरितः ॥
 तिमिंगिलगिलोऽप्यस्ति तद्गिलोऽप्यस्ति सागरे ॥
 
-* YUDDHAKĀṆḌA *
+
 
 311
 
@@ -1079,7 +1079,7 @@ Nay, both Mainda and Dwivida, the two bulls among monkeys, patrolled in that are
 
 312
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 निविष्टायां तु सेनायां तीरे नदनदीपतेः।
 पार्श्वस्थं लक्ष्मणं दृष्ट्वा रामो वचनमब्रवीत् ॥ ३ ॥
@@ -1143,7 +1143,7 @@ separation from her and flaring up into the bright flame of my thought of her. (
 
 “O, when will her close, bulging and
 
-* YUDDHAKĀṆḌA *
+
 
 313
 
@@ -1200,7 +1200,7 @@ Thus ends Canto Five in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vā
 
 314
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षष्ठः सर्गः
 
@@ -1256,7 +1256,7 @@ Perceiving the terrible and grisly feat accomplished in Laṅkā by the high-sou
 
 "Failing to ascertain the advantages and the disadvantages of a scheme, nay, renouncing his dependence on Providence and merely saying 'I shall do it', he who neglects his duty is the vilest of men. (10)
 
-* YUDDHAKĀṆḌA *
+
 
 315
 
@@ -1307,7 +1307,7 @@ Thus ends Canto Six in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vāl
 
 316
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # सप्तमः सर्गः
 
@@ -1416,7 +1416,7 @@ nay, all those people there were highly gratified through your excellent fightin
 
 318
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 duck-weeds, nay, full of turtles in the form of elephants, teeming with frogs in the form of horses, infested with alligators in the form of the eleven Rudras (gods of destruction) and twelve Ādityas (sons of Aditi), and with huge serpents in the form of the forty-nine Maruts (wind-gods) and the eight Vasus, and having chariots, horses and elephants for its volume of water and foot-soldiers for its sandy beach, Indra, the ruler of gods, was actually captured by him and thrust into Laṅkā as a detenu.
 
@@ -1467,7 +1467,7 @@ all are capable of being easily overpowered by us in an encounter, much less a c
 
 “We were all hoodwinked by Hanūmān because we were unwary and unsuspecting. That monkey (a denizen of the forest) could not otherwise escape alive so long as I am living. (3)
 
-* YUDDHAKĀṆḌA *
+
 
 319
 
@@ -1532,7 +1532,7 @@ Then spoke as follows Vajrādamṣṭra, who was endowed with extraordinary migh
 
 320
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and with arrows and swords in hand, we should then speedily reach there with quick steps from this side. (16)
 
@@ -1585,7 +1585,7 @@ Restraining the ogres, who were boasting each of his own strength, Vibhīṣaṇ
 परिघान् पट्टिशान् शूलान् प्रासान् शक्तिपरश्वधान्।
 चापानि च सुबाणानि खड्गांश्च विपुलाम्बुभान् ॥ ४ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 321
 
@@ -1638,7 +1638,7 @@ with all the other three expedients, viz., conciliation, gift and sowing seeds o
 
 322
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 खरो यद्यतिवृत्तस्तु स रामेण हतो रणे।
 अवश्यं प्राणिनां प्राणा रक्षितव्या यथाबलम् ॥ १४ ॥
@@ -1694,7 +1694,7 @@ besieges Laṅkā. (18)
 विभीषणवचः श्रुत्वा रावणो राक्षसेश्वरः।
 विसर्जयित्वा तान् सर्वान् प्रविवेश स्वकं गृहम् ॥ २३ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 323
 
@@ -1775,7 +1775,7 @@ of Veda. (8)
 
 324
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 पूजितान् दधिपात्रैश्च सर्पिभिः सुमनोऽक्षतैः।
 मन्त्रवेदविदो विप्रान् ददर्श स महाबलः ॥ ९ ॥
@@ -1829,7 +1829,7 @@ Having sought the favour of his eldest (half-) brother by means of soothing word
 
 "Crows in flock utter harsh cries on all sides and are seen gathered in
 
-* YUDDHAKĀṆḌA *
+
 
 325
 
@@ -1896,7 +1896,7 @@ Having spoken as aforesaid, Rāvaṇa,
 
 326
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the ten-headed monster, the destroyer of
 the celestial forces, who was endowed with
@@ -1982,7 +1982,7 @@ well as at his back at that time. (6)
 रथैश्चातिरथाः शीघ्रं मत्तैश्च वरवारणैः ।
 अनूपेतुर्दशग्रीवमाक्रीडद्भिश्च वाजिभिः ॥ ७ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 327
 
@@ -2030,7 +2030,7 @@ That eminent and great car-warrior presently reached the splendid highway, causi
 
 328
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 that momentous action has to be taken with regard to the enemies.” (18)
 
@@ -2086,7 +2086,7 @@ Then arrived the high-souled and illustrious Vibhīṣaṇa in the assembly pres
 
 Younger as he was, he mentioned his name by way of courtesy to his eldest (half-) brother and then bowed at the latter's feet. Śuka and Prahasta too did just the same. Rāvaṇa, for his part, offered them separate seats according to their respective rank. (28)
 
-* YUDDHAKĀṆḌA *
+
 
 329
 
@@ -2154,7 +2154,7 @@ Keen to carry out the royal command, the celebrated Prahasta, who had discipline
 
 330
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततो विनिक्षिप्य बलं सर्वं नगरगुप्तये।
 प्रहस्तः प्रमुखे राज्ञो निषसाद जगाद च ॥ ४ ॥
@@ -2216,7 +2216,7 @@ Hearing the submission of Prahasta, a well-wisher of the State, the celebrated R
 
 “On seeing her feet, soft and well set, with deep red soles and coppery nails, love is kindled in my heart. (15)
 
-* YUDDHAKĀṆḌA *
+
 
 331
 
@@ -2261,7 +2261,7 @@ even Rāma and Lakṣmaṇa, the two sons of Daśaratha, be able to cross the se
 
 332
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Surely, I do not see the capacity of anyone in the world other than Rāma to cross the sea alongwith the monkeys. But even if he succeeds in doing so, victory is surely mine.” (26)
 
@@ -2314,7 +2314,7 @@ Hearing the wail of Rāvaṇa, who was overwhelmed with passion, Kumbhakarṇa f
 
 * We read in the Mahābhārata (Śalya-Parva, 46.84) how God Kārtikeya (son of Lord Śiva) made a fissure in the Kraunča mountain with His javelin.
 
-* YUDDHAKĀṆḌA *
+
 
 333
 
@@ -2374,7 +2374,7 @@ joined palms as follows: (1)
 
 334
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 prey and reptiles and having duly found honey does not drink it. (2)
 
@@ -2435,7 +2435,7 @@ Acclaiming his counsel when exhorted in the foregoing words by Mahāpārśwa on 
 
 “The aforesaid incident, I presume, came to be known precisely as it had occurred to that exalted soul. Highly enraged, the creator forthwith addressed the following words to me: (13)
 
-* YUDDHAKĀṆḌA *
+
 
 335
 
@@ -2487,7 +2487,7 @@ Thus ends Canto Thirteen in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of
 
 336
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चतुर्दशः सर्गः
 
@@ -2606,7 +2606,7 @@ who is adept in achieving his object, be compassed, O Prahasta, by yourself, mys
 
 338
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Neither Rāvaṇa nor Triśrā of exceeding might nor Nikumbha, son of Kumbhakarṇa, nor Indrajit nor even yourself shall be able to bear the onrush of Rāma (son of Daśaratha), who is equal to Indra in combat. (15)
 
@@ -2665,7 +2665,7 @@ who is adept in achieving his object, be compassed, O Prahasta, by yourself, mys
 
 “Harshness of speech and severity of punishment, extravagance, drinking, love of women, hunting and gambling constitute the sevenfold evil addictions, O Lord!”
 
-* YUDDHAKĀṆḌA *
+
 
 339
 
@@ -2764,7 +2764,7 @@ worlds, was cast by me to the ground. Nay,
 
 340
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 struck with terror, all the divine hordes
 too fled in all directions on that occasion.
@@ -2866,7 +2866,7 @@ Indrajit! (12)
 “Who can withstand the flaming
 arrows, discharged by Rāma, a scion of
 
-* YUDDHAKĀṆḌA *
+
 
 341
 
@@ -2922,7 +2922,7 @@ Rāvaṇa, who was under the influence of Death, addressed the following harsh w
 
 342
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 नाग्निर्नान्यानि शस्त्राणि न नः पाशा भयावहाः।
 घोराः स्वार्थप्रयुक्तास्तु ज्ञातयो नो भयावहाः ॥ ७ ॥
@@ -2986,7 +2986,7 @@ Nay, standing in airspace, the glorious Vibhīṣaṇa, (half-) brother of Rāva
 
 
 
-* YUDDHAKĀṆḌA *
+
 
 343
 
@@ -3044,7 +3044,7 @@ Thus ends Canto Sixteen in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of 
 
 344
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # सप्तदशः सर्गः
 
@@ -3107,7 +3107,7 @@ Reaching the northern shore even as they were talking with one another in this s
 स उवाच महाप्राज्ञः स्वरेण महता महान्।
 सुग्रीवं तांश्च सम्प्रेक्ष्य खस्थ एव विभीषणः ॥ ११ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 345
 
@@ -3170,7 +3170,7 @@ Hearing this appeal, the swift-footed Sugrīva for his part ran up to the presen
 
 346
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अथ वा स्वयमेवैष छिद्रमासाद्य बुद्धिमान्।
 अनुप्रविश्य विश्वस्ते कदाचित् प्रहरेदपि ॥ २३ ॥
@@ -3234,7 +3234,7 @@ Hearing the foregoing speech of Sugrīva, Śrī Rāma, who was endowed with extr
 
 Consulted in these words, the monkeys, who were free from lassitude and keen to
 
-* YUDDHAKĀṆḌA *
+
 
 347
 
@@ -3295,7 +3295,7 @@ Having duly made up his mind, Śarabha for his part now tendered the following a
 
 348
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Deeply reflecting with a mind enlightened by knowledge of scriptures, the clear-sighted Jāmbavān for his part next made the following submission, which was full of excellences and free from faults: (45)
 
@@ -3410,7 +3410,7 @@ Fully considering your endeavour (to storm Laṅkā, in the form of building a b
 
 350
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 hearing of Vāli, who went clockwise round the four oceans squeezing Rāvaṇa in his arm-pit, having been killed with a single arrow as well as of Sugrīva having been crowned king by you, Vibhīṣaṇa (who longed for sovereignty) has for his part deliberately come here. Taking all this into consideration it seems advisable in any case to accept him as our own. (66-67)
 
@@ -3461,7 +3461,7 @@ Reflecting on Śrī Rāma’s reply and also repeating it, Sugrīva, the foremos
 
 Hearing the submission of Sugrīva, the suzerain lord of monkeys, and looking round
 
-* YUDDHAKĀṆḌA *
+
 
 351
 
@@ -3529,7 +3529,7 @@ while the ogre is covetous of sovereignty. Ogres are learned too sometimes; henc
 
 352
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 indeed is a brother of the cruel Rāvaṇa,
 O mighty-armed prince!” (18-19)
@@ -3637,7 +3637,7 @@ circumstances; for such failure shuts out
 heaven, brings infamy and puts an end to
 one’s strength and virility. (31)
 
-* YUDDHAKĀṆḌA *
+
 
 353
 
@@ -3691,7 +3691,7 @@ Thus ends Canto Eighteen in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of
 
 354
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकोनविंशः सर्गः
 
@@ -3736,7 +3736,7 @@ Commanded in these words by Śrī Rāma of unwearing action, the ogre, Vibhīṣ
 
 "My powerful elder brother, Kumbhakarṇa, who is younger to Rāvaṇa
 
-* YUDDHAKĀṆḌA *
+
 
 355
 
@@ -3846,7 +3846,7 @@ and kinsfolk in combat.” (21)
 
 356
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Making obeisance with his head bent low on hearing the vow of the aforesaid Śrī Rāma of unwearied action, Vibhīṣaṇa, whose mind was set on virtue, for his part proceeded to submit as follows: (22)
 
@@ -3908,7 +3908,7 @@ The thick-necked Sugrīva then proceeded to convey the salutary counsel of Vibh�
 सत्क्रियार्थं क्रियादक्षं स्मितपूर्वमभाषत।
 विभीषणस्य मन्त्रोऽयं मम लक्ष्मण रोचते ॥ ३५ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 357
 
@@ -3953,7 +3953,7 @@ Thus ends Canto Nineteen in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of
 
 358
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # विंशः सर्गः
 
@@ -4069,7 +4069,7 @@ Gaining speed with his wings on immunity having been granted to him by the monke
 
 360
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Spoken to as aforesaid, Sugriva, the Suzerain lord of monkeys, the foremost of monkeys, who was endowed with extraordinary strength and undepressed in spirit, forthwith made the following faultless reply to Śuka, the spy of the ogre, Rāvaṇa: (22)
 
@@ -4127,7 +4127,7 @@ Thereupon Aṅgada too, son of Vāli and the foremost of monkeys, said, “This 
 ततो राज्ञा समादिष्टाः समुत्पत्य वलीमुखाः।
 जगृह्य बबन्धुश्च विलपन्तमनाथवत् ॥ ३१ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 361
 
@@ -4178,7 +4178,7 @@ arm, which looked like the coils of a serpent and was adorned in the past with o
 
 362
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 संयुगे युगसंकाशं शत्रूणां शोकवर्धनम्।
 सुहृदां नन्दनं दीर्घं सागरान्तव्यपाश्रयम् ॥ ६ ॥
@@ -4224,7 +4224,7 @@ Enraged against Ocean, the outer corners of his eyes turned red. Śrī Rāma the
 महाभोगानि मत्स्यानां करिणां च करानिह।
 सशाङ्कुशुक्तिकाजालं समीनमकरं तथा ॥ १९ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 363
 
@@ -4272,7 +4272,7 @@ That great onrush of the sea-water
 
 364
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 with its fishes and alligators, assumed an exceptionally terrible aspect, attended as it was with the roaring of the wind. (28)
 
@@ -4323,7 +4323,7 @@ Nay, an alarm was raised at a high pitch by Brāhmaṇa Ṛṣis and celestial �
 
 Thus ends Canto Twenty-one in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 365
 
@@ -4417,7 +4417,7 @@ Illumined by hundreds of meteors
 
 366
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 (appearing all of a sudden), the sky then blazed forth. And, accompanied by unparalleled peals of thunder, flashes of lightning shot forth from the sky. (9)
 
@@ -4476,7 +4476,7 @@ He was clad in red robes and wore a garland of red flowers, his eyes resembled t
 
 Decked with jewels studded in refined
 
-* YUDDHAKĀṆḌA *
+
 
 367
 
@@ -4532,7 +4532,7 @@ Hearing the question of Śrī Rāma and perceiving that mighty arrow, Ocean, who
 
 368
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 sinful deeds. This excellent shaft may, therefore, be discharged to hit in the region.” (34)
 
@@ -4653,7 +4653,7 @@ Those monkeys filled the sea with sal and Aśwakarṇa, as well as with Dhava an
 
 370
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 समूलांश्च विमूलांश्च पादपान् हरिसत्तमाः ।
 इन्द्रकेतुनिवोद्यय्य प्रजहुर्वानरास्तरून् ॥ ५८ ॥
@@ -4762,7 +4762,7 @@ Taking long and short leaps and thundering, the monkeys beheld that inconceivabl
 
 372
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 हनुमन्तं त्वमारोह अङ्गदं त्वथ लक्ष्मणः।
 अयं हि विपुलो वीर सागरो मकरालयः ॥ ८२ ॥
@@ -4806,7 +4806,7 @@ They further hailed Śrī Rāma, who was honoured by kings, (lit., lords of men)
 
 Thus ends Canto Twenty-two the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 373
 
@@ -4889,7 +4889,7 @@ sandalwood in colour, appears most lurid. From the blazing sun is falling a roun
 
 374
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “The earth, it appears, will be covered with rocks, darts and swords hurled by monkeys and ogres and will be thick with a morass of flesh and blood. (12)
 
@@ -5001,7 +5001,7 @@ So did Śrī Rāma, son of Daśaratha, speak in confidence to Lakṣmaṇa to di
 
 376
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 out of the army, the valiant Aṅgada, who is difficult to conquer, should take up his position alongwith Nila at the bosom of the (human-shaped) formation in which the troops are going to be deployed. (14)
 
@@ -5058,7 +5058,7 @@ Released under orders of Śrī Rāma and molested by the monkeys, Śuka, who was
 
 Rāvaṇa, they say, put the following questions to Śuka, even while laughing to his heart’s content: “How have these
 
-* YUDDHAKĀṆḌA *
+
 
 377
 
@@ -5125,7 +5125,7 @@ Hearing the submission of Śuka, Rāvaṇa replied as follows, his eyes blood-re
 
 378
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “O, when will my shafts dart towards Rāma (a scion of Raghu) as intoxicated bees rush towards a flowered tree in the vernal season? (37)
 
@@ -5168,7 +5168,7 @@ Hearing the submission of Śuka, Rāvaṇa replied as follows, his eyes blood-re
 
 Thus ends Canto Twenty-four in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 379
 
@@ -5221,7 +5221,7 @@ The aforesaid Śuka and Sāraṇa did
 
 380
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 not, however, know at that time how to count from that place that simian army, whose number could not even be conceived, much less correctly known and which made one's hair stand on end. (10)
 
@@ -5281,7 +5281,7 @@ Laughing heartily to hear the aforesaid submission of the two ogres, Śrī Rāma
 
 (Turning to the monkeys) nay, fully set free both these rangers of the night, who have come in disguise as spies, even though they have been constantly seeking to create dissidence in the hostile (opposite) ranks. (21)
 
-* YUDDHAKĀṆḌA *
+
 
 381
 
@@ -5333,7 +5333,7 @@ Hailing the aforesaid Śrī Rāma, a scion of Raghu, a lover of piety, in the wo
 
 382
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of fighting. Therefore, have done with antagonism. Let peace be concluded with
 
@@ -5383,7 +5383,7 @@ Hearing the aforesaid truthful and intrepid submission made by Sāraṇa, King R
 
 Surveying the sea as well as the mountains and forests with the aforesaid spies (Śuka and Sāraṇa), Rāvaṇa, who was excited with anger, saw the terrestrial region fully crowded with monkeys. Beholding
 
-* YUDDHAKĀṆḌA *
+
 
 383
 
@@ -5439,7 +5439,7 @@ voice the entire Laṅkā with its defensive walls and arches and including its 
 
 384
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अनुवालिसुतस्यापि बलेन महता वृतः।
 वीरस्तिष्ठति संग्रामे सेतुहेतुरयं नलः ॥ २१ ॥
@@ -5487,7 +5487,7 @@ about that lovely mountain and ruled his kingdom while living in that region. (2
 प्रकम्पते च रोषेण तिर्यक् च पुनरीक्षते।
 पश्य लाङ्गूलविक्षेपं क्ष्वेडत्येष महाबलः ॥ ३४ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 385
 
@@ -5545,7 +5545,7 @@ remain at the beck and call of this leader of troop-commanders. (40)
 
 386
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 who are the foremost among generals and who cannot be numbered, are formidable
 
@@ -5654,7 +5654,7 @@ whether he is leaping in fury or standing still, all the monkeys stand gazing, O
 
 388
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 glorious and mighty jewel among the monkeys, a commander of troops, Krathana by name, who is ever unboastful in wars, revels on a mountain (Kailāsa), which is the king of rulers of mountains, frequented by numerous Kinnaras, a class of demigods with a human figure and the head of a horse or with a horse's body and the head of a man, nay, on which King Kubera (son of Sage Viśravā) takes his seat beneath a Jambū (a variety of rose-apple) tree, and which affords the delight of sport to your (said half-) brother, Kubera, O suzerain lord of ogres! (20—23)
 
@@ -5763,7 +5763,7 @@ round, grey eyes, they create a most appalling uproar while marching. (42)
 
 390
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 resembling big mountains and all are capable of levelling in a trice the earth with its
 
@@ -5820,7 +5820,7 @@ Thus ends Canto Twenty-seven in the Yuddhakāṇḍa of the glorious Rāmāyaṇ
 
 * The number exactly corresponding to a Śaṅku and a Vṛnda should be understood as calculated at the end of this canto.
 
-* YUDDHAKĀṆḌA *
+
 
 391
 
@@ -5877,7 +5877,7 @@ standing here like an elephant in rut and who when enraged would violently churn
 
 392
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Vedas, nay, who is the foremost of the knowers of the Vedas, who can split the vault of heaven with his arrows and even rend the earth, whose wrath is like the wrath of Death and whose prowess is similar to that of Indra (the ruler of gods), and whose consort, Sītā, was borne away by you from Janasthāna. The selfsame Rāma is advancing to wage war on you, O king!
 (18—21)
@@ -5935,7 +5935,7 @@ King Vibhiṣaṇa indeed.
 
 
 
-* YUDDHAKĀṆḌA *
+
 
 393
 
@@ -5991,7 +5991,7 @@ Thus ends Canto Twenty-eight in the Yuddhakāṇḍa of the glorious Rāmāyaṇ
 
 394
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकोनत्रिंशः सर्गः
 
@@ -6077,7 +6077,7 @@ not been retained in memory. The load of
 ignorance alone is being borne by you.
 Through sheer good luck I am able to
 
-* YUDDHAKĀṆḌA *
+
 
 395
 
@@ -6197,7 +6197,7 @@ very little effort after being assailed.”
 
 396
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 चारास्तु ते तथेत्युक्त्वा प्रहृष्टा राक्षसेश्वरम्।
 शार्दूलमग्रतः कृत्वा ततश्चक्रुः प्रदक्षिणम् ॥ २२ ॥
@@ -6245,7 +6245,7 @@ Arrived in the presence of Rāvaṇa, the ten-headed monster, the aforesaid ogre
 
 Thus ends Canto Twenty-nine in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 397
 
@@ -6349,7 +6349,7 @@ and asking for protection with joined palms,
 
 398
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 I was unexpectedly delivered by Rāma saying “Stay! Stay!!” (10)
 
@@ -6408,7 +6408,7 @@ First, there is King Sugriva (son of Ṛkṣarajā), who is very difficult to co
 
 * Although Jāmbavān has been spoken of elsewhere as a progeny of Brahmā, he is referred to as a son of Gadgada in this context evidently because he was brought up by Gadgada.
 
-* YUDDHAKĀṆḌA *
+
 
 399
 
@@ -6473,7 +6473,7 @@ Again, Gaja, Gavākṣa, Gavaya,
 
 400
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 further there is the monkey, Hemakūṭa, son of Varuṇa, the god of water. (32)
 
@@ -6513,7 +6513,7 @@ Laṅkā, spies told the king about the celebrated Śrī Rāma (a scion of Raghu
 
 * The parentage of the principal monkeys given in this canto by Śārdūla will be found to differ in many cases from that given in Canto XVII of the Bālakāṇḍa of Vālmiki-Rāmāyaṇa Vol. I. While in the Bālakāṇḍa, Suṣeṇa, Śarabha and Gandhamādana have been spoken of as sprung from the loins of Varuṇa, Parjanya and Kubera respectively, in the present canto Suṣeṇa has been declared to be an offspring of the wind-god, while Śarabha and Gandhamādana have been called the offsprings of Yama (son of Visaswān). The commentators attribute this anomaly to the fact that the three monkeys referred to in the Bālakāṇḍa were different from the monkeys of the same name mentioned in this canto.
 
-* YUDDHAKĀṆḌA *
+
 
 401
 
@@ -6579,7 +6579,7 @@ The king, Rāvaṇa, was pleased with him and parted in his favour with a precio
 
 402
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 bent low, given over, as she was, to grief and thinking all the time of her husband and being kept on eye on at close quarters by hideous ogresses. Approaching Sītā, and mentioning his own name with great delight, he then addressed the following impudent words to Janaka's daughter: "That husband of yours, Rāma (a scion of Raghu), the slayer of Khara, relying on whom you have been treating me with disdain while being coaxed by me, O blessed lady, has been killed in combat. Your roots stand completely severed and your vanity has been crushed by me. (10—15)
 
@@ -6629,7 +6629,7 @@ bent low, given over, as she was, to grief and thinking all the time of her husb
 विभीषणः समुत्पत्य निगृहीतो यदुच्छया।
 दिशः प्रब्राजितः सैन्यैर्लक्ष्मणः प्लवगैः सह ॥ २५ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 403
 
@@ -6689,7 +6689,7 @@ bent low, given over, as she was, to grief and thinking all the time of her husb
 
 404
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततः परमदुर्धर्षो रावणो राक्षसेश्वरः ।
 सीतायामुपशृण्वत्यां राक्षसीमिदमब्रवीत् ॥ ३७ ॥
@@ -6739,7 +6739,7 @@ Casting the bow too on the ground at the same place where the aforesaid head had
 
 Thus ends Canto Thirty-one in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 405
 
@@ -6796,7 +6796,7 @@ Regaining consciousness after a while and taking heart, nay, sitting very near t
 
 406
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “My celebrated mother-in-law, Kausalyā, who was so fond of her offspring, O scion of Raghu, has been disunited from you, her son, even as a cow, who is fond of its calf, would get disunited from its calf. (11)
 
@@ -6918,7 +6918,7 @@ found my way into the abode of the ogre, Rāvaṇa, she with a broken heart will
 
 408
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 In these words did the large-eyed daughter of Janaka lament, tormented as she was with agony, and looked on her husband's head and bow. (33)
 
@@ -6981,7 +6981,7 @@ Rāvaṇa, the suzerain lord of ogres, thereupon spoke in the following opportun
 
 Bowing to his command in the words "Amen!", the envoys, who were present
 
-* YUDDHAKĀṆḌA *
+
 
 409
 
@@ -7035,7 +7035,7 @@ Out of affection for her friend, Saramā began to console that princess of noble
 
 410
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “The reason for which that ruler of ogres has sallied forth agitated has also been ascertained by me on the spot after going out, O princess of Mithilā ! (7)
 
@@ -7095,7 +7095,7 @@ in employing conjuring tricks, who is perverse in thought and action and is anta
 
 While talking thus with Sītā, the ogress
 
-* YUDDHAKĀṆḌA *
+
 
 411
 
@@ -7150,7 +7150,7 @@ fire consuming a forest in summer. And here is seen the flurry of chariots, hors
 
 412
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 आगतस्य हि रामस्य क्षिप्रमङ्कागतां सतीम्।
 अहं द्रक्ष्यामि सिद्धार्थां त्वां शत्रौ विनिपातिते ॥ ३२ ॥
@@ -7275,7 +7275,7 @@ Wiping Sītā's face covered with tears, Saramā too, who was gentle of expressi
 
 414
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Janaka! Discovering the enemy's mind, I shall presently return, O princess of Mithilā!" (12-13)
 
@@ -7336,7 +7336,7 @@ Even though exhorted at length in the foregoing words by elderly counsellors as 
 
 "Rāvaṇa is not prepared to leave you unless he gives up his ghost in combat, O princess of Mithilā! Such indeed is the resolve
 
-* YUDDHAKĀṆḌA *
+
 
 415
 
@@ -7398,7 +7398,7 @@ Rāvaṇa, the ruler of ogres, now looked at his ministers. (2)
 
 416
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Addressing all the aforesaid ministers present there and causing the entire council-chamber to resound, Rāvaṇa, the cruel ruler of ogres and the scourge of the entire world, who was endowed with extraordinary might, spoke as follows, reproaching none: “That which you have said about Rāma’s crossing the yonder sea, his prowess, might and virility has been heard by me. Nay, I know you too—who on coming to know of Rāma’s prowess, stand mute, looking at one another—to be of unfailing prowess on the field of battle.” (3—5)
 
@@ -7508,7 +7508,7 @@ against him if he is superior in strength to his enemy. (9)
 
 418
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 emitting a harsh peal of thunder are drenching
 Laṅkā with hot blood on all sides. (25)
@@ -7610,7 +7610,7 @@ future be done after mature consideration.”
 Having tendered this salutary advice
 and sounding the mind of Rāvaṇa (the
 
-* YUDDHAKĀṆḌA *
+
 
 419
 
@@ -7663,7 +7663,7 @@ Knitting his brows on his face, Rāvaṇa, who had fallen a prey to anger, prese
 
 420
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 truth of the scriptures would address harsh words to a mighty man still in power?
 (7)
@@ -7739,7 +7739,7 @@ Nay, having placed Śuka and Śāraṇa at the northern gate of the city, he sai
 राक्षसं तु विरूपाक्षं महावीर्यपराक्रमम्।
 मध्यमेऽस्थापयद गल्ये बहुभिः सह राक्षसैः ॥ २० ॥
 
-* YUDDHAKĀṆḌA *
+
 
 421
 
@@ -7781,7 +7781,7 @@ gathered together, Śrī Rāma and Sugrīva, the rulers of men and monkeys, resp
 
 422
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 well as Dwivida, Gaja, Gavākṣa, Kumuda and Nala as also Panasa said to one another: (1—3)
 
@@ -7836,7 +7836,7 @@ While they were speaking as aforesaid, Vibhīṣaṇa, the youngest brother of R
 
 “Having keenly observed these garrisons of the aforesaid description at Laṅkā, all my ministers returned apace to this place. (15)
 
-* YUDDHAKĀṆḌA *
+
 
 423
 
@@ -7891,7 +7891,7 @@ When Vibhīṣaṇa (the youngest half-brother of Rāvaṇa) made the foregoing 
 
 424
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अङ्गदो वालिपुत्रस्तु बलेन महता वृतः।
 दक्षिणे बाधतां द्वारे महापाश्वमहोदरौ ॥ २७ ॥
@@ -7945,7 +7945,7 @@ Having spoken to Vibhīṣaṇa as aforesaid with a view to the success of his u
 
 Having fully covered the entire land of that region with his huge army and having resolved upon the destruction of
 
-* YUDDHAKĀṆḌA *
+
 
 425
 
@@ -7992,7 +7992,7 @@ Having made up his mind to climb up the Suvela mountain, Śrī Rāma for his par
 
 426
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Fallen in the grip of the noose of Death, a single individual actually perpetrates a sin; while the entire race perishes on account of that vile fellow due to his wrong doing.” (7)
 
@@ -8049,7 +8049,7 @@ Reddened by the evening twilight, the sun presently sank below the horizon, and,
 
 Honoured by Vibhiṣaṇa after greeting him joyfully, nay, accompanied by Lakṣmaṇa
 
-* YUDDHAKĀṆḌA *
+
 
 427
 
@@ -8100,7 +8100,7 @@ The trees in that city bore fragrant and most lovely flowers and fruits in the s
 
 428
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दात्यूहकोयष्टिबकैनृत्यमानैश्च बहिणैः ।
 रुतं परभूतानां च शुश्रुवे वननिझरे ॥ ९ ॥
@@ -8146,7 +8146,7 @@ There was a lofty peak of the Trikūṭa mountain, which seemed to touch the ski
 
 Ten Yojanas (or eighty miles) wide and twenty Yojanas (or one hundred and sixty
 
-* YUDDHAKĀṆḌA *
+
 
 429
 
@@ -8195,7 +8195,7 @@ Thus ends Canto Thirty-nine in the Yuddhakāṇḍa of the glorious Rāmāyaṇa
 
 430
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चत्वारिंशः सर्गः
 
@@ -8240,7 +8240,7 @@ Rising from the mountain-top, seized as he was with impetuosity, occasioned by w
 
 Pausing a while and gazing on Rāvaṇa with an intrepid mind, nay, taking that ogre
 
-* YUDDHAKĀṆḌA *
+
 
 431
 
@@ -8305,7 +8305,7 @@ Repeatedly pressing one another to their bosom, the two champions, who were
 
 432
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 full of indignation, had received training in wrestling and were fully endowed with might, fastened one another with cords in the shape of their arms and now began to move adroitly by employing various wrestling devices in the combat. (18)
 
@@ -8351,7 +8351,7 @@ The two warriors, viz., Sugriva, the ruler of monkeys, and Rāvaṇa, who were b
 उत्पपात तदाऽऽकाशं जितकाशी जितक्लमः।
 रावणः स्थित एवात्र हरिराजेन वञ्चितः ॥ २८ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 433
 
@@ -8395,7 +8395,7 @@ Without duly holding consultation with me this aforesaid precipitate act has bee
 
 434
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 संशये स्थाप्य मां चेदं बलं चेमं विभीषणम्।
 कष्टं कृतमिदं वीर साहसं साहसप्रिय ॥ ३ ॥
@@ -8455,7 +8455,7 @@ Applauding the hero, who had submitted as aforesaid, Śrī Rāma (a scion of Rag
 
 “The evening twilight, resembling red sandalwood in colour, appears most lurid. And from the sun is falling this blazing mass of fire. (15)
 
-* YUDDHAKĀṆḌA *
+
 
 435
 
@@ -8526,7 +8526,7 @@ Vibhiṣaṇa and Sugrīva, Hanūmān, Jāmbavān, the king of bears, Nala and N
 
 436
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Fully covering a vast stretch of land, the huge army of bears and monkeys (lit., the denizens of the forest) then followed in the wake of Śrī Rāma (a scion of Raghu). (28)
 
@@ -8625,7 +8625,7 @@ A hundred divisions of one lakh bears and monkeys each marched to the four gates
 
 438
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 आवृतः स गिरिः सर्वैस्तैः समन्तात् प्लवङ्गमैः ।
 अयुतानां सहस्रं च पुरीं तामभ्यवर्तत ॥ ५२ ॥
@@ -8736,7 +8736,7 @@ Ascending in the air when counselled in these words by Śrī Rāma, who was unwe
 
 440
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 for his part, who resembled fire-incarnate, left for Laṅkā. (73)
 
@@ -8802,7 +8802,7 @@ Hearing the command of Rāvaṇa, four terrible rangers of the night presently s
 
 In order to exhibit his strength before
 
-* YUDDHAKĀṆḌA *
+
 
 441
 
@@ -8909,7 +8909,7 @@ to the sea; nay, others gay way to alarm;
 
 442
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 while still others, recalling the joys of war, experienced joy alone at the prospect of fighting. (96-97)
 
@@ -9020,7 +9020,7 @@ Contending with sal trees and mountain-
 
 444
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 peaks for weapons, those monkeys of golden hue with coppery faces, who had dedicated their lives to the cause of Śrī Rāma, advanced towards Laṅkā itself. (14)
 
@@ -9080,7 +9080,7 @@ Surrounded by other monkeys, the monkey Praghasa and the mighty-armed Panasa for
 
 Reaching the southern gate (while remaining stationed in the south-east), the valiant and mighty monkey Śatabali, who was accompanied by monkeys numbering twenty crores, stood besieging the aforesaid gate. (25)
 
-* YUDDHAKĀṆḌA *
+
 
 445
 
@@ -9144,7 +9144,7 @@ With their brilliant dark limbs decked with jewels, the aforesaid rangers of the
 
 446
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Urged by Rāvaṇa, the troops of ogres thereupon joyfully rushed forth like the waves of the ocean which is being swollen by clouds at the time of universal destruction. (37)
 
@@ -9199,7 +9199,7 @@ The aforesaid fight between the ogres and the monkeys, confused as it was, could
 
 Thus ends Canto Forty-two in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 447
 
@@ -9258,7 +9258,7 @@ Sugrīva, the ruler of monkeys, for his part closed well with Praghasa; while th
 
 448
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अग्निकेतुः सुदुर्धर्षो रश्मिकेतुश्च राक्षसः।
 सुमन्नो यज्ञकोपश्च रामेण सह संगताः ॥ ११ ॥
@@ -9318,7 +9318,7 @@ Taking up his position in a chariot and full of rage, Jambumāli for his part, w
 तस्य तं रथमास्थाय हनूमान् मारुतात्मजः।
 प्रममाथ तलेनाशु सह तेनैव रक्षसा ॥ २२ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 449
 
@@ -9422,7 +9422,7 @@ Dwivida, whose limbs had been lacerated
 
 450
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 by the shafts, struck down with a sal tree
 Aśaniprabha with his chariot and horses.
@@ -9531,7 +9531,7 @@ and ogres bounded here and there.(43—45)
 
 Maddened by the smell of blood while
 
-* YUDDHAKĀṆḌA *
+
 
 451
 
@@ -9585,7 +9585,7 @@ Clad in golden armour, the dark-complexioned ogres could be clearly seen in that
 
 452
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Smitten with anger, the ogres, who were endowed with great impetuosity, assailed the monkeys on all sides in that darkness, which was difficult to penetrate, devouring them. (6)
 
@@ -9708,7 +9708,7 @@ All the gods (who had been witnessing the combat from their arieal cars) alongwi
 
 454
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the brothers, Śrī Rāma and Lakṣmaṇa applauded the aforesaid exploit of Aṅgada (son of Vāli), who was worthy of praise for his valour. (30)
 
@@ -9754,7 +9754,7 @@ When Indrajit (son of the king of ogres) was not able to overcome them in his vi
 
 Thus ends canto Forty-four in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 455
 
@@ -9815,7 +9815,7 @@ Thereupon Indrajit (son of Rāvaṇa), the outer corners of whose eyes had turne
 
 456
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 युध्यमानमनालक्ष्यं शक्रोऽपि त्रिदशेश्वरः।
 द्रष्टुमासादितुं वापि न शक्तः किं पुनर्युवाम् ॥ ११ ॥
@@ -9877,7 +9877,7 @@ Struck down by that cruel ogre, who was able to change his form at will, the two
 
 Śrī Rāma fell first, pierced as he was in his vital parts with shafts discharged in
 
-* YUDDHAKĀṆḌA *
+
 
 457
 
@@ -9924,7 +9924,7 @@ Thus ends Canto Forty-five in the Yuddhakāṇḍa of the glorious Rāmāyaṇa 
 
 458
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षट्चत्वारिंशः सर्गः
 
@@ -10041,7 +10041,7 @@ Indrajit (son of Rāvaṇa), who was
 
 460
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 endowed with great agility, pierced Gavākṣa as well as Śarabha too, the two monkeys of immeasurable prowess, with two arrows each on the field of battle. (20)
 
@@ -10108,7 +10108,7 @@ Vibhiṣaṇa spoke as follows to Sugriva (the ruler of monkeys), whose face was
 पर्यवस्थापयात्मानमनाथं मां च वानर।
 सत्यधर्माभिरक्तानां नास्ति मृत्युकृतं भयम् ॥ ३३ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 461
 
@@ -10176,7 +10176,7 @@ Having restored Sugriva to confidence, Vibhīṣaṇa the prospective ruler of o
 
 462
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Indrajit, on the other side, who was a great conjurer, entered the city of Laṅkā, accompanied by all his troops, and approached his father. (45)
 
@@ -10222,7 +10222,7 @@ The ogresses, headed by Trijāṭā, accordingly take her in the aerial car, kno
 हनुमानङ्गदो नीलः सुषेणः कुमुदो नलः।
 गजो गवाक्षो गवयः शरभो गन्धमादनः ॥ २ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 463
 
@@ -10279,7 +10279,7 @@ the two princes killed in battle. (7)
 
 464
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 powered by grief caused by the report about the death of her husband, the ogresses for their part then helped her to ascend the aerial car, Puṣpaka. Then, placing Sītā alongwith Trijāṭā in Puṣpaka, the ogresses proceeded to show Śrī Rāma and Lakṣmaṇa to her. In this way Rāvaṇa caused her to fly over Laṅkā (the city dressed with rows of flags and pennons). (10—15)
 
@@ -10328,7 +10328,7 @@ Observing the aforesaid two brothers, who were powerful as the offspring of gods
 
 Thus ends Canto Forty-seven in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 465
 
@@ -10421,7 +10421,7 @@ proving ineffectual in my case. (7)
 
 466
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 women, which have been declared as unfailing in their effect by those who are able to read the bodily marks of a man or woman, are proving false in my case today in that Śrī Rāma has been killed. (8)
 
@@ -10472,7 +10472,7 @@ feet to be rosy, devoid of space between the fingers and toes and with the mark 
 
 “Śrī Rāma and Lakṣmaṇa, the protectors of this forlorn creature, who were compeers of Indra, have evidently been
 
-* YUDDHAKĀṆḌA *
+
 
 467
 
@@ -10535,7 +10535,7 @@ The ogress Trijāṭā spoke as follows to her while Sītā was wailing as afore
 
 468
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 alive: I speak this to you out of affection for you. (28)
 
@@ -10590,7 +10590,7 @@ Having gone far into and keenly observing that pleasure ground of Rāvaṇa, the
 
 Thus ends Canto Forty-eight in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 469
 
@@ -10685,7 +10685,7 @@ without Lakṣmaṇa? (8-9)
 
 470
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “How shall I tell Śatrughna and the illustrious Bharata that I have returned without Lakṣmaṇa, who had accompanied me to the woods? (10)
 
@@ -10744,7 +10744,7 @@ Turning towards Lakṣmaṇa “You always comforted me when I felt sore dejecte
 
 “The same Lakṣmaṇa, who could tear asunder the missiles even of the mighty Indra, the ruler of gods, and who was deserving of reposing on a precious couch, is lying here struck down on the bare ground! (21)
 
-* YUDDHAKĀṆḌA *
+
 
 471
 
@@ -10804,7 +10804,7 @@ Thus ends Canto Forty-nine in the Yuddhakāṇḍa of the glorious Rāmāyaṇa 
 
 472
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # पञ्चाशः सर्गः
 
@@ -10924,7 +10924,7 @@ Embracing Vibhīṣaṇa, who was lamenting as above, Sugrīva, the ruler of mon
 
 474
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of what is right! With his son Indrajit, Rāvaṇa will not be able to attain the object of his desire in this life. (21)
 
@@ -10980,7 +10980,7 @@ between the gods and the demons in the days gone by was witnessed by me. (26)
 
 “On the bank of the ocean of milk, the foremost of oceans, from which was churned out nectar (the drink of immortality), are two mountains, Candra and Droṇa by name: the aforesaid two great herbs exist there. (31)
 
-* YUDDHAKĀṆḌA *
+
 
 475
 
@@ -11046,7 +11046,7 @@ Raising the two princes, who were the compeers of Indra (the ruler of gods), Gar
 
 476
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 को भवान् रूपसम्पन्नो दिव्यस्त्रगनुलेपनः ।
 वसानो विरजे वस्त्रे दिव्याभरणभूषितः ॥ ४४ ॥
@@ -11105,7 +11105,7 @@ With a delighted mind Garuḍa (son of Vinatā), the king of birds, who was endo
 
 Having spoken as aforesaid and embraced Śrī Rāma most tenderly, the aforesaid Garuḍa, who was endowed with
 
-* YUDDHAKĀṆḌA *
+
 
 477
 
@@ -11166,7 +11166,7 @@ Thus ends Canto Fifty in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of V�
 
 478
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकपञ्चाशः सर्गः
 
@@ -11218,7 +11218,7 @@ Scaling the defensive wall, when commanded as above by Rāvaṇa, the ogres, who
 
 Nay, all the ogres felt despondent on seeing those two highly fortunate scions of Raghu, viz., Śrī Rāma and Lakṣmaṇa fully active, freed, as they were, from their
 
-* YUDDHAKĀṆḌA *
+
 
 479
 
@@ -11280,7 +11280,7 @@ Issuing from the gate of that palace, he spoke as follows to the Commander-in-Ch
 
 480
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 धूम्राक्षवचनं श्रुत्वा बलाध्यक्षो बलानुगः।
 बलमुद्योजयामास रावणस्याज्ञया भृशम् ॥ २२ ॥
@@ -11336,7 +11336,7 @@ The trunk hurled by someone in front of Dhūmrākṣa lay emitting cries discord
 प्रतिलोमं ववौ वायुर्निर्घातसमनिःस्वनः।
 तिमिरौघावृतास्तत्र दिशश्च न चकाशिरे ॥ ३४ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 481
 
@@ -11394,7 +11394,7 @@ Full of martial ardour born of indignation while being split asunder by the
 
 482
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ogres with terrible maces, sharp-edged spears, iron and wooden mallets and formidable iron bars as well as with tridents of various kinds held in the hand, the aforesaid monkeys, who were endowed with extraordinary might, accomplished deeds of valour as though they were intrepid. (5-6)
 
@@ -11519,7 +11519,7 @@ Smashing his chariot with its wheels, pole, horses, banner and bow, that rock ro
 
 484
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स भङ्क्त्वा तु रथं तस्य हनुमान् मारुतात्मजः ।
 रक्षसां कदनं चक्रे सस्कन्धविटपैर्दुमैः ॥ ३० ॥
@@ -11569,7 +11569,7 @@ Having exterminated his enemies and causing streams of blood to flow, that high-
 
 Thus ends Canto Fifty-two in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 485
 
@@ -11635,7 +11635,7 @@ Mounted by mahouts carrying iron clubs
 
 486
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and goads in their hands, they were skilled in warfare. Other animals, viz., horses, which were rich in noble characteristics and were mounted by gallant warriors and endowed with extraordinary might also took part in the conflict. (11)
 
@@ -11697,7 +11697,7 @@ There followed on the battlefield the clatter of chariot wheels, the fearful twa
 केचिदस्त्राणि संत्यन्य बाहुयुद्धमकुर्वत ॥ २३ ॥
 तलैश्च चरणैश्चापि मुष्टिभिश्च द्रुमैरपि।
 
-* YUDDHAKĀṆḌA *
+
 
 487
 
@@ -11741,7 +11741,7 @@ Thus ends Canto Fifty-three in the Yuddhakāṇḍa of the glorious Rāmāyaṇa
 
 488
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चतुःपञ्चाशः सर्गः
 
@@ -11868,7 +11868,7 @@ Seizing another huge crag adorned
 
 490
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 with trees, the monkey, Aṅgada, then hurled it on the head of Vajradamṣṭra. (24)
 
@@ -11933,7 +11933,7 @@ Nay, struck off with the sword of Aṅgada, that beautiful head of Vajradamṣ�
 त्रस्ता ह्यभ्यद्रवैल्लङ्कां वध्यमानाः प्लवङ्गमैः।
 विषण्णवदना दीना ह्रिया किंचिदवाङ्मुखाः ॥ ३६ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 491
 
@@ -11991,7 +11991,7 @@ Urged by the Commander-in-Chief, the principal ogres of fearful eyes and hideous
 
 492
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 aspect then rushed forward, armed with various weapons. (6)
 
@@ -12060,7 +12060,7 @@ portents, the ogre, whose shoulders were fully developed like those of a lion, a
 
 
 
-* YUDDHAKĀṆḌA *
+
 
 493
 
@@ -12079,7 +12079,7 @@ Thus ends Canto Fifty-five in the Yuddhakāṇḍa of the glorious Rāmāyaṇa 
 
 494
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षट्पञ्चाशः सर्गः
 
@@ -12215,7 +12215,7 @@ The sagacious Hanumān struck down elephants with their mahouts, car-warriors wi
 
 496
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Seeing the aforesaid Hanumān, who was armed with a tree, enraged and taking their life like Death himself, the ogres took to their heels. (24)
 
@@ -12279,7 +12279,7 @@ Getting together, when the aforesaid ogres had re-entered Laṅkā, all the monk
 विनेदुश्च यथाप्राणं हरयो जितकाशिनः।
 चकृषुश्च पुनस्तत्र सप्राणानेव राक्षसान् ॥ ३७ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 497
 
@@ -12337,7 +12337,7 @@ Seeing the city besieged, Rāvaṇa, the lord of ogres, for his part spoke as fo
 
 498
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 पुरस्योपनिविष्टस्य सहसा पीडितस्य ह।
 नान्ययुद्धात् प्रपश्यामि मोक्षं युद्धविशारद ॥ ५ ॥
@@ -12445,7 +12445,7 @@ Taking leave of the king and causing a kettledrum of dreadful sound to be beaten
 
 500
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Even as the Commander-in-Chief departed, a roll of kettledrums, which resembled the rumbling of clouds, as well as a blast of fanfares, which seemed to fill the earth, as also a blast of conches was forthwith heard. Emitting fearful cries, gigantic ogres of terrible aspect and marching in front of Prahasta proceeded in the van. Narāntaka, Kumbhahanu, Mahānāda and Samunnata—these four adjutants of Prahasta, also sallied forth, surrounding him on all sides. (18—30)
 
@@ -12493,7 +12493,7 @@ Nay, knitted against one another, planets did not shine brightly. Again, making 
 
 An exceedingly tumultuous clamour forthwith arose among the monkeys even
 
-* YUDDHAKĀṆḌA *
+
 
 501
 
@@ -12555,7 +12555,7 @@ The huge army of the exceedingly mighty monkeys, thereupon saw the terrible and 
 
 502
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 sallying forth roaring, surrounded on all sides by ogres. An uproar arose among them and they began to roar at Prahasta. (5-6)
 
@@ -12687,7 +12687,7 @@ The ogres as well as the foremost of monkeys for their part crossed the river in
 
 504
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 for its fish and fingers etc., (parts of limbs of the body) for the grass growing on its banks; which was crowded with the foremost of swans in the shape of vultures, and frequented by cranes in the shape of buzzards; which was overspread with foam in the shape of fat, and had the groans of the wounded for its murmur, and which was difficult to cross for cowards—even as they would cross a river frequented by swans and cranes at the end of the monsoon, when they become fordable. Nay, they swam across that river, even though it was difficult to cross as easily as leaders of herds of elephants would cross a lotus-pond covered with the pollen of lotuses. (29—33)
 
@@ -12807,7 +12807,7 @@ Prahasta having been made short work of by Nila, that huge and unshakable army o
 
 506
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 न शोकुः समवस्थातुं निहते वाहिनीपतौ।
 सेतुबन्धं समासाद्य विशीर्णं सलिलं यथा ॥ ५८ ॥
@@ -12856,7 +12856,7 @@ dreadful weapons and vied with the sea in fury, took to flight. (1)
 
 Seeking the presence of Rāvaṇa (the suzerain lord of ogres), the survivors told him of Prahasta, their Commander-in-Chief,
 
-* YUDDHAKĀṆḌA *
+
 
 507
 
@@ -12916,7 +12916,7 @@ Issuing all at once from the city of Laṅkā, Rāvaṇa, who was endowed with e
 
 508
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तद् राक्षसानीकमतिप्रचण्ड-
 मालोक्य रामो भुजगेन्द्रबाहुः ।
@@ -13032,7 +13032,7 @@ trumpeting resembles the pealing of bells, roars in harsh tones and is endowed w
 
 510
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “There shines like the sun the overlord of ogres, who is decked with a diadem, whose countenance is graced with swinging earrings, whose terrible form resembles the Himālaya (the ruler of mountains) and the Vindhya mountains in size and who has humbled the pride of the mighty Indra and Yama (son of the sun-god).” (25)
 
@@ -13092,7 +13092,7 @@ Thereupon that overlord of ogres, who was endowed with great courage, spoke as f
 
 Having dismissed his well-known counsellors, and the ogres, who accompanied him, having departed as directed, Rāvaṇa
 
-* YUDDHAKĀṆḌA *
+
 
 511
 
@@ -13154,7 +13154,7 @@ Tearing up crags, Gavākṣa, Gavaya, Suṣeṇa as also Ṛṣabha, Jyotirmukha
 
 512
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ते वानरेन्द्रास्त्रिदशारिबाणै-
 भिन्ना निपेतुर्भुवि भीमकायाः।
@@ -13212,7 +13212,7 @@ He beheld Rāvaṇa with arms resembling the trunks of elephants and his dread a
 तमालोक्य महातेजा हनूमान् मारुतात्मजः।
 निवार्य शरजालानि विदुद्राव स रावणम् ॥ ५३ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 513
 
@@ -13269,7 +13269,7 @@ Smacked by him, Hanumān reeled again and again. Shortly recovering his balance,
 
 514
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Well done, O monkey! You are an adversary worthy of my praise in point of valour.” Applauded in these words, Hanumān (son of the wind-god), however, replied as follows: (65)
 
@@ -13329,7 +13329,7 @@ Seeing the aforesaid peak shattered, Nila, the Commander-in-Chief of the monkeys
 
 The said Nila began to fling aśwakarṇa and sal as well as mango trees, fully in blossom as also other trees of various
 
-* YUDDHAKĀṆḌA *
+
 
 515
 
@@ -13399,7 +13399,7 @@ Saying so and charging an arrow with a mystic missile, the mighty-armed Rāvaṇ
 
 516
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Being burnt all over when struck in the chest with the arrow propelled by a mystic missile, the celebrated Nila fell to the earth's surface all at once. (90)
 
@@ -13462,7 +13462,7 @@ Not feeling in the least surprised, the son of Sumitrā replied as follows to R�
 
 Filled with rage when challenged in these words, Rāvaṇa (the suzerain lord of ogres) shot seven arrows with beautiful
 
-* YUDDHAKĀṆḌA *
+
 
 517
 
@@ -13528,7 +13528,7 @@ Struck with arrows and bathed in blood, his bow having been cut, and his limbs s
 
 518
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 gods), who was himself endowed with formidable energy, seized on the battlefield a javelin, gifted to him by Brahmā, the self-born creator. (107)
 
@@ -13641,7 +13641,7 @@ He caused the string of his bow to make a sharp ringing sound, piercing as a cla
 
 520
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तिष्ठ तिष्ठ मम त्वं हि कृत्वा विप्रियमीदृशम् ।
 क्व नु राक्षसशार्दूल गत्वा मोक्षमवाप्स्यसि ॥ १२९ ॥
@@ -13794,7 +13794,7 @@ The aforesaid lord of the prowlers of the night, the enemy of gods and demons al
 
 522
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तस्मिन् प्रभग्रे त्रिदशेन्द्रशत्रौ
 सुरासुरा भूतगणा दिशश्च।
@@ -13895,7 +13895,7 @@ which Umā (the divine Consort of Lord Śiva), Nandiśwara (a monkey-faced atten
 
 524
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Therefore speedily rouse Kumbhakarṇa, who is endowed with extraordinary might. That mighty armed ogre, the foremost of all ogres, will undoubtedly strike down at once the monkeys as well as the two princes (Rāma and Lakṣmaṇa).(18)
 
@@ -14017,7 +14017,7 @@ The mighty ogres then began to strike hard the celebrated Kumbhakarṇa, lying f
 
 526
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Repulsed by the wind in the form of the outgoing breath of the celebrated ogre, Kumbhakarṇa, however, the ogres could not stand before him. (41)
 
@@ -14142,7 +14142,7 @@ Casting his glance on all sides, Kumbhakarṇa for his part, whose eyes were hal
 
 528
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 vision was still clouded, looked at the rangers of the night. (65)
 
@@ -14274,7 +14274,7 @@ Saying “Amen!” and coming back forthwith, all those ogres submitted to Kumbh
 
 530
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 कुम्भकर्णस्तु दुर्धर्षो भ्रातुराज्ञाय शासनम्।
 तथेत्युक्त्वा महावीर्यः शयनादुत्पपात ह॥ ९०॥
@@ -14323,7 +14323,7 @@ Beholding all of a sudden Kumbhakarṇa, the destroyer of his enemies, who was i
 
 Some sought Śrī Rāma, who was capable of affording shelter to them, as their asylum; while others fell down, filled with agony. Nay, still others, seized with panic, fled in all directions; while yet others, stricken with fear, lay down on the earth. (97)
 
-* YUDDHAKĀṆḌA *
+
 
 531
 
@@ -14385,7 +14385,7 @@ Seeing the army scared away, and the ogre becoming larger in size, Śrī Rāma w
 
 532
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Questioned in these words by Prince Śrī Rāma of unwearied action, the highly sagacious Vibhīṣaṇa replied to Śrī Rāma, a scion of Kakutstha, as follows: (8)
 
@@ -14444,7 +14444,7 @@ Questioned in these words by Prince Śrī Rāma of unwearied action, the highly 
 
 “Agonized by the blow of Kumbhakarṇa, the aforesaid Indra felt tormented. Thereupon the gods, the Brāhmaṇa Ṛṣis and the demons grew despondent all at once. (18)
 
-* YUDDHAKĀṆḌA *
+
 
 533
 
@@ -14512,7 +14512,7 @@ Therefore, from this day onward you shall remain buried in sleep like one dead.�
 
 534
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स एष निर्गतो वीरः शिबिराद् भीमविक्रमः ।
 वानरान् भूशसंक्रुद्धो भक्षयन् परिधावति ॥ ३१ ॥
@@ -14631,7 +14631,7 @@ Springing up from his seat once more, Rāvaṇa, who was filled with joy, claspe
 
 536
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 संरक्तनयनः क्रोधाद् रावणं वाक्यमब्रवीत्।
 किमर्थमहमादृत्य त्वया राजन् प्रबोधितः ॥ ११ ॥
@@ -14682,7 +14682,7 @@ Kumbhakarṇa occupied a splendid, heavenly, excellent seat. Having taken up his
 
 “Therefore accomplish all the aforesaid deeds of valour, O brother of terrific prowess!
 
-* YUDDHAKĀṆḌA *
+
 
 537
 
@@ -14744,7 +14744,7 @@ action not weighed by you. Nor was the consequence taken into account in the she
 
 538
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 aspects* of the threefold† duties with reference to hostile kings, moves along the right path. (7)
 
@@ -14858,7 +14858,7 @@ Hearing the aforesaid speech of Kumbhakarṇa, Rāvaṇa (the ten-headed monster
 
 540
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 रुष्टोऽयमिति विज्ञाय शनैः शलक्षणमुवाच ह।
 अतीव हि समालक्ष्य भ्रातरं क्षुभितेन्द्रियम् ॥ २९ ॥
@@ -14972,7 +14972,7 @@ crush the enemies with impetuosity, abandoning the arms. I shall in no case figh
 
 542
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 creator) haunts you, I shall forthwith drive it away even as the sun disperses the darkness of the night. (52)
 
@@ -15028,7 +15028,7 @@ the colossal and mighty Kumbhakarṇa, who was adorned with brawny arms, Mahodar
 
 
 
-* YUDDHAKĀṆḌA *
+
 
 543
 
@@ -15083,7 +15083,7 @@ means to happiness, viz., virtue, worldly gain and sensuous pleasure; moreover, 
 
 544
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 accomplishing that which is surely to be a daring act against the enemy? (10)
 
@@ -15216,7 +15216,7 @@ other desired objects as well as slaves and gold. (28)
 
 546
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एतत् सुनीतं मम दर्शनेन
 रामं हि दृष्ट्वैव भवेदनर्थः।
@@ -15338,7 +15338,7 @@ The ogres, who was capable of destroying his enemies, vigorously seized a whette
 
 548
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इन्द्राशनिसमप्रख्यं वत्रप्रतिमगौरवम् ।
 देवदानवगन्धर्वयक्षपन्नगसूदनम् ॥ १९ ॥
@@ -15458,7 +15458,7 @@ Now assuming another formidable form, terrible to look at, Kumbhakarṇa, who wa
 
 550
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 धनुःशतपरीणाहः स षट्शतसमुच्छ्रितः ।
 रौद्रः शकटचक्राक्षो महापर्वतसंनिभः ॥ ४१ ॥
@@ -15522,7 +15522,7 @@ Not minding in the least the mighty portents, which appeared and which made one'
 स लङ्घयित्वा प्राकारं पद्भ्यां पर्वतसंनिभः ।
 ददर्शाभ्रधनप्रख्यं वानरानीकमद्भुतम् ॥ ५३ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 551
 
@@ -15575,7 +15575,7 @@ Stepping across the defensive wall, the gigantic Kumbhakarṇa, who resembled th
 
 552
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 roar, making the sea reverberate, nay, causing mountains to quake and drowning thunder-claps, as it were. (1-2)
 
@@ -15705,7 +15705,7 @@ valour knows no obstruction, your very wives will ridicule you if you run away a
 
 554
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 acquire glory. If struck down, on the other hand, we shall enjoy the riches of Brahmaloka, the realm attained by heroes, O monkeys! (25)
 
@@ -15829,7 +15829,7 @@ It crushed the horses as well as the elephants as also the chariots and lordly e
 
 556
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तच्छैलवेगाभिहतं हताश्रुं हतसारथिम्।
 रक्षसां रुधिरक्लिनं बभूवायोधनं महत् ॥ १२ ॥
@@ -15956,7 +15956,7 @@ The foremost of monkeys attacked the said Kumbhakarṇa, who was endowed with mi
 
 558
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स वानरसहस्रैस्तु विचितः पर्वतोपमः ।
 रराज राक्षसव्याघ्रो गिरिरात्मरुहैरिव ॥ ३३ ॥
@@ -16088,7 +16088,7 @@ Hearing the aforesaid challenge of Sugriva (the ruler of monkeys), which was ful
 
 560
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and richly endowed with fortitude and valour.
 Hence you roar, O monkey!" (58)
@@ -16215,7 +16215,7 @@ Beholding the army of monkeys scattered here and there and the monkey Sugriva, t
 
 562
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 freedom back himself, even if he is captured by gods including demons and Nāgas (serpent-demons having the face of a man and the tail of a serpent). (76)
 
@@ -16275,7 +16275,7 @@ Having regained consciousness with difficulty, while yet in the arms of Kumbhaka
 खरैश्च कर्णौ दशनैश्च नासां
 ददंश पादैर्विददार पाश्चौ ॥ ८६ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 563
 
@@ -16337,7 +16337,7 @@ Penetrating deep into that formidable army of monkeys, Kumbhakarṇa, who, being
 
 564
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 blood, began to devour ogres, monkeys, fiends and bears (alike) on the battlefield through infatuation. Nay, he ate up, among others, the principal monkeys in the same way as Death sweeps away living beings at the end of the world-cycle. (94)
 
@@ -16458,7 +16458,7 @@ To that exceedingly formidable ogre, when he had made this boastful reply, Lak�
 
 566
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Making use of mystic missile presided over by Rudra (the god of destruction), Śrī Rāma, son of Daśaratha, forthwith dug pointed arrows into the breast of Kumbhakarṇa. (116)
 
@@ -16580,7 +16580,7 @@ Surrounded by ogres and hunting for the monkeys, full of rage, he was pursuing t
 
 568
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 विन्ध्यमन्दरसंकाशं काञ्चनाङ्गदभूषणम् ।
 स्ववन्तं रुधिरं वक्त्राद् वर्षमेघमिवोत्थितम् ॥ १३९ ॥
@@ -16686,7 +16686,7 @@ the duty of a warrior. Bidding adieu to your affection for a brother, do what is
 
 570
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Vāli, a veritable bull among the monkeys, killed, and which vied with the thunderbolt in velocity did not cause much pain and discomfort to the body of Kumbhakarṇa on that occasion. (152)
 
@@ -16805,7 +16805,7 @@ Illumining the ten directions with its effulgence, the aforesaid arrow, propelle
 
 572
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 vied with the thunderbolt of Indra, the ruler of gods. (167)
 
@@ -16861,7 +16861,7 @@ At the very sight of Śrī Rāma, the foremost of the Raghus, the well-known kin
 स देवलोकस्य तमो निहत्य
 सूर्यो यथा राहुमुखाद् विमुक्तः।
 
-* YUDDHAKĀṆḌA *
+
 
 573
 
@@ -16914,7 +16914,7 @@ Seeing Kumbhakarṇa killed by the the high-souled Śrī Rāma, the ogres presen
 
 574
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 श्रुत्वा विनिहतं संख्ये कुम्भकर्णं महाबलम्।
 रावणः शोकसंतसो मुमोह च पपात च ॥ ६ ॥
@@ -16978,7 +16978,7 @@ well as from that of my kinsfolk, O ogre endowed with extraordinary might? (11)
 
 "No purpose of mine will be served any longer by a kingdom and what shall I do
 
-* YUDDHAKĀṆḌA *
+
 
 575
 
@@ -17043,7 +17043,7 @@ Rāvaṇa, who was lamenting as aforesaid, overcome as he was with grief, Triś�
 
 576
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एवमेव महावीर्यो हतो नस्तातमध्यमः।
 न तु सत्पुरुषा राजन् विलपन्ति यथा भवान् ॥ २ ॥
@@ -17101,7 +17101,7 @@ All were capable of coursing in the air, all were adept in conjuring tricks, all
 
 * Naraka mentioned in this verse was procreated by the Dānava Vipracitti through Simhikā His six brothers were Vātāpi, Namuci, Ilwala, Śṛmara, Andhaka and Kālanābha. Naraka, son of Mother Earth, who met with his death at the hands of Lord Śrī Kṛṣṇa in the Dvāpara Age was different from the demon mentioned here. The former did not even see the light during the lifetime of Rāvaṇa.
 
-* YUDDHAKĀṆḌA *
+
 
 577
 
@@ -17159,7 +17159,7 @@ Triśirā, sprung from the loins of Rāvaṇa, ascended an excellent chariot dra
 
 578
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the best of horses and fully equipped with all kinds of weapons. (22)
 
@@ -17269,7 +17269,7 @@ Springing in the air, armed with trees and rocks, and feeling enraged at the ogr
 
 580
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ते पादपशिलाशैलैश्चक्रुर्वृष्टिमनूपमाम्।
 बाणौधैर्वार्यमाणाश्च हरयो भीमविक्रमाः ॥ ४८ ॥
@@ -17426,7 +17426,7 @@ Narāntaka clove their ranks. (70)
 
 582
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ज्वलन्तं प्रासमुद्यम्य संग्रामाग्रे नरान्तकः।
 ददाह हरिसैन्यानि वनानीव विभावसुः ॥ ७१ ॥
@@ -17495,7 +17495,7 @@ Perceiving him, Sugriva, the suzerain lord of monkeys, who was endowed with extr
 
 Hearing the command of his master, the valiant Aṅgada rushed forth at once
 
-* YUDDHAKĀṆḌA *
+
 
 583
 
@@ -17559,7 +17559,7 @@ His skull having been smashed by the blow of the ogre's fist, Aṅgada forthwith
 
 584
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अथाङ्गदो मृत्युसमानवेगं
 संवर्त्य मुष्टिं गिरिशृङ्गकल्पम् ।
@@ -17681,7 +17681,7 @@ Pulling out a tusk of the elephant and darting against Devāntaka, the son of V�
 
 586
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 extraordinary might, dealt him a blow with it on the battlefield. (15)
 
@@ -17812,7 +17812,7 @@ Springing up in fury, Hanumān for his part then tore the horse of Triśirā wit
 
 588
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Seizing hold of his javelin, even as Death would take in his service Kālarātri (a sister of Kāla, the deity presiding over the night of destruction at the end of the world cycle), Triśirā, sprung from the lions of Rāvaṇa, hurled it at the son of the wind-god. (38)
 
@@ -17934,7 +17934,7 @@ Like a tree whose roots have been
 
 590
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 severed, the ogre suddenly fell to the ground, bathed all over in blood. Nay, quickly seizing hold of that formidable mace of the ogre, which resembled the rod of Yama (the god of retribution), the monkey, Ṛṣabha, forthwith roared. (60)
 
@@ -17982,7 +17982,7 @@ When the aforesaid younger brother of Rāvaṇa was killed, the aforesaid army o
 
 Thus ends Canto Seventy in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 591
 
@@ -18043,7 +18043,7 @@ Thereupon Śrī Rāma (a scion of Kakutstha) beheld from afar Atikāya, who rese
 
 592
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 The aforesaid Śrī Rāma, a scion of Raghu, for his part felt greatly amazed to behold that colossus and reassuring the monkeys, they say, spoke as follows to Vibhiṣaṇa: (11)
 
@@ -18106,7 +18106,7 @@ The aforesaid Śrī Rāma, a scion of Raghu, for his part felt greatly amazed to
 
 
 
-* YUDDHAKĀṆḌA *
+
 
 593
 
@@ -18166,7 +18166,7 @@ Here is the notorious Atikāya, the mighty and intelligent son of Rāvaṇa, a v
 
 594
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तदस्मिन् क्रियतां यत्नः क्षिप्रं पुरुषपुङ्गव।
 पुरा वानरसैन्यानि क्षयं नयति सायकैः ॥ ३६ ॥
@@ -18302,7 +18302,7 @@ Hearing the furious and proud utterance of Atikāya on the field of battle, the 
 
 596
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 by mere speech nor can people become good men through sheer braggadocio. While I stand before you armed with a bow, arrow in hand, demonstrate your strength, O evil-minded one! (58)
 
@@ -18428,7 +18428,7 @@ Duly perceiving those arrows cut down on the field of battle. Atikāya (sprung f
 
 598
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Putting that arrow to his bow, Atikāya, who was endowed with extraordinary energy, precipitately shot it. With that he struck Lakṣmaṇa (son of Sumitrā), as he was aiming at his breast. (81)
 
@@ -18491,7 +18491,7 @@ Enraged to find his arrow of reed struck down by Lakṣmaṇa, Prince Atikāya, 
 
 The ranger of the night then shot it at Lakṣmaṇa. The celebrated Lakṣmaṇa,
 
-* YUDDHAKĀṆḌA *
+
 
 599
 
@@ -18553,7 +18553,7 @@ Hearing the admonition of the wind-god and pressing into service the well-known 
 
 600
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 prowess, thereupon precipitately fitted to his bow an arrow of terrific velocity. (104)
 
@@ -18613,7 +18613,7 @@ All the ogres who had escaped being killed, felt distressed to behold the prince
 ते विषण्णमुखा दीनाः प्रहारजनितश्रमाः।
 विनेदुरुच्चैर्बहवः सहसा विस्वरैः स्वरैः ॥ ११३ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 601
 
@@ -18671,7 +18671,7 @@ The aforesaid valiant ogres of tremendous proportions, who were well-versed in t
 
 602
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 use of all weapons, have been killed with their battalions by Rāma of unwearied action.
 
@@ -18724,7 +18724,7 @@ Lakṣmaṇa, got liberated anyhow from the network of arrows. Nay, all the gall
 
 “No indifference should be shown to
 
-* YUDDHAKĀṆḌA *
+
 
 603
 
@@ -18780,7 +18780,7 @@ Perceiving the king disconsolate and deeply plunged in an ocean of grief, Indraj
 
 604
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 car-warriors, thereupon submitted to him as follows: (3)
 
@@ -18838,7 +18838,7 @@ Showing great enthusiasm, numerous ogres, who were endowed with extraordinary mi
 
 Some ogres of terrible prowess rode on the back of elephants, while others rode on the back of excellent horses, tigers, scorpions, cats, donkeys and camels as
 
-* YUDDHAKĀṆḌA *
+
 
 605
 
@@ -18900,7 +18900,7 @@ Encouraged as aforesaid by the ruler of ogres, the prince gladly accepted his mi
 
 606
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 who vied with the god of fire in brilliance, worshipped the fire according to the traditional rites, while reciting the best of Mantras (sacred texts). Having worshipped the sacred fire on the battlefield with offerings of parched grains of rice preceded by flowers and sandal-paste, that mighty ogre chief poured oblation into it. In that sacrificial performance weapons served the purpose of reeds (which are strewn about the fire to ward off evil forces), nay, chips of a Bibhitaka tree served as fuel for the sacrificial fire, again red pieces of cloth alone were used and the sacrificial ladle was made of iron. Duly strewing the fire there with reeds (in the form of other weapons) accompanied by lances, Indrajit elapsed the neck of a live goat of dark hue (for offering it to the fire). From the fire, which was set ablaze by that offering having been thrown into it but once, and was free from smoke and had burst into mighty flames, appeared such signs as had betokened victory in the past. Risen into view, the god of fire, who shone brightly like refined gold and whose flames turned towards the right, accepted that offering in person. Indrajit, who was an adept in the use of mystic missiles, invoked the missile presided over by Brahmā, the creator, and charged the bow as well as his chariot and all with the invocatory spell on the field of battle. While that missile was being invoked and the sacrificial fire was being propitiated through oblations, the vault of heaven including the sun, the moon and other planets and lunar mansions shook with fear. (19—28)
 
@@ -19005,7 +19005,7 @@ Having pierced Gandhamādana with
 
 608
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 eighteen penetrating arrows, he struck Nala too, standing some way off, with nine others. (46)
 
@@ -19124,7 +19124,7 @@ Not minding the arrows any more than torrents of rain, while being covered with 
 
 610
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of Indra (the ruler of gods), is now tormenting us with his sharp arrows. (68)
 
@@ -19176,7 +19176,7 @@ Having prostrated in combat as aforesaid the army of monkeys as well as Śrī R�
 
 Thus ends Canto Seventy-three in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 611
 
@@ -19235,7 +19235,7 @@ Torch in hand, both the aforesaid heroes, Hanumān alongwith Vibhīṣaṇa, the
 
 612
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 भिन्नलाङ्गुलहस्तोरुपादाङ्गुलिशिरोधैः ।
 स्ववद्भिः क्षतजं गात्रैः प्रस्ववद्भिः समन्ततः ॥ ८ ॥
@@ -19351,7 +19351,7 @@ Thereupon the aforesaid Jāmbavān, who was endowed with extraordinary energy, s
 
 614
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “From that mountain you will be able to see the golden and very lofty Ṛṣabha mountain, the foremost of mountains, and (climbing) on that mountain you will be able to behold the peak of Mount Kailāsa, O exterminator of your enemies! (30)
 
@@ -19407,7 +19407,7 @@ Stricken with panic, the city of Laṅkā, whose mighty gates were shaken and wh
 पृथिवीधरसंकाशो निपीड्य पृथिवीधरम्।
 पृथिवीं क्षोभयामास सार्णवां मारुतात्मजः ॥ ४१ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 615
 
@@ -19465,7 +19465,7 @@ Stretching his well-known arms, resembling the coils of serpents, Hanumān,
 
 616
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 son of the wind-god, who vied with Garuḍa (an enemy of serpents) in prowess, made for the Himālaya mountain, the king of mountains, the highest mountain, drawing away the four quarters, as it were. (51)
 
@@ -19518,7 +19518,7 @@ Duly reaching that mighty lord of mountains with much elevated excellent golden 
 
 He saw there the seat of Hiranyagarbha (Brahmā) as well as the abode of Rajatanābha (another form of Brahmā), the abode of Indra (the ruler of gods), the spot from which Rudra (the god of destruction) is believed to have discharged an arrow (at the city of Tripura), the abode of Lord Hayagriva (a manifestation of Lord Viṣṇu with the neck of a horse) as also the blazing abode of the deity presiding over Brahmāstra
 
-* YUDDHAKĀṆḌA *
+
 
 617
 
@@ -19573,7 +19573,7 @@ Not being able to identify them, the said high-souled Hanumān grew angry and in
 
 618
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स तस्य शृङ्गं सनगं सनागं
 सकाञ्चनं धातुसहस्रजुष्टम्।
@@ -19633,7 +19633,7 @@ Inhaling the unique fragrance of the powerful herbs, both the aforesaid sons of 
 
 Nay, even those eminent heroes among the monkeys, who had been killed, were healed of their wounds and rid of their pain
 
-* YUDDHAKĀṆḌA *
+
 
 619
 
@@ -19687,7 +19687,7 @@ The sun having set, the aforesaid bulls among the monkeys marched with their fac
 
 620
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 उल्काहस्तैर्हरिगणैः सर्वतः समभिद्रुताः।
 आरक्षस्था विरूपाक्षाः सहसा विप्रदुद्रुवुः ॥ ५ ॥
@@ -19788,7 +19788,7 @@ The clamour of the womenfolk of Laṅkā,
 
 622
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 enveloped in smoke, scorched with fire and shrieking at the top of their voice could be heard up to one hundred Yojanas (or eight hundred miles). (31)
 
@@ -19915,7 +19915,7 @@ Nay, the sea with its rolling waves shone all the more brightly on its waters ge
 
 624
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Endowed with flags and pennons, equipped with excellent axes shaped like swords, nay, consisting of formidable horses, chariots and elephants, crowded with foot soldiers of every description and distinguished by shining pikes, maces, swords, spears, lances and bows, that terrible army of ogres was noted for its redoubtable valour and prowess. (54-55)
 
@@ -19956,7 +19956,7 @@ One warrior struck his adversary striking another; a second one threw down his a
 
 “Give battle to me,” said one, on which the other offered to fight with him; while still another intervened, saying: “I offer resistance to him, tarry; why do you subject
 
-* YUDDHAKĀṆḌA *
+
 
 625
 
@@ -20012,7 +20012,7 @@ Seeing Kampana made short work of in combat, Śoṇitākṣa for his part thereu
 
 626
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 speedily darted in his chariot towards Aṅgada like a fearless warrior. (4)
 
@@ -20136,7 +20136,7 @@ Seeing his aforesaid sword, which closely resembled a pestle in shape, fallen on
 
 628
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Regaining his consciousness, that energetic and powerful son of Vāli dashed the head of Prajaṅgha off his trunk with his fist. (27)
 
@@ -20261,7 +20261,7 @@ Though pierced all over his body with whetted steel arrows decked with gold, who
 
 630
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 भुवौ विव्याध बाणाभ्यामुल्काभ्यामिव कुञ्जरम्।
 तस्य सुखाव रुधिरं पिहिते चास्य लोचने ॥ ५२ ॥
@@ -20367,7 +20367,7 @@ Covered all over with arrows by the impetuous Kumbha, who was skilled in aiming 
 
 632
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वरदानात् पितृव्यस्ते सहते देवदानवान्।
 कुम्भकर्णस्तु वीर्येण सहते च सुरासुरान् ॥ ७५ ॥
@@ -20428,7 +20428,7 @@ Due to the falling down of Kumbha there rose a mass of water as high as the Vind
 
 Springing up and throwing down Sugriva, Kumbha thereupon furiously struck him on the bosom with his adamantine fist. (86)
 
-* YUDDHAKĀṆḌA *
+
 
 633
 
@@ -20491,7 +20491,7 @@ Seeing his elder brother, Kumbha, struck down by Sugriva, Nikumbha gazed on the
 
 634
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 (aforesaid) ruler of monkeys as though the ogre would consume him with his wrath. (1)
 
@@ -20614,7 +20614,7 @@ When Nikumbha, who was crying loudly, was killed in combat by the son of the win
 
 636
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 व्यपेते तु जीवे निकुम्भस्य हृष्टा
 विनेदुः प्लवंगा दिशः सस्वनुश्च।
@@ -20699,7 +20699,7 @@ contingent by his side. (7)
 प्रदक्षिणं रथं कृत्वा समारुह्य निशाचरः।
 सूतं संचोदयामास शीघ्रं वै रथमावह ॥ ८ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 637
 
@@ -20763,7 +20763,7 @@ Seeing those portents, yet ignoring them, all the ogres, who were exceedingly va
 
 638
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 घनगजमहिषाङ्गतुल्यवर्णाः
 
@@ -20822,7 +20822,7 @@ Seeing those monkeys (lit., dwellers in the woods) fleeing, those arrogant ogres
 
 While the well-known monkeys were
 
-* YUDDHAKĀṆḌA *
+
 
 639
 
@@ -20890,7 +20890,7 @@ Heartily laughing on hearing the challenge of Makarākṣa, Śrī Rāma, sprung 
 
 640
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 राघवेणैवमुक्तस्तु मकराक्षो महाबलः।
 बाणौघानमुचत् तस्मै राघवाय रणाजिरे ॥ २१ ॥
@@ -21003,7 +21003,7 @@ Thus ends Canto Seventy-nine in the Yuddhakāṇḍa of the glorious Rāmāyaṇ
 
 642
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # अशीतितमः सर्गः
 
@@ -21059,7 +21059,7 @@ Such omens as betokened triumph, appeared in the smokeless fire which burst into
 
 
 
-* YUDDHAKĀṆḌA *
+
 
 643
 
@@ -21124,7 +21124,7 @@ He beheld the two heroic princes (Śrī Rāma and Lakṣmaṇa), who were endowe
 
 644
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 midst of monkeys and discharging volleys of arrows. (20)
 
@@ -21248,7 +21248,7 @@ Thereupon Śrī Rāma admonished in the following words the aforesaid Lakṣma�
 
 646
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इत्येवमुक्त्वा वचनं महार्थं
 रघुप्रवीरः प्लवगर्षभैर्वृतः।
@@ -21308,7 +21308,7 @@ Infuriated to see him sallying forth for an encounter, all those denizens of the
 हनुमान् पुरतस्तेषां जगाम कपिकुञ्जरः।
 प्रगृह्य सुमहच्छृङ्गं पर्वतस्य दुरासदम् ॥ ८ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 647
 
@@ -21371,7 +21371,7 @@ Beholding that cherished consort of Śrī Rāma, who was lovely of all limbs, he
 
 648
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Torn from her home, and her kingdom too as well as from the protection of Śrī Rāma, what wrong has this princess of Mithilā done to you that you are killing her, O pitiless one? (20)
 
@@ -21431,7 +21431,7 @@ Split asunder by him diagonally that poor lady of broad hips and pleasing aspect
 
 Having killed that illusory woman, Indrajit spoke as follows to Hanumān: “Behold this darling of Rāma destroyed by me with a weapon. Here is Sītā, a princess of Videha
 
-* YUDDHAKĀṆḌA *
+
 
 649
 
@@ -21490,7 +21490,7 @@ and were fleeing singly: (2)
 
 650
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एवमुक्ताः सुसंक्रुद्धा वायुपुत्रेण धीमता।
 शैलशृङ्गान् दुमांश्चैव जगृहृर्हृष्टमानसाः ॥ ५ ॥
@@ -21598,7 +21598,7 @@ Thus ends Canto Eighty-two in the Yuddhakāṇḍa of the glorious Rāmāyaṇa 
 
 652
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # ज्यशीतितमः सर्गः
 
@@ -21660,7 +21660,7 @@ Rendered insensible through grief on hearing the aforesaid submission of Hanumā
 तं भूमौ देवसंकाशं पतितं दृश्य राघवम्।
 अभिपेतुः समुत्पत्य सर्वतः कपिसत्तमाः ॥ ११ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 653
 
@@ -21718,7 +21718,7 @@ If it is alleged that those of sinful deeds
 
 654
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 are destroyed by their own unrighteousness, O scion of Raghu, the unrighteousness itself, consisting as it does in an act of killing etc., will be forthwith destroyed inasmuch as an action is momentary. Whom will that unrighteousness destroy, which is itself destroyed in the course of three seconds? (22)
 
@@ -21759,7 +21759,7 @@ If, on the other hand, it is urged by you that virtue in the form of redeeming t
 
 * The dissertation contained in verses 14 to 25 above disproving the existence of good and evil destiny engendered by good and evil acts respectively was apparently given by Lakṣmaṇa in a mood of frustration which had come upon him on seeing Śrī Rāma disconsolate over the ‘death’ of his beloved spouse. Even as falling a prey to grief on the part of the divine Śrī Rāma at the destruction of an illusory living image of his darling was a mere sport of love, the utterance of such apparently incoherent words on the part of Lakṣmaṇa too in a fit of agony on seeing Śrī Rāma agonized shows his agitation caused by love. Later on, as his grief subsides, Lakṣmaṇa himself says in verse 44 below that he had given expression to such things only to assuage the grief of Śrī Rāma and spur him on to action.
 
-* YUDDHAKĀṆḌA *
+
 
 655
 
@@ -21814,7 +21814,7 @@ thunderbolt, would not have performed a horse-sacrifice (to atone for the sin of
 
 656
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 seeking wealth and even hunting for it. (38)
 
@@ -21867,7 +21867,7 @@ Telling Śrī Rāma the secret of the conjuring trick practised by Indrajit, Vib
 
 Having restored the simian troops to their position while Lakṣmaṇa, who was so fond of his elder brother, was reassuring Śrī Rāma, Vibhīṣaṇa for his part made his appearance there, surrounded by
 
-* YUDDHAKĀṆḌA *
+
 
 657
 
@@ -21930,7 +21930,7 @@ Restraining the son of Sumitrā even while he was speaking, Vibhiṣaṇa, for h
 
 658
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 चैत्यं निकुम्भिलामद्य प्राप्य होमं करिष्यति।
 हुतवानुपयातो हि देवैरपि सवासवैः ॥ १४ ॥
@@ -21980,7 +21980,7 @@ Restraining the son of Sumitrā even while he was speaking, Vibhiṣaṇa, for h
 
 “On concluding the ritual, that prince of ogres will turn invisible on the battlefield to
 
-* YUDDHAKĀṆḌA *
+
 
 659
 
@@ -22040,7 +22040,7 @@ a scion of Raghu, Vibhīṣaṇa, who was skilled in expression, forthwith repea
 
 660
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Therefore, shake off, O prince, this grief and agony, which have appeared in you without any ostensible reason. This anxiety too should be given up inasmuch as it considerably enhances the joy of the enemy. (8)
 
@@ -22086,7 +22086,7 @@ hero by virtue of a boon granted by Brahmā (the self-born creator) pleased with
 
 * The boon granted by Brahmā was that at the conclusion of the pouring of oblations into the sacrificial fire by Indrajit the ogre would receive from the god of fire a chariot drawn by horses coursing at his will as the mystic missile known by the name of Brahmaśīra and that by virtue of that mystic missile he would remain death-proof till he had discharged the first arrow.
 
-* YUDDHAKĀṆḌA *
+
 
 661
 
@@ -22148,7 +22148,7 @@ Having made the aforesaid submission in the presence of his eldest brother, Śr�
 
 662
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Rāma, the brilliant Lakṣmaṇa for his part departed with all speed, longing as he did to dispose of Indrajit, son of Rāvaṇa. (28)
 
@@ -22195,7 +22195,7 @@ Accompanied by Vibhiṣaṇa as also by the valiant Aṅgada as well as by Hanum
 
 Thus ends Canto Eighty-five in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 663
 
@@ -22303,7 +22303,7 @@ and formidable mountain-peaks.
 
 664
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 राक्षसा वानरेन्द्रेषु विकृताननबाहवः।
 निवेशयन्तः शस्त्राणि चक्रुस्ते सुमहद्भयम् ॥ ११ ॥
@@ -22368,7 +22368,7 @@ Immediately on perceiving the son of the wind-god playing havoc with his might, 
 
 Approaching Hanumān, who looked like a mountain, ogres bearing pointed pikes struck him on all sides with pikes, those carrying swords in their hands, with swords;
 
-* YUDDHAKĀṆḌA *
+
 
 665
 
@@ -22428,7 +22428,7 @@ Vibhiṣaṇa pointed out Indrajit (sprung from the loins of Rāvaṇa) to Lak�
 
 666
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 workmanship, capable of repulsing the enemy and putting an end to one's life." (34)
 
@@ -22547,7 +22547,7 @@ Taunted in these words by his brother’s son, Indrajit, Vibhiṣaṇa replied a
 
 668
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 O ogre, as though you were unaware of my disposition? (18)
 
@@ -22605,7 +22605,7 @@ O ogre, as though you were unaware of my disposition? (18)
 
 “Nay, on attacking Lakṣmaṇa (a scion of Kakutstha), it will not be possible for you to survive. Strive with Prince Lakṣmaṇa on the battlefield. Reaching the abode of Yama, the god of retribution, when made short work of by Lakṣmaṇa, you will accomplish the purpose of gods by causing satisfaction to them. (29)
 
-* YUDDHAKĀṆḌA *
+
 
 669
 
@@ -22652,7 +22652,7 @@ The mighty Indrajit (son of Rāvaṇa), the destroyer of his enemies, who was ar
 
 670
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तीक्ष्णसायकनिर्भिन्नान् शूलशक्त्यृष्टितोमरैः ।
 अद्य वो गमयिष्यामि सर्वानेव यमक्षयम् ॥ ८ ॥
@@ -22828,7 +22828,7 @@ The arrows shot by Lakṣmaṇa, which had been rendered swift by beautiful feat
 
 672
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 fixed at their end and looked like flaming serpents, shone in the ogre's breast like the rays of the sun. (31)
 
@@ -22888,7 +22888,7 @@ Fitting to his bow arrows resembling venomous snakes, the son of Sumitrā thereu
 
 Struck by Lakṣmaṇa with arrows, which impinged on the body like Indra's thunderbolt,
 
-* YUDDHAKĀṆḌA *
+
 
 673
 
@@ -22952,7 +22952,7 @@ Seeing the aforesaid feat accomplished by Indrajit, yet not minding it, nay, lau
 
 674
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तस्य बाणैः सुविधवस्तं कवचं काञ्चनं महत्।
 व्यशीर्यत रथोपस्थे ताराजालमिवाम्बरात् ॥ ५४ ॥
@@ -23013,7 +23013,7 @@ Shooting their arrows with agility and grace in a wonderful way, which was entir
 
 The appalling sound produced by the impact of the palms of the two warriors on their bowstrings could be heard apart. Like a violent thunderstorm it made people tremble. (65)
 
-* YUDDHAKĀṆḌA *
+
 
 675
 
@@ -23082,7 +23082,7 @@ Reaching the battlefield in the meantime,
 
 676
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the high-souled Vibhīṣaṇa took up his position
 there in order to relieve the fatigue,
@@ -23164,7 +23164,7 @@ really fond of destroying the ogres, Vibhīṣaṇa
 was befitting to the occasion, thereupon
 spoke the following opportune words: (7)
 
-* YUDDHAKĀṆḌA *
+
 
 677
 
@@ -23220,7 +23220,7 @@ Narāntaka, who were full of energy. (10—14)
 
 678
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वानरेन्द्रा जहषिरे लाङ्गूलानि च विव्यधुः।
 ततस्तु कपिशार्दूलाः क्ष्वेडन्तश्च पुनः पुनः।
@@ -23274,7 +23274,7 @@ Accompanied with a loud clamour, that vehement encounter between the monkeys, an
 
 Causing Lakṣmaṇa to dismount from his back, and tearing up a sal tree from a mountain, the high-minded Hanumān too, who felt enraged and was difficult to approach for his enemies, himself began to exterminate the ogres in their thousands. Giving a fearful fight to his uncle, Vibhīṣaṇa, the mighty Indrajit, the destroyer of hostile champions, rushed once more towards Lakṣmaṇa. Strenuously engaged in fighting on the battlefield, the two celebrated heroes, Lakṣmaṇa and the ogre, Indrajit, began to assail each other, showering streams of arrows on their adversary. The two warriors, who were endowed with extraordinary might, covered each other off and on with multitudes of arrows in the same way as the powerful sun and moon are veiled by clouds at the end of summer. Due to quickness of hand even as they fought there it could not be distinctly perceived when they shuffled the bow from one hand to the other, tightly held the bow as well as the string with the fist,
 
-* YUDDHAKĀṆḌA *
+
 
 679
 
@@ -23316,7 +23316,7 @@ Then, with another gilded, sharp and splendid arrow of the variety known by the 
 
 680
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Lakṣmaṇa pierced him with whetted shafts while his hands were occupied with the horses; and he discharged arrows at the horses while he was busy once more with his bow. (44)
 
@@ -23374,7 +23374,7 @@ Thereupon, the celebrated Lakṣmaṇa, who vied with the mighty Indra, grievous
 
 Thus ends Canto Eighty-nine in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 681
 
@@ -23434,7 +23434,7 @@ Causing a splendid chariot—which was decked with gold, was furnished with dart
 
 682
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स राक्षसगणैर्मुख्यैर्वृतो मन्दोदरीसुतः।
 निर्ययौ नगराद् वीरः कृतान्तबलचोदितः ॥ ११ ॥
@@ -23496,7 +23496,7 @@ Aiming at Lakṣmaṇa he discharged with utmost agility hails of arrows even li
 मुक्तमिन्द्रजिता तत्तु शरवर्षमरिंदमः।
 आवारयदसम्भ्रान्तो लक्ष्मणः सुदुरासदम् ॥ २३ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 683
 
@@ -23550,7 +23550,7 @@ Believing Lakṣmaṇa to be protected by an impenetrable coat of mail* and
 
 684
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 demonstrating his fleetness in discharging missiles, Indrajit, son of Rāvaṇa, who felt extremely enraged, pierced Lakṣmaṇa in the forehead with three arrows provided with beautiful plumes. With the aforesaid arrows imbedded in his brow Lakṣmaṇa (the delight of the Raghus), who was fond of fighting, looked charming in the forefront of battle like a three-peaked mountain. Stretching his bow, though wounded on that occasion in combat by the ogre with his arrows as aforesaid, the celebrated Lakṣmaṇa instantly pierced Indrajit in return on the battlefield with five arrows in his face adorned with splendid earrings. (32—35)
 
@@ -23665,7 +23665,7 @@ That most wonderful weapon presided over by Varuṇa was rendered ineffectual by
 
 686
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Indrajit, a victor in combat, who was endowed with extraordinary energy, thereupon put to his bow a flaming missile presided over by the god of fire, as if he was going to destroy the world with it. (56)
 
@@ -23770,7 +23770,7 @@ Throwing away their weapons sharp-edged spears, swords and axes, all the
 
 688
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ogres, panic stricken, as they were fled in various directions in their hundreds. (78)
 
@@ -23831,7 +23831,7 @@ Feeling overjoyed to see that bull among the ogres, who was unrivalled in combat
 
 Felicitating Lakṣmaṇa on his victory, Vibhīṣaṇa and Hanumān as also Jāmbavān,
 
-* YUDDHAKĀṆḌA *
+
 
 689
 
@@ -23888,7 +23888,7 @@ Going clockwise round Śrī Rāma and
 
 690
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 greeting him, the son of Sumitrā then stood rooted beside his eldest half brother even as Lord Vāmana, the younger brother of Indra, would stand beside Indra, the ruler of gods. (4)
 
@@ -23938,7 +23938,7 @@ Smelling once more as a token of affection the head of Lakṣmaṇa, who was fee
 
 “I am victorious today inasmuch as that evil-minded adversary of ours has been despatched. Luckily enough, O hero, has the right arm of the merciless Rāvaṇa been actually severed by you. Indeed, Indrajit was his sheet-anchor. A remarkable exploit
 
-* YUDDHAKĀṆḌA *
+
 
 691
 
@@ -24005,7 +24005,7 @@ Restored to his normal state and freed from the arrows, his lassitude having gon
 
 692
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Lakṣmaṇa, the son of Sumitrā, felt delighted on that occasion. (27)
 
@@ -24063,7 +24063,7 @@ Hearing of Indrajit's fall and having directly perceived it, the ministers of R�
 
 
 
-* YUDDHAKĀṆḌA *
+
 
 693
 
@@ -24115,7 +24115,7 @@ Indeed, pangs occasioned by the death of his son further inflamed Rāvaṇa, who
 
 694
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ललाटे भुकुटीभिश्च संगताभिर्व्यरोचत।
 युगान्ते सह नक्रैस्तु महोर्मिभिरिवोदधिः ॥ १८ ॥
@@ -24180,7 +24180,7 @@ Eager to rally the ogres on the field of battle, Rāvaṇa, the suzerain lord of
 कवचं ब्रह्मदत्तं मे यदादित्यसमप्रभम्।
 देवासुरविमर्देषु न च्छिन्नं वत्रमुष्टिभिः ॥ ३० ॥
 
-* YUDDHAKĀṆḌA *
+
 
 695
 
@@ -24235,7 +24235,7 @@ Nay, taking the sword, and feeling highly enraged, the aforesaid Rāvaṇa, who 
 
 696
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 लोकपाला हि चत्वारः क्रुद्धेनानेन निर्जिताः ।
 बहवः शत्रवश्चान्ये संयुगेष्वभिपातिताः ॥ ४२ ॥
@@ -24339,7 +24339,7 @@ planet Mars when away from the moon-god (her husband), a good-natured, upright a
 
 698
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “A gallant and shrewd car-warrior, fighting with a sword in the foremost of your chariots, you will be able to lay your hands on the princess of Mithilā only on making short work of Rāma, son of Daśaratha.”
 
@@ -24458,7 +24458,7 @@ The fierce rangers of the night for their part dared not approach Śrī Rāma—
 
 700
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Those night-stalkers were able to perceive on the battlefield the most terrific deeds of Śrī Rāma, which were difficult to perform for others, only when they had actually been performed by him and not while they were being performed, his movement being quick as lightning. (20)
 
@@ -24511,7 +24511,7 @@ They perceived the curved golden ends of the bow of the high-souled prince, Śr�
 
 The created beings beheld the aforesaid Śrī Rāma in the form of a discus, which was exterminating the ogres on the battlefield like the Wheel of Time, nay, which had the middle part of the body of Śrī Rāma for its navel, his strength for its flame, the arrows discharged by Śrī Rāma for its spokes, his bow for its belly, the twanging of the bow-string and the clanging of the gauntlet for the sound produced by its revolution, his
 
-* YUDDHAKĀṆḌA *
+
 
 701
 
@@ -24602,7 +24602,7 @@ Vālmiki, the work of a Ṛṣi and the oldest epic.
 
 702
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चतुर्नवतितमः सर्गः
 
@@ -24658,7 +24658,7 @@ in the forest Rāma, who is charming like the god of love? (6)
 
 “It was on account of Śūrpaṇakhā that this bitter enmity has been conceived by Rāvaṇa and the reputed Sītā was borne
 
-* YUDDHAKĀṆḌA *
+
 
 703
 
@@ -24717,7 +24717,7 @@ away by the ten-headed ogre, to his own destruction. (11)
 
 704
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 to disregard, and his beloved son, Indrajit, having been made short work of by Lakṣmaṇa the other day. (21)
 
@@ -24776,7 +24776,7 @@ to disregard, and his beloved son, Indrajit, having been made short work of by L
 
 “Feeling gratified by their worship, the
 
-* YUDDHAKĀṆḌA *
+
 
 705
 
@@ -24837,7 +24837,7 @@ Thus ends Canto Ninety-four in the Yuddhakāṇḍa of the glorious Rāmāyaṇa
 
 706
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # पञ्चनवर्तितमः सर्गः
 
@@ -24899,7 +24899,7 @@ Laughing heartily in sneer, Rāvaṇa, who was filled with anger, then spoke as 
 
 “Through the death of my aforesaid
 
-* YUDDHAKĀṆḌA *
+
 
 707
 
@@ -24969,7 +24969,7 @@ When enjoined as aforesaid, the troop-commanders for their part went round Laṅ
 
 708
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 known ogres in every house to march to the battlefield. (23)
 
@@ -25027,7 +25027,7 @@ Then there burst forth on all sides a loud flourish of trumpets accompanied by t
 
 "There comes the ruler of ogres, the
 
-* YUDDHAKĀṆḌA *
+
 
 709
 
@@ -25095,7 +25095,7 @@ Not minding these fearful portents unmistakably present before him, impelled as 
 
 710
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तेषां तु रथघोषेण राक्षसानां महात्मनाम्।
 वानराणामपि चमूर्युद्धायैवाभ्यवर्तत ॥ ४९ ॥
@@ -25154,7 +25154,7 @@ The monkeys could not stand even for an instant the irresistible hail of shafts 
 
 Tormented by those sharp arrows, they fled screaming like elephants enveloped in flames and getting scorched by them. (3)
 
-* YUDDHAKĀṆḌA *
+
 
 711
 
@@ -25222,7 +25222,7 @@ He rained formidable arrows on Sugrīva in the forefront of battle and stabilize
 
 712
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the frightened ogres, duly cheering them up. (16)
 
@@ -25286,7 +25286,7 @@ Dodging by his adroitness the slap, which was about to be dealt by Sugrīva, the
 
 Nay, seeing his blow parried by that
 
-* YUDDHAKĀṆḌA *
+
 
 713
 
@@ -25345,7 +25345,7 @@ major conflict, the aforesaid two armies were soon considerably attenuated like 
 
 714
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स्वबलस्य तु घातेन विरूपाक्षवधेन च।
 बभूव द्विगुणं क्रुद्धो रावणो राक्षसाधिपः ॥ २ ॥
@@ -25477,7 +25477,7 @@ Nay, roaring again and again, they then slapped each other and, meeting each oth
 
 716
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 उत्पेततुल्यदा तूर्णं जघ्नतुश्च परस्परम्।
 भुजैश्चिक्षिपतुरिवरव्यान्योन्यमपराजितौ ॥ २७ ॥
@@ -25537,7 +25537,7 @@ Having thrown to the ground the aforesaid Mahodara, who looked like a part of a 
 अथ विजयमवाप्य वानरेन्द्रः
 समरमुखे सुरसिद्धयक्षसङ्गैः।
 
-* YUDDHAKĀṆḌA *
+
 
 717
 
@@ -25606,7 +25606,7 @@ Fall of Mahāpārśwa at the hands of Aṅgada
 
 718
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 पफाल हृदयं चास्य स पपात हतो भुवि।
 तस्मिन् विनिहते भूमौ तत् सैन्यं सम्प्रचुक्षुभे ॥ २३ ॥
@@ -25617,7 +25617,7 @@ Gazing on Sugrīva when Mahodara had been struck down by the latter, Mahāpārś
 
 extraordinary might, pierced the celebrated Aṅgada once more with numerous arrows and struck Jāmbavān, the ruler of bears, with three arrows in the chest. He also struck Gavākṣa, with numerous shafts. Seized with anger on seeing Gavākṣa as well as Jāmbavān tormented with arrows, Aṅgada picked up a formidable iron bludgeon. Firmly grasping that iron bludgeon, which shone like the rays of the sun, with both hands and brandishing it with force, Aṅgada, son of Vāli, his eyes red with anger, hurled it with the intention of killing the ogre, Mahāpārśwa, who stood at a distance. Thrown by the mighty Aṅgada, that bludgeon for its part knocked the bow with the arrow set to it from the ogre's hand as also his helmet. Nay, approaching the ogre with all speed, the glorious Aṅgada, son of Vāli, full of rage, slapped him on the temple (root of the ear), shining with an earring. Provoked to anger, Mahāpārśwa, for his part, who was endowed with great impetuosity and extraordinary splendour, seized a huge axe in one hand. Extremely enraged, the ogre hurled that stainless and solid axe, which had been washed in oil and sharpened thereby, and was made of steel, at the son of Vāli. Full of fury, the celebrated Aṅgada, however, evaded the axe, which had been aimed with violence at his left shoulder bone. The aforesaid Aṅgada, who was the equal of his deceased father in prowess and was extremely enraged, clenched his adamant-like fist. Nay, knowing, as he did, the vital parts of the body, he let fall the fist, which impinged like the thunderbolt on the bosom of the ogre in the vicinity of his breasts. Due to its impact the bosom of the ogre burst open and he fell down dead on the ground in that major conflict. On Mahāpārśwa having been struck down on the ground, his army got confused, while a violent rage
 
-* YUDDHAKĀṆḌA *
+
 
 719
 
@@ -25671,7 +25671,7 @@ ministers who have been killed and the city which has been laid siege to by the 
 
 720
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Saying so and causing all the ten directions to resound with the rattling of his chariot, that mighty and surpassing car-warrior drove rapidly and rushed towards Śrī Rāma, a scion of Rāghu. (6)
 
@@ -25725,7 +25725,7 @@ Again, coming within the range of the aforesaid two princes, Lakṣmaṇa and Ś
 तमिच्छन् प्रथमं योद्धुं लक्ष्मणो निशितैः शरैः।
 मुमोच धनुरायम्य शरानग्निशिखोपमान् ॥ १८ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 721
 
@@ -25790,7 +25790,7 @@ The vault of heaven was studded with eye-holes, as it were, by showers of shafts
 
 722
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 शरान्धकारमाकाशं चक्रतुः परमं तदा।
 गतेऽस्तं तपने चापि महामेघाविवोत्थितौ ॥ ३० ॥
@@ -25849,7 +25849,7 @@ Having pierced the excellent arrows of Rāvaṇa, the arrows of Śrī Rāma, gen
 
 Rendering the missile of Śrī Rāma, a scion of Raghu, void, the aforesaid Rāvaṇa, who was filled with wrath, manifested an
 
-* YUDDHAKĀṆḌA *
+
 
 723
 
@@ -25900,7 +25900,7 @@ Thus ends Canto Ninety-nine in the Yuddhakāṇḍa of the glorious Rāmāyaṇa
 
 724
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # शततमः सर्गः
 
@@ -25959,7 +25959,7 @@ Seeing that missile frustrated, Rāvaṇa, the suzerain lord of ogres, for his p
 
 Though grievously hurt by Rāvaṇa with
 
-* YUDDHAKĀṆḌA *
+
 
 725
 
@@ -26027,7 +26027,7 @@ Brandished with violence by the mighty and evil-minded Rāvaṇa, that immensely
 
 726
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 splendid javelin, which shone like a flaming thunderbolt, gave out a lurid gleam. (23)
 
@@ -26150,7 +26150,7 @@ Not minding those arrows, and embracing Lakṣmaṇa, he spoke as follows to Han
 
 728
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अस्मिन् मुहूर्ते नचिरात् सत्यं प्रतिशृणोमि वः ।
 अरावणमरामं वा जगद् द्रक्ष्यथ वानराः ॥ ४८ ॥
@@ -26208,7 +26208,7 @@ Saying so, Śrī Rāma steadily proceeded to strike Rāvaṇa (the ten-headed mo
 
 Rāvaṇa too likewise covered Śrī Rāma on that occasion with flaming steel arrows and clubs even as a cloud would cover a mountain with torrents of rain. (58)
 
-* YUDDHAKĀṆḌA *
+
 
 729
 
@@ -26265,7 +26265,7 @@ shafts at his mighty opponent: (1-2)
 
 730
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 life itself, drenched with blood, my mind being greatly agitated. (4)
 
@@ -26384,7 +26384,7 @@ miserable as I am. You have been my comforter, whenever stricken with grief, I r
 
 732
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Bounding with all speed from this place, O gentle one, to the Mahodaya mountain, the one which has already been made fully known to you by Jāmbavān, O gallant one, bring here the valuable herb, which has sprung up on its southern peak. (28—31)
 
@@ -26511,7 +26511,7 @@ Pained by the irresolute talk of the high-souled Śrī Rāma (a scion of Raghu),
 
 734
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 न जीवन् यास्यते शत्रुस्तव बाणपथं गतः।
 नर्दतस्तीक्ष्णदंष्ट्रस्य सिंहस्येव महागजः ॥ ५४ ॥
@@ -26629,7 +26629,7 @@ Nay, remaining seated in his chariot, armed with a lash, Mātali, the charioteer
 
 736
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 work of the ogre Rāvaṇa even as the mighty
 Indra killed the giants, my lord!” (16)
@@ -26741,7 +26741,7 @@ Nay, looking like donkeys and emitting a harsh sound, nay, assuming a stern aspe
 
 738
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 portentous clouds circled in the sky on all sides, thundering all the time. (41)
 
@@ -26788,7 +26788,7 @@ Surrounded by ogres—heroic in combat and formed into battalions—and extremel
 
 Duly raising the dart, the colossus terribly roared on the field of battle, thereby bringing excessive joy all round to his army, his eyes blood-red with anger. (52)
 
-* YUDDHAKĀṆḌA *
+
 
 739
 
@@ -26857,7 +26857,7 @@ Feeling extremely enraged, that scion of Raghu, the delight of the Raghus, seize
 
 740
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Lifted up by the mighty prince, that brilliant javelin, which was rendered sonorous by its bells, lit up the sky like a meteor appearing at the end of the world-cycle. (65)
 
@@ -26981,7 +26981,7 @@ Laughing heartily, though filled with anger, the valiant Śrī Rāma, son of Emp
 
 742
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Indeed, a laudable, momentous and glorious act has been performed by you, a heroic brother of Kubera (the god of wealth), rich in might? (15)
 
@@ -27049,7 +27049,7 @@ While being struck with volleys of stones
 
 
 
-* YUDDHAKĀṆḌA *
+
 
 743
 
@@ -27105,7 +27105,7 @@ What for was this chariot of mine removed by you in the presence of the enemy, b
 
 744
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 त्वयाद्य हि ममानार्थं चिरकालमुपार्जितम्।
 यशो वीर्यं च तेजश्च प्रत्ययश्च विनाशितः ॥ ५ ॥
@@ -27167,7 +27167,7 @@ Spoken to in these harsh words by the insensate Rāvaṇa, the charioteer for hi
 
 “The steeds of my chariot too, which
 
-* YUDDHAKĀṆḌA *
+
 
 745
 
@@ -27228,7 +27228,7 @@ Saying so, Rāvaṇa, the lord of ogres, actually bestowed on the charioteer, ev
 
 746
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततो द्रुतं रावणवाक्यचोदितः
 प्रचोदयामास हयान् स सारथिः।
@@ -27276,7 +27276,7 @@ supremely blessed and excellent encomium, entitled “Āditya-Hṛdaya”, which
 
 “Indeed, he is the embodiment of all gods and full of glory and creates and sustains the gods and the demons as well as their worlds by his rays. (7)
 
-* YUDDHAKĀṆḌA *
+
 
 747
 
@@ -27321,7 +27321,7 @@ destroyer of darkness, the source of happiness, the mitigator of the suffering o
 
 748
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the valiant one! Hail to you as denoted by the mystic syllable OM! Hail to you, the awakener of the lotus! Hail to you, the fierce one! (18)
 
@@ -27379,7 +27379,7 @@ Hearing this advice, Śrī Rāma (a scion of Raghu), who was endowed with extrao
 रावणं प्रेक्ष्य हृष्टात्मा जयार्थं समुपागमत्।
 सर्वयत्नेन महता वृत्तस्तस्य वधेऽभवत् ॥ ३० ॥
 
-* YUDDHAKĀṆḌA *
+
 
 749
 
@@ -27427,7 +27427,7 @@ Feeling delighted, that charioteer, the charioteer of Rāvaṇa, drove forward w
 
 750
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 fully equipped with implements of war and adorned with rows of flags and pennons, which was swallowing space as it were and was making the earth resound with its sound, nay, which was the doom of the enemy's forces and brought immense joy to its owner. Śrī Rāma, the ruler of men, they say, saw advancing precipitately towards him the aforesaid chariot of Rāvaṇa, the king of ogres, which bore a huge standard and was noisy, nay, which was drawn by sombre steeds and clothed with a dreadful lustre and was shining in space like an aerial car, bright as the sun, and which, crowded as it was with pennons that flashed like lightning and displaying as it did the splendours of a rainbow because of its decorations, looked like a cloud holding streams of water and releasing torrents in the shape of arrows. Beholding the enemy's chariot advancing like a cloud and making noise like a mountain bursting asunder when struck with lightning, and stretching with impetuosity his bow, which, when bent, looked like the crescent moon, Śrī Rāma spoke as follows to Mātali, the charioteer of Indra (the god with a thousand eyes): "From the way in which he is darting forward from left to right with great impetuosity once more it appears that his heart has been set by him upon destroying himself in combat. (1—10)
 
@@ -27540,7 +27540,7 @@ Carrying on a desperate fight among themselves and emitting sharp cries fearful 
 
 752
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 जघनेभ्यः स्फुलिङ्गाश्च नेत्रेभ्योऽश्रूणि संततम्।
 मुमुचुस्तस्य तुरगास्तुल्यमग्निं च वारि च ॥ ३२ ॥
@@ -27601,7 +27601,7 @@ Their arms, which were ready with weapons and impatient for action, the warriors
 रक्षसां रावणं चापि वानराणां च राघवम्।
 पश्यतां विस्मिताक्षाणां सैन्यं चित्रमिवाबभौ ॥ ५ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 753
 
@@ -27663,7 +27663,7 @@ Nay, with his flaming arrows, Rāvaṇa pierced the horses of the chariot of Śr
 
 754
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 to perceive the nonchalance of those horses on that occasion, Rāvaṇa they say, discharged a further shower of shafts as also maces as well as iron clubs, discuses and mallets, mountain peaks and trees as well as pikes and axes. He, however, let fall this rain of weapons as a creation of magic. Unwearied at heart as well as in effort, he discharged more arrows in thousands on that occasion. (15—18)
 
@@ -27714,7 +27714,7 @@ All created beings present there for their part gazed with an astonished mind on
 अर्दयन्तौ तु समरे तयोस्तौ स्यन्दनोत्तमौ।
 परस्परमभिक्रुद्धौ परस्परमभिद्रुतौ ॥ ३० ॥
 
-* YUDDHAKĀṆḌA *
+
 
 755
 
@@ -27753,7 +27753,7 @@ Rāma wounding Rāvaṇa and vice versa. Those excellent chariots of the two war
 
 756
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 गदानां मुसलानां च परिघाणां च निःस्वनैः ।
 शराणां पुडुवातैश्च क्षुभिताः सम सागराः ॥ ४५ ॥
@@ -27855,7 +27855,7 @@ The contest between Śrī Rāma and Rāvaṇa ceased neither by night nor by day
 
 758
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दशरथसुतराक्षसेन्द्रयोस्तयो-
 
@@ -27977,7 +27977,7 @@ As soon as discharged, the arrow, which was endowed with exceeding velocity and 
 
 760
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 रुधिरात्तः स वेगेन शरीरान्तकरः शरः।
 रावणस्य हरन् प्राणान् विवेश धरणीतलम् ॥ १९ ॥
@@ -28034,7 +28034,7 @@ Nay, covering the chariot of Śrī Rāma (a scion of Raghu), a soul-ravishing sh
 
 Nay, the excellent utterance of the high-souled gods saying 'Well done! Bravo!!', combined with a panegyric in praise of Śrī Rāma (a scion of Raghu), was distinctly heard in the heavens. (29)
 
-* YUDDHAKĀṆḌA *
+
 
 761
 
@@ -28088,7 +28088,7 @@ vanquished and killed on the battlefield, Vibhīṣaṇa began to lament as foll
 
 762
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वीरविक्रान्त विख्यात प्रवीण नयकोविद।
 महाहंशयनोपेत किं शेषे निहतो भुवि ॥ २ ॥
@@ -28144,7 +28144,7 @@ of sight, the sun has fallen to earth, the moon has merged in darkness, fire has
 
 “With prowess and energy for its
 
-* YUDDHAKĀṆḌA *
+
 
 763
 
@@ -28214,7 +28214,7 @@ To that valiant prince, Śrī Rāma, who had just finished his say, Vibhīṣa�
 
 764
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 submission in the interest of his deceased eldest brother. (20)
 
@@ -28270,7 +28270,7 @@ Emaciated through grief on hearing of
 
 Rāvaṇa having been killed by the high-souled Śrī Rāma (a scion of Raghu), the ogresses living in the gynaecium of Rāvaṇa, rushed out of the gynaecium, rolling in the dust of the streets, though being held back every now and then
 
-* YUDDHAKĀṆḌA *
+
 
 765
 
@@ -28331,7 +28331,7 @@ Afflicted thus to see their husband, Rāvaṇa, lying killed on the ground as me
 
 766
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the gods or even from reptiles for that matter! (14)
 
@@ -28391,7 +28391,7 @@ Wailing as aforesaid, those wretched consorts of Rāvaṇa burst into tears. Nay
 
 “The course of destiny, when about to bear fruit, cannot be diverted by money, wish, valour or even by command.” (25)
 
-* YUDDHAKĀṆḌA *
+
 
 767
 
@@ -28461,7 +28461,7 @@ too, they say, actually fled in all directions for fear of you.
 
 768
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अथवा रामरूपेण कृतान्तः स्वयमागतः।
 मायां तव विनाशाय विधायाप्रतितर्किताम् ॥ ९ ॥
@@ -28502,7 +28502,7 @@ the ogres who surrounded you. After subduing the senses, including the mind, the
 
 “You now stand vanquished in your turn by the senses themselves, who have ceased to co-operate with you as though they recollected their old grudge against you, occasioned by their discomfiture at your hands. The moment your brother, Khara, was actually killed by Śrī Rāma in Janasthāna, even though surrounded by numerous ogres, it became evident that Śrī Rāma was really no mortal. Nay, we all felt perturbed about our future the moment Hanumān penetrated by dint of his prowess deep into the city of Laṅkā, which was difficult to penetrate into even for gods. This nemesis has come upon you since you did not heed my advice. You were being repeatedly admonished by me to the effect that no hostility should be entered into with Śrī Rāma (a scion of Raghu). Nay, to the destruction of your sovereignty, life and your own people, you unaccountably conceived a passion for Sītā, O bull among the ogres! Surely an unworthy act was perpetrated by you, O foolish one, while treating with indignity, the celebrated Sītā,
 
-* YUDDHAKĀṆḌA *
+
 
 769
 
@@ -28563,7 +28563,7 @@ act reaps misery. While Vibhīṣaṇa has attained happiness, you have met with
 
 770
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 by the name of Caitraratha (belonging to Kubera and named after Caitraratha, the king of the Gandharvas, who is reputed to have planted it) as well as in all celestial gardens, adorned, as I was, with lovely garlands and clad in picturesque robes and invested with a matchless splendour, roamed in a suitable aerial car, visiting various lands of every description—have now been deprived of all sense-enjoyments because of your fall. (30—33)
 
@@ -28641,7 +28641,7 @@ by the name of Caitraratha (belonging to Kubera and named after Caitraratha, the
 
 772
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 today on a long journey, which is very difficult to undertake, O king, take me also with you, stricken as I am with agony. I shall no longer survive without you. Wherefore do you wish to depart, leaving me miserable, as I am, here? (48—60)
 
@@ -28684,7 +28684,7 @@ today on a long journey, which is very difficult to undertake, O king, take me a
 
 The pusillanimity which appeared in you on the solitary occasion of your carrying off Sītā, due to an irony of fate was surely an indication of your impending doom. Whatever, O mighty-armed one, my younger brother-in-law, Vibhīṣaṇa, who knows matters relating to the past as well as to the future, and is also conversant with the present—said after reflecting and sighing for long, on seeing Sītā (a princess of Mithilā) borne away by you, viz., ‘the extermination of the jewels among the ogres is now imminent!’ has come true. Your entire fortune
 
-* YUDDHAKĀṆḌA *
+
 
 773
 
@@ -28740,7 +28740,7 @@ followed is the bitter consequence of your perversity. (78)
 
 774
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अप्रियामिव कस्माच्च मां नेच्छस्यभिभाषितुम्।
 धिगस्तु हृदयं यस्या ममेदं न सहस्रधा ॥ ८५ ॥
@@ -28781,7 +28781,7 @@ in the tide of their fortune." While being consoled in these words, Mandodari, t
 तेजस्वी बलवाञ्छूरः संग्रामेषु च नित्यशः।
 शतक्रतुमुखैर्देवैः श्रूयते न पराजितः ॥ ९९ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 775
 
@@ -28830,7 +28830,7 @@ Lifting up that bier, which had been decorated with picturesque pennons and flow
 
 776
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 fires, which were borne by priests well-versed in Yajurveda and were contained in copper vessels, nay, which were bursting into flames at that time, went in front of Rāvaṇa. All the well-known women of the gynaecium followed at his heels with quick paces, sobbing and tottering on all sides. Having placed the bier bearing Rāvaṇa on a consecrated spot, Vibhīṣaṇa and others, who were all feeling sore afflicted, piled up a pyre with logs of sandalwood, as well as with blocks of Padmakawood, the fragrant root of the Uśira plant and the grass Bhadrakāli in accordance with Vedic rites, and covered it with the skin of black antelopes. (109—113)
 
@@ -28872,7 +28872,7 @@ Thereupon they all re-entered the city. Moving, when the ladies had penetrated d
 
 Having made short work of his enemy, Śrī Rāma too experienced joy with his army as well as with Sugrīva and Lakṣmaṇa, even as Indra, the wielder of the thunderbolt, did on dispatching of the demon Vṛtra. (123)
 
-* YUDDHAKĀṆḌA *
+
 
 777
 
@@ -28953,7 +28953,7 @@ the wind-god) and Lakṣmaṇa, the fidelity of
 
 778
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Sītā to her husband and the heroism of Hanumān, the highly blessed ones joyously returned as they had come. Bidding adieu to the ethereal chariot which had been provided to him by Indra and shone like fire, the mighty-armed Śrī Rāma (a scion of Raghu) respectfully saluted Mātali (Indra's charioteer). Mounting the aforesaid heavenly car, when dismissed by Śrī Rāma (a scion of Raghu), Mātali, Indra's charioteer, ascended to heaven itself: so the tradition goes. Mātali having ascended to heaven in his chariot, Śrī Rāma (a scion of Raghu), the foremost of car-warriors, for his part, who felt highly rejoiced, embraced Sugrīva. Having hugged Sugrīva, nay, greeted by Lakṣmaṇa and being honoured by the hordes of monkeys, Śrī Rāma returned to the camp where the troops had been stationed. The aforesaid son of Kakutstha then spoke as follows to Lakṣmaṇa, son of Sumitrā, who was full of courage and afire with spirit, and standing nearby: "Consecrate, O gentle one, on the throne of Laṅkā the yonder Vibhīṣaṇa, who is fond of, nay, devoted to me, and has done good offices to me in the past. It is my foremost desire, O gentle one, that I should see this younger brother of Rāvaṇa, Vibhīṣaṇa, consecrated on the throne of Laṅkā." Saying "Amen!" when commanded as aforesaid by the high-souled Śrī Rāma (a scion of Raghu), and supremely rejoiced, Lakṣmaṇa (son of Sumitrā) for his part took up golden jars. Nay, placing them in the hands of monkey chiefs, he particularly enjoined such of them as were quick as thought and endowed with extraordinary energy to fetch sea-water on that occasion. Moving with all speed from that place, the aforesaid monkeys, the foremost of them all, for their part, who were quick as thought, returned at once taking water from all the four seas. Taking one jar and duly installing Vibhīṣaṇa on an excellent seat, Lakṣmaṇa
 
@@ -28981,7 +28981,7 @@ Now the rangers of the night residing in the city of Laṅkā, who were all feel
 
 Accepting them all, the valiant Vibhīṣaṇa, who was difficult to overpower,
 
-* YUDDHAKĀṆḌA *
+
 
 779
 
@@ -29037,7 +29037,7 @@ Having penetrated deep into the city of Laṅkā and seeking the permission of V
 
 780
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 attracted the notice of Sītā. He found her without a bath and sitting cheerless at the foot of a tree surrounded by ogresses and looking like Rohiṇī (the deity presiding over a constellation of the same name and the favourite consort of the moon-god) in anguish (due to the evil influence exerted by a malevolent planet). Greeting and approaching her, Hanumān stood motionless, bent low and meek. (2—4)
 
@@ -29088,7 +29088,7 @@ Hanumān said: “Śrī Rāma is doing well, O princess of the Videha territory,
 
 Spoken to in these words, the divine Sītā for her part, whose countenance shone like the moon, felt tongue-tied due to
 
-* YUDDHAKĀṆḌA *
+
 
 781
 
@@ -29158,7 +29158,7 @@ Hearing his foregoing submission, Sītā (a princess of Mithilā), daughter of J
 
 782
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of good speech, nay, adorned with the quality of mellifluity and dictated by an intellect which is characterized by the well-known eight excellences.* (26)
 
@@ -29261,7 +29261,7 @@ Admonished in the foregoing words by Sītā, Hanumān for his part, who was an
 
 784
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 adept in expression, then replied as follows to Sītā, the irreproachable consort of Śrī Rāma: (47)
 
@@ -29383,7 +29383,7 @@ Hearing the aforesaid submission of Vibhiṣaṇa, the virtuous Sītā (a prince
 
 786
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 आरोप्य शिबिकां दीप्तां पराध्याम्बरसंवृताम्।
 रक्षोभिर्बहुभिर्गुमामाजहार विभीषणः ॥ १५ ॥
@@ -29442,7 +29442,7 @@ Nay, consuming the ogres with his glances, as it were, Śrī Rāma addressed in 
 
 “Why, disregarding me, are these people being harassed by you? Pray, stop this annoyance. They are my own people. (26)
 
-* YUDDHAKĀṆḌA *
+
 
 787
 
@@ -29504,7 +29504,7 @@ Thus ends Canto One hundred and fourteen in the Yuddhakāṇḍa of the glorious
 
 788
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # पञ्चदशाधिकशततमः सर्गः
 
@@ -29568,7 +29568,7 @@ Hearing the foregoing speech of Śrī Rāma, even while he was speaking as afore
 पश्यतस्तां तु रामस्य समीपे हृदयप्रियाम् ।
 जनवादभयाद् राज्ञो बभूव हृदयं द्विधा ॥ ११ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 789
 
@@ -29628,7 +29628,7 @@ wipe off the obloquy coming to me from all sides as well as the stigma on my ill
 
 790
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तदद्य व्याहृतं भद्रे मयैतत् कृतबुद्धिना।
 लक्ष्मणे वाथ भरते कुरु बुद्धिं यथासुखम् ॥ २२ ॥
@@ -29749,7 +29749,7 @@ lived together for so many years, I am undone for good, thanks to such ignorance
 
 792
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 exalted character was not prized by you either, O appraiser of good conduct? (15)
 
@@ -29817,7 +29817,7 @@ Nay, respectfully bowing down to the gods as well as to the Brāhmaṇas in gene
 
 
 
-* YUDDHAKĀṆḌA *
+
 
 793
 
@@ -29875,7 +29875,7 @@ Thus ends Canto One hundred and sixteen in the Yuddhakāṇḍa of the glorious 
 
 794
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # सप्तदशाधिकशततमः सर्गः
 
@@ -29968,7 +29968,7 @@ enemies! And yet You seem to ignore Sītā,
 a princess of the Videha territory, as a
 common man would do.” (9)
 
-* YUDDHAKĀṆḌA *
+
 
 795
 
@@ -30026,7 +30026,7 @@ You are the refuge as well as the
 
 796
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 forbear of the Siddhas (a class of demigods endowed with mystic powers by virtue of their very birth) as well as of the Sādhyas (a class of celestial beings). You are the Sacrificial performance; nay, You are the sacred syllable 'Vaṣaṭ' (on hearing which the Adhvaryu priest casts the oblation offered to a deity into the sacred fire); You are the mystic syllable 'OM' (an appellation of God) and higher than the highest. (19)
 
@@ -30082,7 +30082,7 @@ hair on Your limbs, O Lord! Night has been recognized as the closing of Your eye
 
 "Rāvaṇa has been killed by You, O Rāma! Therefore, highly rejoiced, return to Your divine Abode. Unfailing, O Lord, is
 
-* YUDDHAKĀṆḌA *
+
 
 797
 
@@ -30138,7 +30138,7 @@ The god of fire, the witness of the whole world, for his part then spoke as foll
 
 798
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Śrī Rāma: “Here is your spouse, Sītā, a princess of the Videha territory! No sin exists in her. (5)
 
@@ -30204,7 +30204,7 @@ Spoken to as aforesaid, Śrī Rāma, the foremost of those upholding the cause o
 
 “In order, however, to convince the denizens of the three worlds, I, whose sheet-anchor is truth, ignored Sītā (a princess of
 
-* YUDDHAKĀṆḌA *
+
 
 799
 
@@ -30263,7 +30263,7 @@ delivered the following still more charming speech: (1)
 
 800
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 chested scourge of your enemies, by good luck has this feat been performed by you, O jewel among those upholding the cause of virtue. (2)
 
@@ -30321,7 +30321,7 @@ Placing the latter in his lap and folding him tightly in his arms, the mighty-ar
 
 “Supreme joy is being experienced by me today on seeing you fully satisfied in mind, now that your enemies have been exterminated and you have fully gone through the period of your exile. (14)
 
-* YUDDHAKĀṆḌA *
+
 
 801
 
@@ -30390,7 +30390,7 @@ To the king, who was speaking in this strain, Śrī Rāma with joined palms subm
 
 802
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Saying “Amen!” to Śrī Rāma, and embracing Lakṣmaṇa, who stood with joined palms, the said emperor spoke to the latter once more as follows: (27)
 
@@ -30446,7 +30446,7 @@ Having spoken as aforesaid to Lakṣmaṇa and accosting his daughter-in-law, S�
 
 “Although you need not be instructed in the matter of rendering service to your husband, nonetheless it needs must be pointed out by me that he is your supreme deity.” (37)
 
-* YUDDHAKĀṆḌA *
+
 
 803
 
@@ -30508,7 +30508,7 @@ by the mighty and high-souled Indra, who was pleased with him, Śrī Rāma, a sc
 
 804
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “I desire to see all those monkeys delighted at heart, who have been torn for good from their sons and wife for my sake, O bestower of honour on others! (6)
 
@@ -30572,7 +30572,7 @@ With all their limbs now completely healed of wounds, though formerly covered wi
 बभूवुर्वानराः सर्वे किं त्वेतदिति विस्मिताः।
 काकुत्स्थं परिपूर्णार्थं दृष्ट्वा सर्वे सुरोत्तमाः ॥ १८ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 805
 
@@ -30627,7 +30627,7 @@ of his enemies, who having reposed during the previous night, had risen fresh, V
 
 806
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स्नानानि चाङ्गरागाणि वस्त्राण्याभरणानि च।
 चन्दनानि च माल्यानि दिव्यानि विविधानि च ॥ २ ॥
@@ -30741,7 +30741,7 @@ Requested in these words by Śrī Rāma, Vibhīṣaṇa, the ruler of ogres, for
 
 808
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 with lotuses of gold; which was hung with networks of tiny bells and contained eye-holes set with pearls and was surrounded on all sides with rows of bells giving forth a melodious sound. (23—26)
 
@@ -30788,7 +30788,7 @@ Full of reverence, the said ruler of ogres for his part humbly said with joined 
 
 After some deliberation, Śrī Rāma (a scion of Raghu), who was endowed with extraordinary energy, made the following
 
-* YUDDHAKĀṆḌA *
+
 
 809
 
@@ -30855,7 +30855,7 @@ Bestowing attentions on all the monkeys as well as on Sugrīva, who was endowed 
 
 810
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 loathsome as you are to unrighteousness. (15)
 
@@ -30922,7 +30922,7 @@ Feeling greatly thrilled and delighted while travelling in the splendid aerial c
 
 All the aforesaid monkeys and bears as well as the ogres, who were
 
-* YUDDHAKĀṆḌA *
+
 
 811
 
@@ -31014,7 +31014,7 @@ Mahodara by Nīla. (8)
 
 812
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अकम्पनश्च निहतो बलिनोऽन्ये च राक्षसाः।
 त्रिशिराश्चातिकायश्च देवान्तकनरान्तकौ ॥ ९ ॥
@@ -31107,7 +31107,7 @@ Hearing the admonition of Sugrīva, and summoning the wives of all the monkeys, 
 
 814
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Duly permitted by King Sugrīva, hasten to proceed to Ayodhyā with all the monkeys (your spouses). Nay, a kindly act will also be undoubtedly done to me by you through the sight of Ayodhyā which is so dear to me. (34)
 
@@ -31149,7 +31149,7 @@ And there is the region known by the name of Pañcavaṭī, so called because it
 
 * According to one of the well-known commentators of the Rāmāyaṇa of Vālmīki, the party travelling in the aerial car, Puṣpaka, halted at Kiṣkindhā for a day. According to the testimony of the Mahābhārata (vide III. CCXCI. 58-59), Śrī Rāma caused Aṅgada to be formally installed as the Prince Regent of Kiṣkindhā that day.
 
-* YUDDHAKĀṆḌA *
+
 
 815
 
@@ -31202,7 +31202,7 @@ Bounding again and again to have a view of it and feeling greatly delighted, all
 
 816
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततस्तु तां पाण्डुरहर्म्यमालिनीं
 विशालकक्ष्यां गजवाजिभिर्वृताम्।
@@ -31288,7 +31288,7 @@ home as well as in the city.
 
 “Pity actually arose in my mind last
 
-* YUDDHAKĀṆḌA *
+
 
 817
 
@@ -31332,7 +31332,7 @@ time, O prince, who are ever victorious in combat, on seeing you penetrating dee
 
 818
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 their person! Pray, accept this offering of water to wash your hands with. You shall go to Ayodhyā tomorrow.” (17)
 
@@ -31381,7 +31381,7 @@ Gazing on Ayodhyā while still in the
 
 air, before landing at the hermitage of Bharadwāja, Śrī Rāma (a scion of Raghu) for his part, who wished to do a kindly act, and who was quick in exhibiting prowess,
 
-* YUDDHAKĀṆḌA *
+
 
 819
 
@@ -31443,7 +31443,7 @@ Taxing his brain awhile, the sagacious and glorious prince then cast his glance 
 
 820
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 जित्वा शत्रुगणान् रामः प्राप्य चानुत्तमं यशः ।
 उपायाति समृद्धार्थः सह मित्रैर्महाबलैः ॥ १३ ॥
@@ -31544,7 +31544,7 @@ and Gomati as well, as also the formidable forest of sal trees and many thousand
 
 822
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 living as he was in the Daṇḍaka forest, wearing the bark of trees on his person and matted locks on his head, has asked you about your welfare. I hereby break a delightful news to you, my lord! Pray, abandon your poignant grief. (26—37)
 
@@ -31591,7 +31591,7 @@ Hearing from the mouth of Hanumān, a principal hero among the monkeys, the glor
 
 Thus ends Canto One hundred and twenty-five in the Yuddhakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* YUDDHAKĀṆḌA *
+
 
 823
 
@@ -31645,7 +31645,7 @@ Seated comfortably on a mat of the sacred Kuśa grass meant for ascetics and enq
 
 824
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Śrī Rāma forthwith penetrated deep into the dreadful, lonely and extensive Daṇḍaka forest, which had been trampled down by wild elephants and was crowded with lions, tigers and deer. (11)
 
@@ -31695,7 +31695,7 @@ Seated comfortably on a mat of the sacred Kuśa grass meant for ascetics and enq
 
 “That princess of the Videha territory said to Śrī Rāma, ‘Let this deer be captured. This hermitage of ours will turn out to be
 
-* YUDDHAKĀṆḌA *
+
 
 825
 
@@ -31739,7 +31739,7 @@ said ogre thereupon departed in haste. Perched on a mountain-top some strange-lo
 
 826
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 आसेदतुर्महारण्ये कबन्धं नाम राक्षसम्।
 ततः कबन्धवचनाद् रामः सत्यपराक्रमः ॥ ३५ ॥
@@ -31798,7 +31798,7 @@ mountain, the foremost of mountains and felt sore stricken with grief. (41)
 श्रुत्वा तां मैथिलीं रामस्त्वाशशंसे च जीवितम्।
 जीवितान्तमनुप्रासः पीत्वामृतमिवातुरः ॥ ४७ ॥
 
-* YUDDHAKĀṆḌA *
+
 
 827
 
@@ -31851,7 +31851,7 @@ Thus ends Canto One hundred and twenty-six in the Yuddhakāṇḍa of the glorio
 
 828
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # सप्तविंशत्यधिकशततमः सर्गः
 
@@ -31944,7 +31944,7 @@ Placing the wooden sandals of his elder brother, Śrī Rāma, on his head, nay, 
 
 830
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 The earth shook, as it were, on that occasion due to the sound of the hoofs of horses and the rattling of the fellows of the chariot wheels as well as on account of the blare of conches and the roll of drums. Accompanied by the roars of elephants as well as by the blare of conches and the roll of drums, really speaking the entire city of Ayodhyā literally reached Nandigrāma (a village on the outskirts of Ayodhyā where Bharata spent the period of Śrī Rāma's exile). Glancing round, Bharata addressed the following words to Hanumān, the offspring of the wind-god: (17—23)
 
@@ -32051,7 +32051,7 @@ He further embraced fully Suṣeṇa and Nala (son of Viśwakarmā, who construc
 
 832
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ते कृत्वा मानुषं रूपं वानराः कामरूपिणः।
 कुशलं पर्यपृच्छंस्ते प्रहृष्टा भरतं तदा॥ ४५॥
@@ -32109,7 +32109,7 @@ Taking the wooden sandals bestowed on him by Śrī Rāma, Bharata for his part, 
 
 “Accomplished of purpose is my birth today and my desire too stands consummated in that I see you, its king come back to Ayodhyā. (56)
 
-* YUDDHAKĀṆḌA *
+
 
 833
 
@@ -32163,7 +32163,7 @@ Thus ends Canto One hundred and twenty-seven in the Yuddhakāṇḍa of the glor
 
 834
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # अष्टाविंशत्यधिकशततमः सर्गः
 
@@ -32323,7 +32323,7 @@ Adorned with all sorts of jewels as well as with brilliant earrings, the celebra
 
 836
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Nay, placing Sage Vasiṣṭha, the family priest, at their head, in the meantime, when they were back in Ayodhyā, the ministers of King Daśaratha deliberated suitably the coronation of Śrī Rāma. (23)
 
@@ -32382,7 +32382,7 @@ Accompanied by blasts of conches and shouts of joy uttered by men and the roll o
 
 The people of Ayodhyā saw proceeding in a chariot Śrī Rāma, an exceedingly consummate car-warrior, shining brightly in his own person on that occasion and preceded by an advance party. (34)
 
-* YUDDHAKĀṆḌA *
+
 
 837
 
@@ -32448,7 +32448,7 @@ Nay, having reached and penetrated deep into the abode of his high-souled father
 
 838
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Taking Sugrīva by the hand on hearing the aforesaid command of Śrī Rāma, Bharata of unfailing prowess penetrated deep into the palace. (46)
 
@@ -32552,7 +32552,7 @@ There was a crown studded with precious stones and fashioned by Brahmā, the cre
 
 840
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सीतायै प्रददौ रामश्चन्द्ररश्मिसमप्रभम्।
 अरजे वाससी दिव्ये शुभान्याभरणानि च ॥ ७८ ॥
@@ -32641,7 +32641,7 @@ When Lakṣmaṇa, son of Sumitrā, did not give his consent even though being r
 
 842
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 राज्यं दशसहस्राणि प्राप्य वर्षाणि राघवः।
 शताश्वमेधानाजहं सदश्वान् भूरिदक्षिणान् ॥ १५ ॥
@@ -32759,7 +32759,7 @@ A man offering worship to and reading this ancient historical work is completely
 
 844
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 After offering respectful salutation with their heads bent low, the epic should be listened to by the Kṣatriyas from the mouth of a Brāhmaṇa (lit., a member of the twice-born class) everyday. Lordship as well as the birth of a son will be secured by them: there is no doubt about it. (118)
 

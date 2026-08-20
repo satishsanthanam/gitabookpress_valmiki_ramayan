@@ -47,7 +47,7 @@ Immediately on seeing the pond there the senses of Śrī Rāma felt excited thro
 
 930
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 with flowers of various kinds and is known for its cool water, fascinates me, stricken though I am with grief. (6)
 
@@ -200,7 +200,7 @@ with flowers of various kinds and is known for its cool water, fascinates me, st
 
 932
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Living in flocks, birds for their part feel highly rejoiced on this strand of Pampā. Nay, through the notes of the water-fowls uttered during their amorous sports as well as through the shrill notes of male cuckoos these trees themselves sing, fully kindling (the fire of) love in me. Fire in the shape of the vernal season, which has bunches of crimson flowers of Aśoka trees for its live embers, the humming of bees for its crackle and the fresh leaves for its coppery tongues will undoubtedly consume me. Surely there is no purpose in my surviving, O Lakṣmaṇa, unable as I am to see that lady, Sītā, with lovely locks, eyes having fine eye-lashes and gentle speech. Surely the present season, in which woodlands look charming and their boundaries are thronged with cuckoos, was delightful to that darling of mine, O sinless one! This fire of grief, which has its source in the pangs of love and has been augmented by the charms of Spring will forthwith consume me without delay, as it were. This longing of my heart to meet her will reach its climax even as I am unable to perceive that beloved one and look on the charming trees. Being out of sight, Sītā, a princess of the Videha territory, intensifies my grief in this forest, and so does Spring, which is discernible at present and shuts out all contact with sweat due to cool and delightful breezes. That fawn-eyed lady, O Lakṣmaṇa (son of Sumitrā), unquestionably torments me, overpowered as I already am by worry and grief, and so does the cruel breeze from the woods characteristic of the month of Caitra. Dancing here and there with their wings, resembling crystal windows, shaken by the wind, the yonder peacocks spread their charm. Surrounded by peahens and intoxicated with joy, these peacocks intensify my longing to meet Sītā, overwhelmed as I already am with love. Behold, O Lakṣmaṇa, how this love-lorn peahen is dancing by the side of her mate, the dancing
 
@@ -302,7 +302,7 @@ peacock, on the top of the hill. Spreading his charming wings and mocking me, as
 
 934
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 कामिनामयमत्यन्तमशोकः शोकवर्धनः ।
 स्तबकैः पवनोक्षिसैस्तर्जयन्निव मां स्थितः ॥ ५९ ॥
@@ -369,7 +369,7 @@ peacock, on the top of the hill. Spreading his charming wings and mocking me, as
 
 “My eyes love to see the petals of
 
-* KISKINDHĀKĀṆḌA *
+
 
 935
 
@@ -448,7 +448,7 @@ lotus cups in that they are akin to Sītā's bud-like eyes, O Lakṣmaṇa ! (71
 
 936
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 as Nāga trees, all in blossom. Behold here, O Lakṣmaṇa (son of Sumitrā), the numerous lovely trees in blossom entwined by climbers crested with blossom on the edge of the Pampā. Like pretty women drunk with love, the climbers embrace these trees, whose branches are tossed by the wind and which are bent so low as to appear quite at hand. Passing from tree to tree, from crag to crag and from wood to wood, the wind blows gently as though enraptured by enjoying diverse tastes from diverse flowers. Some trees are in full blossom and emit the fragrance of honey; while others are covered all over with buds and appear dark-brown of hue because of these buds. 'How sweet is this ! How delicious is that ! How full-blown is that (the other) !' Reflecting thus, the black bee steeped in love for the flowers remains buried in flowers alone. Remaining hidden (in flowers for some time) and then flying off, the black bee, covetous of honey, suddenly moves to other trees on the margin of the Pampā. (80—88)
 
@@ -568,7 +568,7 @@ When shall I hear, O Lakṣmaṇa, the
 
 938
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 incomparable speech of Sītā (a princess of the Videha territory), excellent, sweet and wholesome and interspersed with smiles and fun? (110)
 
@@ -632,7 +632,7 @@ desolation, give up your fondness for the beloved ones. Even a wet wick begins t
 उत्साहवन्तः पुरुषा नावसीदन्ति कर्मसु।
 उत्साहमात्रमाश्रित्य प्रतिलप्स्याम जानकीम् ॥ १२२ ॥
 
-* KISKINDHĀKĀṆḌA *
+
 
 939
 
@@ -692,7 +692,7 @@ Frightened to see the aforesaid Śrī Rāma (a scion of Raghu) and Lakṣmaṇa,
 
 940
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 for Vāli due to an imprecation uttered by the sage) and hence was capable of affording protection to them, nay, which was
 
@@ -820,7 +820,7 @@ Hearing the brilliant speech of Hanumān in its entirety, Sugriva for his part a
 
 942
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 unusually long arms and large eyes, nay, carrying a bow, sword and arrow on their person and looking like the offspring of gods? (20)
 
@@ -873,7 +873,7 @@ Bowing with the words “So be it” to the command of Sugrīva, who felt dismay
 
 Thus ends Canto Two in the Kīṣkindhākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* KIṢKINDHĀKĀṆḌA *
+
 
 943
 
@@ -924,7 +924,7 @@ the scriptural ordinance, Hanumān, the foremost of monkeys, addressed the follo
 
 944
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 prowess, are capable of destroying the foes, are full of glory and splendour and rich in comeliness, who are distinguished by the noble gait of a bull and arms resembling the proboscis of an elephant, who are worthy of sovereignty and shine brightly like gods? The yonder Ṛṣyamūka (a king of mountains) stands illumined by your effulgence. (9—11)
 
@@ -1043,7 +1043,7 @@ anywhere in his face nor even in his eyes, nor again in his forehead nor in his 
 
 946
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Spoken to in these words by Śrī Rāma, Lakṣmaṇa (son of Sumitrā) for his part, who knew how to speak, replied as follows to the monkey, Hanumān (son of the wind-god), a minister of Sugrīva, who also knew how to speak : (36)
 
@@ -1093,7 +1093,7 @@ He said to himself, 'Attainment of sovereignty on the part of that high-souled S
 
 (2)
 
-* KISKINDHĀKĀṆḌA *
+
 
 947
 
@@ -1153,7 +1153,7 @@ Hearing the aforesaid question of Hanumān, Lakṣmaṇa, as urged by Śrī Rām
 
 948
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 assuming any form at will. That ogre, however, by whom his consort has been stolen away is not known. (13-14)
 
@@ -1216,7 +1216,7 @@ To Lakṣmaṇa (son of Sumitrā), speaking as aforesaid in a pathetic tone acco
 
 “Through good luck people like you, who are rich in wisdom, have subdued their anger and mastered their senses, and who
 
-* KISKINDHĀKĀṆḌA *
+
 
 949
 
@@ -1278,7 +1278,7 @@ Thus ends Canto Four in the Kīṣkindhākāṇḍa of the glorious Rāmāyaṇa
 
 950
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # पञ्चमः सर्गः
 
@@ -1381,7 +1381,7 @@ Nay, adopting a friendly attitude, he joyously embraced Sugrīva, who had been s
 
 952
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Alarmed as I am, my spouse too having been taken away, I have sought shelter for my protection in this mountain, which is difficult of access for Vāli. Having been banished and antagonized by my brother, (Vāli), O scion of Raghu, I live in the forest perturbed and alarmed, my mind being confused. Therefore, grant me security, O highly blessed one, from Vāli, stricken with fear as I am. (22-23)
 
@@ -1429,7 +1429,7 @@ Thus ends Canto Five in the Kiṣkindhākāṇḍa of the glorious Rāmāyaṇa 
 
 * According to the science of omens the throbbing of left limbs is believed to be auspicious in the case of females and inauspicious in that of males.
 
-* KISKINDHĀKĀṆḌA *
+
 
 953
 
@@ -1476,7 +1476,7 @@ Sugrīva once more lovingly submitted as follows to Śrī Rāma (a scion of Ragh
 
 954
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “By surmise on my part I conclude that the aforesaid princess of Mithilā was seen by me while being carried off by Rāvaṇa (the ogre) of terrible deeds, crying in a husky voice “Rāma, Rāma!” and “Lakṣmaṇa!” and wriggling like a female serpent in the arms of Rāvaṇa—there is no doubt about it. (9-10)
 
@@ -1542,7 +1542,7 @@ Perceiving Lakṣmaṇa (son of Sumitrā) by his side, Śrī Rāma for his part 
 
 Spoken to as aforesaid by Śrī Rāma,
 
-* KISKINDHĀKĀṆḌA *
+
 
 955
 
@@ -1600,7 +1600,7 @@ strength or prowess or even the pedigree of that sinful ogre of vile birth. (2)
 
 956
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Having killed Rāvaṇa with his followers and given satisfaction to you (thereby), I will exert my strength before long in such a way that you will get pleased with me. (4)
 
@@ -1666,7 +1666,7 @@ Sweetly comforted in these words by the aforesaid Sugriva, the celebrated Śrī 
 
 Closely embracing Sugriva, when he (Śrī Rāma) had returned to his normal condition, as a result of the former’s words of consolation, Lord Śrī Rāma (a scion of Kakutstha) for his part replied as follow : (16)
 
-* KISKINDHĀKĀṆḌA *
+
 
 957
 
@@ -1726,7 +1726,7 @@ Thus ends Canto Seven in the Kiskindhākāṇḍa of the glorious Rāmāyaṇa o
 
 958
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # अष्टमः सर्गः
 
@@ -1788,7 +1788,7 @@ however, not able to make known to you the virtues inhering in me. (5)
 
 In the presence of the wise Lakṣmaṇa, who vied with Indra in splendour, Śrī Rāma
 
-* KISKINDHĀKĀṆḌA *
+
 
 959
 
@@ -1855,7 +1855,7 @@ Requested thus by Sugrīva, the glorious Śrī Rāma, a scion of Kakutstha, for 
 
 960
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 resembling the great Indra's thunderbolt and looking like angry serpents, O highly blessed one ! (22-23)
 
@@ -1986,7 +1986,7 @@ Thus ends Canto Eight in the Kiskindhākāṇḍa of the glorious Rāmāyaṇa o
 
 962
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # नवमः सर्गः
 
@@ -2029,7 +2029,7 @@ Sugrīva tells Śrī Rāma how challenged to a duel at dead of night by a demon,
 
 Emerged in fury to kill Māyāvī, the foremost of demons, Vālī for his part was actually restrained from that daring act by the women of his gynaecium as well as by
 
-* KISKINDHĀKĀṆḌA *
+
 
 963
 
@@ -2099,7 +2099,7 @@ me, whose body was bent low with submission. (7)
 
 964
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 concluded my elder brother to have been killed. Nay, blocking up the mouth of the hole with a rock as big as a hillock, and offering water to the spirit of the deceased, stricken as I was with grief, I returned to Kiṣkindhā, O friend! Although I concealed the truth, the secret was learnt by the ministers with effort. (19-20)
 
@@ -2203,7 +2203,7 @@ give vent to anger towards me, O exterminator of foes! (8-9)
 
 966
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 was through fear. Nay, put to flight with greater speed on perceiving us arrived very near, he entered a big hole with impetuosity.
 
@@ -2268,7 +2268,7 @@ enemy, the notorious Māyāvi, I would not find my way out of the cave as its en
 
 “Distressed by the usurpation of my consort, I have retired to Rīyamūka, the foremost of mountains, which is difficult of access for Vāli due to another reason (the imprecation uttered by Sage Mataṅga). (28)
 
-* KISKINDHĀKĀṆḌA *
+
 
 967
 
@@ -2314,7 +2314,7 @@ Thus ends Canto Ten in the Kiskindhākāṇḍa of the glorious Rāmāyaṇa of 
 
 968
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकादशः सर्गः
 
@@ -2430,7 +2430,7 @@ himself, Dundubhi (the foremost of demons) sped to the forest of Himavān like a
 
 970
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वाली नाम महाप्राज्ञ शक्रपुत्रः प्रतापवान् ।
 अध्यास्ते वानरः श्रीमान् किष्किन्धामतुलप्रभाम् ॥ २१ ॥
@@ -2561,7 +2561,7 @@ by his father, the mighty Indra, Vāli stood prepared for an encounter with the 
 
 972
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स्त्रोतोभ्यो बहु रक्तं तु तस्य सुखाव पात्यतः ।
 पपात च महाबाहुः क्षितौ पञ्चत्वमागतः ॥ ४६ ॥
@@ -2619,7 +2619,7 @@ by his father, the mighty Indra, Vāli stood prepared for an encounter with the 
 
 “This day (on which I pronounced this execration) is the deadline for their sojourn in this forest. The monkey whom I shall see here tomorrow will surely be changed into a rock and continue in that state for many thousands of years.’ (58)
 
-* KISKINDHĀKĀṆḌA *
+
 
 973
 
@@ -2690,7 +2690,7 @@ To him Sugriva forthwith replied, “In the past Vāli pierced these seven sal t
 
 974
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 हतस्य महिषस्यास्थि पादेनैकेन लक्ष्मण।
 उद्यम्य प्रक्षिपेच्चापि तरसा द्वे धनुःशते ॥ ७२ ॥
@@ -2757,7 +2757,7 @@ Hearing the aforesaid submission of that high-minded Sugrīva, Śrī Rāma then 
 तोलयित्वा महाबाहुश्चिक्षेप दशयोजनम्।
 असुरस्य तनुं शुष्कां पादाङ्गुष्ठेन वीर्यवान् ॥ ८५ ॥
 
-* KISKINDHĀKĀṆḌA *
+
 
 975
 
@@ -2816,7 +2816,7 @@ Thus ends Canto Eleven in the Kīskindhākāṇḍa of the glorious Rāmāyaṇa
 
 976
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # द्वादशः सर्गः
 
@@ -2920,7 +2920,7 @@ Blinded with anger, the two brothers struck each other in the course of their en
 
 978
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततो रामो धनुषाणिस्तावुभौ समुदेक्षत।
 अन्योन्यसदृशौ वीरावुभौ देवाविवाश्विनौ ॥ १९ ॥
@@ -3046,7 +3046,7 @@ Thus ends Canto Twelve in the Kīskindhākāṇḍa of the glorious Rāmāyaṇa
 
 980
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # त्रयोदशः सर्गः
 
@@ -3097,7 +3097,7 @@ Behind him came the valiant Hanumān, Nala and the powerful Nila and Tāra, who 
 
 Observing trees which were bending under the load of their blossom as well as rivers journeying to the sea and carrying placid waters, also caves and cliffs, mountain-clefts and holes, also outstanding peaks and hollows pleasing to the sight, nay, seeing on the way ponds full of water, rendered charming by their waters, transparent as a cat's-eye jewel, and lotuses still in the state of buds up to their very mouths and rendered noisy by ducks, cranes, swans, Vañjulas, water-fowls, Cakrawākas and also by other birds, also beholding in the forest wild deer grazing on the tender shoots of grass, fearlessly moving everywhere or standing on tablelands and further perceiving fearful wild elephants in rut—which proved a menace to ponds in that they damaged their brinks (and rendered the water turbid), which were adorned with white tusks and moved all alone, nay, which tore asunder with their tusks the edges of mountains and looked like moving mountains—and monkeys looking like
 
-* KISKINDHĀKĀṆḌA *
+
 
 981
 
@@ -3164,7 +3164,7 @@ while practising their austerities and as a rule slept on water. (18)
 
 982
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 कुरु प्रणामं धर्मात्मस्तेषामुद्दिश्य राघव।
 लक्ष्मणेन सह भ्रात्रा प्रयतः संहताञ्जलिः ॥ २५ ॥
@@ -3220,7 +3220,7 @@ behind trees, they all halted in a dense forest. (1)
 विसार्य सर्वतो दृष्टिं कानने काननप्रियः।
 सुग्रीवो विपुलग्रीवः क्रोधमाहारयद् भृशम् ॥ २ ॥
 
-* KISKINDHĀKĀṆḌA *
+
 
 983
 
@@ -3274,7 +3274,7 @@ fructification, when arrived, makes a creeper bear fruit.” Requested thus by S
 
 984
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सुग्रीव कुरु तं शब्दं निष्पतेद् येन वानरः।
 जितकाशी जयश्लाघी त्वया चाधर्षितः पुरात् ॥ १७ ॥
@@ -3370,7 +3370,7 @@ Embracing him through affection, Tārā, his wife, for her part, who felt fright
 
 986
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दर्पश्च व्यवसायश्च यादृशस्तस्य नर्दतः।
 निनादस्य च संरम्भो नैतदल्पं हि कारणम् ॥ १२ ॥
@@ -3428,7 +3428,7 @@ Ayodhyā, Rāma and Lakṣmaṇa by name, born in the line of the Ikṣwākus an
 विग्रहं मा कृथा वीर भ्रात्रा राजन् यवीयसा।
 अहं हि ते क्षमं मन्ये तेन रामेण सौहृदम् ॥ २४ ॥
 
-* KISKINDHĀKĀṆḌA *
+
 
 987
 
@@ -3483,7 +3483,7 @@ Thus ends Canto Fifteen in the Kīṣkindhākāṇḍa of the glorious Rāmāya�
 
 988
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षोडशः सर्गः
 
@@ -3613,7 +3613,7 @@ Enraged when struck by Vāli, who assailed him with impetuosity, Sugriva vomited
 
 990
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सुग्रीवेण तु निःशङ्कं सालमुत्पाट्य तेजसा।
 गात्रेष्वभिहतो वाली वज्रेणेव महागिरिः ॥ २३ ॥
@@ -3670,7 +3670,7 @@ Scared by the twang of the bow-string and bewildered as at the end of the world 
 
 When discharged with a sound resembling the crash of thunder, the mighty
 
-* KISKINDHĀKĀṆḌA *
+
 
 991
 
@@ -3725,7 +3725,7 @@ With all his limbs laid on the ground, Vāli, who was adored with ornaments of b
 
 992
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 in honour of Indra, the god of rain, when the cord fastening it is loosed. (2)
 
@@ -3845,7 +3845,7 @@ existing in you and also fully considering your highest pedigree, I engaged in a
 
 994
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Emblems too such as matted hair and the bark of trees for clothing, conformable to righteousness exist and are seen on your person, O prince ! (26)
 
@@ -3904,7 +3904,7 @@ Emblems too such as matted hair and the bark of trees for clothing, conformable 
 
 “The informer, the miser, the slayer of one's own friend and he who violates the
 
-* KISKINDHĀKĀṆḌA *
+
 
 995
 
@@ -3967,7 +3967,7 @@ bed of his teacher—all these descend to the world of those whose mind is set o
 
 996
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सुग्रीवप्रियकामेन यदहं निहतस्त्वया।
 मामेव यदि पूर्वं त्वमेतदर्थमचोदयः।
@@ -4059,7 +4059,7 @@ esteemed by preceptors, O gentle one, you have sought to condemn me through simi
 
 998
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 other rulers of the world range the entire globe, keen as we are to promote virtue. (9)
 
@@ -4125,7 +4125,7 @@ heart of all created beings, the Self alone knows what is good and what is evil.
 
 “For, other than punishment I do not see any way of restraining him who is opposed to public interests and has departed from the code of conduct prescribed for
 
-* KISKINDHĀKĀṆḌA *
+
 
 999
 
@@ -4184,7 +4184,7 @@ with Sugriva was solemnized) a plighted word was given by me in the presence of 
 
 1000
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “A thief (in particular and a sinner in general) gets fully absolved from sin either through punishment or by being let go free by way of mercy. A king not punishing a sinner, however, incurs his sin.* (32)
 
@@ -4303,7 +4303,7 @@ Looking intently on Śrī Rāma, and groaning like an elephant sunk in a morass,
 
 1002
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Establish the very best understanding between Sugrīva and Aṅgada; for you stand as their protector and preceptor in teaching them what should be done and what should not be done. (53)
 
@@ -4359,7 +4359,7 @@ the essence of piety, and were as such esteemed by holy men : (59)
 
 “Aṅgada will depend on Sugrīva and even on myself as he has ever done on
 
-* KISKINDHĀKĀṆḌA *
+
 
 1003
 
@@ -4412,7 +4412,7 @@ Sore perturbed to hear the unpalatable and most cruel news of her husband's deat
 
 1004
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ये त्वङ्गदपरीवारा वानरा हि महाबलाः।
 ते सकार्मुकमालोक्य रामं त्रस्ताः प्रदुद्रुवुः ॥ ५ ॥
@@ -4527,7 +4527,7 @@ Getting up once more like one who had been asleep and saying, “O son of a wort
 
 1006
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तामवेक्ष्य तु सुग्रीवः क्रोशन्तीं कुररीमिव।
 विषादमगमत् कष्टं दृष्ट्वा चाङ्गदमागतम् ॥ २८ ॥
@@ -4685,7 +4685,7 @@ having struck Vāli, fighting with another and thus having done something highly
 
 1008
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 that your desire has been fulfilled, O Sugriva !
 You will now get back your wife, Rumā, too.
@@ -4832,7 +4832,7 @@ Hearing the admonition of Hanumān, the celebrated Tārā, who was afflicted due
 
 1010
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अङ्गदप्रतिरूपाणां पुत्राणामेकतः शतम्।
 हतस्याप्यस्य वीरस्य गात्रसंश्लेषणं वरम् ॥ १३ ॥
@@ -4947,7 +4947,7 @@ Accosting Sugrīva, who had scored a victory over him and was now the ruler of m
 
 1012
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 you in the event of your failing to do so
 (bound as you are by your plighted word to
@@ -5052,7 +5052,7 @@ and woodlands. (26)
 हते प्लवगशार्दूले निष्प्रभा वानराः कृताः ।
 यस्य वेगेन महता काननानि वनानि च ॥ २७ ॥
 
-* KISKINDHĀKĀṆḌA *
+
 
 1013
 
@@ -5109,7 +5109,7 @@ While smelling through love the well-known face of Vāli (the king of monkeys), 
 
 1014
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Surely, O lord of monkeys, the earth is dearer to you in comparison with me as is clear from the fact that you lie embracing her and do not even respond to me. (3)
 
@@ -5208,7 +5208,7 @@ son and even though she is richly endowed with wealth and foodgrains, is spoken 
 
 1016
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 mountain (behind which the sun is supposed to set). (29)
 
@@ -5315,7 +5315,7 @@ Duly approaching the celebrated, noble and glorious Śrī Rāma (a scion of Ragh
 
 1018
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 by him, only wrath, lust and frivolity, the characteristics of a monkey, have been shown by me. (12)
 
@@ -5460,7 +5460,7 @@ Struggling to extricate herself from their grip when being torn asunder from her
 
 1020
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सुसंवृतं पार्थिवलक्षणैश्च
 तं चारुनेत्रं मृगशावनेत्रा ।
@@ -5612,7 +5612,7 @@ Duly comforting Tārā when prayed to in the foregoing words, the powerful and h
 
 1022
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 was evolved at the dawn of creation by the Creator and people speak of the entire creation as having been united with joy and sorrow by the same Creator. All the three worlds dare not overstep the bounds that have been fixed by the said Creator inasmuch as they are subject to His control. You will enjoy supreme delight through Sugrīva in the same way as you did before in the presence of Vālī and your son, Aṅgada, will attain the position of Prince Regent. (41—43)
 
@@ -5712,7 +5712,7 @@ After Śrī Rāma had finished speaking, Lakṣmaṇa, the slayer of hostile war
 
 1024
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Duly comfort you the wretched Aṅgada, who is distressed in mind. Be you not puerile-minded; this city of Kiṣkindhā depends on you. (15)
 
@@ -5815,7 +5815,7 @@ All the monkeys, whose kinsman in the person of Vāli had been killed, walked in
 
 1026
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 प्रहृष्टमिह ते वक्त्रं गतासोरपि मानद।
 अस्तार्कसमवर्णं च दृश्यते जीवतो यथा ॥ ४२ ॥
@@ -5877,7 +5877,7 @@ Nay, placing Aṅgada ahead, they all with Sugrīva and Tārā then offered on t
 
 Feeling miserable, as it were, alongwith the wretched Sugrīva, whose grief he shared, the very mighty Śrī Rāma (a scion of Kakutstha) got the obsequies performed under his directions and guidance. (53)
 
-* KISKINDHĀKĀṆḌA *
+
 
 1027
 
@@ -5930,7 +5930,7 @@ god, who looked like Sumeru (the golden mountain), and whose countenance shone l
 
 1028
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 prosperous city of Kiṣkindhā, when duly permitted by you, he, with his host of near and dear ones, will perform in the proper way all his kingly duties. Having gone through as a part of the installation ceremony the ceremonial bath with water made fragrant by perfumes and medicinal herbs in accordance with the scriptural ordinance, he will offer special worship to you with garlands and jewels. You should, therefore, visit this lovely mountain-cave in which the city of Kiṣkindhā is comprised. (4—7)
 
@@ -6031,7 +6031,7 @@ Then those knowing sacred texts propitiated the sacred fire, once it had been gi
 
 1030
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 आह्व्य च समुद्रेभ्यः सर्वेभ्यो वानरर्षभाः ।
 अपः कनककुम्भेषु निधाय विमलं जलम् ॥ ३३ ॥
@@ -6081,7 +6081,7 @@ Crowded with joyous and well-fed people and decorated with buntings and flags, t
 
 Having reported to the high-souled Śrī Rāma the fact of his having gone through the momentous consecration as the ruler of Kiṣkindhā at that time, and having got back his wife, Rumā, the valiant Sugriva (the leader of the monkey army) inherited the kingdom even as Indra, the suzerain lord of gods, attained the sovereignty of gods. (42)
 
-* KISKINDHĀKĀṆḌA *
+
 
 1031
 
@@ -6141,7 +6141,7 @@ search for Sītā after the rains, the sinless brother, Śrī Rāma, the delight
 
 1032
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 far from our cave when the pond gets flooded with rain water, O prince ! (11)
 
@@ -6263,7 +6263,7 @@ His younger brother, Lakṣmaṇa, who shared his grief, addressed the following
 
 1034
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 समुन्मूलय शोकं त्वं व्यवसायं स्थिरीकुरु।
 ततः सपरिवारं तं राक्षसं हन्तुमर्हसि ॥ ३७ ॥
@@ -6324,7 +6324,7 @@ Acclaiming the aforesaid observation of Śrī Rāma and concluding that alone to
 
 “The monkey-King, Sugrīva, will before long surely accomplish all this desired object of yours according to your instructions, O ruler of men ! Awaiting the autumn, put you up with the obstruction caused by the rains, remaining intent on the destruction of the enemy. (47)
 
-* KISKINDHĀKĀṆḌA *
+
 
 1035
 
@@ -6382,7 +6382,7 @@ Having made short work of Vāli and installed Sugrīva on the throne of Kiskindh
 
 1036
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Tormented with sunshine in the first instance and eventually immersed in fresh rain-water, the earth is radiating heat even as Sītā, who is tormented with grief, is shedding tears profusely before my mind’s eyes. (7)
 
@@ -6496,7 +6496,7 @@ Having made short work of Vāli and installed Sugrīva on the throne of Kiskindh
 
 1038
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 गात्रानुपृक्तेन शुकप्रभेण
 नारीव लाक्षोक्षितकम्बलेन ॥ २४ ॥
@@ -6636,7 +6636,7 @@ Duly set out with a keen desire to fight and already on its way, the lordly elep
 
 1040
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Cakravāka birds borne on their surface (like a pair of heaving breasts) rush to meet their lord (the sea) chosen for full enjoyment with offerings in the shape of flowers etc. (39)
 
@@ -6775,7 +6775,7 @@ Indra, the ruler of gods, is engaged in his brisk sport with the clouds. (43)
 
 1042
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अहं तु हतदारश्च राज्याच्च महतश्च्युतः।
 नदीकूलमिव क्लिन्नमवसीदामि लक्ष्मण ॥ ५८ ॥
@@ -6830,7 +6830,7 @@ Acclaiming the aforesaid observation of Śrī Rāma and reflecting awhile, Lak�
 
 Thus ends Canto Twenty-eight in the Kiṣkindhākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* KIŞKINDHĀKĀṆḌA *
+
 
 1043
 
@@ -6865,7 +6865,7 @@ delighted in the company of young women, that, having realized all the cherished
 
 1044
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 regained by you and the prosperity of your royal house stands heightened by you. (1—9)
 
@@ -6986,7 +6986,7 @@ He said : “Please take steps to see that my entire army as well as all the tro
 
 1046
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 their post hurriedly and muster soon in obedience to my command. And you alone should personally see what should be done next. (31)
 
@@ -7034,7 +7034,7 @@ Regaining his balance of mind after a while, the wise Śrī Rāma (a scion of Ra
 दृष्ट्वा च विमलं व्योम गतविद्युद्वलाहकम् ।
 सारसारावसंघुष्टं विललापार्तया गिरा ॥ ५ ॥
 
-* KISKINDHĀKĀṆḌA *
+
 
 1047
 
@@ -7103,7 +7103,7 @@ Perceiving him in a lonely spot, desolate, absent-minded and miserable, nay, ove
 
 1048
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 be over-powered by love? The composure of your mind is hereby being disturbed by grief. Can't all your agony yield to concentration of mind at this juncture, O noble brother? (16)
 
@@ -7164,7 +7164,7 @@ Recalling to mind Sītā (a princess of Mithilā), whose eyes resembled the peta
 
 "Having finished their round, O gentle brother, the rainy winds, which were laden with moisture and full of great fury, and which bore the fragrance of Kuṭaja and
 
-* KIŞKINDHĀKĀṆḌA *
+
 
 1049
 
@@ -7231,7 +7231,7 @@ in song by swarms of black bees, drying up the waters of the lakes and rivers et
 
 1050
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 "The depths of the forests were lit up, as it were, with the presence of numerous Priyaka (Asana) trees emitting delightful fragrance, which were bright as gold and were highly pleasing to the eye, and the tips of whose branches were bent under the excessive weight of their blossom. (34)
 
@@ -7346,7 +7346,7 @@ the lady in the form of evening twilight automatically abandons herself the cove
 
 1052
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 lovely women adorned with jewels, stands enhanced today. (49)
 
@@ -7487,7 +7487,7 @@ of cranes, fully ripe paddy-fields, nay, the gentle breeze and the cloudless moo
 
 1054
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 understanding with me on this score, the perverted fellow does not give heed to it, his object having already been accomplished.
 
@@ -7548,7 +7548,7 @@ quarters the terrible twang of my bowstring resembling the crash of a thunderbol
 उच्यतां गच्छ सुग्रीवस्त्वया वीर महाबल।
 मम रोषस्य यद्रूपं ब्रूयाश्चैनमिदं वचः ॥ ८० ॥
 
-* KISKINDHĀKĀṆḌA *
+
 
 1055
 
@@ -7598,7 +7598,7 @@ Thus ends Canto Thirty in the Kiskindhākāṇḍa of the glorious Rāmāyaṇa 
 
 1056
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकत्रिंशः सर्गः
 
@@ -7706,7 +7706,7 @@ Revolving in his mind what he had got to say to Sugrīva as well as the reply he
 
 1058
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 शिलाश्च शकलीकुर्वन् पद्भ्यां गज इवाशुगः ।
 दूरमेकपदं त्यक्त्वा ययौ कार्यवशाद् द्रुतम् ॥ १५ ॥
@@ -7771,7 +7771,7 @@ Some of them possessed the strength of ten elephants, others were ten times stro
 
 Full of wrath, Lakṣmaṇa thereupon cast
 
-* KISKINDHĀKĀṆḌA *
+
 
 1059
 
@@ -7840,7 +7840,7 @@ Clasping tightly the feet of his uncle, Aṅgada, who was endowed with terrific
 
 1060
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 energy, caught hold once more of the feet of his mother and, pressing firmly the feet of Rumā, he then submitted to him the aforesaid matter. (37)
 
@@ -7900,7 +7900,7 @@ They said: “Having assumed for sport a human semblance, the two brothers, Śr�
 
 “And consuming, as it were, the
 
-* KISKINDHĀKĀṆḌA *
+
 
 1061
 
@@ -7957,7 +7957,7 @@ by me nor has anything wrong been done by me to Śrī Rāma. I, therefore, wonde
 
 1062
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 न खल्वस्ति मम त्रासो लक्ष्मणान्नापि राघवात्।
 मित्रं स्वस्थानकुपितं जनयत्येव सम्भ्रमम् ॥ ६ ॥
@@ -8019,7 +8019,7 @@ When Sugriva had spoken as aforesaid, Hanūmān, the foremost among monkeys, for
 
 “Indeed I do not consider anything other than pacifying Lakṣmaṇa with joined palms
 
-* KISKINDHĀKĀṆḌA *
+
 
 1063
 
@@ -8061,7 +8061,7 @@ Thus ends Canto Thirty-two in the Kiskindhākāṇḍa of the glorious Rāmāya�
 
 1064
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # त्रयस्त्रिंशः सर्गः
 
@@ -8160,7 +8160,7 @@ The moment he entered the gynaecium he constantly heard a sweet melody dominated
 
 1066
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Lakṣmaṇa, who was possessed of extraordinary might, also saw in the palace of Sugrīva numerous ladies of different shapes, proud of their comeliness and youth.
 
@@ -8287,7 +8287,7 @@ Rid of all misgiving on hearing her submission, which was prefaced with words of
 
 1068
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 sight of the acquisition of religious merit and worldly riches, O lady charged with the duty of looking after the interests of your husband! Why don't you admonish him? (43)
 
@@ -8403,7 +8403,7 @@ Having addressed the foregoing reply, which was full of great significance, to L
 
 1070
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “As a result of this lakhs and crores of monkeys possessed of extraordinary valour and capable of assuming any form at will and dwelling on different mountains have actually arrived. (60)
 
@@ -8513,7 +8513,7 @@ Lakṣmaṇa angrily spoke as follows to Sugrīva, standing with Rumā at his si
 
 1072
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “You are ignoble and ungrateful and a liar too, O monkey, in that having accomplished your purpose through the good offices of Śrī Rāma in the first instance, you are not requiting the services of Śrī Rāma. (13)
 
@@ -8635,7 +8635,7 @@ whose countenance resembled the moon, replied as follows : (1)
 
 1074
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Having killed that vile ogre, Rāvaṇa, Sugrīva will be able to re-unite Śrī Rāma (a scion of Raghu) with Sītā, as one would re-unite the moon-god with Rohiṇī, his principal spouse. (14)
 
@@ -8693,7 +8693,7 @@ to bring numerous monkeys, who are the foremost of their race in combat. (19)
 
 Thus ends Canto Thirty-five in the Kiṣkindhākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* KISKINDHĀKĀṆḌA *
+
 
 1075
 
@@ -8754,7 +8754,7 @@ been lost forever, all this has been regained by me through the grace of Śrī R
 
 1076
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अनुयात्रां नरेन्द्रस्य करिष्येऽहं नरर्षभ।
 गच्छतो रावणं हन्तुं वैरिणं सपुरस्सरम् ॥ १० ॥
@@ -8814,7 +8814,7 @@ While the high-souled Sugriva was speaking as aforesaid, Lakṣmaṇa got please
 
 Thus ends Canto Thirty-six in the Kiṣkindhākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* KIŞKINDHĀKĀṆḌA *
+
 
 1077
 
@@ -8862,7 +8862,7 @@ mountains presenting the hue of the rising sun and standing on the other side of
 
 1078
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 expedition all those leaders of monkeys without exception, who are deeply attached to the pleasures of sense and are given to procrastination. (11)
 
@@ -8995,7 +8995,7 @@ Taking all the herbs as also the fruits and roots they had brought with them, th
 
 1080
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 those monkeys on earth are approaching at your call.” (36)
 
@@ -9095,7 +9095,7 @@ Seeing him seated on the ground, Śrī Rāma then spoke as follows : “A king i
 
 1082
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 apportioning time to each, O jewel among the monkeys! He, however, who pursues sensuous enjoyment, neglecting religious merit and worldly prosperity, wakes up only when he has fallen from his high position, like one lying asleep on a tree-top. A king intent on the destruction of his foes and fond of winning allies is rewarded with religious merit, nay, enjoys the fruit in the shape of the three ends of life, viz., religious merit, worldly prosperity and sensuous enjoyment. Now alone has come the time for endeavour, O exterminator of foes!
 
@@ -9145,7 +9145,7 @@ The aforesaid monkeys etc., O prince,
 एकं दश शतमस्मात् सहस्रमयुतं ततः परं लक्ष्म्। प्रयुतं कोटिमथार्बुदवृन्दे खर्वं निखर्वं च।
 तस्मान्महासरोजं शङ्कुं सरितांपतिं त्वन्तम्। मध्यं परार्धमाहुर्यथोत्तरं दशगुणं तथा ज्ञेयम्।
 
-* KISKINDHĀKĀṆḌA *
+
 
 1083
 
@@ -9199,7 +9199,7 @@ delight to his friends through good offices rendered to them in return for their
 
 1084
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 जहारात्मविनाशाय मैथिलीं राक्षसाधमः ।
 वज्रयित्वा तु पौलोमीमनुह्लादो यथा शचीम् ॥ ६ ॥
@@ -9334,7 +9334,7 @@ Then came to view from a distance the
 
 1086
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 monkey, Tāra of terrible prowess, who possessed the brilliance of a star, followed by five crores of monkeys. (31)
 
@@ -9397,7 +9397,7 @@ Going near and submitting what was called for at the moment, other jewels among 
 
 Having announced to Śrī Rāma all the aforesaid monkeys, who were in a hurry to settle down and take rest, and standing with folded hands before Śrī Rāma, Sugrīva, who was full of alacrity and knew of the
 
-* KISKINDHĀKĀṆḌA *
+
 
 1087
 
@@ -9454,7 +9454,7 @@ followers, who have exhibited their valour at many places and are of terrific pr
 
 1088
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 call, are intent on doing good to their master and shall be able to carry out your plans, O tamer of foes ! (6)
 
@@ -9563,7 +9563,7 @@ Replied to in these words by Śrī Rāma, Sugrīva for his part spoke as follows
 
 1090
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एतेषां गिरिदुर्गेषु प्रपातेषु वनेषु च।
 मार्गध्वं सहिताः सर्वे रामपत्नीं यशस्विनीम् ॥ ३२ ॥
@@ -9663,7 +9663,7 @@ proportions in that ocean seize birds etc., flying over the ocean through their 
 
 1092
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 eastern quarter. Beyond it lies the glorious eastern mountain of gold from which the sun is supposed to rise. (54)
 
@@ -9724,7 +9724,7 @@ Illumined with the brilliance of Sumeru (the golden mountain) as well as of the 
 
 “Rāvaṇa alongwith Sītā, a princess of the Videha territory, should be sought for everywhere on the summits, by the side of cascades and in the caves of the aforesaid mountain. (65)
 
-* KISKINDHĀKĀṆḌA *
+
 
 1093
 
@@ -9769,7 +9769,7 @@ Thus ends Canto Forty in the Kiskindhākāṇḍa of the glorious Rāmāyaṇa o
 
 1094
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकचत्वारिंशः सर्गः
 
@@ -9866,7 +9866,7 @@ trees, should be combed. Then you will see there that blessed heavenly river, Ka
 
 1096
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 with lovely peaks and trees, which has entered deep into the ocean on one side. Indra, the thousand-eyed god, ever visits on every fifteenth day of a dark fortnight the aforesaid mountain, highly pleasing to the mind, which is adorned with trees in blossom of every description as well as with creepers, graced by the foremost of gods, Ṛṣis and Yakṣas (a species of demigods) and celestial nymphs and thronged with hosts of Siddhas (a class of demigods endowed with mystic powers from their very brith) and Cāraṇas (celestial bards). On the other side of the ocean there is a resplendent island extending to a distance of one hundred Yojanas (or eight hundred miles), which is inaccessible to human beings. Scour it on all sides. There Sītā should be specially sought for with all one's mind. (20—24)
 
@@ -9955,7 +9955,7 @@ the aforesaid region there rises a glorious and huge mountain, Ṛṣabha by nam
 
 1098
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सर्वमेतत् समालोक्य यच्चान्यदपि दृश्यते।
 गतिं विदित्वा वैदेह्याः संनिवर्तितुमर्हथ ॥ ४६ ॥
@@ -10063,7 +10063,7 @@ sea the monkeys will disport themselves in clusters of Ketaka shrubs and thicket
 
 1100
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वसन्त्यग्निनिकाशानां घोराणां कामरूपिणाम्।
 पावकाचिःप्रतीकाशाः समवेताः समन्ततः ॥ २१ ॥
@@ -10182,7 +10182,7 @@ blossom and as such shedding their light on all sides. (36-37)
 
 1102
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 शृङ्गे तस्य महद्विव्यं भवनं सूर्यसंनिभम्।
 प्रासादगणसम्बाधं विहितं विश्वकर्मणा ॥ ४४ ॥
@@ -10238,7 +10238,7 @@ blossom and as such shedding their light on all sides. (36-37)
 
 “You too are powerful and indeed you have the initiative, all and sundry. Yet explore the western quarter establishing him as the sole authority in all matters. (55)
 
-* KISKINDHĀKĀṆḌA *
+
 
 1103
 
@@ -10292,7 +10292,7 @@ Having duly directed his father-in-law, Suṣeṇa, to the western quarter, King
 
 1104
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 कृतं हि प्रियमस्माकं राघवेण महात्मना।
 तस्य चेत्प्रतिकारोऽस्ति सफलं जीवितं भवेत् ॥ ६ ॥
@@ -10420,7 +10420,7 @@ is greeted by the whole world, disports himself on that mountain with Guhyakas (
 
 1106
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 by all of you. Beyond the Kraunīca mountain rises a mountain, Maināka by name. (29)
 
@@ -10533,7 +10533,7 @@ accomplishment and distinguished for their comeliness and youth. (47-48)
 
 1108
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Those who have ascended to heaven as well as the gods who dwell in Indra’s heaven and those who reside in the realm of Brahmā (the creator) vividly perceive that lordly mountain. (54)
 
@@ -10644,7 +10644,7 @@ Concluding from the aforesaid words of Sugriva that the success of the venture d
 
 1110
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तदेवं प्रस्थितस्यास्य परिज्ञातस्य कर्मभिः।
 भर्त्रा परिगृहीतस्य ध्रुवः कार्यफलोदयः ॥ १० ॥
@@ -10791,7 +10791,7 @@ back.” (11)
 
 1112
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वेपमानां श्रमेणाद्य भवद्विः स्थीयतामिति।
 एक एवाहरिष्यामि पातालादपि जानकीम् ॥ १३ ॥
@@ -10903,7 +10903,7 @@ thereupon came away to Kiskindhā. (7-8)
 
 1114
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Reaching the eastern quarter then, I beheld trees of all kinds, delightful mountains with caves, as well as lakes of every kind. (14)
 
@@ -11020,7 +11020,7 @@ Approaching and greeting Sugrīva,
 
 1116
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 seated with Śrī Rāma on a plateau of Mount Prasravaṇa, all the three troop-leaders submitted to him as follows : (10)
 
@@ -11068,7 +11068,7 @@ assigned to him by Surgiva. (1)
 
 Travelling a long distance in the company of all those monkey chiefs and
 
-* KİŞKINDHĀKĀṆḌA *
+
 
 1117
 
@@ -11125,7 +11125,7 @@ Here there were neither trees nor annual plants nor climbers nor creepers nor we
 
 1118
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Subjected at that juncture to a curse by that pious-minded soul, the whole of the vast forest became unfit to harbour any creature, difficult to assail and devoid of beasts and birds. The monkeys, for their part, who were inclined to do what was pleasing to Sugriva, carefully explored the forest regions of that area as well as the mountain caves as also the sources of rivers. Yet even there the high-souled ones did not find Sītā (the daughter of King Janaka), nor even her abductor, Rāvaṇa. Having penetrated into that dreadful forest, which was overgrown with creepers and briars, the monkeys for their part beheld a fearful demon of terrible deeds, who had no fear from gods (by virtue of a boon granted by them). The monkeys felt disquieted to see that frightful demon standing like a hill. (11—18)
 
@@ -11209,7 +11209,7 @@ Reassuring all the monkeys (which had accompanied him), the highly intelligent A
 
 1120
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 should remain in constant dread of him as well as of the high-souled Śrī Rāma. (9)
 
@@ -11270,7 +11270,7 @@ Having rested awhile and their fatigue relieved a bit, they got ready to explore
 हनुमत्प्रमुखास्तावत् प्रस्थिताः प्लवगर्षभाः।
 विन्ध्यमेवादितः कृत्वा विचेरुश्च समन्ततः ॥ २२ ॥
 
-* KISKINDHĀKĀṆḌA *
+
 
 1121
 
@@ -11322,7 +11322,7 @@ That region, vast as it was, was also difficult to explore inasmuch as it was fu
 
 1122
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 विस्मयव्यग्रमनसो बभूवुर्वानरर्षभाः ।
 संजातपरिशङ्कास्ते तद् बिलं प्लवगोत्तमाः ॥ ११ ॥
@@ -11412,7 +11412,7 @@ They further saw in that grove lotus-ponds full of pellucid water, nay, hemmed i
 
 1124
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 on all sides trees laden with blossom and fruit and shining brightly as coral and ruby with golden bees hovering about them, as also honeys of various kinds on all sides and, even so, spacious couches and seats of various kinds set with gems and gold, again heaps of vessels of gold, silver and bell-metal and also collections of aloe-wood and sandal-wood of the Divya class, pure foods as well as roots and fruits, costly conveyances (palanquins etc.,) and delicious honeys, piles of costly ethereal textiles as also piles of excellent blankets and deerskins. The monkeys also saw dazzling and immaculate heaps of gold placed here and there and resplendent as fire. Looking about here and there in that cave, the heroic monkeys, which were possessed of extraordinary brilliance, beheld a certain woman at a short distance from them. Nay,
 
@@ -11501,7 +11501,7 @@ grove brought into existence by his wonderful architectural skill. Formerly, the
 
 1126
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तयादत्तवरा चास्मि रक्षामि भवनं महत्।
 किं कार्यं कस्य वा हेतोः कान्ताराणि प्रपद्यथ ॥ १८ ॥
@@ -11610,7 +11610,7 @@ Hearing the aforesaid request of Swayamprabhā, Hanumān, son of the wind-god, p
 
 1128
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 उवाच हनुमान् वाक्यं तामनिन्दितलोचनाम्।
 शरणं त्वां प्रपन्नाः स्मः सर्वे वै धर्मचारिणीम् ॥ २१ ॥
@@ -11705,7 +11705,7 @@ Addressing in a sweet tone and duly honouring the aforesaid elderly monkeys as w
 
 1130
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वयमाश्रयुजे मासि कालसंख्याव्यवस्थिताः ।
 प्रस्थिताः सोऽपि चातीतः किमतः कार्यमुत्तरम् ॥ ९ ॥
@@ -11762,7 +11762,7 @@ Addressing in a sweet tone and duly honouring the aforesaid elderly monkeys as w
 
 Hearing this statement made by Aṅgada, the Prince Regent of Kiṣkindhā, all the
 
-* KISKINDHĀKĀṆḌA *
+
 
 1131
 
@@ -11813,7 +11813,7 @@ Thus ends Canto Fifty-three in the Kīskindhākāṇḍa of the glorious Rāmāy
 
 1132
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चतुःपञ्चाशः सर्गः
 
@@ -11913,7 +11913,7 @@ All of them having been set at variance with one another, he then proceeded to i
 
 1134
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 wretched plight etc., they will turn their back on you. (17)
 
@@ -12030,7 +12030,7 @@ queen of his elder brother—while he was still alive. (2-3)
 
 1136
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 मातरं चैव मे तारामाश्वासयितुमर्हथ।
 प्रकृत्या प्रियपुत्रा सा सानुक्रोशा तपस्विनी ॥ १५ ॥
@@ -12075,7 +12075,7 @@ With those numerous monkeys, who themselves resembled the peaks of huge mountain
 
 Thus ends Canto Fifty-five in the Kiṣkindhākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* KIŞKINDHĀKĀṆḌA *
+
 
 1137
 
@@ -12117,7 +12117,7 @@ Greatly perturbed to hear the aforesaid utterance of that bird, who was covetous
 
 1138
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 food, Aṅgada presently spoke to Hanumān as follows : (6)
 
@@ -12172,7 +12172,7 @@ Indeed a kindly act was done to Śrī Rāma (in the shape of laying down his lif
 
 Greatly bewildered in mind to hear the aforesaid doleful cries uttered by the monkeys, and to perceive them tumbled down on the ground, the highly intelligent Sampāti, the king of vultures, spoke as follows in a piteous tone. (17)
 
-* KISKINDHĀKĀṆḌA *
+
 
 1139
 
@@ -12228,7 +12228,7 @@ Seeing the vulture, the said monkeys, for their part, who had sat down to starve
 
 1140
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 themselves to death, entertained the horrid idea that he would eat them all up. (2)
 
@@ -12286,7 +12286,7 @@ All those monkey leaders subsequently arrived at this latter conclusion. Having 
 
 “Installed on the throne as the lord of monkeys by Śrī Rāma, the aforesaid Sugrīva
 
-* KISKINDHĀKĀṆḌA *
+
 
 1141
 
@@ -12326,7 +12326,7 @@ Sampāti tells Aṅgada how having once soared with his younger brother to the n
 
 1142
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इत्युक्तः करुणं वाक्यं वानरैस्त्यक्तजीवितैः ।
 सबाष्पो वानरान् गृध्रः प्रत्युवाच महास्वनः ॥ १ ॥
@@ -12388,7 +12388,7 @@ Sampāti, the elder brother of Jaṭāyu, who was endowed with extraordinary ene
 जानामि वारुणाल्लोकान् विष्णोस्त्रैविक्रमानपि ।
 देवासुरविमर्दाश्च ह्यमृतस्य विमन्थनम् ॥ १३ ॥
 
-* KISKINDHĀKĀṆḌA *
+
 
 1143
 
@@ -12441,7 +12441,7 @@ Sampāti, the elder brother of Jaṭāyu, who was endowed with extraordinary ene
 
 1144
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ज्ञानेन खलु पश्यामि दृष्ट्वा प्रत्यागमिष्यथ।
 आद्यः पन्थाः कुलिङ्गानां ये चान्ये धान्यजीविनः ॥ २६ ॥
@@ -12497,7 +12497,7 @@ Sampāti, the elder brother of Jaṭāyu, who was endowed with extraordinary ene
 
 Actually taking Sampāti, whose wings had been completely burnt, to the aforesaid region lying on the shore of the ocean (the
 
-* KISKINDHĀKĀṆḌA *
+
 
 1145
 
@@ -12551,7 +12551,7 @@ Consoling once more the monkeys, who had now totally given up the vow of starvin
 
 1146
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of by me here and also by whom the story was related to me, and where the large-eyed lady is. (6)
 
@@ -12662,7 +12662,7 @@ Thus ends Canto Fifty-nine in the Kīṣkindhākāṇḍa of the glorious Rāmā
 
 1148
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षष्ठितमः सर्गः
 
@@ -12775,7 +12775,7 @@ highly adored even by gods, in which dwelt a Ṛṣi (a seer of Vedic Mantras) n
 
 1150
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 with the wind in speed and were capable of changing form at will, were seen by me before. (19)
 
@@ -12886,7 +12886,7 @@ south-eastern corner presided over by the god of fire nor again the western quar
 
 1152
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Deprived of my rulership of the feathered kingdom and my brother, and shorn of my wings and prowess, and,
 
@@ -12986,7 +12986,7 @@ Thus ends Canto Sixty-two in the Kīṣkindhākāṇḍa of the glorious Rāmāy
 
 1154
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # त्रिषष्टितमः सर्गः
 
@@ -13036,7 +13036,7 @@ Even while Sampāti was thus talking with the monkeys, a pair of beautiful wings
 
 * Interpreting ‘शतम्’ forming part of the compound word ‘वर्षशतम्’ in the text, as bearing the sense of innumerable the commentators have computed the number to be eight thousand in order to bring it into line with the previous statement of Samāpti contained in verse 9 of Canto LX above.
 
-* KISKINDHĀKĀṆḌA *
+
 
 1155
 
@@ -13077,7 +13077,7 @@ Leaping at full height in a body when enlightened by the king of vultures on the
 
 1156
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 whereabouts of Sītā, the monkeys, who were all endowed with the prowess of a lion, thundered with joy. (1)
 
@@ -13144,7 +13144,7 @@ Barring Aṅgada (the son of Vāli) and barring Hanūmān, who else would be abl
 
 Showing respect to those elderly
 
-* KISKINDHĀKĀṆḌA *
+
 
 1157
 
@@ -13200,7 +13200,7 @@ Thus ends Canto Sixty-four in the Kīskindhākāṇḍa of the glorious Rāmāya
 
 1158
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # पञ्चषष्ठितमः सर्गः
 
@@ -13322,7 +13322,7 @@ To Aṅgada, the foremost of monkeys, Jāmbavān, who was a master of expression
 
 1160
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 circumstance be worthy of being directed or sent on an expedition. On the other hand, we all deserve to be directed or sent on an errand by you, O jewel among the monkeys !
 
@@ -13400,7 +13400,7 @@ In response to these words of Aṅgada at that juncture, the celebrated and hero
 
 “Not an iota of your aforementioned purpose will be balked, O gallant prince ! I
 
-* KISKINDHĀKĀṆḌA *
+
 
 1161
 
@@ -13459,7 +13459,7 @@ Perceiving the monkey force, which was many lakhs strong, despondent, Jāmbavān
 
 1162
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Your strength and wisdom, energy and courage too, O bull among the monkeys, distinguish you from all other created beings. Why then do you not make yourself ready for the adventure? (7)
 
@@ -13576,7 +13576,7 @@ Seeing you risen to the sky in no time even on being repulsed, O great monkey, I
 
 1164
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 alone amongst us are endowed with skill and prowess and are another Sugriva, the ruler of monkeys, as it were. (31)
 
@@ -13634,7 +13634,7 @@ Proclaiming his own glory in order to dispel the fears of the monkeys after assu
 सहसा शोकमुत्सृज्य प्रहर्षेण समन्विताः।
 विनेदुस्तुष्टुवुक्षापि हनूमन्तं महाबलम् ॥ २ ॥
 
-* KISKINDHĀKĀṆḌA *
+
 
 1165
 
@@ -13702,7 +13702,7 @@ Risen from the midst of monkeys, his hair standing on end through excessive joy,
 
 1166
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 who feeds on serpents and is waited upon by birds (whose ruler he is), while he is coursing through the sky. (14)
 
@@ -13824,7 +13824,7 @@ Thereupon Hanumān (a tiger among the monkeys) for his part spoke to those monke
 
 1168
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 hundred Yojanas (or eight hundred miles) from this place.” Then the celebrated monkey chief, Hanumān (son of the wind-god), the destroyer of his foes, for his part, who was a compeer of the wind-god, climbed up Mount Mahendra, the foremost of mountains, which was carpeted with flowers (shed by the trees standing on it), was thick with creepers and flowers growing on them, was covered with trees ever laden with flowers and fruit and infested with lions and tigers, nay, which was frequented by elephants in rut, and rendered noisy by flocks of birds in heat and again which abounded in cascades and whose swards were ranged by deer.
 

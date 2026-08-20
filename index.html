@@ -3,62 +3,330 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Śrī Vālmīki Rāmāyaṇa</title>
+  <title>Valmiki Ramayana - Home & Cross-Search</title>
   <style>
     :root {
-      --bg-color: #fdfbf7;
+      --bg-color: #f8f9fa;
       --card-bg: #ffffff;
-      --accent-color: #8b0000;
-      --border-color: #e2d8c3;
-      --text-color: #2c2c2c;
+      --text-color: #212529;
+      --accent-color: #b33951;
+      --border-color: #e9ecef;
+      --sanskrit-color: #1a252c;
     }
-    body { font-family: 'Georgia', serif; background-color: var(--bg-color); color: var(--text-color); margin: 0; padding: 30px 20px; }
-    .container { max-width: 800px; margin: 0 auto; text-align: center; }
-    h1 { color: var(--accent-color); font-size: 2.2rem; margin-bottom: 10px; }
-    p.subtitle { font-style: italic; color: #555; margin-bottom: 40px; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; }
-    .card { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 8px; padding: 24px 16px; text-decoration: none; color: var(--accent-color); font-weight: bold; font-size: 1.2rem; transition: all 0.2s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
-    .card:hover { transform: translateY(-3px); box-shadow: 0 5px 15px rgba(139,0,0,0.15); background-color: #fffaf0; }
-    .sanskrit-title { display: block; font-size: 0.9rem; font-weight: normal; color: #666; margin-top: 6px; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px 20px 0 20px;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      flex: 1;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 32px;
+    }
+
+    header h1 {
+      color: var(--accent-color);
+      margin: 0 0 8px 0;
+      font-size: 2.2rem;
+    }
+
+    header p {
+      color: #6c757d;
+      margin: 0;
+      font-size: 1rem;
+    }
+
+    .search-section {
+      background: var(--card-bg);
+      padding: 24px;
+      border-radius: 12px;
+      border: 1px solid var(--border-color);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+      margin-bottom: 32px;
+    }
+
+    .search-box {
+      display: flex;
+      gap: 12px;
+    }
+
+    .search-box input {
+      flex: 1;
+      padding: 12px 16px;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      font-size: 1.05rem;
+    }
+
+    .search-box button {
+      padding: 12px 24px;
+      background: var(--accent-color);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+
+    .search-box button:hover {
+      opacity: 0.9;
+    }
+
+    .kanda-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+
+    .kanda-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 10px;
+      padding: 20px;
+      text-decoration: none;
+      color: var(--text-color);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .kanda-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 16px rgba(0,0,0,0.06);
+      border-color: var(--accent-color);
+    }
+
+    .kanda-card h3 {
+      margin: 0 0 6px 0;
+      color: var(--accent-color);
+    }
+
+    .kanda-card p {
+      margin: 0;
+      font-size: 0.88rem;
+      color: #6c757d;
+    }
+
+    .result-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 18px;
+      margin-bottom: 16px;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      transition: border-color 0.2s;
+    }
+
+    .result-card:hover {
+      border-color: var(--accent-color);
+    }
+
+    .result-badge {
+      display: inline-block;
+      background: var(--accent-color);
+      color: white;
+      font-size: 0.8rem;
+      font-weight: bold;
+      padding: 3px 10px;
+      border-radius: 12px;
+      margin-bottom: 10px;
+    }
+
+    .sanskrit-preview {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--sanskrit-color);
+      margin-bottom: 8px;
+      white-space: pre-line;
+    }
+
+    .explanation-preview {
+      font-size: 0.95rem;
+      color: #495057;
+    }
+
+    .status-msg {
+      text-align: center;
+      color: #6c757d;
+      padding: 20px 0;
+    }
+
+    footer {
+      margin-top: 40px;
+      padding: 20px 0;
+      border-top: 1px solid var(--border-color);
+      text-align: center;
+      font-size: 0.9rem;
+      color: #6c757d;
+    }
+
+    footer a {
+      color: var(--accent-color);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
 
-<div class="container">
-  <h1>Śrī Vālmīki Rāmāyaṇa</h1>
-  <p class="subtitle">Gita Press Edition • Interactive Web & Audio Reader</p>
+  <div class="container">
+    <header>
+      <h1>श्रीमद्वॉल्मीकीय रामायणम्</h1>
+      <p>Valmiki Ramayana Reader & Cross-Kanda Search</p>
+    </header>
 
-  <div class="grid">
-    <a href="ram.html?kanda=balakanda" class="card">
-      1. Bāla Kāṇḍa
-      <span class="sanskrit-title">बालकाण्डम्</span>
-    </a>
-    <a href="ram.html?kanda=ayodhyakanda" class="card">
-      2. Ayodhyā Kāṇḍa
-      <span class="sanskrit-title">अयोध्याकाण्डम्</span>
-    </a>
-    <a href="ram.html?kanda=aranyakanda" class="card">
-      3. Araṇya Kāṇḍa
-      <span class="sanskrit-title">अरण्यकाण्डम्</span>
-    </a>
-    <a href="ram.html?kanda=kishkindhakanda" class="card">
-      4. Kiṣkindhā Kāṇḍa
-      <span class="sanskrit-title">किष्किन्धाकाण्डम्</span>
-    </a>
-    <a href="ram.html?kanda=sundarakanda" class="card">
-      5. Sundara Kāṇḍa
-      <span class="sanskrit-title">सुन्दरकाण्डम्</span>
-    </a>
-    <a href="ram.html?kanda=yuddhakanda" class="card">
-      6. Yuddha Kāṇḍa
-      <span class="sanskrit-title">युद्धकाण्डम्</span>
-    </a>
-    <a href="ram.html?kanda=uttarakanda" class="card">
-      7. Uttara Kāṇḍa
-      <span class="sanskrit-title">उत्तरकाण्डम्</span>
-    </a>
+    <!-- Cross Kanda Search -->
+    <div class="search-section">
+      <div class="search-box">
+        <input type="text" id="globalSearchInput" placeholder="🔍 Search keywords across ALL 7 Kandas (e.g. Dasaratha, Janaka, Ayodhya)...">
+        <button id="searchBtn">Search</button>
+      </div>
+    </div>
+
+    <!-- Search Results Container -->
+    <div id="searchResults"></div>
+
+    <!-- Kanda Quick Jump Grid -->
+    <h2 style="color: var(--accent-color); margin-bottom: 16px;">Browse Kandas</h2>
+    <div class="kanda-grid">
+      <a href="ram.html?kanda=0" class="kanda-card">
+        <h3>Bala Kanda</h3>
+        <p>Book 1 • Childhood & Early Life</p>
+      </a>
+      <a href="ram.html?kanda=1" class="kanda-card">
+        <h3>Ayodhya Kanda</h3>
+        <p>Book 2 • Ayodhya & Exile</p>
+      </a>
+      <a href="ram.html?kanda=2" class="kanda-card">
+        <h3>Aranya Kanda</h3>
+        <p>Book 3 • The Forest Life</p>
+      </a>
+      <a href="ram.html?kanda=3" class="kanda-card">
+        <h3>Kishkindha Kanda</h3>
+        <p>Book 4 • Kingdom of Monkeys</p>
+      </a>
+      <a href="ram.html?kanda=4" class="kanda-card">
+        <h3>Sundara Kanda</h3>
+        <p>Book 5 • Book of Beauty & Hanuman</p>
+      </a>
+      <a href="ram.html?kanda=5" class="kanda-card">
+        <h3>Yuddha Kanda</h3>
+        <p>Book 6 • The War with Ravana</p>
+      </a>
+      <a href="ram.html?kanda=6" class="kanda-card">
+        <h3>Uttara Kanda</h3>
+        <p>Book 7 • Epilogue & Later Life</p>
+      </a>
+    </div>
   </div>
-</div>
 
+  <footer>
+    <div class="container">
+      <p>Source Data: Gita Press Valmiki Ramayana | Developed by <a href="https://github.com/satishsanthanam" target="_blank" rel="noopener">Satish Santhanam</a></p>
+    </div>
+  </footer>
+
+  <script>
+    const KANDAS = [
+      { name: "Bala Kanda", file: "data/Valmiki_Ramayan_Balakanda.json" },
+      { name: "Ayodhya Kanda", file: "data/Valmiki_Ramayan_Ayodhyakanda.json" },
+      { name: "Aranya Kanda", file: "data/Valmiki_Ramayan_Aranyakanda.json" },
+      { name: "Kishkindha Kanda", file: "data/Valmiki_Ramayan_Kishkindhakanda.json" },
+      { name: "Sundara Kanda", file: "data/Valmiki_Ramayan_Sundarakanda.json" },
+      { name: "Yuddha Kanda", file: "data/Valmiki_Ramayan_Yuddhakanda.json" },
+      { name: "Uttara Kanda", file: "data/Valmiki_Ramayan_Uttarakanda.json" }
+    ];
+
+    const searchInput = document.getElementById('globalSearchInput');
+    const searchBtn = document.getElementById('searchBtn');
+    const resultsDiv = document.getElementById('searchResults');
+
+    async function performGlobalSearch() {
+      const query = searchInput.value.trim().toLowerCase();
+      if (!query) {
+        resultsDiv.innerHTML = '';
+        return;
+      }
+
+      resultsDiv.innerHTML = `<div class="status-msg">Searching across all 7 Kandas...</div>`;
+
+      let matches = [];
+
+      // Iterate through each Kanda JSON
+      for (let kIndex = 0; kIndex < KANDAS.length; kIndex++) {
+        try {
+          const res = await fetch(KANDAS[kIndex].file);
+          if (!res.ok) continue;
+          const kandaData = await res.json();
+
+          const found = kandaData.filter(item => 
+            (item.shloka_text && item.shloka_text.toLowerCase().includes(query)) ||
+            (item.explanation && item.explanation.toLowerCase().includes(query))
+          );
+
+          found.forEach(item => {
+            matches.push({ ...item, kandaIndex: kIndex, kandaName: KANDAS[kIndex].name });
+          });
+        } catch (e) {
+          console.error(`Error loading ${KANDAS[kIndex].name}`, e);
+        }
+      }
+
+      if (matches.length === 0) {
+        resultsDiv.innerHTML = `<div class="status-msg">No results found across any Kanda for "${query}".</div>`;
+        return;
+      }
+
+      // Display top 50 matches for optimal page performance
+      const displayMatches = matches.slice(0, 50);
+
+      resultsDiv.innerHTML = `
+        <h3 style="color: var(--accent-color); margin-bottom: 16px;">
+          Found ${matches.length} matches ${matches.length > 50 ? '(showing top 50)' : ''}:
+        </h3>
+        ${displayMatches.map(item => {
+          let verseLabel = `${item.kandaName} • Sarga ${item.sarga}`;
+          if (item.shloka_start === 0) verseLabel += ` • Summary`;
+          else if (item.shloka_start === item.shloka_end) verseLabel += ` • Shloka ${item.shloka_start}`;
+          else verseLabel += ` • Shlokas ${item.shloka_start}–${item.shloka_end}`;
+
+          // Link parameters jump directly to ram.html
+          const link = `ram.html?kanda=${item.kandaIndex}&sarga=${item.sarga}&shloka=${item.shloka_start}`;
+
+          return `
+            <a href="${link}" class="result-card">
+              <span class="result-badge">${verseLabel}</span>
+              ${item.shloka_text ? `<div class="sanskrit-preview">${item.shloka_text}</div>` : ''}
+              <div class="explanation-preview">${item.explanation}</div>
+            </a>
+          `;
+        }).join('')}
+      `;
+    }
+
+    searchBtn.addEventListener('click', performGlobalSearch);
+    searchInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') performGlobalSearch();
+    });
+  </script>
 </body>
 </html>

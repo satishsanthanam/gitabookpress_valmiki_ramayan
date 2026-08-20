@@ -41,7 +41,7 @@ All the four princes, who were veritable
 
 284
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 jewels among men, were equally dear to him like four arms sprung from one's own person. (5)
 
@@ -107,7 +107,7 @@ With his mind intent on what was worthy of his race, he made much of his duty as
 
 He never took delight in an act which was not conducive to blessedness, had no relish for profane talks and, like the sage
 
-* AYODHYĀKĀṆḌA *
+
 
 285
 
@@ -168,7 +168,7 @@ He was expert in gathering pious men about him and patronizing them, and knew wh
 
 286
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 श्रेष्ठ्यं शास्त्रसमूहेषु प्राप्तो व्यामिश्रकेषु च।
 अर्थधर्मो च संगृह्य सुखतन्त्रो न चालसः ॥ २७ ॥
@@ -289,7 +289,7 @@ Decked with jewels himself, the king saw them when they had been honourably
 
 288
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 lodged in quarters and presented with various ornaments according to their respective rank, even as Brahmā, the lord of created beings, would see his progeny. (47)
 
@@ -382,7 +382,7 @@ protected on all sides to the best of my ability even by me regardless of person
 
 290
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अनुजातो हि मां सर्वैर्गुणैः श्रेष्ठो ममात्मजः ।
 पुरन्दरसमो वीर्यं रामः परपुरंजयः ॥ ११ ॥
@@ -503,7 +503,7 @@ Those high-minded men in agreement with the citizens of Ayodhyā as well as with
 
 292
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 देवासुरमनुष्याणां सर्वास्त्रेषु विशारदः।
 सम्यग् विद्याव्रतस्नातो यथावत् साङ्गवेदवित् ॥ ३४ ॥
@@ -543,7 +543,7 @@ returns without scoring a victory once he is out. Returning from an encounter on
 
 * शिक्षा व्याकरणं छन्दो निरुक्तं ज्योतिषं तथा। कल्पश्चेति व्याहृतानि वेदाङ्गानि मनीषिभिः ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 293
 
@@ -601,7 +601,7 @@ returns without scoring a victory once he is out. Returning from an encounter on
 
 294
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Śrī Rāma, a compeer of Lord Viṣṇu, the
 adored of gods, intent as he is upon doing
@@ -726,7 +726,7 @@ and everything else such as sandal-paste that may be desirable. Keep all these r
 
 296
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 चक्रतुश्चैव यच्छेषं पार्थिवाय निवेद्य च।
 कृतमित्येव चाब्रतामभिगम्य जगत्पतिम् ॥ २१ ॥
@@ -765,7 +765,7 @@ The kings belonging to all the four quarters viz., east, north, west and south, 
 गृह्याञ्जलौ समाकृष्य सस्वजे प्रियमात्मजम्।
 तस्मै चाभ्युद्यतं सम्यङ्मणिकाञ्जनभूषितम् ॥ ३४ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 297
 
@@ -809,7 +809,7 @@ Seeing him lying prostrate by his side with joined palms, the king (lit., a rule
 
 298
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and anger. Ruling according both to the indirect* and direct methods of governance, please your ministers and others, namely, the army commanders and civic guards, as well as all the people, laying-by against future contingencies numerous stores of useful materials such as jewellery, gold and silver, textiles and ornaments alongwith barns and armouries. (42—44)
 
@@ -904,7 +904,7 @@ Hearing that Śrī Rāma had duly arrived, Emperor Daśaratha bade him enter his
 
 300
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 प्रविशन्नेव च श्रीमान् राघवो भवनं पितुः ।
 ददर्श पितरं दूरात् प्रणिपत्य कृताञ्जलिः ॥ १० ॥
@@ -966,7 +966,7 @@ Lifting him up, even while he was lying prostrate, nay, pressing him closely to 
 
 "The moon has reached today the
 
-* AYODHYĀKĀṆḌA *
+
 
 301
 
@@ -1025,7 +1025,7 @@ Emperor Daśaratha is apparently referring here to this promise made by him and 
 
 302
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 प्रागेव चागता तत्र सुमित्रा लक्ष्मणस्तथा।
 सीता चानयिता श्रुत्वा प्रियं रामाभिषेचनम् ॥ ३१ ॥
@@ -1081,7 +1081,7 @@ Hearing of this consummation, which had been coveted for a long time, Kausalyā 
 
 Addressed thus by his mother, Śrī Rāma for his part looked at his brother, Lakṣmaṇa, who sat bent low with humility
 
-* AYODHYĀKĀṆḌA *
+
 
 303
 
@@ -1138,7 +1138,7 @@ Saying “Amen !” to the Emperor and mounting an excellent chariot fit for Br�
 
 304
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Reaching Śrī Rāma's palace, resplendent like a compact mass of white clouds, Vasiṣṭha, the foremost of ascetics, drove through its three enclosures in the chariot itself. (5)
 
@@ -1204,7 +1204,7 @@ Crowded with men full of curiosity to witness the festivities connected with Śr
 
 The noise on the main roads, filled with the hilarious sound produced by the striking of waves in the shape of crowds of men, resembled the roaring of a sea. (17)
 
-* AYODHYĀKĀṆḌA *
+
 
 305
 
@@ -1262,7 +1262,7 @@ Thus ends Canto Five in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of V
 
 306
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षष्ठः सर्गः
 
@@ -1304,7 +1304,7 @@ Hearing there the delightful words of the Sūtas, who recited Paurāṇika stori
 
 * The learned commentators point out that the Deity referred to here is no other than Lord Śrī Rāma, who had been worshipped by a long line of the rulers of Ayodhyā as their chosen deity in a separate shrine built within the precincts of the royal palace. We are told at length in the Pātāla-Khaṇḍa, of the Padma Purāṇa how Śrī Rāma so kindly handed over the image to Vibhīṣaṇa, through whom it reached Śrirangam (near Tiruchirapally) in South India, where it exists even to this day and is held in the highest reverence by the Vaiṣṇavas and other devotees all over India.
 
-* AYODHYĀKĀṆḌA *
+
 
 307
 
@@ -1366,7 +1366,7 @@ Nay, in order to provide light in anticipation of nightfall by the time Śrī R�
 
 308
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Having decorated the city as aforesaid and coming together in batches in quadrangles as well as in the public assembly halls scattered throughout the city, all the residents of that city of Ayodhyā, longing as they did for the installation of Śrī Rāma in the office of Prince Regent, applauded Daśaratha, a ruler of men, while talking to one another on the spot : (19-20)
 
@@ -1417,7 +1417,7 @@ On that occasion the city of Ayodhyā—which was full of noise and vied in its 
 
 Thus ends Canto Six in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 309
 
@@ -1465,7 +1465,7 @@ Mantharā was seized with great wonder to see Ayodhyā brimming over with citize
 
 310
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of Śrī Rāma's installation, and decked with rows of tall flags. (6)
 
@@ -1599,7 +1599,7 @@ this way stand deceived by him. (24)
 
 312
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and protect your son, your own self and me too, O lady of marvellous insight !” (30)
 
@@ -1651,7 +1651,7 @@ While Mantharā was thus trying to impress on Kaikeyi's mind that the installati
 
 Censuring Kaikeyi and throwing away the said jewel gifted by her, however, Mantharā thereupon spoke to her as follows,
 
-* AYODHYĀKĀṆḌA *
+
 
 313
 
@@ -1716,7 +1716,7 @@ the claim to the throne of Ayodhyā of Bharata alone can be pressed; that of Lak
 
 314
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तां दृष्ट्वा परमप्रीतां ब्रुवन्तीं मन्थरां ततः।
 रामस्यैव गुणान् देवी कैकेयी प्रशंशंस ह॥ १३॥
@@ -1778,7 +1778,7 @@ Heaving a doleful sigh, Mantharā, who was sore distressed to hear Kaikeyi's rep
 
 “Therefore, kings, O Kaikeyi, actually hand over the reins of government to the eldest son, even though others, viz., the younger may be full of virtues, O lady with faultless limbs ! (24)
 
-* AYODHYĀKĀṆḌA *
+
 
 315
 
@@ -1844,7 +1844,7 @@ Heaving a doleful sigh, Mantharā, who was sore distressed to hear Kaikeyi's rep
 
 316
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दर्पान्निराकृता पूर्वं त्वया सौभाग्यवत्तया।
 राममाता सपत्नी ते कथं वैरं न यापयेत् ॥ ३७ ॥
@@ -1949,7 +1949,7 @@ Requested thus by the queen on that occasion, Mantharā of sinful intent spoke t
 
 318
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Quickly carrying off from their beds at night the warriors injured and grievously wounded in the course of that great conflict and lying fast asleep, the ogre-like demons used to make short work of them. (14)
 
@@ -2010,7 +2010,7 @@ Requested thus by the queen on that occasion, Mantharā of sinful intent spoke t
 
 “The monarch dare not in any case
 
-* AYODHYĀKĀṆḌA *
+
 
 319
 
@@ -2066,7 +2066,7 @@ transgress your command. Realize the potency of your charms, O lady of sluggish 
 
 320
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 spoke to Mantharā as follows : “I will not disparage your wisdom, O noblest woman, who are imparting the best counsel to me. (34—38)
 
@@ -2187,7 +2187,7 @@ Repeatedly struck by the hunchback again and again with shafts in the shape of
 
 322
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the aforesaid words and pierced to the quick by them, nay, greatly amazed and enraged again and again (at the hostile attitude of her loving husband) the queen Kaikeyī spoke to the hunchback as follows, placing her hands on her heart (as a token of amazement) : (62)
 
@@ -2285,7 +2285,7 @@ To begin with the highly illustrious king entered the excellent abode of Kaikeyi
 
 324
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 full of hunched and dwarf women and abounded in arbours and picture galleries adorned with Aśoka and Campaka trees, as well as in raised seats made of ivory, silver and gold. It was graced with trees ever laden with blossoms and fruits as well as with extensive wells provided with descents and was furnished with excellent seats of ivory, silver and gold. Nay, it was provided with food and drinks of various kinds as well as with edibles of every description and adorned with costly ornaments and vied with paradise. Freely entering his own gynaecium, which was full of riches, the king did not perceive his better half, Kaikeyi, on her excellent bed. Seized with an ardent longing to see Śrī Rāma installed as Prince Regent, and not finding his beloved consort in her bedroom, the king, who sought to bring delight to her by breaking the news of Śrī Rāma's installation, called out to her and failing to elicit response, felt disconsolate. The queen had never before missed that time of the Emperor's visit. (3—18)
 
@@ -2321,7 +2321,7 @@ Nor did the king ever enter her bedchamber in a deserted condition. Then, having
 यदिदं मम दुःखाय शेषे कल्याणि पांसुषु।
 भूमौ शेषे किमर्थं त्वं मयि कल्याणचेतसि ॥ २९ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 325
 
@@ -2374,7 +2374,7 @@ Feeling comforted when spoken to as
 
 326
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 aforesaid, and inclined to put up that unkind proposal, Kaikeyī made ready to torment her husband further by putting forward that unpalatable proposal. (40)
 
@@ -2430,7 +2430,7 @@ Emperor spoke as follows to Kaikeyī, gently smiling : (4)
 आत्मना चात्मजैश्चान्यैर्वृणे यं मनुजर्षभम्।
 तेन रामेण कैकेयि शपे ते वचनक्रियाम् ॥ ८ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 327
 
@@ -2487,7 +2487,7 @@ Having thus extolled and won over the monarch, who carried a mighty bow and was 
 
 328
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तत्र चापि मया देव यत् त्वं समभिरक्षितः।
 जाग्रत्या यतमानायास्ततो मे प्रददौ वरौ॥ १९॥
@@ -2597,7 +2597,7 @@ Distressed and uneasy as a deer at the sight of a lioness and seated on the bare
 
 330
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 destruction even as one would lodge a highly venomous female serpent knowing it to be a princess. When the entire living creation extols the virtues of Rāma, for what offence shall I forsake my beloved son? Nay, I can, if need be, forsake my other two wives, Kausalyā and Sumitrā or even my royal fortune, nay, my very life, but I would on no account part with Rāma, who is so fond of his father. Supreme is my delight on seeing my eldest son; while my very consciousness is lost if I fail to see Rāma. The world may continue to exist without the sun or a crop may live without water; life, however, cannot in any case continue in my body without Rāma. Therefore, have done with it. Let this resolution be given up, O lady with a sinful resolve! (9—14)
 
@@ -2719,7 +2719,7 @@ mind, straightforwardness, learning and service to his elders—these are consta
 
 332
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 my failure to keep my word lay hold on me in this life.” (36)
 
@@ -2840,7 +2840,7 @@ In an afflicted and impatient tone, they say, he spoke to Kaikeyī as follows: �
 
 334
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 यदि भर्तुः प्रियं कार्यं लोकस्य भरतस्य च।
 नृशंसे पापसंकल्पे क्षुद्रे दुष्कृतकारिणि ॥ ६० ॥
@@ -2885,7 +2885,7 @@ Rāma’s face resembling in everyway the eclipsed moon? How shall I bear to see
 
 “If I plead in support of my action that this has been done to vindicate the cause of truth (inasmuch as I did so only to redeem the promise made to you), my latest announcement made in public to the effect that Rāma would be installed as Prince Regent the following day would be falsified. What will Kausalyā say to me when Rāma (a scion of Raghu) proceeds to the forest?
 
-* AYODHYĀKĀṆḌA *
+
 
 335
 
@@ -2930,7 +2930,7 @@ wife as you are, as ultimately proving to be most disloyal, even as one, having 
 
 336
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 बालिशो बत कामात्मा राजा दशरथो भृशम्।
 स्त्रीकृते यः प्रियं पुत्रं वनं प्रस्थापयिष्यति ॥ ८३ ॥
@@ -3045,7 +3045,7 @@ wife as you are, as ultimately proving to be most disloyal, even as one, having 
 
 338
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “I for my part rejoice when I behold with my own eyes that son of mine, possessing the comeliness of a divine boy and adorned with ornaments, coming to me and feel rejuvenated as it were the moment I see him. (103)
 
@@ -3098,7 +3098,7 @@ wife as you are, as ultimately proving to be most disloyal, even as one, having 
 
 “I do not wish you to survive—you, who are destructive as a razor, utter falsely pleasing words, are of extremely malicious intent, nay, the bane of your family, and are intent upon burning my heart alongwith my vitals and, therefore, repellent to my mind. (110)
 
-* AYODHYĀKĀṆḌA *
+
 
 339
 
@@ -3147,7 +3147,7 @@ Scolded thus by Kaikeyī on that occasion, however, King Daśaratha remained
 
 340
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 unconscious, as it were, for an hour or so and then angrily replied as follows : (4)
 
@@ -3211,7 +3211,7 @@ blue lotus, is endowed with extraordinary might and is so lovely? (10)
 
 * The word “Śarvarī”, used in this verse as a qualification for the night, is derived from the root शू (to hurt or destroy).
 
-* AYODHYĀKĀṆḌA *
+
 
 341
 
@@ -3269,7 +3269,7 @@ Thus ends Canto Thirteen in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa 
 
 342
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चतुर्दशः सर्गः
 
@@ -3384,7 +3384,7 @@ While that high-souled monarch was speaking as aforesaid, the holy night with it
 
 344
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततः पापसमाचारा कैकेयी पार्थिवं पुनः।
 उवाच परुषं वाक्यं वाक्यज्ञा रोषमूर्च्छिता ॥ २० ॥
@@ -3493,7 +3493,7 @@ The attendants too, who were esteemed
 
 346
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of the king and were ever keen to please him, dared not stop him, senior as he was in years as well as in wisdom and had already been permitted to see him whenever he would. (44)
 
@@ -3609,7 +3609,7 @@ When, owing to his miserable condition, the Emperor could not speak himself, Kai
 
 348
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Sumantra, issued forth once more with great delight from the lovely gynaeceum, which appeared like a pool in the sea as compared to the whole city, of which it formed only a small part. Coming out, he saw the main entrance crowded with men on the front side. (65—68)
 
@@ -3697,7 +3697,7 @@ Also all kinds of musical instruments and panegyrists as well as bards were pres
 
 350
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 winters old and belonging as he did to the
 bard class, returned to the entrance of the
@@ -3815,7 +3815,7 @@ Entering one after another the three gates of the palace—which were all richly
 
 352
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 excellent men present there, who followed the mind of Śrī Rāma and as such were loved by him, the charioteer arrived at the gynaecium. (42)
 
@@ -3914,7 +3914,7 @@ Approaching Śrī Rāma, they speedily reported the matter to the heir apparent,
 
 354
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 The bard saw Śrī Rāma, the chastiser of his foes, resplendent as Kubera (son of Viśravā), seated, richly adorned, on a gold couch overspread with a bed-cover, nay, besmeared with holy and fragrant sandal-paste of superb excellence and crimson as the blood of a boar, and further accompanied by Princess Sītā too, standing by his side, chowrie in hand, even as the moon-god is accompanied by Citrā, (the goddess presiding over an asterism of the same name). (8—10)
 
@@ -4029,7 +4029,7 @@ Then, at the middle gate, he met his friends and relations. Seeing those who lon
 
 356
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वचोभिरग्यैर्हर्म्यस्थाः क्षितिस्थाश्च ववन्दिरे।
 नूनं नन्दति ते माता कौसल्या मातृनन्दन ॥ ३९ ॥
@@ -4059,7 +4059,7 @@ There on the road Śrī Rāma (a scion of Raghu) heard on that occasion the talk
 एते वयं सर्वसमृद्धकामा
 येषामयं नो भविता प्रशास्ता ॥ ४४ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 357
 
@@ -4114,7 +4114,7 @@ Being glorified by Swastikas, who pronounced benedictions by raising shouts of v
 
 358
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 नानामाल्योपगन्धैश्च सदाभ्यर्चितचत्वरम् ।
 आशीर्वादान् बहून् शृण्वन् सुहृद्भिः समुदीरितान् ॥ ७ ॥
@@ -4158,7 +4158,7 @@ He who did not behold Śrī Rāma and whom Śrī Rāma did not notice was indeed
 
 Since that pious-minded prince would show compassion, commensurate, of course,
 
-* AYODHYĀKĀṆḌA *
+
 
 359
 
@@ -4219,7 +4219,7 @@ dejected and distressed and marked with a withering face. (1)
 
 360
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Bowing first at his father's feet with a modest demeanour, he then laid himself low at Kaikeyi's feet, fully composed in mind.(2)
 
@@ -4358,7 +4358,7 @@ Distressed to hear the afore-mentioned words uttered by Kaikeyi, Śrī Rāma for
 
 362
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 such words expressing doubt about my devotion to my father! You ought not to speak such words to me, O glorious lady! At the bidding of my father I am actually prepared to leap into fire. (28)
 
@@ -4422,7 +4422,7 @@ To the said Śrī Rāma, who always spoke the truth and was richly adorned with 
 
 “Implement this pledge of the Emperor, O delight of the Raghus! By vindicating his
 
-* AYODHYĀKĀṆḌA *
+
 
 363
 
@@ -4494,7 +4494,7 @@ you to me, O queen, because I am putting this question to you. Wearing the bark 
 
 364
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 wedded wife, nay, my beloved life itself. (7)
 
@@ -4561,7 +4561,7 @@ Hearing that unpalatable and poignant remark of the impolite lady, Śrī Rāma, 
 नाहमर्थपरो देवि लोकमावस्तुमुत्सहे ।
 विद्धि मामृषिभिस्तुल्यं विमलं धर्ममास्थितम् ॥ २० ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 365
 
@@ -4632,7 +4632,7 @@ Going clockwise round the vessel
 
 366
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 containing the requisites for the projected consecration, Śrī Rāma moved slowly along without casting his eyes on it, keen as he was to leave the place. (31)
 
@@ -4746,7 +4746,7 @@ He saw seated at the entrance of the section of the gynaecium, reserved for Kaus
 
 368
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दृष्ट्वैव तु तदा रामं ते सर्वे समुपस्थिताः।
 जयेन जयतां श्रेष्ठं वर्धयन्ति स्म राघवम् ॥ १० ॥
@@ -4809,7 +4809,7 @@ Overjoyed to behold her son, the delight of his mother, come to her after a long
 
 Śrī Rāma, a scion of Raghu, stood clinging to his mother with his arms placed round her neck as she approached him and was in return folded in her arms and smelt at the head as a token of motherly affection. (21)
 
-* AYODHYĀKĀṆḌA *
+
 
 369
 
@@ -4875,7 +4875,7 @@ Hearing this unpalatable news, the said queen fell all at once to the ground lik
 
 370
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Seeing his mother, who did not deserve suffering, fallen unconscious like a banana tree, Śrī Rāma for his part lifted her up. (33)
 
@@ -4939,7 +4939,7 @@ No good fortune or happiness was enjoyed by me in the past through the effort of
 
 “Ten and seven years have been spent
 
-* AYODHYĀKĀṆḌA *
+
 
 371
 
@@ -4999,7 +4999,7 @@ riven any more than the bank of a large river like the holy Gaṅgā even though
 
 372
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 courses of self-discipline are of no use and the asceticism practised with intent to do good to my child has proved utterly unfructuous like a seed sown in barren soil. (52)
 
@@ -5108,7 +5108,7 @@ Addressing Śrī Rāma, he continued: “Before any individual comes to know thi
 
 374
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “On what authority or ground, O jewel among men, does he seek to confer on the son of Kaikeyi this kingdom, which has as a matter of right devolved on you? (14)
 
@@ -5242,7 +5242,7 @@ Having submitted to his celebrated mother as aforesaid, Śrī Rāma, the foremos
 
 376
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of those knowing the art of expression as also of all bowmen, then spoke to Lakṣmaṇa as follows : (38)
 
@@ -5365,7 +5365,7 @@ Holding firmly to his duty, Śrī Rāma made the following righteous reply, a re
 
 378
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 attaining happiness (the reward of merit) in the world of mortals—all undoubtedly follow in the wake of righteousness even as one's wife, if obedient, is conducive to religious merit by being helpful in the discharge of one's religious obligations such as hospitality to unexpected guests, yields sensuous enjoyment if agreeable and makes for prosperity in the other world by giving birth to a son. (57)
 
@@ -5416,7 +5416,7 @@ in this as well as in the other world of the queen (Kausalyā), whose husband he
 प्रसादयन्नरवृषभः स मातरं
 पराक्रमाज्जिगमिषुरेव दण्डकान्।
 
-* AYODHYĀKĀṆḌA *
+
 
 379
 
@@ -5470,7 +5470,7 @@ pray, cause to be sent back all the exquisite material that has been got ready f
 
 380
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 while, O darling of Sumitrā, the agony in the form of apprehension aroused in her mind.
 
@@ -5600,7 +5600,7 @@ wearing a coil of matted locks, the mind of Kaikeyi will be gratified. (13)
 
 382
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 not on any account be suspected of having brought about this interruption in my installation nor our father, both of whom
 
@@ -5701,7 +5701,7 @@ a prey to infatuation. (11)
 
 384
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दैवं पुरुषकारेण यः समर्थः प्रबाधितुम्।
 न दैवेन विपन्नार्थः पुरुषः सोऽवसीदति ॥ १७ ॥
@@ -5827,7 +5827,7 @@ will drop on the ground like so many blazing fires or clouds accompanied with fl
 
 386
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Speak out, which enemy of yours may be deprived this very day of his life, fame of invincibility and relations. Pray, instruct me how to proceed so that the globe may be brought under your control. I am at your beck and call.” (40)
 
@@ -5946,7 +5946,7 @@ Spoken to in these words, Kausalyā, for her part, who was full of affection for
 
 388
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 replied to her beloved son as follows, her face bathed in tears : (18)
 
@@ -5990,7 +5990,7 @@ replied to her beloved son as follows, her face bathed in tears : (18)
 
 “With the wise king continuing as the ruler of the world, surely we are not masterless. And Bharata too is pious-minded, speaks kindly to all created beings and is ever devoted to righteousness. He will undoubtedly serve you. Carefully act in such a way that when I have departed for the woods the king may not suffer agony in the least on account of grief caused by separation from his son, i.e., myself. And, remaining ever vigilant, constantly do good to the aged king, so that this poignant grief may not bring about his extinction. Nay, that woman who, though extremely noble and keenly devoted to sacred observances and fasts, does not serve her husband, is sure to attain the destiny of a sinner. Through service to one’s husband, on the other hand, even that woman who does not offer salutations to anyone other than her husband and is averse to the worship of gods, secures the highest heaven. Intent on doing that which is pleasing and good to her husband, a married woman should, therefore, do service to him alone: this is the lasting duty enjoined on a woman in the Vedas as well as in the Smṛti texts. Nay, while offering oblations to the fire, gods as well as celebrated Brāhmaṇas of noble vows should be worshipped with flowers and other articles for my sake, O godly lady! Leading a regulated life and partaking of an austere fare, nay, devoted to the service of your husband, bide time as aforesaid, longing for my return from the forest. In this way you will attain the highest object of your desire when I have duly returned from the forest, provided, of course, the Emperor the foremost
 
-* AYODHYĀKĀṆḌA *
+
 
 389
 
@@ -6047,7 +6047,7 @@ aforesaid agony caused by the thought of the impending separation from Śrī Rā
 
 390
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 shedding tears, the high-minded mother Kausalyā performed rites conducive to the welfare of Śrī Rāma. (1)
 
@@ -6103,7 +6103,7 @@ of the sacred Kuśa grass and rings of Kuśa grass worn on the fourth finger on 
 
 “Nay, glorified by me, may the celebrated Siddhas as well as the four quarters alongwith the guardians of the quarters protect you, my son, from day to day on all sides in that forest which you are going to inhabit. (12)
 
-* AYODHYĀKĀṆḌA *
+
 
 391
 
@@ -6163,7 +6163,7 @@ May the gods presiding over fire, the air and smoke as well as the sacred texts 
 
 392
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सर्वलोकप्रभुर्ब्रह्मा भूतकर्तुं तथर्षयः ।
 ये च शेषाः सुरास्ते तु रक्षन्तु वनवासिनम् ॥ २५ ॥
@@ -6282,7 +6282,7 @@ Bending low and smelling the head of Śrī Rāma and embracing him, the illustri
 
 394
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Nay, having finished the sacred rite of invoking blessings on Śrī Rāma with due ceremony, Kausalyā whose eyes were overflowing with tears, further went clockwise round Śrī Rāma (a scion of Raghu) and, gazing on him again and again, embraced him. (46)
 
@@ -6325,7 +6325,7 @@ Sītā, a princess of the Videha territory, in her turn, who had been observing 
 
 Having offered worship to the gods, the celebrated princess, who knew her duty
 
-* AYODHYĀKĀṆḌA *
+
 
 395
 
@@ -6393,7 +6393,7 @@ Seeing him pale of countenance, bathed in perspiration and unable to restrain hi
 
 396
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 seen ahead of you in your drive back to the gynaecium, O gallant prince? (16)
 
@@ -6459,7 +6459,7 @@ hard by her to grant those boons and, having been bound with an oath, was comple
 
 “Duly implementing the aforesaid pledge
 
-* AYODHYĀKĀṆḌA *
+
 
 397
 
@@ -6523,7 +6523,7 @@ Thus ends Canto Twenty-six in the Ayodhyākāṇḍa of the glorious Rāmāyaṇ
 
 398
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # सप्तविंशः सर्गः
 
@@ -6635,7 +6635,7 @@ coursing through the heavens by virtue of mystic powers acquired through profici
 
 400
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अहं गमिष्यामि वनं सुदुर्गमं
 मृगायुतं वानरवारणैश्च।
@@ -6762,7 +6762,7 @@ speaking, suffers from many a handicap: please know them from me. (4)
 
 402
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 यथालब्धेन कर्तव्यः संतोषस्तेन मैथिलि।
 यताहारैर्वनचरैः सीते दुःखमतो वनम् ॥ १७ ॥
@@ -6822,7 +6822,7 @@ When the high-souled Śrī Rāma did not agree to take Sītā to the forest, the
 
 Thus ends Canto Twenty-eight in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 403
 
@@ -6926,7 +6926,7 @@ powerful prince !
 
 404
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 life must be realized by me. I must accordingly accompany you, my Lord, O darling; it cannot be otherwise. (10)
 
@@ -6983,7 +6983,7 @@ loving devotion I shall surely be absolved from all guilt, O pure-minded prince;
 एवं बहुविधं तं सा याचते गमनं प्रति।
 नानुमेने महाबाहुस्तां नेतुं विजनं वनम् ॥ २२ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 405
 
@@ -7040,7 +7040,7 @@ Highly agitated at the thought of her separation from Śrī Rāma, the said Sīt
 
 406
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 inclined to desert me, exclusively devoted as I am to you? (5)
 
@@ -7109,7 +7109,7 @@ inclined to desert me, exclusively devoted as I am to you? (5)
 
 “An abode which will be shared by me with you will be pleasing as heaven to me;
 
-* AYODHYĀKĀṆḌA *
+
 
 407
 
@@ -7177,7 +7177,7 @@ Folding in his arms Sītā, who felt distressed and had fainted, as it were, Śr
 
 408
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 limbs ! Follow me now even as Suvarcalā (nicknamed Saṃjñā, wife of the sun-god) does the sun-god. (30)
 
@@ -7233,7 +7233,7 @@ happiness in the other world as service to one’s father and mother is believed
 
 “Since you are now allowed by me to proceed to the forest with me, O timid lady with flawless limbs and bewitching eyes, follow me as such and be my partner in the practice of asceticism incumbent on the dwellers in a forest. (40)
 
-* AYODHYĀKĀṆḌA *
+
 
 409
 
@@ -7294,7 +7294,7 @@ between Śrī Rāma and Sītā as reproduced above, the illustrious Lakṣmaṇa
 
 410
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 apartments alongwith Śrī Rāma could not bear the grief born of his impending separation from Śrī Rāma, his face covered with tears. (1)
 
@@ -7420,7 +7420,7 @@ expression himself : (18)
 
 412
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Taking my stringed bow and carrying a spade and a basket, I shall walk ahead of you showing you the way. (25)
 
@@ -7479,7 +7479,7 @@ To Lakṣmaṇa, who had come back, Śrī Rāma, who had fully brought his mind 
 
 “Meanwhile bring you speedily the most adorable Suyajña, son of Vasiṣṭha and the
 
-* AYODHYĀKĀṆḌA *
+
 
 413
 
@@ -7529,7 +7529,7 @@ Seeing him arrived, Śrī Rāma, a scion of Raghu, rose from his seat with joine
 
 414
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 super-excellent ornaments. Urged by Sītā, the said Rāma then spoke to Suyajña as follows : (5-6)
 
@@ -7588,7 +7588,7 @@ Indra, the ruler of gods, Śrī Rāma then spoke as follows to his celebrated an
 
 “There is the venerable Citraratha, a
 
-* AYODHYĀKĀṆḌA *
+
 
 415
 
@@ -7644,7 +7644,7 @@ With the help of Lakṣmaṇa that tiger
 
 416
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 among men then actually caused that wealth to be distributed among Brāhmaṇas, who were yet mere boys or aged, and to the afflicted. (28)
 
@@ -7702,7 +7702,7 @@ Released from his hand and flying across the Sarayū, that staff fell close to a
 
 Embracing him, Śrī Rāma of devout mind, caused to be driven to Trijāta’s hermitage all the cows from the spot where the staff fell right up to that bank of the Sarayū beyond which the cows stood grazing. (39)
 
-* AYODHYĀKĀṆḌA *
+
 
 417
 
@@ -7756,7 +7756,7 @@ At that time in Ayodhyā there was no Brāhmaṇa, relation, dependant or pauper
 
 418
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # त्रयस्त्रिंशः सर्गः
 
@@ -7872,7 +7872,7 @@ leaves and boughs. (15)
 
 420
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Let the forest itself, for which Śrī Rāma, a scion of Raghu, is leaving, turn into a city and let the city of Ayodhyā, when deserted by us, be converted into a forest. (22)
 
@@ -7980,7 +7980,7 @@ Encouraging Daśaratha first with benedictions wishing him triumph, the chariote
 
 422
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “He is about to proceed to the extensive forest. Pray, behold the prince, who is encompassed by kingly virtues even as the sun is encircled by rays.” (8)
 
@@ -8043,7 +8043,7 @@ Nay, there burst forth all of a sudden in the palace a loud wail, mixed with the
 पर्यङ्के सीतया सार्धं रुदन्तः समवेशयन् ॥ २० ॥
 
 
-* AYODHYĀKĀṆḌA *
+
 
 423
 
@@ -8113,7 +8113,7 @@ Being urged in secret by Kaikeyī, the afflicted monarch, who was held fast in t
 
 424
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 are by nature and your mind being given to piety, O darling, cannot be reversed. (32)
 
@@ -8243,7 +8243,7 @@ Distressed to hear on that occasion the request of his afflicted father, Śrī R
 
 426
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 should neither enjoy the sovereignty nor feel proud of it but keep within the bounds of righteousness salutary for a king. Let the pledge which has been given by you to Kaikeyi come to be true, O protector of men ! (56)
 
@@ -8344,7 +8344,7 @@ to be the murderess of your husband and ultimately the exterminator of your race
 
 428
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Nor should any Brāhmaṇa dwell in your kingdom. If you perpetrate today such an act of impropriety (as you are intent on perpetrating), we shall all positively follow the path resorted to by Śrī Rāma. What joy, O royal lady, will be derived through attainment of sovereignty by you, who will thus be deserted for good by all your kith and kin, Brāhmaṇas and other pious souls? You seek to perpetrate such an act of impropriety. (11—13)
 
@@ -8402,7 +8402,7 @@ excellent boon on your father. (18)
 
 “Told thus by his beloved consort, the said king of the Kekayas for his part correctly
 
-* AYODHYĀKĀṆḌA *
+
 
 429
 
@@ -8473,7 +8473,7 @@ In this way with folded hands Sumantra for his part violently shook Kaikeyi with
 
 430
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 The said queen, however, was neither excited nor agonized nor was any change
 
@@ -8587,7 +8587,7 @@ On that occasion the aged and upright chief minister, Siddhārtha by name, who w
 
 432
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 to Kaikeyī as follows: so the tradition goes : (18)
 
@@ -8651,7 +8651,7 @@ to Kaikeyī as follows: so the tradition goes : (18)
 श्रुत्वा तु सिद्धार्थवचो राजा श्रान्ततरस्वरः।
 शोकोपहतया वाचा कैकेयीमिदमब्रवीत् ॥ ३१ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 433
 
@@ -8705,7 +8705,7 @@ live on the products of the forest alone, will be served, O king, with an army f
 
 434
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Similarly, O jewel among the virtuous, what purpose of mine will be served with an army, O ruler of the world? I, therefore, allow all things to be used by Bharata. Let the servant-maids of mother Kaikeyi bring me robes fit for a dweller in forests alone.”
 
@@ -8836,7 +8836,7 @@ Stopping Sītā when the bark was taken by her (from the hands of Kaikeyi), Sage
 
 436
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 vile as you are and bent upon doing harm to the people. (28)
 
@@ -8960,7 +8960,7 @@ like an ordinary hermitess in the midst of men? (5)
 
 438
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “What injury on earth could the lofty-minded Sītā, the daughter of Janaka, do to you—Sītā, who is distinguished by a pair of blooming eyes like a female gazelle and is possessed of a mild disposition? (9)
 
@@ -9107,7 +9107,7 @@ this territory. (10)
 
 440
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एवं मन्ये गुणवत्तां गुणानां फलमुच्यते।
 पित्रा मात्रा च यत्साधुर्वीरो निर्वास्यते वनम् ॥ ११ ॥
@@ -9234,7 +9234,7 @@ Gazing at Kausalyā, his own mother,
 
 442
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 who was highly respected among his mothers, Śrī Rāma, who had a supremely pious mind, spoke to her with folded hands as follows : (33)
 
@@ -9282,7 +9282,7 @@ While Śrī Rāma, a scion of Raghu, was speaking thus, an outcry resembling the
 
 The same palace of Daśaratha, which was formerly marked with the sound of tomtoms, large drums and Meghas (a musical instrument the sound of which resembled the rumbling of clouds), was now filled with extreme agony, agitated as it was through wails and cries and fallen on evil days. (41)
 
-* AYODHYĀKĀṆḌA *
+
 
 443
 
@@ -9327,7 +9327,7 @@ Smelling as a token of affection the head of the mighty-armed Lakṣmaṇa, who 
 
 444
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “To practise charity, to consecrate oneself for sacrificial performances and to drop one’s body on the field of battle alone—these indeed constitute the conduct appropriate to this race of the Raghus for all time.” (7)
 
@@ -9446,7 +9446,7 @@ In front of him was heard the great noise of crying women, resembling the trumpe
 
 446
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 At that time, the father of Śrī Rāma, the glorious King Daśaratha, a scion of Kakutstha, looked lustreless indeed like the full moon overshadowed by Rāhu during a lunar eclipse. (30)
 
@@ -9510,7 +9510,7 @@ Seeing them walking, though worthy of a chariot, unworthy of suffering and deser
 
 Even as an elephant urged on with
 
-* AYODHYĀKĀṆḌA *
+
 
 447
 
@@ -9568,7 +9568,7 @@ Thus ends Canto Forty in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of 
 
 448
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकचत्वारिंशः सर्गः
 
@@ -9698,7 +9698,7 @@ Thus ends Canto Forty-one in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa
 
 450
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # द्विचत्वारिंशः सर्गः
 
@@ -9815,7 +9815,7 @@ son are no doubt seen on the road, but that high-souled prince is no longer seen
 
 452
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 hear the deep and thrilling roar of beasts of prey. (20)
 
@@ -9881,7 +9881,7 @@ Looking at the palace and lifting up his arm, the powerful Emperor cried in a lo
 
 Now when the night arrived—the night which was, as it were, the night of Dissolution for him—King Daśaratha spoke at midnight to Kausalyā as follows: (33)
 
-* AYODHYĀKĀṆḌA *
+
 
 453
 
@@ -9945,7 +9945,7 @@ Perceiving the aforesaid monarch on the couch—who was thinking deeply all the 
 
 454
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “In a forest what other fate than the hardships of forest life can befall the youths, who had never known suffering before and who have been consigned by you to a forest life following the wishes of Kaikeyi?”
 
@@ -10037,7 +10037,7 @@ Perceiving the aforesaid monarch on the couch—who was thinking deeply all the 
 
 (18)
 
-* AYODHYĀKĀṆḌA *
+
 
 455
 
@@ -10099,7 +10099,7 @@ Sumitrā, who was devoted to righteousness, addressed for her part the following
 
 456
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 too, who is worthy of all comfort, is following your pious-minded son, even though aware of the suffering attendant upon forest life. (6)
 
@@ -10223,7 +10223,7 @@ banner bore the device of a large fish, the chief of demons, killed on the battl
 
 458
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 आश्वासयन्ती विविधैश्च वाक्यै-
 
@@ -10285,7 +10285,7 @@ Even though being implored by those devoted people to return, the said Śrī Rā
 
 उवाच रामः सस्नेहं ताः प्रजाः स्वाः प्रजा इव ॥ ५ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 459
 
@@ -10352,7 +10352,7 @@ Of them such Brāhmaṇas as were senior in three ways, viz., in point of wisdom
 
 460
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एवमार्तप्रलापांस्तान् वृद्धान् प्रलपतो द्विजान्।
 अवेक्ष्य सहसा रामो रथादवततार ह॥ १७॥
@@ -10406,7 +10406,7 @@ Perplexed in mind, nay, sore distressed to see the celebrated Śrī Rāma still 
 
 * It is laid down in the Vedas that he who performs a Vājapeya sacrifice must be supplied with a white canopy : श्वेतच्छत्री भवति।
 
-* AYODHYĀKĀṆḌA *
+
 
 461
 
@@ -10456,7 +10456,7 @@ Thus ends Canto Forty-five in the Ayodhyākāṇḍa of the glorious Rāmāyaṇ
 
 462
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षट्चत्वारिंशः सर्गः
 
@@ -10506,7 +10506,7 @@ three, that have departed for the forest: there is no doubt about it. (4)
 
 "Reflecting again and again on the
 
-* AYODHYĀKĀṆḌA *
+
 
 463
 
@@ -10627,7 +10627,7 @@ Having duly crossed the stream, the glorious Śrī Rāma (who was possessed of m
 
 With a view to putting the citizens off the scent, Śrī Rāma for his part spoke to the charioteer as follows : “Mounting the chariot alone, O charioteer, proceed you
 
-* AYODHYĀKĀṆḌA *
+
 
 465
 
@@ -10687,7 +10687,7 @@ Their faces withered through despondency, deprived as they were of Śrī Rāma w
 
 466
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 though they were wise, uttered plaintive words as follows : (3)
 
@@ -10753,7 +10753,7 @@ The high-minded citizens eventually returned to Ayodhyā along the tracks left b
 
 Depressed in spirits, they all then returned by the same route along which
 
-* AYODHYĀKĀṆḌA *
+
 
 467
 
@@ -10811,7 +10811,7 @@ People neither made merry nor did they rejoice. Merchants did not spread their m
 
 468
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 (spread by them) look charming. Nor, again, did the householders cook their food at their home. (4)
 
@@ -10946,7 +10946,7 @@ we breathe we can under no circumstances live in the kingdom of Kaikeyī, till s
 
 470
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 bound tightly together (for being slaughtered) in a shambles. (28)
 
@@ -11066,7 +11066,7 @@ Journeying for his part in that direction for a pretty long time, he next crosse
 
 472
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 river Gomati, which carried cool waters and heads towards the sea through the medium of the holy Gaṅgā and whose banks are adorned with cows. (11)
 
@@ -11109,7 +11109,7 @@ Conversing thus with the charioteer on various topics in sweet words, the said �
 
 Thus ends Canto Forty-nine in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 473
 
@@ -11158,7 +11158,7 @@ Even while they were lamenting as
 
 474
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 aforesaid, unsated as they were with the sight of Śrī Rāma, Śrī Rāma, a scion of Raghu, passed beyond their sight just as the sun goes out of sight at the commencement of night. (7)
 
@@ -11268,7 +11268,7 @@ Perceiving the river, which was full of eddies interspersed with its waves, the 
 
 476
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अविदुरादयं नदा बहुपुष्पप्रवालवान्।
 सुमहानिङ्गुदीवृक्षो वसामोऽत्रैव सारथे ॥ २८ ॥
@@ -11389,7 +11389,7 @@ Following in the footsteps of Lakṣmaṇa (son of Sumitrā) and encouraging him
 
 478
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the time in the interest of Śrī Rāma. (50)
 तथा शयानस्य ततो यशस्विनो
@@ -11506,7 +11506,7 @@ well as through various undertakings in the form of sacrificial performances etc
 
 480
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “When the king is dead, Kausalyā will die in his wake and my mother (Sumitrā) too will meet her end immediately after. (18)
 
@@ -11559,7 +11559,7 @@ While Lakṣmaṇa, son of Daśaratha, a friend of the people, was speaking the 
 
 Thus ends Canto Fifty-one in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 481
 
@@ -11603,7 +11603,7 @@ Hearing the command of Śrī Rāma and bowing to it, nay, speedily summoning his
 
 482
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तं निशम्य गुहादेशं गुहामात्यो गतो महान्।
 उपोह्य रुचिरां नावं गुहाय प्रत्यवेदयत् ॥ ७ ॥
@@ -11737,7 +11737,7 @@ intent to oblige mother Kaikeyī should be unhesitatingly done by you. (24)
 
 484
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 salutations at her feet on behalf of Sītā as well as myself, the elder brother, and of Lakṣmaṇa. (30-31)
 
@@ -11866,7 +11866,7 @@ share your exile in the forest. (48)
 
 486
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 नहि शक्या प्रवेष्टुं सा मयायोध्या त्वया विना।
 राजधानी महेन्द्रस्य यथा दुष्कृतकर्मणा ॥ ५५ ॥
@@ -11984,7 +11984,7 @@ Hearing the command of his elder brother and helping Sītā, a princess of Mithi
 
 488
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 The glorious Rāma (elder brother of Lakṣmaṇa) himself got into the boat last; and after that Guha, the ruler of the Niṣādas, commanded his kinsmen to row the boat across the stream. (77)
 
@@ -12039,7 +12039,7 @@ Having duly reached the middle of the Gaṅgā, Sītā, a princess of the Videha
 
 “Having returned to Ayodhyā, I shall worship you with thousand and one articles
 
-* AYODHYĀKĀṆḌA *
+
 
 489
 
@@ -12101,7 +12101,7 @@ Sumitrā). “Be prepared for the protection of Sītā in the inhabited as well 
 
 490
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Hearing the advice of Śrī Rāma, Lakṣmaṇa led the way, Sītā following him, and immediately after Sītā followed Śrī Rāma, a scion of Raghu, the delight of the Raghus. (99)
 
@@ -12210,7 +12210,7 @@ Sitting on the bare ground, the said Śrī Rāma, for his part, who was accustom
 
 492
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 मन्ये दशरथान्ताय मम प्रव्राजनाय च।
 कैकेयी सौम्य सम्प्राप्ता राज्याय भरतस्य च ॥ १४ ॥
@@ -12275,7 +12275,7 @@ Sitting on the bare ground, the said Śrī Rāma, for his part, who was accustom
 अधर्मभयभीतश्च परलोकस्य चानघ।
 तेन लक्ष्मण नाद्याहमात्मानमभिषेचये ॥ २६ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 493
 
@@ -12338,7 +12338,7 @@ Thus ends Canto Fifty-three in the Ayodhyākāṇḍa of the glorious Rāmāya�
 
 494
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चतुःपञ्चाशः सर्गः
 
@@ -12442,7 +12442,7 @@ Honouring with words of welcome Śrī Rāma, who had approached him by slow stag
 
 496
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 taken his seat after accepting the aforesaid hospitality offered by the sage : (19-20)
 
@@ -12495,7 +12495,7 @@ Hearing this pious submission of Śrī Rāma, the great sage Bharadwāja for his
 
 * The author of the Commentary known by the name of “Rāmāyaṇa-Śiromani” construes the word ‘दश’ in the sense of thirty, treating it as an example of the compound एकशेष द्वन्द, in which only one member of the compound is retained, the other being left out as in “वृक्षाः” (which is split up as वृक्षश्च वृक्षश्च वृक्षश्च). Here too the word ‘दश’ will have to be split up as दश च, दश च, दश च (meaning three times ten or thirty). The distance of Citrakūta from Prayāga is reckoned as 28 Kosas or 56 miles and thus approximate to the figure worked out by the said commentator. According to the latest measurements the distance is calculated as eighty miles. Making allowance for the difference in the standards of measurement obtaining in those days the figure arrived at by the learned commentator appears to be fairly correct.
 
-* AYODHYĀKĀṆḌA *
+
 
 497
 
@@ -12555,7 +12555,7 @@ That night having come to an end, Bharadwāja, when requested as above, replied 
 
 498
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 प्रहृष्टकोयष्टिभकोकिलस्वने-
 
@@ -12607,7 +12607,7 @@ Then that eminent sage, Bharadwāja, who was invested with great spiritual glory
 
 "Then, approaching the Yamunā turned in an opposite direction, and carefully perceiving in it a passage (across the river) too much frequented, O scion of Raghu, cross you the river Yamunā (the deity
 
-* AYODHYĀKĀṆḌA *
+
 
 499
 
@@ -12671,7 +12671,7 @@ Then the celebrated Śrī Rāma, son of Daśaratha, helped Sītā, his beloved c
 
 500
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 आरोप्य सीतां प्रथमं संघाटं परिगृह्य तौ।
 ततः प्रतेरतुर्वतौ प्रीतौ दशरथात्मजौ ॥ १८ ॥
@@ -12729,7 +12729,7 @@ Seeing his beloved and agreeable consort, Sītā, of unimpeachable conduct, offe
 
 Beholding every single tree, shrub or creeper, charming with blossoms, that she had never seen before, that lady questioned Śrī Rāma about it. (29)
 
-* AYODHYĀKĀṆḌA *
+
 
 501
 
@@ -12784,7 +12784,7 @@ Awakened in time by his eldest brother, Śrī Rāma, Lakṣmaṇa, who was fast 
 
 502
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 slumber, drowsiness and fatigue consequent on the previous day's journey. (3)
 
@@ -12850,7 +12850,7 @@ Reaching that lovely mountain, abounding in flocks of birds of many kinds and ha
 इति सीता च रामश्च लक्ष्मणश्च कृताञ्जलिः।
 अभिगम्याश्रमं सर्वे वाल्मीकिमभिवादयन् ॥ १६ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 503
 
@@ -12904,7 +12904,7 @@ Clearly perceiving the command of his eldest brother, the aforesaid Lakṣmaṇa
 
 504
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 sharp! The current is a propitious hour and this day too bears the name of 'Dhruva' (undying)." (24-25)
 
@@ -12949,7 +12949,7 @@ Having bathed in the river Mandākinī according to the procedure laid down in t
 
 2. The compound word 'समस्ताङ्गः' should be split up as 'सम्यग् भवन्ति अस्तानि अङ्गानि येन सः' ।
 
-* AYODHYĀKĀṆḌA *
+
 
 505
 
@@ -13006,7 +13006,7 @@ Viewing woodlands diffusing sweet
 
 506
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 odours, rivers and lakes, villages and cities,
 the charioteer carefully drove along at a
@@ -13180,7 +13180,7 @@ Assisted by Sumitrā, Kausalyā for her part lifted up her fallen husband on tha
 
 508
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इमं तस्य महाभाग दूतं दुष्करकारिणः।
 वनवासादनुप्रासं कस्मान् प्रतिभाषसे ॥ २९ ॥
@@ -13238,7 +13238,7 @@ news about Śrī Rāma. (1)
 वृद्धं परमसंतसं नवग्रहमिव द्विपम्।
 विनिःश्वसन्तं ध्यायन्तमस्वस्थमिव कुञ्जरम् ॥ ३ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 509
 
@@ -13296,7 +13296,7 @@ Like one sore afflicted, the king for his part said to the charioteer, who stood
 
 510
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Urged thus by the Emperor, the said charioteer replied to the king in a faltering voice choked with tears as follows : (13)
 
@@ -13357,7 +13357,7 @@ esteem born of seniority, treat my other mothers on an equal footing. And, O mot
 इत्येवं मां महाबाहुर्वृवन्नेव महायशाः।
 रामो राजीवपत्राक्षो भृशमश्रूयवर्तयत् ॥ २५ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 511
 
@@ -13429,7 +13429,7 @@ in the Emperor; Śrī Rāma (a scion of Raghu) is my elder brother, master, kins
 
 512
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 standing with joined palms, his face covered with tears. And so did Sītā, engaged in
 
@@ -13547,7 +13547,7 @@ Hearing the submission of Sumantra, Daśaratha made the following reply to the c
 
 514
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the destruction of this race, O charioteer! (20)
 
@@ -13604,7 +13604,7 @@ His mind being overwhelmed with that unbearable agony, and plunged as he was in 
 
 “This ocean of grief, in which, alas! I am plunged, O Kausalyā, bereft as I am of Rāma, is difficult for me to cross while I am living, O godly lady! Consciousness of Rāma’s grief caused by his separation from his parents, relations and friends etc., is its tremendous force. Severance from Sītā is the other shore to which it extends. Outgoing and ingoing breaths are the waves and whirlpools. It is rendered turbid by the water of rivers flowing into it in the shape of the upsurge of tears of Kausalyā and others. The throwing about of arms in agony represents the leaping of fishes. The loud wailings represent its roaring. Dishevelled hair are the sea-weeds. Kaikeyi represents the submarine fire. It is the source of showers in the form of the welling up of
 
-* AYODHYĀKĀṆḌA *
+
 
 515
 
@@ -13663,7 +13663,7 @@ Seeking to comfort the queen, the aforesaid charioteer submitted to her with fol
 
 516
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Abandon grief and infatuation as well as agitation born of sorrow; for, shaking off agony, Śrī Rāma (a scion of Raghu) will take up his abode in the forest. (5)
 
@@ -13722,7 +13722,7 @@ Skipping over that reference that had escaped from his lips through inadvertence
 
 “The splendour of Sītā (a princess of the Videha clan), which resembles the moonlight, does not fade through fatigue of the journey, high velocity of the winds, agitation caused by the sight of fearful beasts etc., and the heat of the sun. (16)
 
-* AYODHYĀKĀṆḌA *
+
 
 517
 
@@ -13773,7 +13773,7 @@ Thus ends Canto Sixty in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of 
 
 518
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकषष्ठितमः सर्गः
 
@@ -13826,7 +13826,7 @@ Apprehending danger to the king from his inability to bear the grief caused by s
 यत् त्वया करुणं कर्म व्यपोह्य मम बान्धवाः।
 निरस्ताः परिधावन्ति सुखाहाः कृपणा वने ॥ १० ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 519
 
@@ -13886,7 +13886,7 @@ and most deserving brother, not likewise disdain a kingship already enjoyed by a
 
 520
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 righteousness by setting a noble example before them. (20)
 
@@ -13993,7 +13993,7 @@ Folding his hands in order to propitiate Kausalyā, the king, who was being cons
 
 522
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ought not to have told me unpalatable things, greatly afflicted as I am.” (9)
 
@@ -14058,7 +14058,7 @@ Cheered by Queen Kausalyā in so many words and overpowered by grief, the king f
 
 Thus ends Canto Sixty-two in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 523
 
@@ -14105,7 +14105,7 @@ Recollecting his misdeed, the aforesaid monarch, who was stricken with grief cau
 
 524
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 disadvantages accruing from them is surely dubbed as a fool. (7)
 
@@ -14228,7 +14228,7 @@ effect, there emerged in the dawn the clear wail of a dweller in the forest drop
 
 526
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 केन स्म निहताः सर्वे सुबालेनाकृतात्मना।
 तां गिरं करुणं श्रुत्वा मम धर्मानुकांक्षिणः ॥ ३३ ॥
@@ -14266,7 +14266,7 @@ again and again, utterly confounded as I was due to the outburst of grief. Reach
 
 “If you take courage in both hands and confess your guilt before him, I am sure he will not burn you in his wrath as a swollen fire would consume a forest. Here is the track by which my father’s hermitage can be reached.
 
-* AYODHYĀKĀṆḌA *
+
 
 527
 
@@ -14314,7 +14314,7 @@ Thus ends Canto Sixty-three in the Ayodhyākāṇḍa of the glorious Rāmāya�
 
 528
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चतुःषष्टितमः सर्गः
 
@@ -14357,7 +14357,7 @@ Recalling how that great seer was killed undeservedly by him, the pious-minded D
 
 “Hearing my footfalls, the sage for his part spoke as follows : ‘Why are you
 
-* AYODHYĀKĀṆḌA *
+
 
 529
 
@@ -14427,7 +14427,7 @@ result of my own action this agony, which is despised by noble men, has been rea
 
 530
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स तच्छ्रुत्वा वचः क्रूरं मया तदधशंसिना।
 नाशकत् तीव्रमायासं स कर्तुं भगवानृषिः ॥ २० ॥
@@ -14489,7 +14489,7 @@ result of my own action this agony, which is despised by noble men, has been rea
 कस्य वा पररात्रेऽहं श्रोष्यामि हृदयङ्गमम्।
 अधीयानस्य मधुरं शास्त्रं वान्यद् विशेषतः ॥ ३२ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 531
 
@@ -14557,7 +14557,7 @@ sun-god) I shall then address the following prayer to him: 'May King Dharma (the
 
 532
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 is reserved for a donor of land, for him who has maintained the sacred fire all his life, who has taken a vow of marrying a single wife, those who have gifted a thousand cows, those who are vowed to the service of their preceptor or who have dropped their body by journeying to the Himalayas or drowning themselves in water or leaping into the flames. (43-44)
 
@@ -14680,7 +14680,7 @@ as well will soon reach my presence.’ (49)
 
 534
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 son even of bad morals? And what son when being sent into exile by his father would not find fault with his father? I can no longer see you with my eyes and my memory too is fading. Nay, these messengers of Yama (son of Vivaswān, the sun-god), are urging me to make haste, O Kausalyā! Really speaking, what can be more painful than the fact that even at the end of my life I cannot behold Rāma, of unfailing prowess, who knows what is right!
 
@@ -14775,7 +14775,7 @@ Virtuous women, largely consisting of virgins, whose very sight is believed to b
 
 536
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 washed and so on and articles of dress, toilet etc. (9)
 
@@ -14894,7 +14894,7 @@ Thus ends Canto Sixty-five in the Ayodhyākāṇḍa of the glorious Rāmāyaṇ
 
 538
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षट्षष्टितमः सर्गः
 
@@ -15008,7 +15008,7 @@ Throwing up their arms, the wretched ladies, crying with their faces containing 
 
 540
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Nonplussed through adversity and treated disrespectfully by Kaikeyi, how shall we live without you and that heroic prince? (21)
 
@@ -15066,7 +15066,7 @@ Coming together in batches and reproaching Bharata's mother, men and women in th
 
 Thus ends Canto Sixty-six in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 541
 
@@ -15125,7 +15125,7 @@ Seated with their faces turned towards Vasiṣṭha alone, the arch-priest of th
 
 542
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 is a wife amenable to the control of her husband, there being no executive authority to enforce correct conduct. (10)
 
@@ -15247,7 +15247,7 @@ and sacrificial fees are not got together for the worship of deities by self-con
 
 544
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 यथा दृष्टिः शरीरस्य नित्यमेव प्रवर्तते।
 तथा नरेन्द्रो राष्ट्रस्य प्रभवः सत्यधर्मयोः ॥ ३३ ॥
@@ -15298,7 +15298,7 @@ Hearing the aforesaid speech of the counsellors, Mārkaṇḍeya and others,
 
 Vasiṣṭha, they say, addressed the following words to the king's friends, the ministers as well as to all the Brāhmaṇas assembled there on that occasion : (1)
 
-* AYODHYĀKĀṆḌA *
+
 
 545
 
@@ -15365,7 +15365,7 @@ Crossing the Gaṅgā at Hastināpura they proceeded westward and, reaching the 
 
 546
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 keenly perceiving lakes with full-blown flowers and rivers containing limpid waters, the aforesaid messengers swiftly moved on because of the pressing nature of their errand. (13-14)
 
@@ -15480,7 +15480,7 @@ To the friend speaking as aforesaid, Bharata replied as follows : “Hear you th
 
 548
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 with sesame oil, he took a dip again and again, head foremost in the oil. (10)
 
@@ -15546,7 +15546,7 @@ with sesame oil, he took a dip again and again, head foremost in the oil. (10)
 
 Thus ends Canto Sixty-nine in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 549
 
@@ -15605,7 +15605,7 @@ Accepting for his part all those presents brought by the messengers from Ayodhy�
 
 550
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Is my own mother, Kaikeyī, who always seeks to gain her own ends, is violent and given to wrath and accounts herself wise—also healthy and what message has she sent for me?” (10)
 
@@ -15661,7 +15661,7 @@ He also gave as a present dogs of enormous size, possessed of large teeth, broug
 
 Receiving him kindly, the king of the Kekayas further bestowed on Bharata, the
 
-* AYODHYĀKĀṆḌA *
+
 
 551
 
@@ -15722,7 +15722,7 @@ Thus ends Canto Seventy in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa o
 
 552
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकसप्ततितमः सर्गः
 
@@ -15841,7 +15841,7 @@ Nay, seeing Ayodhyā in front of him, Bharata spoke as follows to the charioteer
 
 554
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अयोध्या दृश्यते दूरात् सारथे पाण्डुमृत्तिका।
 यजिनिर्गुणसम्पन्नैर्ब्राह्यणैर्वेदपारगैः ॥ २० ॥
@@ -15964,7 +15964,7 @@ He was filled to the brim with sorrow to
 
 556
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 see that city, which had shone at one time like Amarāvatī, the capital of Indra in paradise, with its crossroads, houses and streets desolate and its doors and bolts soiled with dust. (45)
 
@@ -16080,7 +16080,7 @@ Uttering in piteous tones the plaintive words “Alas, I am ruined!” and strik
 
 558
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततः शोकेन संवीतः पितुर्मरणदुःखितः ।
 विललाप महातेजा भ्रान्ताकुलितचेतनः ॥ १८ ॥
@@ -16149,7 +16149,7 @@ Weeping for a long time and rolling on the floor, Bharata, who was filled with m
 
 "Of what disease did the king die before I arrived, O mother? How fortunate are
 
-* AYODHYĀKĀṆḌA *
+
 
 559
 
@@ -16219,7 +16219,7 @@ Questioned as aforesaid, his mother began duly to relate as follows the unpleasa
 
 560
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स हि राजसुतः पुत्र चीरवासा महावनम्।
 दण्डकान् सह वैदेह्या लक्ष्मणानुचरो गतः ॥ ४२ ॥
@@ -16282,7 +16282,7 @@ Questioned as aforesaid by the high-souled Bharata, Kaikeyi, for her part, who v
 
 “Do not yield to grief nor to remorse, my dear son, but have recourse to firmness. Indeed, the existence of the city of Ayodhyā
 
-* AYODHYĀKĀṆḌA *
+
 
 561
 
@@ -16344,7 +16344,7 @@ Sore stricken with sorrow to hear the unwelcome news about his father, as well a
 
 562
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Indeed, having got you for his wife, my highly illustrious father, King Daśaratha, who was true to his promise and was sore stricken with acute agony, born of separation from his eldest son, has passed away. (6)
 
@@ -16474,7 +16474,7 @@ Having spoken as aforesaid to his mother, pricking her once more with volleys
 
 564
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of piercing words, the high-souled Bharata,
 even though tormented with grief, roared
@@ -16620,7 +16620,7 @@ will you attain now after death? (12)
 
 566
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Looking upwards Indra beheld the said Surabhi standing, weeping in the heavens in a miserable plight, sore afflicted. (18)
 
@@ -16676,7 +16676,7 @@ Addressed in the aforesaid words by the wise Indra, the ruler of gods, the intel
 अहं त्वपचितिं भ्रातुः पितुश्च सकलामिमाम्।
 वर्धनं यशसश्चापि करिष्यामि न संशयः ॥ ३० ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 567
 
@@ -16724,7 +16724,7 @@ Thus ends Canto Seventy-four in the Ayodhyākāṇḍa of the glorious Rāmāya�
 
 568
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # पञ्चसप्ततितमः सर्गः
 
@@ -16839,7 +16839,7 @@ To Kausalyā, overwhelmed with griefs of many kinds and lamenting as aforesaid, 
 
 570
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 O noble lady, guileless as I am and did not know anything about Śrī Rāma's exile before I returned to Ayodhyā? Nay, you know my great love borne towards Śrī Rāma, a scion of Raghu. (20)
 
@@ -16954,7 +16954,7 @@ milk boiled with rice and sugar, seasoned rice boiled with sesame seeds and Moon
 
 572
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 कपालपाणिः पृथिवीमटतां चीरसंवृतः ।
 भिक्षमाणो यथोन्मत्तो यस्यार्योऽनुमते गतः ॥ ४० ॥
@@ -17074,7 +17074,7 @@ Thereupon Kausalyā spoke as follows to Bharata, who was solemnly pleading his i
 
 574
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दिष्ट्या न चलितो धर्मादात्मा ते सहलक्षणः ।
 वत्स सत्यप्रतिज्ञो हि सतां लोकानवाप्स्यसि ॥ ६२ ॥
@@ -17193,7 +17193,7 @@ While others fetching sandalwood, aloe, bdellium, the wood of Sarala (a species 
 
 576
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 गन्धानुच्चावचांश्चान्यांस्तत्र गत्वाथ भूमिपम्।
 तत्र संवेशयामासुश्रितामध्ये तमृत्विजः ॥ १७ ॥
@@ -17292,7 +17292,7 @@ Seeing that circular spot, the place where his father's remains had been consign
 
 578
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 having been burnt with a blazing fire and was further strewn with burnt bones, Bharata, they say, grew melancholy and began to cry. (8)
 
@@ -17354,7 +17354,7 @@ Hearing the lament of the two brothers and perceiving their extreme agony afores
 ततो विषण्णौ श्रान्तौ च शत्रुघ्नभरतावुभौ।
 धरायां स्म व्यचेष्टेतां भग्नशृङ्गाविवर्षभौ ॥ २० ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 579
 
@@ -17400,7 +17400,7 @@ Thus ends Canto Seventy-seven in the Ayodhyākāṇḍa of the glorious Rāmāya
 
 580
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ## अष्टसप्ततितमः सर्गः
 
@@ -17520,7 +17520,7 @@ Greatly pained by those harsh and unpleasant words and overwhelmed with fear of 
 
 582
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तं प्रेक्ष्य भरतः कुञ्च शत्रुघ्नमिदमब्रवीत्।
 अवध्याः सर्वभूतानां प्रमदाः क्षम्यतामिति ॥ २१ ॥
@@ -17637,7 +17637,7 @@ Going clockwise as a mark of respect round all the requisites for consecration, 
 
 584
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एवं सम्भाषमाणं तं रामहेतोर्नृपात्मजम्।
 प्रत्युवाच जनः सर्वः श्रीमद् वाक्यमनुत्तमम् ॥ १४ ॥
@@ -17746,7 +17746,7 @@ The highway carved out for the army to pass along was paved with concrete mixed 
 
 586
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 various kinds, looked most charming like a pathway of gods. (13-14)
 
@@ -17840,7 +17840,7 @@ Causing that music to be completely stopped the moment he was roused as a result
 
 588
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 exile to the forest by this very mother of mine casting righteousness to the winds.”
 
@@ -17892,7 +17892,7 @@ Resembling a pool* (in the sea), having still waters and infested with Timis (a 
 
 * In this simile the figures of Timis and sea-elephants painted on the floor of the council-chamber are compared to aquatic creatures of the same name figuring in the sea, the sheen of the glittering pavement of the chamber to the still waters of the sea, the gems with which the floor is inlaid with those embedded in the depths of a sea, the figures of conches figuring in the pavement to conch-shells found in sea-beds and the gold costing on the floor to the dust of gold found in gold mines in the bowels of a sea.
 
-* AYODHYĀKĀṆḌA *
+
 
 589
 
@@ -17945,7 +17945,7 @@ Looking intently on and reading the mind of all the king's ministers and the peo
 
 590
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Sovereignty with all its thorns completely removed has been conferred on you by your father and elder brother. Assisted by ministers, who are all pleased with you, enjoy it and quickly get yourself consecrated for the coronation. (7)
 
@@ -18057,7 +18057,7 @@ The aforesaid generals urged the entire army to march quickly with the womenfolk
 
 592
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Seeing that army ready to depart, Bharata for his part said to Sumantra, standing by his side, in the presence of his preceptor Sage Vasiṣṭha, “Get my chariot ready soon.” (27)
 
@@ -18159,7 +18159,7 @@ Saying many good things as mentioned above on that occasion and hugging one
 
 594
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 another, highly rejoiced as they were over the prospect of being able to see Śrī Rāma, the citizens went forth to meet Śrī Rāma. (10)
 
@@ -18213,7 +18213,7 @@ Having arrived at the bank of the Gaṅgā, adorned by Cakrawāka birds, that ar
 
 Seeing the aforesaid army inactive and beholding the Gaṅgā with its holy waters, Bharata, who was a master of expression, spoke to all his ministers as follows : (22)
 
-* AYODHYĀKĀṆḌA *
+
 
 595
 
@@ -18268,7 +18268,7 @@ The moment Guha, the chief of the Niṣādas, saw the army of Bharata encamped a
 
 596
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 person because here is seen that towering banner bearing the device of a Kovidāra tree on the chariot—has evil intent, he will either cause us to be bound with chains or kill us, who are devoted to Śrī Rāma, the eldest son of Daśaratha, exiled from his kingdom by his father. (3-4)
 
@@ -18327,7 +18327,7 @@ Immensely rejoiced to receive permission to see the prince and approaching Bhara
 निष्कुटश्चैव देशोऽयं वञ्चिताश्रापि ते वयम्।
 निवेदयाम ते सर्वं स्वके दाशगृहे वस ॥ १६ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 597
 
@@ -18382,7 +18382,7 @@ Hearing the aforesaid question of that intelligent prince, Bharata, Guha, who us
 
 598
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 to roam about in the woods, replied with folded hands as follows : (5)
 
@@ -18449,7 +18449,7 @@ Even as a fire hidden in the hollow of a tree burns a tree already scorched by a
 प्रसृतः सर्वगात्रेभ्यः स्वेदं शोकाग्निसम्भवम् ।
 यथा सूर्यशुसंतसो हिमवान् प्रसृतो हिमम् ॥ १८ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 599
 
@@ -18501,7 +18501,7 @@ of the high-souled Lakṣmaṇa towards his eldest brother : (1)
 
 600
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 is endowed with excellences of various kinds such as devotion and obedience to his eldest brother, and was keeping vigil for the safety of his eldest brother and his beloved consort, wielding an excellent bow and arrows : (2)
 
@@ -18630,7 +18630,7 @@ Thus ends Canto Eighty-six in the Ayodhyākāṇḍa of the glorious Rāmāyaṇ
 
 602
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # सप्ताशीतितमः सर्गः
 
@@ -18676,7 +18676,7 @@ Nay, shedding tears they surrounded Bharata fallen on the ground. Approaching hi
 
 Pressing him to her bosom as a cow does its own calf, that exceedingly thoughtful lady, who was totally given up to grief, questioned Bharata in the following words, shedding tears all the time : (8)
 
-* AYODHYĀKĀṆḌA *
+
 
 603
 
@@ -18742,7 +18742,7 @@ Questioned thus, Guha, the ruler of the Niṣādas, thereupon joyfully told Bhar
 
 604
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 prepared a sacred bed for Śrī Rāma, a
 sion of Raghu. (20)
@@ -18880,7 +18880,7 @@ reposing on them. (2)
 
 606
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Sītā quite evidently had her upper garment entangled with these blades of grass at that time. That is why these silk threads appear stuck to them. (15)
 
@@ -18933,7 +18933,7 @@ reposing on them. (2)
 
 “From this day onward I shall lie down on the bare ground or on blades of grass, living on fruits and roots alone from day to day and wearing matted hair on my head and the bark of trees on my person. (26)
 
-* AYODHYĀKĀṆḌA *
+
 
 607
 
@@ -18993,7 +18993,7 @@ May all be well with you.” (2)
 
 608
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 men were conversing with each other as aforesaid, Guha submitted to Bharata with folded hands as follows : (4)
 
@@ -19051,7 +19051,7 @@ The din of men setting fire* to the huts
 
 * It has been a convention among Indian troops in the past to burn whatever is left in the shape of huts and fuel etc., after removing their essential things and tents while leaving a halting place in the course of their march to a destination. The idea is not to leave any trace of their whereabouts for the enemy. The practice was also believed to bring triumph to the troops who resorted to it.
 
-* AYODHYĀKĀṆḌA *
+
 
 609
 
@@ -19112,7 +19112,7 @@ Bharadwāja is referred to as a family priest of gods because he was sprung from
 
 610
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 who was not only a knower of Brahma but also the foremost of Vedic scholars,* Bharata saw the extensive and delightful grove
 
@@ -19214,7 +19214,7 @@ Spoken to as aforesaid, Bharata, they say, replied as follows in a faltering ton
 
 612
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 take that tiger among men back to Ayodhyā after having propitiated him, and also to bow down at his feet. (17)
 
@@ -19324,7 +19324,7 @@ Commanded by the eminent sage in the following words : “Let the army be brough
 
 614
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अग्निशालां प्रविश्याथ पीत्वापः परिमृग्य च।
 आतिथ्यस्य क्रियाहेतोर्विश्वकर्माणमाह्वयत् ॥ ११ ॥
@@ -19438,7 +19438,7 @@ There stood up white mansions each
 
 616
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 consisting of four rooms, as well as stables for elephants and horses and charming citygates with mansions and palaces. (32)
 
@@ -19569,7 +19569,7 @@ There also appeared on the scene women with big eyes, kneading the feet of men; 
 
 618
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 The keepers (created and detailed by Bharadwāja) of the animals carrying Bharata's men on their backs duly fed the horses, elephants, donkeys, camels as well as the bullocks with articles fit for their consumption. (55)
 
@@ -19684,7 +19684,7 @@ They further beheld at every place in that area bundles of fresh white twigs wit
 
 620
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 sandals and leather shoes, small caskets containing collyrium, combs, brushes for combing moustaches and beards, nay, umbrellas, and bows, armour and different kinds of beds and seats, tanks full of water worth drinking, feed for donkeys, camels, elephants and horses, as well as tanks, provided with excellent descents, where one could easily take a plunge, full of lilies and lotuses, resembling the sky in hue, containing limpid water and pleasing to bathe in and heaps of tender grass resembling the blue cat's-eyes gem in hue for the consumption of animals. (75—79)
 
@@ -19727,7 +19727,7 @@ Questioned with folded hands about the road to Citrakūṭa, Bharadwāja shows t
 
 Having spent the previous night with his family at the hermitage of Bharadwāja, Bharata, to whom hospitality had been
 
-* AYODHYĀKĀṆḌA *
+
 
 621
 
@@ -19789,7 +19789,7 @@ Questioned thus, Bharadwāja, for his part, who is endowed with exceptional glor
 
 622
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 river Mandākinī, shaded by trees in blossom and hemmed with lovely groves laden with flowers. (11)
 
@@ -19828,7 +19828,7 @@ too—who was condemned by the whole world because of her ambition to see her so
 
 “I seek to know the particulars concerning your mothers, O scion of Raghu!” Addressed thus by Bharadwāja, the pious Bharata, for his part, who was a master of expression, made the following answer with folded hands: “This godlike Queen Kausalyā, the seniormost consort of my father, whom indeed you see here afflicted and emaciated through fasting on account of grief, O venerable Sir, brought forth that tiger among men, Śrī Rāma—who takes gallant strides like a lion—even as Aditi (the mother of gods) gave birth to Upendra (Lord Vāmana, so-called because he was a younger brother to Indra). Here is the celebrated Sumitrā, the middle queen of the king, stricken with agony, who stands disconsolate at heart clinging to the left arm of Kausalyā and looking like a branch of Karṇikāra tree with withered flowers standing in the interior of a grove. (19—23)
 
-* AYODHYĀKĀṆḌA *
+
 
 623
 
@@ -19892,7 +19892,7 @@ People drove in various highly precious conveyances, big as well as small; while
 
 624
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अथ यानप्रवेकैस्तु कौसल्याप्रमुखाः स्त्रियः ।
 रामदर्शनकांक्षिण्यः प्रययुर्मुदितास्तदा ॥ ३६ ॥
@@ -20012,7 +20012,7 @@ Turning to Śatrughna, Bharata continued : "Behold, O Śatrughna, the region on 
 
 626
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 look till now, now appears to me like Ayodhyā. (14)
 
@@ -20076,7 +20076,7 @@ Hearing the aforesaid submission of the soldiers, which was esteemed even by pio
 
 Commanded thus by Bharata, the troops thereupon remained stationed all round on that very spot; while Bharata fixed his
 
-* AYODHYĀKĀṆḌA *
+
 
 627
 
@@ -20144,7 +20144,7 @@ Seeking to please Sītā, a princess of the Videha territory, and diverting his 
 
 628
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 description and hosts of harmless tigers, leopards and bears, and crowded with numerous birds, this mountain looks charming. (7)
 
@@ -20204,7 +20204,7 @@ description and hosts of harmless tigers, leopards and bears, and crowded with n
 शिलाः शैलस्य शोभन्ते विशालाः शतशोऽभितः ।
 बहुला बहुलैर्वर्णैर्नीलपीतसितारुणैः ॥ २० ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 629
 
@@ -20257,7 +20257,7 @@ Thus ends Canto Ninety-four in the Ayodhyākāṇḍa of the glorious Rāmāya�
 
 630
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # पञ्चनवर्तितमः सर्गः
 
@@ -20357,7 +20357,7 @@ lady with a slender waist ! (10)
 
 “Behold how these melodious
 
-* AYODHYĀKĀṆḌA *
+
 
 631
 
@@ -20416,7 +20416,7 @@ Thus ends Canto Ninety-five in the Ayodhyākāṇḍa of the glorious Rāmāya�
 
 632
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षण्णवतितमः सर्गः
 
@@ -20466,7 +20466,7 @@ Seeing them run away and also hearing that great noise, Śrī Rāma spoke as fol
 
 “How is it that herds of elephants in the forest or wild buffaloes in the great forest or deer have all of a sudden taken to flight
 
-* AYODHYĀKĀṆḌA *
+
 
 633
 
@@ -20534,7 +20534,7 @@ Commanded thus by Śrī Rāma, Lakṣmaṇa for his part submitted as follows, g
 
 634
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अपि नौ वशमागच्छेत् कोविदारध्वजो रणे।
 अपि द्रक्ष्यामि भरतं यत्कृते व्यसनं महत् ॥ २१ ॥
@@ -20577,7 +20577,7 @@ Commanded thus by Śrī Rāma, Lakṣmaṇa for his part submitted as follows, g
 
 Thus ends Canto Ninety-six in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 635
 
@@ -20634,7 +20634,7 @@ Pointing out to Lakṣmaṇa who was waxing indignant at Bharata, the impropriet
 
 636
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स्नेहेनाक्रान्तहृदयः शोकेनाकुलितेन्द्रियः ।
 द्रष्टुमभ्यागतो ह्येष भरतो नान्यथाऽऽगतः ॥ ११ ॥
@@ -20757,7 +20757,7 @@ Thus ends Canto Ninety-seven in the Ayodhyākāṇḍa of the glorious Rāmāya�
 
 638
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # अष्टनवतितमः सर्गः
 
@@ -20810,7 +20810,7 @@ The army having barely encamped in a well-behaved manner according to Bharata's 
 
 "There will be no peace of mind for me
 
-* AYODHYĀKĀṆḌA *
+
 
 639
 
@@ -20869,7 +20869,7 @@ Thus ends Canto Ninety-eight in the Ayodhyākāṇḍa of the glorious Rāmāya�
 
 640
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # नवववितमः सर्गः
 
@@ -20985,7 +20985,7 @@ The hut was adorned with very strong bows, plated with gold at the back and shin
 
 642
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 It was further graced with fearful arrows encased in quivers and shining like sunbeams, in the same way as Bhogavati (the realm of Nāgas) is graced by serpents with incandescent hoods (21)
 
@@ -21046,7 +21046,7 @@ Distressed at his very sight, he wailed as follows in a voice choked with tears,
 
 "How does the selfsame Śrī Rāma, a scion of Raghu, who ever adorned his head
 
-* AYODHYĀKĀṆḌA *
+
 
 643
 
@@ -21111,7 +21111,7 @@ Thus ends Canto Ninety-nine in the Ayodhyākāṇḍa of the glorious Rāmāya�
 
 644
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # शततमः सर्गः
 
@@ -21236,7 +21236,7 @@ know the meaning of signs, have been secured by you, my darling ! (15)
 
 646
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 others through surmises or reasoning and the deliberations of others are known (before they materialize) by yourself or by your ministers. (21)
 
@@ -21349,7 +21349,7 @@ disbursal of their salary are delayed and that itself is a very great harm done 
 
 648
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and trading classes)—who are ever devoted to their respective duties, have subdued their senses and are full of great zeal—nay, which is crowded with palatial buildings of various patterns and is thronged with learned men and full of highly contented people.
 
@@ -21403,7 +21403,7 @@ and trading classes)—who are ever devoted to their respective duties, have sub
 
 “Are all your fortifications fully supplied with wealth and provisions, arms and water, mechanical contrivances and equipped with artisans and bowmen? (53)
 
-* AYODHYĀKĀṆḌA *
+
 
 649
 
@@ -21463,7 +21463,7 @@ rules the people merely for the sake of pleasure, caring little for equity and j
 
 650
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 dividing them according to time, O jewel among the victorious, knowing as you do the time appropriate for each? (63)
 
@@ -21500,7 +21500,7 @@ dividing them according to time, O jewel among the victorious, knowing as you do
 
 भेद्याः शत्रौ तु चत्वारो नृपकृत्यमिदं स्मृतम् ।
 
-* AYODHYĀKĀṆḌA *
+
 
 651
 
@@ -21546,7 +21546,7 @@ been ailing for a long time, 4. who has been ostracised by his own kith and kin,
 
 652
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and administering justice to the people quite in consonance with righteousness surely
 
@@ -21658,7 +21658,7 @@ Embracing his younger brother, Bharata, who was sighing again and again like an 
 
 654
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “You, too, should know, O gentle brother, that we are held by holy men to be in the same position in the world with reference to the deceased king-emperor as the wives, progeny and pupils of a householder are considered as amenable to his control. (19)
 
@@ -21712,7 +21712,7 @@ I must dwell in the Daṇḍaka forest, clad in the bark of trees. (23)
 
 Thus ends Canto One hundred and one in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 655
 
@@ -21767,7 +21767,7 @@ Hearing the exhortation of Śrī Rāma, Bharata, it is said, replied as follows:
 
 656
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 त्वया विहीनस्तव शोकरुण-
 
@@ -21895,7 +21895,7 @@ Consoling the aforesaid Sītā (daughter of Janaka), who was weeping, the afflic
 
 658
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Śrī Rāma for his part spoke as follows to the distressed Lakṣmaṇa on that very spot : (19)
 
@@ -21955,7 +21955,7 @@ Serving the crushed pulp of Iṅgudi fruit mixed with the pulp of plums on a mat
 
 Moving up from the river bank once
 
-* AYODHYĀKĀṆḌA *
+
 
 659
 
@@ -22042,7 +22042,7 @@ Boars, wolves and lions, buffaloes, Sṛmaras and Gokarnas, two distinctive spec
 
 660
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Cakrawākas, swans and waterfowl, Plavas (a kind of heron), Kāraṇḍavas (a sort of duck) and other aquatic birds, male cuckoos and cranes flew utterly confused in various directions. (43)
 
@@ -22134,7 +22134,7 @@ who are now living a hard life in the forest, though unwearied in action. (4)
 
 662
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दक्षिणाग्रेषु दर्भेषु सा दर्दश महीतले।
 पितुरिङ्गुदिपिण्याकं न्यस्तमायतलोचना ॥ ८ ॥
@@ -22196,7 +22196,7 @@ Duly rising from his seat, Śrī Rāma, a veritable tiger among men, who was tru
 
 With their lovely hands, which were
 
-* AYODHYĀKĀṆḌA *
+
 
 663
 
@@ -22266,7 +22266,7 @@ Perceiving Śrī Rāma, a scion of Raghu,
 
 664
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 blazing with glory in the garb of an ascetic, Bharata, for his part, who was seated closeby at that time and was exceedingly powerful, folded his hands in the same way as the mighty Indra submissively would before Brahmā, the lord of created beings. (30)
 
@@ -22311,7 +22311,7 @@ Having offered oblations into the sacred fire and muttered their prayers on the 
 
 They all sat down mute, none spoke
 
-* AYODHYĀKĀṆḌA *
+
 
 665
 
@@ -22376,7 +22376,7 @@ Perceiving the said illustrious Bharata wailing as above, afflicted as he was, �
 
 666
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 नात्मनः कामकारो हि पुरुषोऽयमनीश्वरः।
 इतश्चेतरतश्चैनं कृतान्तः परिकर्षति ॥ १५ ॥
@@ -22507,7 +22507,7 @@ after coming together; for inevitable is their separation. (26-27)
 
 668
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and weeping should in that case undoubtedly be given up under all circumstances by a resolute man possessed of wisdom. (39)
 
@@ -22556,7 +22556,7 @@ Having tendered to his younger brother, Bharata, in about an hour, the aforesaid
 
 Thus ends Canto One hundred and five in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 669
 
@@ -22653,7 +22653,7 @@ sinful deeds, who is deserving of punishment.
 
 670
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 कथं दशरथाज्जातः शुभाभिजनकर्मणः।
 जानन् धर्ममधर्मं च कुर्यां कर्म जुगुप्सितम् ॥ १० ॥
@@ -22781,7 +22781,7 @@ transgression of his father is accounted a son in the real acceptance of the ter
 
 672
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 kinsfolk even as Lord Śiva, the Supreme
 Deity, does on all created beings. (31)
@@ -22860,7 +22860,7 @@ Thereupon the glorious Śrī Rāma, eldest
 brother of Lakṣmaṇa, highly respected
 among his clansmen, replied to the said
 
-* AYODHYĀKĀṆḌA *
+
 
 673
 
@@ -22922,7 +22922,7 @@ Bharata, who was speaking again in that strain : (1)
 
 674
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 proceed to Gayā and perform Śrāddha there.”
 (13)
@@ -23043,7 +23043,7 @@ right, who was comforting Bharata, Jābāli, a jewel among Brāhmaṇas, address
 
 676
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अष्टकापितृदेवत्यमित्ययं प्रसृतो जनः।
 अन्नस्योपद्रवं पश्य मृतो हि किमशिष्यति ॥ १४ ॥
@@ -23149,7 +23149,7 @@ Hearing the speech of Jābāli, Śrī Rāma, for his part, who was possessed of 
 
 678
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दत्तमिष्टं हृतं चैव तमानि च तपांसि च।
 वेदाः सत्यप्रतिष्ठानास्तस्मात् सत्यपरो भवेत् ॥ १४ ॥
@@ -23208,7 +23208,7 @@ and foremost. The burden in the form of matted locks has been made much of by go
 
 “Having actually given my word of honour to my father to remain in exile in the
 
-* AYODHYĀKĀṆḌA *
+
 
 679
 
@@ -23270,7 +23270,7 @@ Hearing the plea put forward by the aforesaid sage, Jābāli, in the form of a h
 
 680
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 wrong path opposed to the Vedic path, nay, who is moving about in the world with such an ideology conforming to the doctrine of the atheistic Cārvāka, who believes only in the world of senses, as has been set forth in your foregoing speech. (33)
 
@@ -23318,7 +23318,7 @@ To the high-souled Śrī Rāma, who never felt dejected at heart and was speakin
 
 “That time too had now come when a heretical speech was slowly made by me in order to deflect you from your purpose of remaining in exile in the forest and also from another motive viz., to establish your reputation as a great believer by evoking
 
-* AYODHYĀKĀṆḌA *
+
 
 681
 
@@ -23375,7 +23375,7 @@ then lifted the earth out of the water into which it had disappeared and in conj
 
 682
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इक्ष्वाकोस्तु सुतः श्रीमान् कुक्षिरित्येव विश्रुतः।
 कुक्षेरथात्मजो वीरो विकुक्षिरुदपद्यत ॥ ८ ॥
@@ -23436,7 +23436,7 @@ then lifted the earth out of the water into which it had disappeared and in conj
 
 “The sage named Cyavana, son of Bhrgu, had betaken himself to the Himalayas.
 
-* AYODHYĀKĀṆḌA *
+
 
 683
 
@@ -23500,7 +23500,7 @@ A perpetrator of sinful deeds as he was, he, however, was abandoned by his fathe
 
 684
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 intelligent Ambariṣa was the son of Praśuśruva. (32)
 
@@ -23536,7 +23536,7 @@ intelligent Ambariṣa was the son of Praśuśruva. (32)
 
 Thus ends Canto One hundred and ten in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 685
 
@@ -23578,7 +23578,7 @@ Having spoken to Śrī Rāma as aforesaid on that occasion, the said Vasiṣṭh
 
 686
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 duty by them, you will not be transgressing the path of the virtuous. (5)
 
@@ -23706,7 +23706,7 @@ Fixing his gaze on the citizens of Ayodhyā as well as on the people of the coun
 
 688
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 matter for reproach, since a proxy is allowed only in case the man replaced by him is unable to discharge the obligation imposed on him. The demand of Kaikeyi was but reasonable inasmuch as it was based firstly on the stipulation made by the king while marrying Kaikeyi that a son born to her alone would succeed him on the throne, and secondly on the debt the former owed to her for the invaluable service rendered by her on the field of battle; and only a virtuous act was done by our father in granting the boons asked by her. (29)
 
@@ -23732,7 +23732,7 @@ Indeed, all will be well with this high-souled prince, who is true to his promis
 
 Thus ends Canto One hundred and eleven in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 689
 
@@ -23774,7 +23774,7 @@ Then the hosts of Ṛṣis for their part, who longed for the death of Rāvaṇa
 
 690
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “We wish to see Śrī Rāma absolved forever from all obligations to his father; for due to his getting square with Kaikeyi as a result of Śrī Rāma’s having readily offered to be in exile, King Daśaratha has ascended to heaven.” (6)
 
@@ -23890,7 +23890,7 @@ Receiving with reverence the aforesaid pair of exceedingly bright-ornate wooden 
 
 692
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 what is right, went clockwise round Śrī Rāma, a scion of Raghu, and further placed the pair of sandals on the head of an excellent elephant. (29)
 
@@ -24001,7 +24001,7 @@ replied to Vasiṣṭha as follows : (9)
 
 694
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Departed, as permitted by the exceptionally high-souled Śrī Rāma, I am returning to Ayodhyā itself taking the blessed pair of sandals with me.” (14)
 
@@ -24061,7 +24061,7 @@ Proceeding from Śṛṅgaverapura he vividly saw Ayodhyā once more: so the tra
 
 Thus ends Canto One hundred and thirteen in the Ayodhyākāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* AYODHYĀKĀṆḌA *
+
 
 695
 
@@ -24152,7 +24152,7 @@ fire has completely expired, has been cleared
 
 696
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of all sacrificial implements and deserted by the learned priests, and where all sound has consequently ceased. (8)
 
@@ -24216,7 +24216,7 @@ Seated in his chariot, the glorious Bharata, son of Daśaratha, for his part, sp
 वारुणीमदगन्धश्च माल्यगन्धश्च मूर्च्छितः।
 चन्दनागुरुगन्धश्च न प्रवाति समन्ततः ॥ २० ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 697
 
@@ -24263,7 +24263,7 @@ Thus ends Canto One hundred and fourteen in the Ayodhyākāṇḍa of the glorio
 
 698
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # पञ्चदशाधिकशततमः सर्गः
 
@@ -24384,7 +24384,7 @@ Having dedicated the sacred trust to the pair of wooden sandals with his head be
 
 700
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 give me fourfold more fame and happiness
 than that from having obtained the kingdom.”
@@ -24515,7 +24515,7 @@ The Ṛṣi, who was not only worn out from age but had also attained ripeness t
 
 702
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “This peril from the Rākṣasas threatens the ascetics because of you, who are kindly disposed to the latter. Alarmed by it, they hold conversation among themselves. (10)
 
@@ -24583,7 +24583,7 @@ into the sacred fire has approached, they fling away sacrificial vessels such as
 
 Prince Rāma could not with counter-arguments check the said ascetic when he
 
-* AYODHYĀKĀṆḌA *
+
 
 703
 
@@ -24635,7 +24635,7 @@ Reflecting again and again, when all the ascetics had left, Śrī Rāma, a scion
 
 704
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स्कन्धावारनिवेशेन तेन तस्य महात्मनः।
 हयहस्तिकरीषैश्च उपमर्दः कृतो भूशम् ॥ ३ ॥
@@ -24752,7 +24752,7 @@ Seeing the highly blessed and celebrated Sītā, who was given to the practice o
 
 706
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 desired object at all places like the imperishable fruit of one's austerities, O princess of the Videha kingdom ! (25)
 
@@ -24863,7 +24863,7 @@ Highly rejoiced to hear the reply made by Sītā, and smelling her head as a tok
 
 708
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 नियमैर्विविधैरासं तपो हि महदस्ति मे।
 तत् संश्रित्य बलं सीते छन्दये त्वां शुचिव्रते ॥ १४ ॥
@@ -24993,7 +24993,7 @@ Saying, “Be pleased to listen!” when requested in the foregoing words, the a
 
 710
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तस्य बुद्धिरियं जाता चिन्तयानस्य संततम्।
 स्वयंवरं तनुजायाः करिष्यामीति धर्मतः ॥ ३८ ॥
@@ -25046,7 +25046,7 @@ Saying, “Be pleased to listen!” when requested in the foregoing words, the a
 निमेषान्तरमात्रेण तदानम्य महाबलः।
 ज्यां समारोप्य झटिति पूरयामास वीर्यवान् ॥ ४८ ॥
 
-* AYODHYĀKĀṆḌA *
+
 
 711
 
@@ -25090,7 +25090,7 @@ Thus ends Canto One hundred and eighteen in the Ayodhyākāṇḍa of the glorio
 
 712
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकोनविंशत्यधिकशततमः सर्गः
 
@@ -25206,7 +25206,7 @@ The aforesaid ascetics dwelling in the forest and practising virtue there told t
 
 714
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एष पन्था महर्षिणां फलान्याहरतां वने।
 अनेन तु वनं दुर्गं गन्तुं राघव ते क्षमम् ॥ २१ ॥

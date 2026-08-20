@@ -16,6 +16,27 @@ This repository contains the complete text of the Vālmīki Rāmāyaṇa split a
 
 ---
 
+# 📖 Śrīmad Vālmīki Rāmāyaṇa Reader (श्रीमद्वॉल्मीकीय रामायणम्)
+
+An interactive, responsive, web-based reader and cross-Kāṇḍa search system for the complete **Gita Press** edition of the Vālmīki Rāmāyaṇa.
+
+---
+
+## 🌟 Credits & Acknowledgments
+
+This project was developed by integrating state-of-the-art AI engines with structured digital data pipelines and thoughtful UI engineering:
+
+* **Developer & Project Lead:** **[Satish Santhanam](https://github.com/satishsanthanam)**
+  * Engineered the data cleaning pipelines, regex parsing, UI architecture, range-aware data mapping (`shloka_start`, `shloka_end`), and dynamic web interfaces (`ram.html` and `index.html`).
+* **AI Collaborator & Code Architect:** **Google Gemini AI**
+  * Assisted in refactoring Python parsing logic, designing schema optimizations for grouped ślokas, generating UI features, and architecting cross-Kāṇḍa search and navigation pipelines.
+* **OCR Conversion Engine:** **Mistral AI OCR**
+  * Used for high-accuracy optical character recognition to transform multi-volume PDF/print sources into Markdown format (`*kanda_mistral_ocr.md`).
+* **Source Text & Translation:** **Gita Press, Gorakhpur**
+  * Original Sanskrit ślokas and English translations/explanations.
+
+---
+
 ## 🗂️ Dataset Structure
 
 ```text

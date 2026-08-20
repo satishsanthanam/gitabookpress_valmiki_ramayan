@@ -34,7 +34,7 @@ With his head and neck exalted, Hanumān, the monkey chief, who sought to accomp
 
 26
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Scaring away the birds, nay, pulverizing the trees with his breast and crushing very many deer and other wild animals under his feet, the brave and wise Hanumān, who was endowed with extraordinary might, trod at ease, in the meantime, like a full-grown lion on the swards possessing the hue of a cat's-eye gem and stretching evenly like a sheet of green water. (3-4)
 
@@ -82,7 +82,7 @@ Covered on all sides with that fragrant shower of flowers, discharged by the tre
 
 Nay, while being pressed by Hanumān, who was endowed with surpassing might, the said mountain spurted water profusely even as an elephant in rut would exude ichor in abundance. (14)
 
-* SUNDARAKĀṆḌA *
+
 
 27
 
@@ -147,7 +147,7 @@ Revealing their great skill in the form of
 
 28
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 capability to remain standing in the airspace, which had obviously been acquired through some magical spell, the Vidyādharas, who looked like eminent sages, stood in a body in the airspace and gazed down on the mountain.
 
@@ -216,7 +216,7 @@ Having cast his eyes upwards in order to survey the long distance he had to cove
 
 Having firmly established himself with his feet, and contracting his ears, while
 
-* SUNDARAKĀṆḌA *
+
 
 29
 
@@ -277,7 +277,7 @@ Swept away by the wind set in motion
 
 30
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 by Hanumān dashing forward across the sky, the blossom on the trees, consisting of every variety, dropped on the ocean and presented a curious sight while floating, endowed as they were with lightness of weight. Carpeted with them, that vast sea looked charming like the star-spangled sky. (53)
 
@@ -341,7 +341,7 @@ The wind passing through the arm-pits of that leonine Hanumān, bounding over th
 
 That elephant among the monkeys was seen darting much in the same way as a meteor risen from the upper part of the northern quarter shoots alongwith its tail-like extremity. (65)
 
-* SUNDARAKĀṆḌA *
+
 
 31
 
@@ -407,7 +407,7 @@ Falling on the salt sea and following Hanumān, an offspring of the wind-god, th
 
 32
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 shadow of his looked charming like a row of clouds sailing in the white sky. (77)
 
@@ -469,7 +469,7 @@ While Hanumān, that tiger among monkeys, was moving along through airspace, the
 अहमिक्ष्वाकुनाथेन सगरेण विवर्धितः।
 इक्ष्वाकुसचिवश्चायं तन्नार्हत्यवसादितुम् ॥ ८९ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 33
 
@@ -532,7 +532,7 @@ Having made this righteous resolve, the god presiding over the oceans spoke as f
 
 34
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 also the exertion of Hanumān, a leader of monkeys, you ought to rise up.” (100)
 
@@ -593,7 +593,7 @@ Assuming the form of a human being and standing on his own summit, the mountain,
 
 “Alighting on my peaks and having comfortably rested awhile, resume your journey with renewed vigour. The ocean
 
-* SUNDARAKĀṆḌA *
+
 
 35
 
@@ -659,7 +659,7 @@ repository of great virtues and are widely known in all the three worlds. (117)
 
 36
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Vedic Mantras) and spirits too fell a prey to panic, seized as they were with the apprehension of their falling. (123)
 
@@ -715,7 +715,7 @@ He was on that occasion regarded with great esteem, adored and cheered with suit
 
 Then, rising high, nay, leaving the mountain as well as the ocean, far below and reaching the path of the wind (i.e., his
 
-* SUNDARAKĀṆḌA *
+
 
 37
 
@@ -778,7 +778,7 @@ Thereupon the gods, Siddhas and the most eminent Ṛṣis with Gandharvas approa
 
 38
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “This glorious son of the wind-god, Hanumān by name, is leaping across the sea. Assuming the exceedingly hideous form of an ogress, gigantic as a mountain, and revealing a head looking fearful with its tusks and red-brown eyes and reaching up to the sky, pray, you interrupt him awhile.
 
@@ -834,7 +834,7 @@ Spoken to as aforesaid, Surasā, who was capable of assuming any form at will, r
 
 Perceiving him on the journey nevertheless, that mother of the Nāgas,
 
-* SUNDARAKĀṆḌA *
+
 
 39
 
@@ -895,7 +895,7 @@ Having entered her mouth and coming out forthwith, the glorious Hanumān, who wa
 
 40
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 My salutation be to you, O daughter of Dakṣa ! I shall now move to the place where Sītā, a princess of the Videha territory, is.” (169)
 
@@ -943,7 +943,7 @@ Like Garuḍa, Hanumān, son of the wind-god, coursed through the path of the wi
 हनुमान् मेघजालानि प्राकर्षन् मारुतो यथा ।
 कालागुरुसवर्णानि रक्तपीतसितानि च ॥ १८१ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 41
 
@@ -1003,7 +1003,7 @@ Observing the body of that mighty Hanumān growing, she distended her mouth, whi
 
 42
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 monkey, Hanumān, then noticed her ugly enormous mouth, which was of the same dimensions as his body, as well as her vulnerable parts. Contracting his body further, that mighty monkey, Hanumān, who was hard as a diamond, fell into her hideous mouth. Siddhas and Cāraṇas beheld him disappearing into her mouth like the full moon being devoured on a full moon night by the demon Rāhu. Then, tearing out her vulnerable parts with his sharp nails, the monkey forthwith rushed out with the rapidity of thought. Having overthrown her with the help of Providence, as well as through firmness and ingenuity, Hanumān, for his part, who was the foremost hero among the monkeys and self-possessed too, rapidly grew once more in size. With her heart, the very seat of her life, torn asunder by Hanumān, she fell down dead into the water. Hanuman was created as an instrument for her destruction by Brahmā, the self-born creator himself. (192—198)
 
@@ -1052,7 +1052,7 @@ Gazing on his own person, which closely resembled a big cloud and blocked the sk
 
 The highly talented Hanumān felt convinced that seeing the extraordinary growth of his body and his tremendous speed itself, the ogres would be inquisitive about him. (207)
 
-* SUNDARAKĀṆḌA *
+
 
 43
 
@@ -1101,7 +1101,7 @@ Thus ends Canto One of the Sundarakāṇḍa in the glorious Rāmāyaṇa of Vā
 
 44
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # द्वितीयः सर्गः
 
@@ -1162,7 +1162,7 @@ Stationed on that mountain, he saw forests and groves. That son of the wind-god,
 
 Hanumān, an elephant among the monkeys, further saw Saralas (a species of pine trees), and Karnikaras, as also date-palms in full blossom, Priyalas and muculindas (a species of oranges), Kūtajas, also Ketakas and fragrant Priyangus (trees yielding long pepper as their fruit), Nipas (a species of
 
-* SUNDARAKĀṆḌA *
+
 
 45
 
@@ -1209,7 +1209,7 @@ He further conceived Laṅkā, the city built by Viśwakarmā, as a woman evolve
 
 46
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सम्पूर्णा राक्षसैर्घोरैर्नागैर्भोगवतीमिव।
 अचिन्त्यां सुकृतां स्पष्टां कुबेराध्युषितां पुरा ॥ २४ ॥
@@ -1269,7 +1269,7 @@ He said to Himself: 'Laṅkā, the city of ogres, guarded as it is by ferocious 
 
 (35)
 
-* SUNDARAKĀṆḌA *
+
 
 47
 
@@ -1340,7 +1340,7 @@ I guard against thoughtlessness? And how, I wonder, should I ensure that my leap
 
 48
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Having resolved thus, Hanumān, the heroic monkey, who was eager to discover Sītā, a princess of the Videha territory, then longed for the sunset. (48)
 
@@ -1398,7 +1398,7 @@ That great hero among the monkeys gazed on the rising moon white as milk or a lo
 
 Thus ends Canto Two in the Sundarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* SUNDARAKĀṆḌA *
+
 
 49
 
@@ -1442,7 +1442,7 @@ When he had surveyed the city on all sides, his heart was filled with wonder. Ha
 
 50
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 on both sides of the gates inside as well as with those inlaid with diamonds, crystals and pearls—entrances which were embellished with floors of gems and graced with elephants of refined gold and were crowned with spotless white vaults of silver, entrances accessible by means of stairs of cat's-eye and with their inside walls made of crystal and free from dust and provided with lovely and charming assembly halls, entrances which appeared to have risen to the skies due to their height, and were rendered noisy by herons and frequented by swans—and by which Laṅkā was resonant on all sides with the sound of clarionets and the tinkling of ornaments, was a replica of Vaswokasara (another name of the city of Alakā) and appeared as though risen to the skies on account of its lofty mansions. (8—12)
 
@@ -1495,7 +1495,7 @@ Seeing that jewel among the monkeys, the aforesaid Laṅkā, protected by Rāva�
 
 She stood before that heroic offspring of the wind-god. Emitting a loud cry she
 
-* SUNDARAKĀṆḌA *
+
 
 51
 
@@ -1568,7 +1568,7 @@ Hearing the aforesaid reply of Hanumān,
 
 52
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the ill-famed Laṅkā, who was able to take any form at will, once more uttered the following harsh words : (35)
 
@@ -1635,7 +1635,7 @@ Greatly alarmed at this turn of events, the aforesaid Laṅkā actually addresse
 
 “Surely, at the time when some monkey subdues you by dint of his prowess, destruction of the ogres should be concluded by you to be imminent. (47)
 
-* SUNDARAKĀṆḌA *
+
 
 53
 
@@ -1691,7 +1691,7 @@ Nay, having penetrated deep into the city of Laṅkā, Hanumān, who was in the 
 
 54
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 his left foot, as it were, on the head of his foes. (3)
 
@@ -1736,7 +1736,7 @@ He actually heard there the sound of
 
 "A house with four rooms (one in each quarter) with an equal number of exits is known by the name of Sarvatobhadra. A house (with only three gates) having no opening in the west is called by the name of Nandyavarta. A house without any opening in the south is known as Vardhamān and bestows riches (on the owner or the occupant); while that which has no entrance in the east is called Swastika and bestows sons and riches both."
 
-* SUNDARAKĀṆḌA *
+
 
 55
 
@@ -1802,7 +1802,7 @@ He also saw many wearing a garland and smeared with sandal-paste, adorned with e
 
 56
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वारणैश्च चतुर्दन्तैः श्वेताभ्रनिचयोपमैः ।
 भूषिते रुचिरद्वारं मत्तैश्च मृगपक्षिभिः ॥ २८ ॥
@@ -1844,7 +1844,7 @@ light over the earth like the sun, and resembling a bull in rut ranging in a cow
 भूतानि सर्वाणि विराजयन्तं
 ददर्श शीतांशुमथाभियान्तम् ॥ २ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 57
 
@@ -1901,7 +1901,7 @@ The strains of the lute, delightful to the ear, have started. Women of good mora
 
 58
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 character are sleeping with their husbands. Nay, rangers of the night too of very strange and violent behaviour have likewise started disporting themselves. (9)
 
@@ -1963,7 +1963,7 @@ He rejoiced to see the latter, who were comely of form and endowed with many vir
 
 He then saw their womenfolk, who were deserving of excellent attire and ornaments, were exceedingly pure-hearted and dignified, whose mind was enamoured of their beloved ones as well as of beverages, who shone
 
-* SUNDARAKĀṆḌA *
+
 
 59
 
@@ -2031,7 +2031,7 @@ He, however, did not find anywhere the frail Sītā, sprung from the mind of the
 
 60
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 बभूव दुःखोपहतश्चिरस्य
 प्लवंगमो मन्द इवाचिरस्य ॥ २७ ॥
@@ -2074,7 +2074,7 @@ Reaching the palace of Rāvaṇa, which served as an adornment to Laṅkā, and 
 
 Wandering in the midst of seven-storeyed mansions, Hanumān, who was full of riches in the form of strength and valour, who was able to assume any form he chose and was endowed with tremendous speed, ranged over Laṅkā at will and reached the palace of Rāvaṇa, the lord of ogres, enclosed with a wall dazzling like the sun, nay, guarded by terrible ogres as a huge forest by lions. Hanumān, an elephant among the monkeys,
 
-* SUNDARAKĀṆḌA *
+
 
 61
 
@@ -2119,7 +2119,7 @@ That mighty Hanumān then bounded into the palace of Kumbhakarṇa, which
 
 62
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 resembled a cloud, and thence into that of
 Vibhiṣaṇa. (18)
@@ -2186,7 +2186,7 @@ He further observed gigantic ogres with uplifted weapons of every description an
 मेघस्तनितनिर्घोषान् दुर्धर्षान् समरे परेः।
 सहस्रं वाहिनीस्तत्र जाम्बूनदपरिष्कृताः ॥ ३४ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 63
 
@@ -2234,7 +2234,7 @@ Thus ends Canto Six in the Sundarakāṇḍa of the glorious Rāmāyaṇa of Vā
 
 64
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # सप्तमः सर्गः
 
@@ -2285,7 +2285,7 @@ He saw those mansions of Rāvaṇa, the suzerain lord of Laṅkā, which had bee
 
 He then beheld the excellent and soul-captivating palace of Rāvaṇa, the suzerain ruler of ogres, of incomparable loveliness, nay, having the appearance of a towering cloud and possessing the effulgence of gold and worthy of his own extraordinary might, which was heaven, as it were, descended on earth and was blazing with splendour, which was full of numerous precious stones and strewn with the flowers of various trees, which looked like the summit of a mountain covered with pollen; nay, which was lit up by jewel-like women as a cloud adorned with flashes of lightning and looked like a beautifully made aerial car full of splendour and being drawn in the skies by excellent swans. (5—7)
 
-* SUNDARAKĀṆḌA *
+
 
 65
 
@@ -2349,7 +2349,7 @@ Hanumān was thus filled with wonder on
 
 66
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 visiting that splendid and beautiful aerial car, resembling a mountain, with lovely caverns and further looking like a tree with charming hollows and supremely fragrant during the spring-time (lit., the close of winter). (15)
 
@@ -2402,7 +2402,7 @@ made by Viśwakarmā (the artisan of gods) himself, as an excellent achievement.
 
 There was nothing in that structure which had not been executed with special effort and there was no part of it which was not inlaid with precious stones of great value. The specialities which were incorporated into it were not to be found even in the abodes of gods and there was nothing in it which was not marked with some great speciality. (3)
 
-* SUNDARAKĀṆḌA *
+
 
 67
 
@@ -2437,7 +2437,7 @@ Thus ends Canto Eight in the Sundarakāṇḍa of the glorious Rāmāyaṇa of V
 
 68
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # नवमः सर्गः
 
@@ -2497,7 +2497,7 @@ Hanumān, sprung from the loins of the wind-god, beheld another edifice in the c
 ब्रह्मणोऽर्थं कृतं दिव्यं दिवि यद् विश्वकर्मणा।
 विमानं पुष्पकं नाम सर्वरत्नविभूषितम् ॥ ११ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 69
 
@@ -2552,7 +2552,7 @@ Set out from there he beheld that well-known, wonderful, spacious and cosy hall 
 
 70
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 a loved belle, had stairways of gems constructed with extra care and was adorned with lattice windows of gold; whose floors were covered with slabs of crystal inlaid with figures of ivory, pearls, diamonds and corals as well as of silver and gold; which was embellished with pillars of gems, uniform, straight and very tall and highly ornamented as well as with numerous other pillars; which, supported, as it was, on very lofty pillars looking like so many wings, had duly set out, as it were, on its flight to heaven; whose floor was covered with a large carpet with designs of mountains, trees and rivers etc., the features of the earth's surface executed on it; which was extensive like the earth and looked charming with mural representations of various countries and dwellings; which was rendered noisy by birds in heat and ever remained scented with celestial odours; which was hung with excellent tapestries and was inhabited by Rāvaṇa, the suzerain ruler of ogres; which remained smoky with fumes of incense made of agallocum, though spotless and white as a swan; nay, which, with its offerings of leaves and flowers, looked variegated, as it were, was full of great effulgence and soul-ravishing and served as an adornment even to splendour; which banished all grief and gave birth to prosperity, as it were. Like a mother, the chamber protected by Rāvaṇa gratified on that occasion all the five senses of Hanumān with the excellent five objects of those senses. Hanumān, son of the wind-god, speculated that the place where he stood might indeed be paradise or that it might be the realm of the principal gods, the city of Indra, the ruler of gods, or that it might be the realm of Brahmā, the attainment of which constitutes the highest achievement on the material plane. (13—30)
 
@@ -2590,7 +2590,7 @@ Hanumān, son of the wind-god, saw the faces of those belles with their teeth co
 
 Assuming the shape of full-blown lotuses
 
-* SUNDARAKĀṆḌA *
+
 
 71
 
@@ -2655,7 +2655,7 @@ Necklaces of cat's-eye gems on the breasts of some ladies looked like Kadamba bi
 
 72
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 wings), while chains of gold on the breasts of others appeared like Cakrawāka birds. (49)
 
@@ -2719,7 +2719,7 @@ A certain woman lay with her head resting an another's bosom, while another lay 
 
 Yielding to the influence of intoxication and love, they rested their heads on the
 
-* SUNDARAKĀṆḌA *
+
 
 73
 
@@ -2778,7 +2778,7 @@ Again, no consort of his was low-born,
 
 74
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 nor devoid of beauty, nor clumsy, nor unadorned, nor feeble, nor repulsive to her husband. (71)
 
@@ -2830,7 +2830,7 @@ In a portion of the dais Hanumān further beheld a white canopy decked with heav
 जातरूपपरिक्षिप्तं चित्रभानेः समप्रभम्।
 अशोकमालाविततं ददर्श परमासनम् ॥ ४ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 75
 
@@ -2895,7 +2895,7 @@ As Rāvaṇa, the ruler of ogres, lay sleeping, the magnificent couch on which h
 
 76
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 शशक्षतजकल्पेन सुशीतेन सुगन्धिना।
 चन्दनेन परार्ध्येन स्वनुलिप्तौ स्वलंकृतौ ॥ १९ ॥
@@ -2938,7 +2938,7 @@ In the palace of that gigantic lord of ogres, the lover of his wives, Hanumān s
 
 * In these verses Rāvaṇa has been spoken of as having only one head and two arms. This shows that in ordinary circumstances he was endowed with only one head and two arms and that in conflicts only he voluntarily assumed as many as ten heads and twenty-arms.
 
-* SUNDARAKĀṆḌA *
+
 
 77
 
@@ -2998,7 +2998,7 @@ Yet another woman with lotus-like eyes lay asleep pressing a vina of six strings
 
 78
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 her bosom as though a passionate woman lay clasping her most beloved husband with passion. (40)
 
@@ -3065,7 +3065,7 @@ Hugging musical instruments of various kinds and pressing them with their breast
 
 Hanumān, then saw, lying asleep there on a magnificent couch set apart from those of the aforesaid women, a celebrated fair-complexioned lady, shedding a golden lustre, Mandodari by name, beloved of Rāvaṇa and the mistress of the women of the gynaecium, who was rich in comeliness and endowed with a charming exterior, nay,
 
-* SUNDARAKĀṆḌA *
+
 
 79
 
@@ -3117,7 +3117,7 @@ Some had been worn out through gambling, while others had likewise got fatigued 
 
 80
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 been exhausted through dancing while others had been overpowered by drink. (5)
 
@@ -3177,7 +3177,7 @@ Hanumān further beheld placed in big vessels of gold the meats of peacocks and 
 
 Hanumān also perceived there the meats of boars, rhinoceroses, porcupines, deer and peacocks preserved in curds and Sochal salt, as also the meats of birds known by the name of Kṛkala, goats of various kinds, hares, half-consumed buffaloes, also Ekaśalyas (a kind of fish), and the dressed meat of rams as well as chutneys and drinks of various kinds as also dishes of different kinds that could be
 
-* SUNDARAKĀṆḌA *
+
 
 81
 
@@ -3229,7 +3229,7 @@ Moving to the bed of another, snatching away her covering and wrapping herself i
 
 82
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Due to their outgoing breaths the excellent covering and garland on their body shook gently as on facing a gentle breeze. (31)
 
@@ -3284,7 +3284,7 @@ He said to himself : 'True, all the consorts of Rāvaṇa were seen by me lying 
 
 'Surely Sītā, a princess of the Videha territory, could not be searched for by me anywhere else; for when search has to be carried out thoroughly, women are always looked for in the midst of women. (43)
 
-* SUNDARAKĀṆḌA *
+
 
 83
 
@@ -3341,7 +3341,7 @@ Not finding that beloved consort of Śrī Rāma (the delight of the Raghus), tha
 
 84
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 my eye even though I continue to look for her. (2)
 
@@ -3406,7 +3406,7 @@ my eye even though I continue to look for her. (2)
 निष्कुटान्तररथ्याश्च विमानानि च सर्वशः।
 इति संचिन्त्य भूयोऽपि विचेतुमुपचक्रमे ॥ १४ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 85
 
@@ -3466,7 +3466,7 @@ Thus ends Canto Twelve in the Sundarakāṇḍa of the glorious Rāmāyaṇa of 
 
 86
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # त्रयोदशः सर्गः
 
@@ -3518,7 +3518,7 @@ scoured; but I do not find Sītā, Janaka's daughter. Sītā was reported by Sam
 रावणस्योरुवेगेन भुजाभ्यां पीडितेन च।
 तया मन्ये विशालाक्ष्या त्यक्तं जीवितमार्यया ॥ ९ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 87
 
@@ -3586,7 +3586,7 @@ He said to himself: ‘If I return to Kiṣkindhā, the capital of the ruler of 
 
 88
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 किं वा वक्ष्यति सुग्रीवो हरयो वापि संगताः ।
 
@@ -3672,7 +3672,7 @@ forthwith yield up his life. (28)
 
 शैलाग्रेभ्यः पतिष्यन्ति समेषु विषमेषु च ॥ ३५ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 89
 
@@ -3730,7 +3730,7 @@ forthwith yield up his life. (28)
 
 90
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 living at the foot of trees and remaining self-restrained. In any case, I shall not return from this place without seeing the dark-eyed Sītā. (45)
 
@@ -3795,7 +3795,7 @@ Thus overwhelmed with uneasiness due to his failing to find out the celebrated S
 
 'Again, having conquered the ogres, I shall hand over the godlike Sītā, the delight
 
-* SUNDARAKĀṆḌA *
+
 
 91
 
@@ -3861,7 +3861,7 @@ as breaking up the ground and uprooting weeds. (62)
 
 92
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 that unscarred face of the aforesaid noble lady, with a prominent nose, white teeth, bright smiles and eyes resembling lotus-petals and vying in splendour with a cloudless moon, the lord of stars? (68)
 
@@ -3910,7 +3910,7 @@ Aśoka, Bhavya and Campaka, which were in full blossom, as well as Uddālaka, N�
 
 Penetrating deep into it, the mighty
 
-* SUNDARAKĀṆḌA *
+
 
 93
 
@@ -3972,7 +3972,7 @@ Battered by the tail and hands as well as by the feet of Hanumān and with its t
 
 94
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 महालतानां दामानि व्यधमत् तरसा कपिः।
 यथा प्रावृषि वेगेन मेघजालानि मारुतः ॥ २० ॥
@@ -4028,7 +4028,7 @@ Not far from that mountain, the aforesaid Hanumān, an offspring of the wind-god
 विविधैर्मृगसङ्घैश्च विचित्रां चित्रकाननाम्।
 प्रासादैः सुमहद्धिश्च निर्मितैर्विश्वकर्मणा ॥ ३४ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 95
 
@@ -4083,7 +4083,7 @@ Hanumān was wonderstruck to behold the aforesaid clusters of splendid golden tr
 
 96
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 रामशोकाभिसंतप्ता सा देवी वामलोचना।
 वनवासरता नित्यमेष्यते वनचारिणी ॥ ४७ ॥
@@ -4139,7 +4139,7 @@ Glancing all round while remaining perched on that tree, and surveying the groun
 काञ्चनोत्पलपद्माभिर्वापीभिरुपशोभिताम्।
 बह्वासनकुथोपेतां बहुभूमिगृहायुताम् ॥ ४ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 97
 
@@ -4193,7 +4193,7 @@ Numerous Punnaga and Saptaparṇa trees as also Campakas and Uddālakas in full 
 
 98
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 superior to the two aforesaid groves, as it were, and was inconceivable, wonderful and invested with a charming splendour. Spangled with hosts of luminaries in the form of flowers, it was a second firmament, as it were, and enchanting like a fifth ocean (besides the four oceans bounding the earth according to the ancient geography) with hundreds of precious stones in the form of its flowers. Hanumān also beheld a garden forming part of the Aśoka grove, full of trees blooming in every season and diffusing a sweet fragrance, nay, delightful on account of its herds of animals and birds—which emitted cries of various kinds—which scattered many odours and ravished the mind with its holy scents and which was like another Gandhamādana, the lord of mountains, rich in odours.
 
@@ -4230,7 +4230,7 @@ face bathed in tears, and was worn out through abstinence from food, was given o
 
 Beholding that large-eyed woman, who looked very untidy and emaciated, who had never known calamities before and who,
 
-* SUNDARAKĀṆḌA *
+
 
 99
 
@@ -4267,7 +4267,7 @@ He said to himself: 'I find on her person a pair of skillfully shaped earrings a
 
 100
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तत्र यान्यवहीनानि तान्यहं नोपलक्षये।
 यान्यस्या नावहीनानि तानीमानि न संशयः ॥ ४४ ॥
@@ -4324,7 +4324,7 @@ Delighted in this way to behold Sītā as mentioned above, Hanumān, sprung from
 
 Thus ends Canto Fifteen in the Sundarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* SUNDARAKĀṆḌA *
+
 
 101
 
@@ -4388,7 +4388,7 @@ Perceiving the aforesaid lady, who looked quite young and shone like gold and wh
 
 102
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and so was Trisirā brought low as also Dūṣaṇa, endowed with extraordinary energy, by Śrī Rāma, who has realized the Self. (10)
 
@@ -4451,7 +4451,7 @@ and so was Trisirā brought low as also Dūṣaṇa, endowed with extraordinary 
 अस्या नूनं पुनर्लाभाद् राघवः प्रीतिमेष्यति।
 राजा राज्यपरिभ्रष्टः पुनः प्राप्येव मेदिनीम् ॥ २३ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 103
 
@@ -4518,7 +4518,7 @@ Thus ends Canto Sixteen in the Sundarakāṇḍa of the glorious Rāmāyaṇa of
 
 104
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # सप्तदशः सर्गः
 
@@ -4572,7 +4572,7 @@ He found one of them single-eyed, another with a single ear, a third using her e
 अतिमात्रास्यनेत्राश्च दीर्घजिह्वाननास्तथा।
 अजामुखीर्हस्तिमुखीर्गोमुखीः सूकरीमुखीः ॥ १४ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 105
 
@@ -4609,7 +4609,7 @@ The graceful Hanumān found Sītā, Janaka's daughter, who was shorn of lustre l
 
 106
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 by her; nay, who was devoted to the good of her husband and had fallen under the sway of ogres, though not deserving it; who, though living in the midst of the Aśoka grove (consisting of trees which are supposed by their name to rid all, who live in their midst, of all grief), was nonetheless plunged in grief and was surrounded there by ogresses even like the star Rohiṇī fallen under the sway of some unpropitious planet. Hanumān found her there like a creeper divested of its blooms.
 
@@ -4646,7 +4646,7 @@ Having bowed down to Śrī Rāma and Lakṣmaṇa, the powerful Hanumān, who wa
 
 Thus ends Canto Seventeen in the Sundarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki the work of a Ṛṣi and the oldest epic.
 
-* SUNDARAKĀṆḌA *
+
 
 107
 
@@ -4699,7 +4699,7 @@ Only a hundred belles for their part followed that grandson of Pulastya as he wa
 
 108
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दीपिका: काञ्चनी: काश्चिन्जगृहस्तत्र योषितः ।
 वालव्यजनहस्ताश्च तालवृत्तानि चापराः ॥ ११ ॥
@@ -4764,7 +4764,7 @@ At that time, Hanumān, the delight of the wind-god, heard the tinkling of the o
 
 Hanumān also found arrived near the gate of the Aśoka grove Rāvaṇa—who had accomplished unparalleled deeds and was endowed with inconceivable might and virility, who was illumined on all sides with numerous torches, fed with fragrant oil and being borne ahead, who was full of passion and vanity and intoxicated too, who had large, oblique
 
-* SUNDARAKĀṆḌA *
+
 
 109
 
@@ -4812,7 +4812,7 @@ Thus ends Canto Eighteen in the Sundarakāṇḍa of the glorious Rāmāyaṇa o
 
 110
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकोनविंशः सर्गः
 
@@ -4861,7 +4861,7 @@ his part gazed on Sītā, a princess of the Videha territory, of austere vows, w
 पौर्णमासीमिव निशां तमोग्रस्तेन्दुमण्डलाम्।
 पद्मिनीमिव विध्वस्तां हतशूरां चमूमिव ॥ १३ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 111
 
@@ -4896,7 +4896,7 @@ Thus ends Canto Nineteen in the Sundarakāṇḍa of the glorious Rāmāyaṇa o
 
 112
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # विंशः सर्गः
 
@@ -4959,7 +4959,7 @@ Mithilā, I will not touch you so long as you do not love me in return. I would 
 
 “You are a jewel among women; no longer, therefore, remain in this shabby condition. Wear ornaments on your limbs. Indeed, having had me as your lover, how can you remain unadorned, O lady endowed with a lovely form? (11)
 
-* SUNDARAKĀṆḌA *
+
 
 113
 
@@ -5030,7 +5030,7 @@ booty from the various kingdoms, as well as my own, O timid one! (17)
 
 114
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Full of confidence in me, seek pleasures and boldly give orders to me. When you enjoy pleasures out of kindness to me, let your relatives too enjoy life. (24)
 
@@ -5093,7 +5093,7 @@ delight even in my own principal consort, Mandodarī. (30)
 
 “Therefore, drink, sport, revel and enjoy pleasures. Bestow on your relatives the immense store of wealth that you will own from now onwards as well as the earth that will now be yours. Enjoy you life according to your pleasure, depending on me, O beloved one, and, reaching your presence, let your relatives too enjoy life. (35)
 
-* SUNDARAKĀṆḌA *
+
 
 115
 
@@ -5155,7 +5155,7 @@ Placing a straw between herself and Rāvaṇa in order to avoid direct contact w
 
 116
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 conduct of the virtuous. Others' wives too deserve to be protected by you in the same way as your own, O prowler of the night! (7)
 
@@ -5223,7 +5223,7 @@ conduct of the virtuous. Others' wives too deserve to be protected by you in the
 विदितः सर्वधर्मज्ञः शरणागतवत्सलः।
 तेन मैत्री भवतु ते यदि जीवितुमिच्छसि ॥ २० ॥
 
-* SUNDARAKĀṆḌA *
+
 
 117
 
@@ -5284,7 +5284,7 @@ conduct of the virtuous. Others' wives too deserve to be protected by you in the
 
 118
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “It is not possible for you to stand within the sight of Śrī Rāma and Lakṣmaṇa even on smelling their presence, any more than a dog would tarry within the gaze of a pair of tigers. (31)
 
@@ -5332,7 +5332,7 @@ with Lakṣmaṇa (son of Sumitrā), take away your life with his shafts even as
 
 “The love that has sprung up in my heart for you restrains my anger even as a
 
-* SUNDARAKĀṆḌA *
+
 
 119
 
@@ -5399,7 +5399,7 @@ Restored to confidence by them, Sītā addressed to Rāvaṇa, the suzerain lord
 
 120
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 anywhere you will not escape the consequences of the sinful proposal you have made to the consort of Śrī Rāma, who is endowed with immense energy, O vile ogre! (14-15)
 
@@ -5449,7 +5449,7 @@ anywhere you will not escape the consequences of the sinful proposal you have ma
 
 Turning his cruel eyes round in anger on hearing the reply of Sītā, the glorious Rāvaṇa, the suzerain lord of ogres, looked askance at the daughter of Janaka-Rāvaṇa, who resembled a dark cloud had enormous arms and neck, possessed the courage and gait of a lion, had a flaming tongue and frightful eyes, who looked very tall with the crest of his diadem shaking as a result of his anger, who was adorned with excellent garlands and smeared with exquisite sandal-paste and who wore a garland of red flowers and a red costume, was decked with brilliant armlets and encircled at his waist with a costly dark-blue girdle, obviously made of sapphires, thus presenting the appearance of Mount Mandāra encompassed by the serpent Vāsuki at the time of the churning of the ocean for extracting nectar. (23—26)
 
-* SUNDARAKĀṆḌA *
+
 
 121
 
@@ -5507,7 +5507,7 @@ Having threatened Sītā, a princess of Mithilā, as aforesaid, King Rāvaṇa, 
 
 122
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इच्छतीं कामयानस्य प्रीतिर्भवति शोभना।
 एवमुक्तस्तु राक्षस्या समुत्क्षिप्तस्ततो बली।
@@ -5556,7 +5556,7 @@ cry in terror, sallied forth from that grove; so the tradition goes. (1)
 
 Rāvaṇa, the king of ogres, having left
 
-* SUNDARAKĀṆḌA *
+
 
 123
 
@@ -5625,7 +5625,7 @@ in terror, is a son of Viśravā. You deserve to be the wife of the aforesaid lo
 
 124
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Another ogress, Vikaṭā by name, for her part, addressed the following words to Sītā: “He has come by your side, by whose terrible prowess the Nāgas, Gandharvas and demons were routed more than once on the battlefield. (14)
 
@@ -5679,7 +5679,7 @@ Thereupon all those ogresses of loathsome appearance addressed the following har
 
 “A human being that you are, you prize the wifehood of a human being alone. Pray,
 
-* SUNDARAKĀṆḌA *
+
 
 125
 
@@ -5758,7 +5758,7 @@ Assailing on all sides Sītā, who was trembling with fear, enraged as they were
 
 126
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Nay, quickly holding up their axes, highly enraged, as they were, they said, “She does not deserve to have Rāvaṇa, the suzerain lord of ogres, for her husband.” (16)
 
@@ -5824,7 +5824,7 @@ Then clenching her fist and menacing Sītā, another ogress with hanging breasts
 बहून्यप्रतिरूपाणि वचनानि सुदुर्मते।
 अनुक्रोशान्मुदुत्वाच्च सोढानि तव मैथिलि ॥ २९ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 127
 
@@ -5884,7 +5884,7 @@ Then clenching her fist and menacing Sītā, another ogress with hanging breasts
 
 128
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 नात्र कश्चन संदेहः खादतेति स वक्ष्यति।
 ततस्त्वजामुखी नाम राक्षसी वाक्यमब्रवीत् ॥ ४३ ॥
@@ -5944,7 +5944,7 @@ Greatly alarmed when threatened thus by the ogresses, Sītā, a princess of the 
 
 Surrounded by ogresses, stricken with grief, as it were, due to her having been reproached by Rāvaṇa, the aforesaid Sītā, who resembled the daughter of a god, did not find rest. (4)
 
-* SUNDARAKĀṆḌA *
+
 
 129
 
@@ -6011,7 +6011,7 @@ again, “O Lakṣmaṇa, O Kausalyā, my mother-in-law, O Sumitrā ! (10-11)
 
 130
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 कीदृशं तु महापापं मया देहान्तरे कृतम्।
 तेनेदं प्राप्यते घोरं महादुःखं सुदारुणम् ॥ १८ ॥
@@ -6067,7 +6067,7 @@ was forcibly borne away, screaming after being overpowered by the ogre, Rāvaṇ
 
 “This heart of mine is surely like iron or
 
-* SUNDARAKĀṆḌA *
+
 
 131
 
@@ -6137,7 +6137,7 @@ proof against age and death in that it does not get riven even through agony. (6
 
 132
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 यदि मामिह जानीयाद् वर्तमानां हि राघवः।
 अद्य बाणैरभिकृद्भः कुर्याल्लोकमराक्षसम् ॥ २० ॥
@@ -6208,7 +6208,7 @@ conclude that the city will at no distant date be shorn of its splendour. (26)
 
 “Again, the aforesaid death of mine has
 
-* SUNDARAKĀṆḌA *
+
 
 133
 
@@ -6276,7 +6276,7 @@ eminent Ṛṣis, who are able to look on my husband, the heroic Śrī Rāma of 
 
 134
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Or, the two gallant brothers, Śrī Rāma and Lakṣmaṇa, have been caused to be killed through some trick by the evil-minded Rāvaṇa, the lord of ogres. (45)
 
@@ -6332,7 +6332,7 @@ following harsh words, which harped on the same point and spelt disaster to them
 सीतां ताभिरनार्याभिर्दृष्ट्वा संतर्जितां तदा ।
 राक्षसी त्रिजटा वृद्धा प्रबुद्धा वाक्यमब्रवीत् ॥ ४ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 135
 
@@ -6421,7 +6421,7 @@ scion of Raghu, who shone brightly with Lakṣmaṇa, was further beheld by me a
 
 136
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 resembling a hill, with as many as four tusks. Wearing white garlands and clad in white robes and ablaze with their own effulgence, nay, shining brightly like the sun, the two brothers for their part then stood by the side of Sītā, Janaka's daughter. Thereupon Sītā actually mounted the shoulders of that tusker led by her husband, standing in the air in front of the aforesaid white hill. Springing up from the lap of her husband, the lotus-eyed lady was then seen by me gently touching the moon and the sun* with her hands. Then that jewel among elephants, ridden by the aforesaid two brothers as well as by the large-eyed Sītā took its stand on Laṅkā. I saw in another dream that wearing a white garland and clad in a white robe, Śrī Rāma, a scion of Kakutstha, himself came here along with his consort, Sītā, in a chariot drawn by eight white bullocks and was accompanied by Lakṣmaṇa, too. Then in another dream the valiant Śrī Rāma of unfailing prowess, a jewel among men was seen by me on the move towards a northerly direction having ascended the celestial aerial car, Puṣpaka, shining brightly as the sun. In this way was Śrī Rāma, who vies with Lord Viṣṇu in prowess, seen by me in a dream alongwith his younger brother, Lakṣmaṇa, and his wife, Sītā. Surely Śrī Rāma, who is endowed with extraordinary energy, is incapable of being conquered by gods and demons or even by ogres or by any other people, even as heaven cannot be won by sinful men.
 
@@ -6467,7 +6467,7 @@ or a tree, to get bedaubed with excrement, weeping/and death as well as copulati
 
 "Whoever touches with one's hand the orb of the sun or that of the moon bids fair to attain a large dominion."
 
-* SUNDARAKĀṆḌA *
+
 
 137
 
@@ -6529,7 +6529,7 @@ direction, he entered a dry lake even without mud. Tying the ten-headed monster 
 
 138
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 यस्या होवविधः स्वप्नो दुःखितायाः प्रदृश्यते।
 सा दुःखैर्बहुभिर्मुक्ता प्रियं प्राप्नोत्यनुत्तमम् ॥ ४४ ॥
@@ -6594,7 +6594,7 @@ Rejoiced at the prospect of her husband's triumph, that shy youthful lady thereu
 
 Thus ends Canto Twenty-seven in the Sundarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* SUNDARAKĀṆḌA *
+
 
 139
 
@@ -6653,7 +6653,7 @@ Encircled by the ogresses and repeatedly intimidated with threats by Rāvaṇa, 
 
 140
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Alas, it is painful indeed that two months (on the expiry of which I am going to be killed by Rāvaṇa) will before long slip away past me, afflicted for long, even as the night at the end of which a thief, placed in fetters under the detention orders of a king is to be executed, passes away in his cell. (7)
 
@@ -6713,7 +6713,7 @@ arms, whose countenance resembles the full moon, you, who are friendly to and be
 मोघं चरित्वाथ तपो व्रतं च
 त्यक्ष्यामि धिग्जीवितमल्पभाग्याम् ॥ १५ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 141
 
@@ -6772,7 +6772,7 @@ beyond reproach, was nevertheless agonized, utterly bereft of joy and sore distr
 
 142
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 The charming left eye alone, of that lady of lovely locks—which was screened with rows of slanting eyelashes, was dark in the middle, large and white all round and coppery at the edge—began repeatedly to throb like a lotus struck gently by a fish. (2)
 
@@ -6824,7 +6824,7 @@ Completely rid of grief, her exhaustion fully relieved, her fever allayed and he
 
 Thus ends Canto Twenty-nine in the Sundarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* SUNDARAKĀṆḌA *
+
 
 143
 
@@ -6886,7 +6886,7 @@ He said to himself: 'The lady found by me here is the same Sītā whom many thou
 
 144
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 निशाचरीणां प्रत्यक्षमक्षमं चाभिभाषितम्।
 कथं नु खलु कर्तव्यमिदं कृच्छ्रगतो ह्यहम् ॥ ११ ॥
@@ -6953,7 +6953,7 @@ He said to himself: 'The lady found by me here is the same Sītā whom many thou
 
 'Surrounding me from all sides, the ogresses of loathsome appearance and endowed with extraordinary might will make an effort to kill or capture me. (23)
 
-* SUNDARAKĀṆḌA *
+
 
 145
 
@@ -7026,7 +7026,7 @@ and Sugrīva will in that case be defeated. (30)
 
 146
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 भूताश्चार्था विरुध्यन्ति देशकालविरोधिताः ।
 विकल्पं दूतमासाद्य तमः सूर्योदये यथा ॥ ३७ ॥
@@ -7073,7 +7073,7 @@ Addressing himself to the young wife of Śrī Rāma and remaining seated in the 
 
 Thus ends Canto Thirty in the Sundarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* SUNDARAKĀṆḌA *
+
 
 147
 
@@ -7129,7 +7129,7 @@ was endowed with a vast splendour and well-known all over the earth bounded by t
 
 148
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 जनस्थानवधं श्रुत्वा निहतौ खरदूषणौ।
 ततस्त्वमर्षापहता जानकी रावणेन तु ॥ १० ॥
@@ -7174,7 +7174,7 @@ Glancing from side to side as well as up and down, she espied the aforesaid Hanu
 
 Thus ends Canto Thirty-one of the Sundarakāṇḍa in the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* SUNDARAKĀṆḌA *
+
 
 149
 
@@ -7233,7 +7233,7 @@ Getting utterly unconscious at the very sight of Hanumān, the aforesaid Sītā 
 
 150
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स्वप्नो मयायं विकृतोऽद्य दृष्टः
 
@@ -7299,7 +7299,7 @@ Getting utterly unconscious at the very sight of Hanumān, the aforesaid Sītā 
 
 Thus ends Canto Thirty-two of the Sundarakāṇḍa in the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* SUNDARAKĀṆḌA *
+
 
 151
 
@@ -7355,7 +7355,7 @@ the Yakṣas or the Kinnaras, O charming one? (5)
 
 152
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 रोदनादतिनिःश्वासाद् भूमिसंस्पर्शनादपि।
 न त्वां देवीमहं मन्ये राज्ञः संज्ञावधारणात् ॥ १० ॥
@@ -7420,7 +7420,7 @@ Delighted at the mention of Śrī Rāma on hearing the utterance of the monkey, 
 स राजा सत्यवाग् देव्या वरदानमनुस्मरन्।
 मुमोह वचनं श्रुत्वा कैकेय्याः क्रूरमप्रियम् ॥ २२ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 153
 
@@ -7477,7 +7477,7 @@ Thus ends Canto Thirty-three of the Sundarakāṇḍa in the glorious Rāmāya�
 
 154
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चतुस्त्रिंशः सर्गः
 
@@ -7530,7 +7530,7 @@ Hearing the aforesaid reply of Sītā, who was stricken with grief, Hanumān, so
 
 The nearer did the celebrated Hanumān draw to her, the more did that Sītā suspect him to be Rāvaṇa. (9)
 
-* SUNDARAKĀṆḌA *
+
 
 155
 
@@ -7601,7 +7601,7 @@ Drawing a deep audible breath on seeing him while bowing down to her, Sītā, ho
 
 156
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 monkey in a dream; while placidity of mind, which is a harbinger of good fortune, has been attained by me. (22)
 
@@ -7663,7 +7663,7 @@ Coming to know the decision of Sītā, Hanumān, sprung from the loins of the wi
 राजा वानरमुख्यानां स त्वां कौशलमब्रवीत्।
 नित्यं स्मरति ते रामः ससुग्रीवः सलक्ष्मणः ॥ ३६ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 157
 
@@ -7714,7 +7714,7 @@ Hearing the aforesaid story of Śrī Rāma from the lips of Hanumān, the foremo
 
 158
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Describe in detail once more those distinctive marks which exist on the person of Śrī Rāma as well as on that of Lakṣmaṇa, O Hanumān, so that grief may not take possession of me. (3)
 
@@ -7773,7 +7773,7 @@ He said: “Luckily enough for me, O princess of the Videha territory, whose eye
 
 “He is well-versed in Yajurveda and is highly respected by the knowers of Veda. He is highly proficient in the science of archery as well as in the Vedas as also in the sciences auxiliary to the Vedas. (14)
 
-* SUNDARAKĀṆḌA *
+
 
 159
 
@@ -7825,7 +7825,7 @@ We have read in the Bālakāṇḍa—
 
 160
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 breasts, nails, the hands and the feet$^{1}$), ten ample limbs, viz., the chest, the head, the forehead, the neck, the arms, the shoulders, the navel, the feet, the back and the ears$^{2}$, is spread through by reason of three, (viz., splendour, renown and glory), has two white limbs, viz., the teeth and the eyes, is elevated in six limbs viz., the flanks, the abdomen, the breast, the nose, the shoulders and the forehead$^{3}$; small, thin, fine or sharp in nine, viz., the hair, the moustaches and the beard, nails, the hair on the body, the skin, the finger-joints, the *membrum virile* acumen and perception$^{4}$ and pursues religious merit, worldly riches and sensual delight in three periods, viz., the forenoon, midday and afternoon. (20)
 
@@ -7874,7 +7874,7 @@ Ensconced on that peak, that ruler of monkeys despatched me alone with expeditio
 सर्वभूतेषु निर्दिष्टा उन्नतास्तु सुखप्रदाः ॥
 4. केशशमश्रुतखलौमत्वगङ्गुलिपर्वशेषोबुद्धिदर्शनानि ।
 
-* SUNDARAKĀṆḌA *
+
 
 161
 
@@ -7923,7 +7923,7 @@ action by your (Sītā's) loss.
 
 162
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 mountain* reputed to be the seat of the fire of universal destruction is ever burning with a mighty blazing fire, O noble lady! (45)
 
@@ -7986,7 +7986,7 @@ mountain* reputed to be the seat of the fire of universal destruction is ever bu
 
 तत्र माल्यव्रतः शृङ्गे दृश्यते हव्यवाट् सदा। नाम्ना संवर्तको नाम कालाग्निर्भरतर्षभ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 163
 
@@ -8046,7 +8046,7 @@ the Videha territory, as also the destruction of Vāli, his own father, and our 
 
 164
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Feeling happy and strong, resolved as they were to discover you, all the monkeys headed by Aṅgada then arrived near the seashore. (70)
 
@@ -8095,7 +8095,7 @@ and is endowed with auspicious bodily marks, nay, is devoted to the well-being o
 
 “I shall win, O godlike lady, this renown of having discovered you. Nay, having killed Rāvaṇa, the suzerain lord of ogres, with his sons and kinsfolk, Śrī Rāma, a scion of Raghu, will soon meet you. There is a mountain, Mālyavān by name, which is the foremost of mountains, O princess of the Videha territory ! From that mountain, which constituted the abode of Keśarī, the monkey Keśarī repaired to the Gokarṇa mountain. Enjoined by celestial sages, the aforesaid mighty monkey, who is my father, killed Sambasādana (a demon of that name, who oppressed the people on the seaside) on that sacred spot on the seashore. (80—82)
 
-* SUNDARAKĀṆḌA *
+
 
 165
 
@@ -8146,7 +8146,7 @@ Thus ends Canto Thirty-five of the Sundarakāṇḍa in the glorious Rāmāyaṇ
 
 166
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षट्त्रिंशः सर्गः
 
@@ -8195,7 +8195,7 @@ Treating Hanumān with regard, that youthful lady, who was delighted to receive 
 
 “Nay, the sea which extends to a distance of one hundred Yojanas (or eight hundred miles) and is an abode of alligators,
 
-* SUNDARAKĀṆḌA *
+
 
 167
 
@@ -8263,7 +8263,7 @@ has been treated by you like the impression of a cow's hoof on the soil while cr
 
 168
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सुखानामुचितो नित्यमसुखानामनुचितः ।
 दुःखमुत्तरमासाद्य कच्चिद् रामो न सीदति ॥ २१ ॥
@@ -8329,7 +8329,7 @@ has been treated by you like the impression of a cow's hoof on the soil while cr
 
 Having addressed these words of sweet content and full of great import to that leader of monkeys, Hanumān, the charming lady
 
-* SUNDARAKĀṆḌA *
+
 
 169
 
@@ -8393,7 +8393,7 @@ O noble lady, Śrī Rāma does not find rest any more than an elephant wounded b
 
 170
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 नित्यं ध्यानपरो रामो नित्यं शोकपरायणः ।
 नान्यच्चिन्तयते किंचित् स तु कामवशं गतः ॥ ४३ ॥
@@ -8443,7 +8443,7 @@ That daughter of Janaka, a ruler of the Videha territory, whose grief (over the 
 
 aforesaid Sītā, whose face resembled the full moon, made the following reply in consonance with righteousness and material good : (I)
 
-* SUNDARAKĀṆḌA *
+
 
 171
 
@@ -8516,7 +8516,7 @@ and two months still remain, O Hanumān, out of the time-limit of twelve months 
 
 172
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 pure and the virtues existing in him are numerous. (14)
 
@@ -8579,7 +8579,7 @@ To Sītā, who was speaking volubly as aforesaid, nay, who had been emaciated th
 
 * A consort of the moon-god, presiding over a constellation of the same name.
 
-* SUNDARAKĀṆḌA *
+
 
 173
 
@@ -8647,7 +8647,7 @@ The redoubtable Hanumān, who resembled a mountain and had a coppery countenance
 
 174
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “There is capacity in me to carry this entire city of Laṅkā including its hills and woodlands as well as its market-places, defensive walls and arches, with its very lord, Rāvaṇa. (39)
 
@@ -8716,7 +8716,7 @@ which is equal to that of the wind, may render me unconscious. (45)
 युध्यमानस्य रक्षोभिस्ततस्तैः क्रूरकर्मभिः।
 प्रपतेयं हि ते पृष्ठाद् भयार्ता कपिसत्तम ॥ ५२ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 175
 
@@ -8784,7 +8784,7 @@ which is equal to that of the wind, may render me unconscious. (45)
 
 176
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 न देवगन्धर्वभुजङ्गराक्षसा
 भवन्ति रामेण समा हि संयुगे ॥ ६५ ॥
@@ -8828,7 +8828,7 @@ Hearing the foregoing reply, that tiger
 
 among monkeys, who was gratified by the aforesaid plea, and was a past-master in expression, thereupon submitted to Sītā as follows : (1)
 
-* SUNDARAKĀṆḌA *
+
 
 177
 
@@ -8889,7 +8889,7 @@ Requested thus by Hanumān, Sītā, who resembled the daughter of a god, replied
 
 178
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततो मांससमायुक्तो वायसः पर्यतुण्डयत्।
 तमहं लोष्टमुद्यम्य वारयामि स्म वायसम् ॥ १५ ॥
@@ -8951,7 +8951,7 @@ Requested thus by Hanumān, Sītā, who resembled the daughter of a god, replied
 
 “That crow, the foremost of birds, was, they say, no other than the son of Indra (the ruler of gods), who had quickly descended from the heaven to the earth, vying as he did with the wind in speed. (27)
 
-* SUNDARAKĀṆḌA *
+
 
 179
 
@@ -9019,7 +9019,7 @@ Requested thus by Hanumān, Sītā, who resembled the daughter of a god, replied
 
 180
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 motiveless compassion is the highest virtue. Nay, I know you to be endowed with extraordinary valour, extraordinary vigour and extraordinary might, limitless in time or space, incapable of being disturbed and resembling the ocean in profundity, the lord of the earth, including the oceans and a compeer of Indra, the lord of paradise. (39-40)
 
@@ -9076,7 +9076,7 @@ Hearing the aforesaid piteous appeal uttered by Sītā, a princess of the Videha
 
 “Nay, killing Rāvaṇa, who is ferocious on the field of battle, along with his kinsfolk, Śrī Rāma, a scion of Raghu, O large-eyed lady, will take you back to his own city. (51)
 
-* SUNDARAKĀṆḌA *
+
 
 181
 
@@ -9125,7 +9125,7 @@ having offered profound respects to and pacified his father and mother, followed
 
 182
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ऊर्ध्वं मासात्र जीवेयं सत्येनाहं ब्रवीमि ते।
 रावणेनोपरुद्धां मां निकृत्या पापकर्मणा।
@@ -9168,7 +9168,7 @@ Rejoiced at heart to receive that valuable and superb jewel, borne on her person
 
 Thus ends Canto Thirty-eighth of the Sundarakāṇḍa in the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* SUNDARAKĀṆḌA *
+
 
 183
 
@@ -9222,7 +9222,7 @@ Having parted with her jewel, Sītā then spoke to Hanumān forthwith as follows
 
 184
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 नित्यमुत्साहयुक्तस्य वाचः श्रुत्वा मयेरिताः ।
 वर्धिष्यते दाशरथेः पौरुषं मदवाप्तये ॥ ११ ॥
@@ -9291,7 +9291,7 @@ Gazing again and again on Hanumān, who had then made ready to depart, Sītā ut
 
 “Grief born of your absence, O monkey, will torment me further, burning me, as it were, seized as I already am with agony after agony. (23)
 
-* SUNDARAKĀṆḌA *
+
 
 185
 
@@ -9357,7 +9357,7 @@ Hearing the aforesaid utterance of Sītā, which was full of significance, polit
 
 186
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 असकृत् तैर्महोत्साहैः ससागरधराधरा।
 प्रदक्षिणीकृता भूमिर्वायुमार्गानुसारिभिः ॥ ३७ ॥
@@ -9422,7 +9422,7 @@ Having comforted Sītā, a princess of the Videha territory, as above, and makin
 नखदंष्ट्रायुधान् वीरान् सिंहशार्दूलविक्रमान्।
 वानरान् वारणेन्द्राभान् क्षिप्रं द्रक्ष्यसि संगतान् ॥ ४९ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 187
 
@@ -9479,7 +9479,7 @@ advance her own interests : (1)
 
 188
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 यथा तं पुरुषव्याघ्रं गात्रैः शोकाभिकरशितैः।
 संस्पृशेयं सकामाहं तथा कुरु दयां मयि ॥ ३ ॥
@@ -9544,7 +9544,7 @@ Hearing the aforesaid plaintive message of Sītā, uttered with tears in her eye
 तावुभौ पुरुषव्याघ्रौ राजपुत्रावनिन्दितौ।
 त्वदर्शनकृतोत्साहौ लङ्कां भस्मीकरिष्यतः ॥ १५ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 189
 
@@ -9603,7 +9603,7 @@ Thus ends Canto Forty of the Sundarakāṇḍa in the glorious Rāmāyaṇa of V
 
 190
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकचत्वारिंशः सर्गः
 
@@ -9652,7 +9652,7 @@ Moving from that place, when he had been honoured by Sītā with excellent words
 
 'If I return to the abode of Sugriva (the lord of monkeys) today, having ascertained the truth as to who will predominate in an encounter between the enemy and ourselves, and also having determined the future course of action in this very journey, then only will
 
-* SUNDARAKĀṆḌA *
+
 
 191
 
@@ -9740,7 +9740,7 @@ With the shrieks of various birds, the brinks of its ponds demolished, its coppe
 
 192
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 shoots withered, and with the myriads of its trees and creepers dried up, that pleasure-grove did not look bright on that occasion, as though it had been destroyed by a wild fire. Those creepers too with their coverings in the form of leaves displaced looked like women with their robes in disarray. (17-18)
 
@@ -9787,7 +9787,7 @@ and the crash of falling trees. (1)
 रक्षसां च निमित्तानि क्रूराणि प्रतिपेदिरे ॥ २ ॥
 Put to flight, being panic-stricken, beasts
 
-* SUNDARAKĀṆḌA *
+
 
 193
 
@@ -9856,7 +9856,7 @@ Arrived in the presence of Rāvaṇa, the ugly-faced ogresses for their part rep
 
 194
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 वासवस्य भवेद् दूतो दूतो वैश्रवणस्य वा।
 प्रेषितो वापि रामेण सीतान्वेषणकाङ्क्षया ॥ १५ ॥
@@ -9923,7 +9923,7 @@ They were all big-bellied, had large teeth and of terrible form, were endowed wi
 
 Duly approaching the aforesaid monkey, who was stationed at the archway, ready to fight, they darted at him with great vehemence like moths rushing towards a flame. (27)
 
-* SUNDARAKĀṆḌA *
+
 
 195
 
@@ -9997,7 +9997,7 @@ Laying hold on that bar, he struck the rangers of the night even as Garuḍa (so
 
 196
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Nay, grasping the bar tightly, the gallant Hanumān, son of the wind-god, ranged through the air and began to destroy the ogres even as Indra (the god with a thousand eyes) killed the Daityas (sons of Diti) with his thunderbolt. (41)
 
@@ -10043,7 +10043,7 @@ Hanumān, therefore, stood revolving in his mind as follows : 'Exhibiting my str
 
 Taking a leap, Hanumān, the foremost of monkeys, climbed up the edifice of the sanctuary, which was high as a peak of Mount Meru. (3)
 
-* SUNDARAKĀṆḌA *
+
 
 197
 
@@ -10113,7 +10113,7 @@ Impelled by that great noise, a hundred gigantic guards posted at the sanctuary 
 
 198
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 extensive whirlpool in the stream of the Gaṅgā. The infuriated Hanumān thereupon took on a terrible aspect. Tearing up with impetuosity a pillar, decked with gold, and bristling with a hundred edges of that edifice, the great Hanumān, sprung from the loins of the wind-god and endowed with extraordinary might, then began to spin it round, so that fire was generated from it due to its attrition with other pillars and the edifice was set ablaze with it. (13—18)
 
@@ -10164,7 +10164,7 @@ Dispatched by Rāvaṇa to capture Hanumān, Jambumāli is killed in battle by t
 
 Commanded by Rāvaṇa, the lord of ogres, Jambumāli, the eminent, mighty and
 
-* SUNDARAKĀṆḌA *
+
 
 199
 
@@ -10232,7 +10232,7 @@ Seizing the same iron club (which he had made use of in the very first instance)
 
 200
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Hanumān, whose body was covered with darts and who was now overcome with violent anger, spun it with impetuosity. (15)
 
@@ -10286,7 +10286,7 @@ Having made short work of the seven sons of Rāvaṇa's chief minister too, Hanu
 
 Commanded by Rāvaṇa, the ruler of ogres, the aforesaid seven sons of his chief minister—who were splendid as fire—were followed by a large army, armed with bows and endowed with extraordinary might and immeasurable prowess, and were the foremost of those trained in the science of arms and skilled in the use of missiles and were eager to excel one another in fighting, sallied forth, highly delighted, from that palace
 
-* SUNDARAKĀṆḌA *
+
 
 201
 
@@ -10354,7 +10354,7 @@ Rivers were presented to the view by blood flowing on the way. Nay, Laṅkā see
 
 202
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 to shriek wild due to various cries uttered by its denizens. (16)
 
@@ -10412,7 +10412,7 @@ large army with you and accompanied by horses, chariots and elephants and let th
 भवेदिन्द्रेण वा सृष्टमस्मदर्थं तपोबलात् ।
 सनागयक्षगन्धर्वदेवासुरमहर्षयः ॥ ८ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 203
 
@@ -10462,7 +10462,7 @@ Bowing to the command of their master, all the generals, who were endowed with e
 
 204
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 quarters, assailed him with their dreadful weapons of all descriptions from every side. Five sharp and white polished steel shafts with yellow (golden) tips were dug into his head by Dūrdhara and shone like petals of lilies causing no more pain to him than lilies.
 
@@ -10542,7 +10542,7 @@ Reaching a sal tree and uprooting it, Hanumān, sprung from the loins of the win
 
 Finding all those three killed by Hanumān, who was full of agility and laughing heartily, the mighty Praghasa, who was endowed with extraordinary swiftness, arrived next, as also the powerful Bhāsakarṇa, highly enraged, taking a dart in
 
-* SUNDARAKĀṆḌA *
+
 
 205
 
@@ -10607,7 +10607,7 @@ Hanumān in combat, is killed
 
 206
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Hearing of his five generals killed with their followers and vehicles destroyed by Hanumān, Rāvaṇa, the king, for his part looked intently and inquisitively on Prince Akṣa, who stood face to face with him and was violent in combat and inclined to fighting.
 
@@ -10689,7 +10689,7 @@ Nay, filling the firmament as well as the earth including its mountains with the
 
 Hanumān, who stood ready for the annihilation of ogres like the destructive fire raging at the time of universal dissolution, was astonished to see the prince, who was a mere boy before him, arrived to give battle to him. Hanumān was struck with wonder to know that he was son of the great Rāvaṇa, the said Akṣa, whose eyes shone like that
 
-* SUNDARAKĀṆḌA *
+
 
 207
 
@@ -10779,7 +10779,7 @@ Hanumān, the foremost of ministers of
 
 208
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the suzerain lord of monkeys, now rejoiced and grew in size on perceiving that offspring of Rāvaṇa with his marvellous weapons and picturesque bow raised upward on the field of battle, inclined as he was to fighting. (16)
 
@@ -10837,7 +10837,7 @@ Darting like the wind between the arrows and thereby escaping those arrows of Ak
 अवैक्षताक्षं बहुमानचक्षुषा
 जगाम चिन्तां स च मारुतात्मजः ॥ २४ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 209
 
@@ -10899,7 +10899,7 @@ Coursing through the airspace, that valiant Hanumān, sprung from the loins of t
 
 210
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Overpowered by Hanumān, the counsellor of Sugriva (the suzerain lord of monkeys), nay, struck by him with his palm, that well-known huge chariot of Akṣa, which had its interior broken, its pole overturned and horses already killed, thereupon fell to the earth from the sky. (32)
 
@@ -10953,7 +10953,7 @@ Having dispatched Prince Akṣa, who vied with Jayanta, Indra's son, and was dis
 
 Thus ends Canto Forty-seven of the Sundarakāṇḍa in the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* SUNDARAKĀṆḌA *
+
 
 211
 
@@ -11009,7 +11009,7 @@ dependent on Indra, the ruler of gods, could stand on the field of battle. (3)
 
 212
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 your prowess as well as the might of your missiles in combat is equal to mine. Finding you in the thick of fight, my mind does not give way to despair, being assured of victory. (6)
 
@@ -11065,7 +11065,7 @@ your prowess as well as the might of your missiles in combat is equal to mine. F
 ततः पितुस्तद्वचनं निशम्य
 प्रदक्षिणं दक्षसुतप्रभावः ।
 
-* SUNDARAKĀṆḌA *
+
 
 213
 
@@ -11138,7 +11138,7 @@ Perceiving the chariot bearing the standard of Indra (seized by him as a token o
 
 214
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 towards him, Hanumān, who was full of ardour, raised a great shout and grew to immense proportions. (24)
 
@@ -11199,7 +11199,7 @@ Both the aforesaid warriors, who were richly endowed with swiftness and skilled 
 
 The ogre found no opportunity to hit Hanumān nor did the son of the wind-god find any opportunity to catch hold of and overpower that high-minded ogre. Closing with one another, the two warriors, who were equal in prowess to gods, grew unbearable to each other. (33)
 
-* SUNDARAKĀṆḌA *
+
 
 215
 
@@ -11260,7 +11260,7 @@ Reflecting on the potency of the missile, the grace of Brahmā enjoyed by him an
 
 216
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अस्त्रेणापि हि बद्धस्य भयं मम न जायते।
 पितामहमहेंद्राभ्यां रक्षितस्यानिलेन च ॥ ४३ ॥
@@ -11317,7 +11317,7 @@ Even though set free by the missile, Hanumān did not reveal himself as aware of
 
 Being struck by cruel ogres with their severe fists, the aforesaid monkey was
 
-* SUNDARAKĀṆḌA *
+
 
 217
 
@@ -11403,7 +11403,7 @@ Thus ends Canto Forty-eighth of the Sundarakāṇḍa in the glorious Rāmāya�
 
 218
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकोनपञ्जाशः सर्गः
 
@@ -11444,7 +11444,7 @@ Astonished at the feat of Indrajit (resulting in his own capture and his being d
 
 suzerain lord of ogres, who, though endowed with extraordinary splendour, shone further with a glittering and precious diadem of gold encircled with strings of pearls, as well as with lovely gold ornaments inlaid with diamonds and studded with costly gems, which appeared as though evolved with the mind; who was attired in valuable silk and daubed with red sandal-paste and painted with various peculiar designs; who looked wonderful with his twenty terrible-looking, yet shapely ruddy eyes, had brilliant, sharp, enormous teeth and protruding lips; who was endowed with extraordinary strength and shone brightly with his ten heads as Mount Mandāra with its peaks infested with snakes of every variety; who was graced with a pearl necklace casting its splendour on his bosom and who not only looked like a mass of blue antimony but with his countenance shining like the full moon also presented the appearance of a cloud illumined by the rising sun; who was distinguished by twenty terrible arms adorned with Keuras (a kind of jewel), smeared with excellent sandal-paste and decked with shining Aṅgadas (another ornament) and looking like as many five-hooded serpents with their fingers appearing like hoods; who was comfortably seated on a big, wonderful and excellent throne of crystal, rendered picturesque by being inlaid with jewels and overspread with an exquisite covering; who was duly waited upon at close quarters on all sides by young women sumptuously adorned, whisk in hand; who was proud of his might and had four counselors, belonging to the ogre race, who knew the secret of good counsel, viz.,
 
-* SUNDARAKĀṆḌA *
+
 
 219
 
@@ -11493,7 +11493,7 @@ Thus ends Canto Forty-nine of the Sundarakāṇḍa in the glorious Rāmāyaṇa
 
 220
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # पञ्चाशः सर्गः
 
@@ -11543,7 +11543,7 @@ Hearing the command of Rāvaṇa, Prahasta spoke to Hanumān as follows: “Take
 यदि वैश्रवणस्य त्वं यमस्य वरुणस्य च।
 चारुरूपमिदं कृत्वा प्रविष्टो नः पुरीमिमाम् ॥ ९ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 221
 
@@ -11597,7 +11597,7 @@ Thus ends Canto Fifty of the Sundarakāṇḍa in the glorious Rāmāyaṇa of V
 
 222
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकपञ्चाशः सर्गः
 
@@ -11652,7 +11652,7 @@ Looking intently on Rāvaṇa, the ten-headed monster, who was endowed with extr
 
 "After killing Vāli on the field of battle, Sugrīva was re-installed by that prince, Śrī Rāma, on the throne as the lord of hordes of monkeys and bears. (10)
 
-* SUNDARAKĀṆḌA *
+
 
 223
 
@@ -11715,7 +11715,7 @@ Looking intently on Rāvaṇa, the ten-headed monster, who was endowed with extr
 
 224
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 लक्षितेयं मया सीता तथा शोकपरायणा।
 गृहे यां नाभिजानासि पञ्चास्यामिव पत्रगीम् ॥ २३ ॥
@@ -11775,7 +11775,7 @@ Looking intently on Rāvaṇa, the ten-headed monster, who was endowed with extr
 
 * This is corroborated by the Śruti text 'धर्मेण पापमपुदति' one is able to drive away sin through righteousness. Expiatory acts recommended in Smṛti texts also point to the same fact.
 
-* SUNDARAKĀṆḌA *
+
 
 225
 
@@ -11841,7 +11841,7 @@ constitution), their created beings, as well as the entire mobile and immobile c
 
 226
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Brahmā (the creator), the three-eyed Lord Rudra (the god of destruction), the Destroyer of the three cities (built by the demon Maya), and the mighty sovereign Indra, the ruler of gods, are unable to stand before Śrī Rāma, a scion of Raghu, on the field of battle.” (44)
 
@@ -11903,7 +11903,7 @@ Having determined his duty, Vibhīṣaṇa, who was a master of expression, ther
 
 तव चासदृशं वीर कपेरस्य प्रमाणणम् ॥ ६ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 227
 
@@ -11969,7 +11969,7 @@ Hearing the aforesaid reply of Rāvaṇa, which was rooted in unrighteousness, f
 
 228
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “And indeed how can one like you, whose mind has penetrated into the realms of righteousness and worldly prosperity and who has determined his duty by discriminating between what is noble and what is ignoble, remain swayed by anger? For, the powerful never give way to anger. (16)
 
@@ -12030,7 +12030,7 @@ in taking the life of this monkey. Let this punishment in the form of death desc
 
 “For you, who are difficult to conquer even for high-minded gods and demons endowed with prowess and martial ardour, O delight of ogres, it is not meet to crush
 
-* SUNDARAKĀṆḌA *
+
 
 229
 
@@ -12080,7 +12080,7 @@ Hearing the foregoing advice of his younger brother, the high-souled Vibhīṣa�
 
 230
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “In the case of monkeys the tail, they say, is the cherished embellishment. Therefore, let his tail be set on fire at once and let him return with his tail burnt. (3)
 
@@ -12143,7 +12143,7 @@ The rangers of the night, including their womenfolk, children and the aged, were
 परिगृह्य ययुर्हृष्टा राक्षसाः कपिकुञ्जरम्।
 शङ्कुभेरीनिनादैश्च घोषयन्तः स्वकर्मभिः ॥ १७ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 231
 
@@ -12189,7 +12189,7 @@ While the tail of the said Hanumān was being set fire to, the aforementioned og
 
 232
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 re-united with him, please prove cool to Hanumān. (29)
 
@@ -12250,7 +12250,7 @@ While the tail was burning, Hanumān thought to himself, “How does this fire, 
 
 Once more did that elephant among the monkeys reflect awhile as follows: “How could the bondage of one like me at the hands of the vile ogres be congruous? The reprisal of this outrage should be justified on my part so long as there is prowess in me.” Nay, having severed those bonds, Hanumān, the great monkey, who was full of impetuosity, thereupon sprang up in the air with vehemence and the gigantic Hanumān gave a shout. The glorious Hanumān, sprung from the loins of the wind-god, then reached the city gate, which was lofty as a hill-top and from which throngs of ogres had turned away. Having once more assumed in an instant an exceedingly diminutive form, the self-possessed Hanumān, who looked like a mountain in size, cast off his bonds. And becoming completely free, the glorious
 
-* SUNDARAKĀṆḌA *
+
 
 233
 
@@ -12312,7 +12312,7 @@ has been destroyed. The demolition of the citadel alone remains. (3)
 
 234
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततः प्रदीप्तलाङ्गुलः सविद्युदिव तोयदः।
 भवनाग्रेषु लङ्काया विचचार महाकपिः ॥ ६ ॥
@@ -12372,7 +12372,7 @@ Passing over the houses of all, the powerful and glorious monkey forthwith reach
 
 Scattering blazing fire on his tail in that distinguished palace, which was decked
 
-* SUNDARAKĀṆḌA *
+
 
 235
 
@@ -12450,7 +12450,7 @@ Fanned by the wind and inflamed by ghee in the shape of the bodies of ogres,
 
 236
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the fire with smokeless flames, which had persisted in the houses in Laṅkā shot up to the skies and appeared like the fire at the time of universal dissolution. (32)
 
@@ -12534,7 +12534,7 @@ Consumed all of a sudden with ogres, horses, chariots and elephants, flocks of b
 
 A terrific and exceedingly violent clamour was raised by the ogres crying in various
 
-* SUNDARAKĀṆḌA *
+
 
 237
 
@@ -12603,7 +12603,7 @@ Having subjected the entire Laṅkā to
 
 238
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 excessive suffering, the mighty monkey Hanumān, a bull among monkeys, then quenched the fire of his tail in the sea. (49)
 
@@ -12659,7 +12659,7 @@ He who is enraged can never discern what is worth uttering and what ought not to
 
 He alone is truly called a man, who drives away by virtue of sheer forbearance the anger that has sprung up in his heart even as a snake casts off its slough. (6)
 
-* SUNDARAKĀṆḌA *
+
 
 239
 
@@ -12727,7 +12727,7 @@ to me even to yield up my life at this very spot this very day. (12)
 
 240
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 whose mind is set on virtue, be able to survive with his younger brother, Śatrughna?
 (18)
@@ -12804,7 +12804,7 @@ While pondering as aforesaid at that time the steadfastness of Sītā, a godlike
 
 "Indeed a marvellous and difficult feat has been accomplished by Hanumān in
 
-* SUNDARAKĀṆḌA *
+
 
 241
 
@@ -12861,7 +12861,7 @@ Gazing again and again on Hanumān, who had made ready to depart, Sītā, who wa
 
 242
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 rested in some fully covered place, you may leave on the morrow. (3)
 
@@ -12929,7 +12929,7 @@ Hearing the aforesaid speech of Sītā, which was full of significance, polite a
 
 “Surrounded by crores and crores of
 
-* SUNDARAKĀṆḌA *
+
 
 243
 
@@ -13010,7 +13010,7 @@ the Videha territory, as above, and making up his mind to depart, Hanumān (spru
 
 244
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ददर्श सागरं भीमं भीमोरगनिषेवितम्।
 स मारुत इवाकाशं मारुतस्यात्मसम्भवः ॥ ४१ ॥
@@ -13025,7 +13025,7 @@ and had set about moving on all sides, as it were, with its offshoots looking li
 
 Impelled by excessive joy on having successfully completed his mission and impatience to see Śrī Rāma, Hanumān, son of the wind-god, the foremost of monkeys, thus ascended the aforesaid mountain. Pressed under his soles and crushed by his weight, rocks on the lovely peaks of the mountain now fell to pieces with a noise. Ascending that lord of mountains and seeking to bound to the northern shore from the southern shore of the brackish sea, that mighty Hanumān grew in size. Having ascended the mountain, the heroic Hanumān, sprung from the loins of the wind-god, then beheld the formidable sea infested with dreadful serpents. Like the wind rushing through airspace, Hanumān, a veritable tiger among the monkeys, set out from the southern to the northern quarter. Pressed at that moment by Hanumān, Arista, the foremost of mountains, shrieked under his weight and sank into the bowels of the earth with its various living beings and shaking summits amid toppling trees. (23—43)
 
-* SUNDARAKĀṆḌA *
+
 
 245
 
@@ -13076,7 +13076,7 @@ Thus ends Canto Fifty-six of the Sundarakāṇḍa in the glorious Rāmāyaṇa 
 
 246
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # सप्तपञ्चाशः सर्गः
 
@@ -13117,7 +13117,7 @@ Penetrating deep into the masses of clouds and emerging from them again and agai
 
 Having found his way into the various
 
-* SUNDARAKĀṆḌA *
+
 
 247
 
@@ -13169,7 +13169,7 @@ Addressing all the monkeys present there, Jāmbavān, the foremost of monkeys an
 
 248
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सर्वथा कृतकार्योऽसौ हनुमान् नात्र संशयः।
 न ह्यस्याकृतकार्यस्य नाद एवविधो भवेत् ॥ २३ ॥
@@ -13241,7 +13241,7 @@ That great monkey, Hanumān, for his part saluted at that moment his elders as w
 स ताभ्यां पूजितः पूज्यः कपिभिश्च प्रसादितः।
 दृष्टा देवीति विक्रान्तः संक्षेपेण न्यवेदयत् ॥ ३६ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 249
 
@@ -13292,7 +13292,7 @@ Surrounding Aṅgada, Hanumān and Jāmbavān, and full of great joy, the monkey
 
 250
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 उपविष्टा गिरेस्तस्य शिलासु विपुलासु ते।
 श्रोतुकामाः समुद्रस्य लङ्घनं वानरोत्तमाः ॥५०॥
@@ -13347,7 +13347,7 @@ filled with joy, particulars about his errand in the following words : “How wa
 
 “How was the godlike lady traced by you and what reply did she make? Having learnt the truth from you, we shall ponder
 
-* SUNDARAKĀṆḌA *
+
 
 251
 
@@ -13406,7 +13406,7 @@ resolve was mentally made by me: ‘This mountain must be shattered by me.’ Th
 
 252
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 once more to proceed further. Nay, I was permitted by the lofty-minded Maināka to depart. (18-19)
 
@@ -13472,7 +13472,7 @@ Perceiving her mouth wide open, I then assumed a dwarfish form, nay, the same mo
 अर्थसिद्धौ हरिश्रेष्ठ गच्छ सौम्य यथासुखम्।
 समानय च वैदेहीं राघवेण महात्मना ॥ ३३ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 253
 
@@ -13550,7 +13550,7 @@ Having contracted my gigantic form in the twinkling of an eye, and extracting he
 
 254
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दक्षिणं तीरमुदधेलङ्का यत्र गता पुरी।
 अस्तं दिनकरे याते रक्षसां निलयं पुरीम् ॥ ४७ ॥
@@ -13603,7 +13603,7 @@ Having contracted my gigantic form in the twinkling of an eye, and extracting he
 
 “Ascending it, I sighted a golden thicket of plantain trees. Not far from the Śiṁśapā tree, I beheld the youthful Sītā of excellent complexion with eyes resembling lotus petals and a face emaciated through fasting, her hair soiled with dust and her limbs afflicted through grief and agony, clad in a single piece of cloth which she had on her person while being borne away by Rāvaṇa over Kiṣkindhā, devoted to the good of her lord and surrounded on all sides by ugly and cruel ogresses living on flesh and blood even as a doe encircled by tigresses. The lady, who had eyes like those of a fawn,
 
-* SUNDARAKĀṆḌA *
+
 
 255
 
@@ -13668,7 +13668,7 @@ was somehow quickly found by me miserable in the midst of ogresses, intimidated 
 
 256
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 मैथिलीं हन्तुमारब्धः स्त्रीभिर्हाहाकृतं तदा।
 स्त्रीणां मध्यात् समुत्पत्य तस्य भार्या दुरात्मनः ॥ ७६ ॥
@@ -13726,7 +13726,7 @@ was somehow quickly found by me miserable in the midst of ogresses, intimidated 
 
 “Rising up from their midst, Trijāta spoke as follows : ‘Sooner feed on yourselves than on the dark-eyed Sītā, daughter of Janaka
 
-* SUNDARAKĀṆḌA *
+
 
 257
 
@@ -13783,7 +13783,7 @@ and a virtuous daughter-in-law of Emperor Daśaratha. In fact, a fearful dream h
 
 258
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 O godlike lady, as to what I should do. I can carry you, if you so please, to the presence of Śrī Rāma and Lakṣmaṇa. What is your response? (100)
 
@@ -13844,7 +13844,7 @@ O godlike lady, as to what I should do. I can carry you, if you so please, to th
 
 * The word ‘मासौ’ in this verse has been construed by one commentator as used in the sense of two fortnights according to the Śruti texts—‘पक्षा वै मासाः’
 
-* SUNDARAKĀṆḌA *
+
 
 259
 
@@ -13908,7 +13908,7 @@ O godlike lady, as to what I should do. I can carry you, if you so please, to th
 
 260
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 feet the aforesaid prince, son of Mandodari, who was a past master in warfare and was springing in the sky. Nay, whirling him round a hundred times as soon as he was down, I crushed him.” (124—126)
 
@@ -13964,7 +13964,7 @@ I continued: “I am a monkey, Hanumān, an offspring of the wind-god, arrived i
 
 “The following exhortation was
 
-* SUNDARAKĀṆḌA *
+
 
 261
 
@@ -14032,7 +14032,7 @@ addressed by him, O king, to me: 'My consort has been borne away by an ogre. You
 
 262
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Exhorted in these words by Vibhīṣaṇa, Rāvaṇa commanded those ogres present by his side as follows : ‘Let the tail alone of the monkey be burnt now.’ (151)
 
@@ -14102,7 +14102,7 @@ that city with its attics and gates without getting confused, even as the fire o
 
 “ ‘My heart too feels extremely rejoiced
 
-* SUNDARAKĀṆḌA *
+
 
 263
 
@@ -14155,7 +14155,7 @@ Having narrated all this story to the monkeys assembled there, Hanumān (sprung 
 
 264
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 asceticism, as also, if enraged, she can reduce them all to ashes. (3)
 
@@ -14212,7 +14212,7 @@ asceticism, as also, if enraged, she can reduce them all to ashes. (3)
 
 “Even Mount Mandāra would be shattered in an encounter by the rapid
 
-* SUNDARAKĀṆḌA *
+
 
 265
 
@@ -14274,7 +14274,7 @@ movement of the thighs of the high-minded monkey, Nila, much more so the ogres. 
 
 266
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and is determined to die rather than submit to Rāvaṇa. (27)
 
@@ -14331,7 +14331,7 @@ Jāmbavān, however, who is more sagacious and practical-minded, discourages him
 तां लङ्कां तरसा हन्तुं रावणं च महाबलम्।
 किं पुनः सहितो वीरैर्बलवद्भिः कृतात्मभिः ॥ ६ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 267
 
@@ -14377,7 +14377,7 @@ To Aṅgada, who had resolved as above, Jāmbavān, the foremost of monkeys and 
 
 268
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 नैषा बुद्धिर्महाबुद्धे यद् ब्रवीषि महाकपे।
 विचेतुं वयमाज्ञा दक्षिणां दिशमुत्तमाम् ॥ १५ ॥
@@ -14424,7 +14424,7 @@ advice of Jāmbavān. (1)
 मेरुमन्दरसंकाशा मत्ता इव महागजाः।
 छादयन्त इवाकाशं महाकाया महाबलाः ॥ ३ ॥
 
-* SUNDARAKĀṆḌA *
+
 
 269
 
@@ -14483,7 +14483,7 @@ Having been granted permission by Aṅgada to partake of the honey, all the
 
 270
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 monkeys now felt extremely delighted. Nay, feeling rejoiced, they then began to dance merrily here and there. (15)
 
@@ -14567,7 +14567,7 @@ He dauntlessly spoke harsh words to some, while others he smote immediately with
 
 Dadhimukha began to be dragged violently by those monkeys, who were being forcibly checked by him even though their vehemence had become irresistible due to their inebriety, nay, who had cast away all fear and who had joined together, taking no account of the guilt involved in assaulting a servant of the king. (23)
 
-* SUNDARAKĀṆḌA *
+
 
 271
 
@@ -14613,7 +14613,7 @@ Hanumān, the foremost of monkeys and a veritable jewel among them, spoke to the
 
 272
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 current of a river would rush towards a tree standing on its bank. Having penetrated deep into Madhuvana after overpowering the guards by dint of their superior might, all the monkeys—who felt exceptionally strong due to the permission granted by Aṅgada to enjoy the produce of the grove and because Hanumān had seen Sītā, princess of Mithilā, and others had heard of her being present in Laṅkā, drank honey on that happy occasion and gathered the delicious fruits to enjoy them. (2—7)
 
@@ -14668,7 +14668,7 @@ Hindered in their duty by those terrible monkeys, even the aforesaid servants of
 
 Approaching Dadhimukha, greatly alarmed as they were, they submitted as follows : “Madhuvana has been forcibly laid waste by the monkeys, who had been granted by Hanumān, the privilege to enjoy the fruits etc., of the grove. Nay, we too
 
-* SUNDARAKĀṆḌA *
+
 
 273
 
@@ -14738,7 +14738,7 @@ Withdrawing to a secluded corner when let go somehow by those monkeys, that jewe
 
 274
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 all the misconduct of Aṅgada. Full of indignation he will cause the offending monkeys to be put to death on hearing our complaint. (30)
 
@@ -14786,7 +14786,7 @@ Coming down, surrounded by all the aforesaid guards, nay, wearing a miserable as
 
 Thus ends Canto Sixty-two of the Sundarakāṇḍa in the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* SUNDARAKĀṆḌA *
+
 
 275
 
@@ -14852,7 +14852,7 @@ Getting up when fully comforted in the foregoing words by the aforesaid Sugrīva
 
 276
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 are veritable jewels among monkeys, were then assaulted by those numerous heroic monkeys with eyes blood-red through anger. (10)
 
@@ -14917,7 +14917,7 @@ consumed by the heroic monkeys with Aṅgada as their leader. (16)
 
 “Surely none other than Hanumān is capable of accomplishing this task. The capacity to accomplish a deed as well as intelligence, nay strenuous effort and virility and learning too are firmly endowed in Hanumān, a veritable bull among monkeys. In an army where Jāmbavān as well as Aṅgada, who is endowed with extraordinary might, is the leader, and Hanumān a
 
-* SUNDARAKĀṆḌA *
+
 
 277
 
@@ -14977,7 +14977,7 @@ aforesaid speech, so agreeable to the ear, which had come from the lips of Sugr�
 
 278
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Beholding the two princes Śrī Rāma and Lakṣmaṇa extremely delighted with their eyes dilated with joy as though accomplished of purpose, nay, realizing, by his own limbs
 
@@ -15023,7 +15023,7 @@ The said hero approached them and, joining his palms, addressed Aṅgada the fol
 
 "No resentment should be harboured by you, O gentle one, for the restraint unwittingly imposed on you by these guards, in that you were angrily hindered by them from enjoying the produce of this grove. (6)
 
-* SUNDARAKĀṆḌA *
+
 
 279
 
@@ -15084,7 +15084,7 @@ Greatly delighted at heart to hear the aforesaid excellent speech of Aṅgada, e
 
 280
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तव चेदं सुसदृशं वाक्यं नान्यस्य कस्यचित्।
 सन्नतिहि तवाख्याति भविष्यच्छुभयोग्यताम् ॥ २० ॥
@@ -15147,7 +15147,7 @@ full of impetuosity, darted along, thundering like so many clouds propelled by t
 
 “Kausalyā, your mother, is blessed with
 
-* SUNDARAKĀṆḌA *
+
 
 281
 
@@ -15203,7 +15203,7 @@ Full of love, Lakṣmaṇa thereupon regarded with great esteem the joyful Sugr�
 
 282
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 प्रीत्या च परयोपेतो राघवः परवीरहा।
 बहुमानेन महता हनुमन्तमवैक्षत ॥ ४५ ॥
@@ -15258,7 +15258,7 @@ Hearing the command of Śrī Rāma, the monkeys began to urge, in the presence o
 अगच्छं जानकीं सीतां मार्गमाणो दिदृक्षया।
 तत्र लङ्केति नगरी रावणस्य दुरात्मनः ॥ १० ॥
 
-* SUNDARAKĀṆḌA *
+
 
 283
 
@@ -15311,7 +15311,7 @@ to have anything to do with Rāvaṇa, and is determined to die rather than subm
 
 284
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अयं चास्मै प्रदातव्यो यत्नात् सुपरिरक्षितः ।
 ब्रुवता वचनान्येवं सुग्रीवस्योपशृण्वतः ॥ २२ ॥
@@ -15357,7 +15357,7 @@ Coming to know that the two princes, Śrī Rāma and Lakṣmaṇa, were restored
 
 Thus ends Canto Sixty-five of the Sundarakāṇḍa in the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* SUNDARAKĀṆḌA *
+
 
 285
 
@@ -15421,7 +15421,7 @@ Addressing Hanumān again Śrī Rāma
 
 286
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 said : “Sītā will live long if she survives for a month. I, however, would not survive even for a moment without that dark-eyed lady, O gallant one ! (10)
 
@@ -15478,7 +15478,7 @@ Urged in the foregoing words by the high-souled Śrī Rāma, a scion of Raghu, H
 
 “Having slept happily at your side on one occasion, Sītā, daughter of Janaka, got
 
-* SUNDARAKĀṆḌA *
+
 
 287
 
@@ -15550,7 +15550,7 @@ up before you, when, coming down suddenly, a crow tore the flesh of her breast w
 
 288
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 किमर्थमस्त्रं रक्षःसु न योजयसि राघव।
 न दानवा न गन्धर्वा नासुरा न मरुदृणाः ॥ १९ ॥
@@ -15595,7 +15595,7 @@ with exceptionally sharp arrows without delay. Or, knowing as he does the behest
 
 "You will see the end of your woes during this very hour, O lovely lady! Striving
 
-* SUNDARAKĀṆḌA *
+
 
 289
 
@@ -15646,7 +15646,7 @@ to Sītā, a princess of Mithilā, ‘Get on my back quickly, O godlike lady, th
 
 290
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इदं च तीव्रं मम शोकवेगं
 रक्षोभिरेभिः परिभर्त्सनं च।
@@ -15699,7 +15699,7 @@ Hanumān tells Śrī Rāma, how Sītā expressed her doubt in the first instance
 
 “The grief born of your disappearance from my view will further torment me, who stand discomfited by one woe after another, wretched and doomed to suffering that I am. (6)
 
-* SUNDARAKĀṆḌA *
+
 
 291
 
@@ -15764,7 +15764,7 @@ Hanumān tells Śrī Rāma, how Sītā expressed her doubt in the first instance
 
 292
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 असकृत् तैर्महाभागैर्वानरैर्बलसंयुतैः ।
 प्रदक्षिणीकृता भूमिर्वायुमार्गानुसारिभिः ॥ २० ॥

@@ -47,7 +47,7 @@ Kauśika, Yavakrita, Gārgya, Gālava, Kaṇva, the son of Medhātithi—sages w
 
 846
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 personages with splendour like that of fire, versed in the Vedas and the Vedāṅgas, deeply learned in the various Śāstras, arrived at the mansion of Śrī Rāma and waited for being announced by the door-keeper. Agastya, the soul of righteousness and the best of sages, told the door-keeper : “Inform Rāma that we, seers, have arrived.” Soon after hearing the words of Agastya, the door-keeper, well-versed in the laws of right conduct, skilled in reading the minds of people, of good conduct, clever and courageous, rushed to the presence of Śrī Rāma, the great soul. (2—10)
 
@@ -102,7 +102,7 @@ arranged for them. When these best of sages were seated, as befitted them, on th
 
 “The night-wanderers, Prahasta, Vikata, Virupākṣa, Mahodara, Akampana, the man hard to quell, were all killed by you by good fortune. (21)
 
-* UTTARAKĀṆḌA *
+
 
 847
 
@@ -170,7 +170,7 @@ who fought a duel with you, was killed by you. (28)
 
 848
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Kumbhakarṇa and the Rākṣasa Rāvaṇa, how does it happen that all of you praise the son of Rāvaṇa? Disregarding the very brave heroes, Mahodara, Prahasta, Virūpākṣa the Rākṣasa, and the arrogant Matta and Unmatta, Devāntaka and Narāntaka, how does it happen that you applaud the son of Rāvaṇa? (30—36)
 
@@ -233,7 +233,7 @@ be slain by any. (2)
 
 “O Śrī Rāma, in the remote Kṛtayuga
 
-* UTTARAKĀṆḌA *
+
 
 849
 
@@ -297,7 +297,7 @@ performing Tapas (askesis). That place, thickly studded with trees, was quite ch
 
 850
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 said, 'How does it happen that your body looks unlike itself?' (19)
 
@@ -365,7 +365,7 @@ Learning of the curse of Pulastya, the great seer, who had realized his Self, an
 
 "Hearing these words that lady was inwardly highly pleased, and soon gave birth to a son, Viśravā by name. He became
 
-* UTTARAKĀṆḌA *
+
 
 851
 
@@ -427,7 +427,7 @@ They said, 'since he is a son of Viśravā and resembles his father in every res
 
 852
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तस्याश्रमपदस्थस्य बुद्धिर्जज्ञे महात्मनः।
 चरिष्ये परमं धर्मं धर्मो हि परमा गतिः ॥ १० ॥
@@ -490,7 +490,7 @@ When Brahmā and the other gods had gone to the heavens, the lord of wealth, wit
 तं पश्य भगवन् कंचिन्निवासं साधु मे प्रभो।
 न च पीडा भवेद् यत्र प्राणिनो यस्य कस्यचित् ॥ २४ ॥
 
-* UTTARAKĀṆḌA *
+
 
 853
 
@@ -555,7 +555,7 @@ Thus ends Canto Three in the Uttarakāṇḍa of the glorious Rāmāyaṇa of V�
 
 854
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चतुर्थः सर्गः
 
@@ -627,7 +627,7 @@ Addressing them in so many words, O bestower of honour, Prajāpati said as thoug
 
 "Of those who were hungry and thirsty,
 
-* UTTARAKĀṆḌA *
+
 
 855
 
@@ -698,7 +698,7 @@ some said, 'We shall protect' and the others said, 'We shall adore.' Then the cr
 
 856
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Putting the fist into the mouth itself, the child left by her, who was equal in lustre to the autumnal sun, gently cried. (26)
 
@@ -764,7 +764,7 @@ Description of the descendants of Mālyavān, Sumālī and Mālī, sons of Suke�
 संतापयन्तस्त्रील्लोकान् सदेवासुरमानुषान्।
 ततो विभुश्चतुर्वक्त्रो विमानवरमाश्रितः ॥ १२ ॥
 
-* UTTARAKĀṆḌA *
+
 
 857
 
@@ -805,7 +805,7 @@ Having said to the sons of Sukeśa, ‘You shall become all this’, Lord Brahm�
 
 858
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the immortal Viśwakarmā, O jewel among the Raghus, and said: (19)
 
@@ -868,7 +868,7 @@ are unassailable by others, may live there, as do the gods alongwith Indra in Am
 चिक्रीडुः सह भार्याभिरप्सरोभिरिवामराः।
 ततो माल्यवतो भार्या सुन्दरी नाम सुन्दरी ॥ ३५ ॥
 
-* UTTARAKĀṆḌA *
+
 
 859
 
@@ -934,7 +934,7 @@ Thus ends Canto Five in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vā
 
 860
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षष्ठः सर्गः
 
@@ -997,7 +997,7 @@ Under the advice of Lord Śiva, the gods seek the help of Śrī Viṣṇu for th
 
 “Then greeting Maheśwara with a shout of victory, they, who were afraid of the
 
-* UTTARAKĀṆḌA *
+
 
 861
 
@@ -1067,7 +1067,7 @@ Having heard of the move of the gods, Mālyavān, the Rākṣasa, spoke as follo
 
 862
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “O Lord of living beings, we are overpowered by these Rākṣasas; for fear of these wicked ones we are unable to reside in our abodes. (26)
 
@@ -1129,7 +1129,7 @@ Receiving this advice from Hara, they paid obeisance to the foe of Kāma (Lord �
 ततः सुमाली माली च श्रुत्वा माल्यवतो वचः।
 ऊचतुर्भ्रातरं ज्येष्ठमश्विनाविव वासवम् ॥ ३९ ॥
 
-* UTTARAKĀṆḌA *
+
 
 863
 
@@ -1189,7 +1189,7 @@ Receiving this advice from Hara, they paid obeisance to the foe of Kāma (Lord �
 
 864
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Clouds rained bones and hot blood; the oceans transgressed their limits and mountains rocked. (54)
 
@@ -1243,7 +1243,7 @@ Mounting on the back of Garuḍa, the most handsome Lord Hari, clad in yellow, s
 शक्रासिशाङ्गयुधशङ्खपाणिः ॥ ६८ ॥
 Holding the discus, the sword, the bow and the conch in His hands, the Lord, the enemy of Asura hordes, duly arrived, His praises being sung by Siddhas, gods, Ṛṣis,
 
-* UTTARAKĀṆḌA *
+
 
 865
 
@@ -1303,7 +1303,7 @@ Huge as mountains, the Rākṣasa chiefs, sitting in chariots, or riding on elep
 
 866
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 निशाचरैस्ताड्यमानो मीनैरिव महोदधिः।
 शार्ङ्गमायम्य दुर्धर्षो राक्षसेभ्योऽसृजच्छरान् ॥ ७ ॥
@@ -1372,7 +1372,7 @@ Like the fierce rays from the sun, waves from the sea, huge serpents from a moun
 द्वीपिनेव यथा श्वानः शुना मार्जारको यथा।
 मार्जारेण यथा सर्पाः सर्पेण च यथाखवः ॥ २१ ॥
 
-* UTTARAKĀṆḌA *
+
 
 867
 
@@ -1453,7 +1453,7 @@ Like the unsteady man who is tossed this side and that by his fickle sense-organ
 
 868
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 उदतिष्ठन्महान् शब्दो रक्षसामभिनर्दताम्।
 रक्षसां रुवतां रावं श्रुत्वा हरिहयानुजः ॥ ४१ ॥
@@ -1494,7 +1494,7 @@ Having recovered, the enraged Garuḍa returned and dispersed as before the Rāk
 
 The Rākṣasas quickly fell into the sea-water from the skies; some had their lotus-like faces cut by the discus, some had their breasts pulverized by the club, some had their necks rent by the ploughshare, some had their heads broken by the pestle, some
 
-* UTTARAKĀṆḌA *
+
 
 869
 
@@ -1579,7 +1579,7 @@ Mālyavān's fight and his defeat; retreat of Sumālī and other Rākṣasas int
 
 870
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 behind by Padmanābha, Lord Viṣṇu, Mālyavān forthwith returned to the field as does the sea after touching the shore. (1)
 
@@ -1648,7 +1648,7 @@ On the broad chest of that Rākṣasa chieftain, which was illumined with neckla
 
 With his armour broken to pieces by
 
-* UTTARAKĀṆḌA *
+
 
 871
 
@@ -1722,7 +1722,7 @@ Blown away by the wind arising from the wings of Garuḍa, and covered with sham
 
 872
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 time to time to destroy the barbarians (Dasyus) who violate all the bounds of Dharma. (27)
 
@@ -1780,7 +1780,7 @@ actually wandering on the earth, he happened to see Kubera proceeding in the aer
 
 “My child, you are passing beyond the period of youth, this is the time to give you away in marriage; suitors hold back for fear of rejection. (7)
 
-* UTTARAKĀṆḌA *
+
 
 873
 
@@ -1846,7 +1846,7 @@ The sage went into meditation and said, ‘O auspicious one, I have divined the 
 
 874
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सुताभिलाषो मत्तस्ते मत्तमातङ्गामिनि।
 दारुणायां तु वेलायां यस्मात् त्वं मामुपस्थिता ॥ २२ ॥
@@ -1911,7 +1911,7 @@ resembling a heap of antimony, having coppery lips, with twenty hands, vast mout
 नभःस्थाने दुन्दुभयो देवानां प्राणदंस्तथा।
 वाक्यं चैवान्तरिक्षे च साधु साध्विति तत् तदा ॥ ३६ ॥
 
-* UTTARAKĀṆḌA *
+
 
 875
 
@@ -1986,7 +1986,7 @@ Thus ends Canto Nine in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vā
 
 876
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # दशमः सर्गः
 
@@ -2058,7 +2058,7 @@ Agastya for his part told on that occasion Śrī Rāma, who was well-pleased at 
 पितामहस्तु सुप्रीतः सार्धं देवैरुपस्थितः।
 तव तावद् दशग्रीव प्रीतोऽस्मीत्यभ्यभाषत ॥ १३ ॥
 
-* UTTARAKĀṆḌA *
+
 
 877
 
@@ -2132,7 +2132,7 @@ Agastya for his part told on that occasion Śrī Rāma, who was well-pleased at 
 
 878
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 restored. “Having said as above to Daśagrīva, O Rāma, Brahmā, the grandfather of the universe, spoke as follows to Vibhiṣaṇa: ‘Vibhiṣaṇa, my child, I am highly pleased with you, whose mind is imbued with Dharma, O pious-minded one! Ask for a boon, O ogre of holy vows!’ Vibhiṣaṇa, the Dharmātmā, always endowed with all good qualities like the moon with its rays, said with folded hands, ‘I am Kṛtakṛtya (one who has his life’s purpose accomplished) O venerable sir, in that the ‘Loka-guru’ (the world-teacher) is himself pleased with me.
 
@@ -2181,7 +2181,7 @@ restored. “Having said as above to Daśagrīva, O Rāma, Brahmā, the grandfat
 
 ‘Thought of by him, Goddess Saraswati
 
-* UTTARAKĀṆḌA *
+
 
 879
 
@@ -2251,7 +2251,7 @@ Mārīca and Prahasta, Virūpākṣa and Mahodara, the ministers of that Rākṣ
 
 880
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सुमाली सचिवैः सार्धं वृतो राक्षसपुङ्गवैः।
 अभिगम्य दशग्रीवं परिष्वन्येदमब्रवीत् ॥ ३ ॥
@@ -2319,7 +2319,7 @@ of Laṅkā, O dear one! The line of Rākṣasas which had sunk to the grove, ha
 
 'Aditi bore the gods, the lords of the worlds; Diti gave birth to the Daityas, both being the progeny of Kaśyapa. (16)
 
-* UTTARAKĀṆḌA *
+
 
 881
 
@@ -2395,7 +2395,7 @@ of Laṅkā, O dear one! The line of Rākṣasas which had sunk to the grove, ha
 
 882
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 back to him who is asking for it in a peaceful manner.’ (30)
 
@@ -2456,7 +2456,7 @@ palms, ‘My son, listen to my words. (37)
 
 ‘The Mandākinī, the best of rivers, whose waters are covered all over with lotus flowers of golden hue and bright like the sun, as also with white water-lilies, blue lotuses and other flowers of sweet fragrance, flows there. Gods with Gandharvas, Apsarās, Nāgas and Kinnaras, all of a sportive nature, always resort to that place and constantly revel there. Since
 
-* UTTARAKĀṆḌA *
+
 
 883
 
@@ -2520,7 +2520,7 @@ The marriage of Śūrpaṇakhā, of Rāvaṇa and his brothers and the birth of 
 
 884
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अथ दत्त्वा स्वयं रक्षो मृगयामटते स्म तत्।
 तत्रापश्यत् ततो राम मयं नाम दितेः सुतम् ॥ ३ ॥
@@ -2586,7 +2586,7 @@ and extremely desolate. (8-9)
 
 ‘Spoken to thus, O Rāma, by the lord of the Rākṣasas and coming to know that he was a son of an eminent sage, Viśravā, Maya, the Dānava, became glad. (16)
 
-* UTTARAKĀṆḌA *
+
 
 885
 
@@ -2642,7 +2642,7 @@ grand-daughter (daughter's daughter) of Bali (son of Virocana), Vajrajwālā by 
 
 886
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 care of by excellent women, that son of
 Rāvaṇa grew up in the beautiful gynaecium
@@ -2734,7 +2734,7 @@ them waste. (9)
 नदीं गज इव क्रीडन् वृक्षान् वायुरिव क्षिपन्।
 नगान् वज्र इवोत्सृष्टो विध्वंसयति राक्षसः ॥ १० ॥
 
-* UTTARAKĀṆḌA *
+
 
 887
 
@@ -2805,7 +2805,7 @@ conduct and the traditions of the family. (17)
 
 888
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 other assumed a grey colour as though
 soiled by dust, through the supernatural
@@ -2912,7 +2912,7 @@ that he has heaped on me, O envoy! (37)
 “But after hearing these words of his,
 I have made up my mind to conquer all the
 
-* UTTARAKĀṆḌA *
+
 
 889
 
@@ -2977,7 +2977,7 @@ An attack by Rāvaṇa and his ministers on the Yakṣas and the defeat (of the 
 
 890
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Between the Yakṣas and the Rākṣasas then started a thick fight in which the said ministers of the Rākṣasa felt alarmed. (8)
 
@@ -3046,7 +3046,7 @@ An attack by Rāvaṇa and his ministers on the Yakṣas and the defeat (of the 
 
 “In the meantime, O Rāma, a Yakṣa, Saṃyodhakaṇṭaka by name, with a huge army and a vast number of mounts and
 
-* UTTARAKĀṆḌA *
+
 
 891
 
@@ -3114,7 +3114,7 @@ Defeat of Māṇibhadra and Kubera; Rāvaṇa takes hold of the Puṣpaka
 
 892
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एवमुक्तो महाबाहुर्माणिभद्रः सुदुर्जयः ।
 वृतो यक्षसहस्रैस्तु चतुर्भिः समयोधयत् ॥ ३ ॥
@@ -3184,7 +3184,7 @@ There came to view from afar the lord of wealth, who was holding a club and was 
 
 Seeing on the battlefield his brother (Rāvaṇa) who had lost his sense of respect (for elders) by reason of the curse, that
 
-* UTTARAKĀṆḌA *
+
 
 893
 
@@ -3259,7 +3259,7 @@ The Yakṣa and the Rākṣasa thereafter exchanged blows in the course of the g
 
 894
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 conflict, but, O Rāma, neither of them felt afflicted or exhausted. (30)
 
@@ -3304,7 +3304,7 @@ conflict, but, O Rāma, neither of them felt afflicted or exhausted. (30)
 
 “The aerial car was furnished with pillars made of gold; its portals were made of cat's-eye gems; it was hung with nets of pearls and planted with trees bearing fruit in all the seasons; it had the speed of the mind; it could go wherever one wanted to go; it could assume any form as desired; it had stairways of gems and gold and daises of refined gold; it was a celestial vehicle and was not subject to wear and tear; it was a perpetual joy to the eyes and the mind; it contained numerous curios of art; it looked picturesque with its compartments and had been constructed by Viśwakarmā, the architect of gods; it was provided with all objects of desire, was soul-captivating and unsurpassed in charm; it was neither too cool nor too hot; it was comfortable in all seasons and was splendid. Ascending the car, which had been won by his prowess and which could go wherever he wanted to go, that most evil-minded king thought in the height of his arrogance that he had conquered all the three worlds. Having vanquished God Vaiśravaṇa (Kubera), he descended from Kailāsa. (34—43)
 
-* UTTARAKĀṆḌA *
+
 
 895
 
@@ -3370,7 +3370,7 @@ Nandīśwara curses Rāvaṇa; Lord Śaṅkara curbs the pride of Rāvaṇa, who
 
 896
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 him, Nandiśwara, an attendant of Lord Śiva, dreadful, of yellowish dark complexion, dwarfish, misshapen, with his head clean shaved, of short arms and very strong, and ever full of joy, fearlessly spoke the following words to the king of the Rākṣasas: (8-9)
 
@@ -3430,7 +3430,7 @@ him, Nandiśwara, an attendant of Lord Śiva, dreadful, of yellowish dark comple
 
 “Not minding the utterance of Nandi, and approaching the hill, Daśānana, that very mighty ogre, however, said on that occasion: (22)
 
-* UTTARAKĀṆḌA *
+
 
 897
 
@@ -3502,7 +3502,7 @@ him, Nandiśwara, an attendant of Lord Śiva, dreadful, of yellowish dark comple
 
 898
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Mahādeva, O Rāma, then spoke to Daśānana as follows: (35)
 
@@ -3562,7 +3562,7 @@ Mahādeva, O Rāma, then spoke to Daśānana as follows: (35)
 
 “Disobeying his command some valiant Kṣatriyas, who were full of martial ardour and ferocious in battle, perished alongwith their followers. (48)
 
-* UTTARAKĀṆḌA *
+
 
 899
 
@@ -3621,7 +3621,7 @@ Vedavatī, daughter of a Brahmāṛṣi, insulted by Rāvaṇa, pronounces a cur
 
 900
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 बृहस्पतिसुतः श्रीमान् बुद्ध्या तुल्यो बृहस्पतेः ।
 तस्याहं कुर्वतो नित्यं वेदाभ्यासं महात्मनः ॥ ९ ॥
@@ -3681,7 +3681,7 @@ Vedavatī, daughter of a Brahmāṛṣi, insulted by Rāvaṇa, pronounces a cur
 
 “You, who are endowed with all good qualities, ought not to speak like this. You are beautiful in all the three worlds, O timid one, your youth is passing away. (22)
 
-* UTTARAKĀṆḌA *
+
 
 901
 
@@ -3743,7 +3743,7 @@ to the Rākṣasa as if she would burn him: ‘Insulted by you, O ignoble man, I
 
 902
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 showed her to his minister. Scanning her very features, the minister, who was well-versed in physiognomy, said to Rāvaṇa: (37)
 
@@ -3804,7 +3804,7 @@ Marutta’s discomfiture at the hands of Rāvaṇa; Indra and the other gods con
 
 “Surrounded by the hosts of gods, a Brahmarṣi, Saṃvarta by name, a brother of
 
-* UTTARAKĀṆḌA *
+
 
 903
 
@@ -3879,7 +3879,7 @@ away this aerial car, after vanquishing my said brother?’ (10)
 
 904
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “An encounter is out of the question for one who stands consecrated for a sacrificial performance, and temper is also out of the question for such a one; moreover, victory is uncertain in a battle and the Rākṣasa is very hard to vanquish.” (17)
 
@@ -3949,7 +3949,7 @@ Yama, O Rāma! said to the crow perched on the Prāgvarṅśa* in front of him: 
 
 * A shed constructed for the dwelling of the sacrificer and his wife to the east of the sacrificial hall.
 
-* UTTARAKĀṆḌA *
+
 
 905
 
@@ -4014,7 +4014,7 @@ Approaching the King of kings, who compared with the mighty Indra (the ruler of 
 
 906
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 निर्जिताः स्मेत्यभाषन्त ज्ञात्वा वरवलं रिपोः।
 दुष्यन्तः सुरथो गाधिरगयो राजा पुरुरवाः॥५॥
@@ -4068,7 +4068,7 @@ Then beside himself with rage and twanging his bow, resembling the bow of Indra,
 अनरण्येन तेऽमात्या मारीचशुक्सारणाः।
 प्रहस्तसहिता भग्ना व्यद्रवन्त मृगा इव॥१९॥
 
-* UTTARAKĀṆḌA *
+
 
 907
 
@@ -4137,7 +4137,7 @@ When that curse was pronounced, the kettledrum of the gods was sounded at a high
 
 908
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततः स राजा राजेन्द्र गतः स्थानं त्रिविष्टपम् ।
 स्वर्गते च नृपे तस्मिन् राक्षसः सोऽपसर्पत ॥ ३२ ॥
@@ -4230,7 +4230,7 @@ Gandharvas and the Rākṣasas. (8)
 
 "Who would destroy people who are
 
-* UTTARAKĀṆḌA *
+
 
 909
 
@@ -4302,7 +4302,7 @@ utterly ignorant of their higher interests, are surrounded by major calamities a
 
 910
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तं कथं राक्षसेन्द्रोऽसौ स्वयमेव गमिष्यति।
 यो विधाता च धाता च सुकृतं दुष्कृतं तथा ॥ ३१ ॥
@@ -4324,7 +4324,7 @@ Having spoken as above, and greeted the aforesaid sage, Rāvaṇa (the ten-heade
 
 Thus ends Canto Twenty in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 911
 
@@ -4395,7 +4395,7 @@ He also saw the soldiers of Yama alongwith his attendants. He also perceived emb
 
 912
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 कृमिभिर्भक्ष्यमाणांश्च सारमेयैश्च दारुणैः।
 श्रोत्रायासकरा वाचो वदतश्च भयावहाः ॥ १३ ॥
@@ -4443,7 +4443,7 @@ Rāvaṇa, also saw some people feeling delighted in the best of houses with the
 
 Rāvaṇa, the mighty-armed suzerain lord of the Rākṣasas, saw those, who had gifted cows, drinking milk; others who had gifted food eating food; and still others who had gifted houses residing in houses as the reward of their meritorious doings, and other pious souls decked with gold, gems and pearls and shining in their own lustre in the company of youthful women. By dint of his prowess the mighty Rāvaṇa forcibly liberated those who were being tortured because of their own sinful deeds. The aforesaid living beings liberated by the said ogre, Daśagrīva, enjoyed for a while happiness which was altogether unexpected and unthought of. While the departed were being liberated in this way by the exceptionally mighty Rāvaṇa, the guardians of the dead rushed at the king of the Rākṣasas highly enraged. A great clamour then distinctly arose from all sides among the valiant soldiers of Yama (the king who deals out justice), who ran with all speed (to check the disorder). The said heroes duly assailed the Puṣpaka in hundreds and thousands with spears, iron bars, pikes, pestles, javelins and iron clubs. Like black bees they rapidly demolished the seats, the mansions, the
 
-* UTTARAKĀṆḌA *
+
 
 913
 
@@ -4511,7 +4511,7 @@ Then fitting the divine missile presided over by Lord Śiva to his bow, and sayi
 
 914
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Stretching the bow-string up to his ear, that enemy of Indra forthwith shot the said arrow in rage even as Śaṅkara did at Tripura.
 
@@ -4588,7 +4588,7 @@ Nay, with a lance and mallet in his hand, the god of death by whom all these thr
 
 Kāladanda, the rod of universal
 
-* UTTARAKĀṆḌA *
+
 
 915
 
@@ -4658,7 +4658,7 @@ Then ensued, O hero, a tumultuous duel between the two warriors, Yama and the og
 
 916
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ततो देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः।
 प्रजापतिं पुरस्कृत्य समेतास्तद्रणाजिरे ॥ १८ ॥
@@ -4719,7 +4719,7 @@ Feeling greatly angered, the god of death said to Vaivaswata Yama (son of the su
 बलं मम न खल्वेतन्मर्यादैषा निसर्गतः।
 स दृष्टो न मया काल मुहूर्तमपि जीवति ॥ ३१ ॥
 
-* UTTARAKĀṆḌA *
+
 
 917
 
@@ -4788,7 +4788,7 @@ If discharged by you in anger, this terrible weapon, which is the terror of all 
 
 918
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 यदि ह्यस्मिन् निपतिते न प्रियेतैष राक्षसः ।
 प्रियते वा दशग्रीवस्तदाप्युभयतोऽनृतम् ॥ ४५ ॥
@@ -4850,7 +4850,7 @@ Thereupon the ogres felt amazed to see Rāvaṇa bathed all over with blood and 
 
 Having felicitated him on his victory, and reassured by him in their turn, all the ministers headed by Mārīca then remounted the Puṣpaka. (3)
 
-* UTTARAKĀṆḌA *
+
 
 919
 
@@ -4921,7 +4921,7 @@ There he duly learnt a hundred conjuring
 
 920
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 tricks after carefully observing them. Then he ranged Rasātala (the penultimate celestial region) in search of the city of Varuṇa. (16)
 
@@ -4976,7 +4976,7 @@ Having thereupon struck down the generals of Varuṇa's army on the battlefield 
 
 In the meantime provoked to anger, issued forth the sons and grandsons of the high-souled Varuṇa as well as their two generals, Gau and Puṣkara. (28)
 
-* UTTARAKĀṆḌA *
+
 
 921
 
@@ -5047,7 +5047,7 @@ Having strung their bows, and pierced
 
 922
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Mahodara, they collectively surrounded Rāvaṇa on the field of battle, full of anger as they were. (41)
 
@@ -5106,7 +5106,7 @@ Hearing this and proclaiming his name, Rāvaṇa, the king of ogres, for his par
 
 * शतघ्नी च चतुस्तालो लोहकण्टकसंचिता । (अथवा) अयःकण्टकसंछन्ना शतघ्नी महती शिला ।
 
-* UTTARAKĀṆḌA *
+
 
 923
 
@@ -5166,7 +5166,7 @@ Virgin daughters of Nāgas, Gandharvas, as also the daughters of eminent Ṛṣi
 
 924
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 शोकदुःखभयत्रस्ता विह्वलाश्च सुमध्यमाः ।
 तासां निःश्वासवातेन सर्वतः सम्प्रदीपितम् ॥ ९ ॥
@@ -5217,7 +5217,7 @@ husband of mine? (14)
 प्रविवेश पुरीं लङ्कां पूज्यमानो निशाचरैः ।
 एतस्मिन्नन्तरे घोरा राक्षसी कामरूपिणी ॥ २४ ॥
 
-* UTTARAKĀṆḌA *
+
 
 925
 
@@ -5265,7 +5265,7 @@ dear one, my so-called brother, who acted as an enemy. In this way, I myself sta
 
 926
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 भातुरैश्वर्ययुक्तस्य खरस्य वस पार्श्वतः।
 चतुर्दशानां भ्राता ते सहस्राणां भविष्यति ॥ ३६ ॥
@@ -5318,7 +5318,7 @@ There was an excellent grove in Laṅkā, Nikumbhilā by name. Accompanied by hi
 
 Flaming, as it were, with splendour, he saw standing there a sacrificial hall, closely set with hundreds of sacrificial posts
 
-* UTTARAKĀṆḌA *
+
 
 927
 
@@ -5427,7 +5427,7 @@ worshipped by means of offerings. (14)
 
 928
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 एहीदानीं कृतं यद्धि सुकृतं तन्न संशयः।
 आगच्छ सौम्य गच्छामः स्वमेव भवनं प्रति ॥ १५ ॥
@@ -5485,7 +5485,7 @@ Filled with rage, Vibhīṣaṇa for his part replied as follows to his (eldest)
 यस्मादवश्यं दातव्या कन्या भर्त्रे हि भ्रातृभिः।
 तदेतत् कर्मणो ह्यस्य फलं पापस्य दुर्मतेः ॥ २८ ॥
 
-* UTTARAKĀṆḌA *
+
 
 929
 
@@ -5533,7 +5533,7 @@ All the rest, who were highly fortunate, set out towards the city of Madhu. All 
 
 930
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 भयानामपि सर्वेषां वैधव्यं व्यसनं महत्।
 सत्यवाग् भव राजेन्द्र मामवेक्षस्व याचतीम् ॥ ४३ ॥
@@ -5586,7 +5586,7 @@ Having reached Mount Kailāsa, the abode of Kubera (son of Viśravā), Rāvaṇa
 
 Thus ends Canto Twenty-five in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 931
 
@@ -5653,7 +5653,7 @@ By reason of the music, the wealth of blossom, the coolness of the wind, the cha
 
 932
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of the hill and the rising of the moon, now that the night had commenced, the aforesaid Rāvaṇa, who was exceptionally powerful, fell a prey to concupiscence. Sighing again and again, he gazed at the moon. (12-13)
 
@@ -5705,7 +5705,7 @@ Springing on his feet, and holding her by the hand as she was wending her way bl
 विश्रमं त्वं पृथुश्रोणि शिलातलमिदं शुभम्।
 त्रैलोक्ये यः प्रभुश्चैव मदन्यो नैव विद्यते ॥ २६ ॥
 
-* UTTARAKĀṆḌA *
+
 
 933
 
@@ -5772,7 +5772,7 @@ brother, Kubera (son of Viśravā), dearer to him than his own life. (32)
 
 934
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स्तुषास्मि यदवोचस्त्वमेकपत्नीप्यर्थं क्रमः।
 देवलोकस्थितिरियं सुराणां शाश्वती मता ॥ ३९ ॥
@@ -5822,7 +5822,7 @@ and breathing hard, she for her part actually proceeded with joined palms to rel
 मूर्धा तु समधा तस्य शकलीभविता तदा।
 तस्मिन्नुदाहते शापे ज्वलिताग्निसमप्रभे ॥ ५६ ॥
 
-* UTTARAKĀṆḌA *
+
 
 935
 
@@ -5872,7 +5872,7 @@ part, who was endowed with extraordinary energy, reached the realm of Indra, the
 
 936
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 The tumult of the army of the ogres advancing on all sides resounded in the realm of gods like the roar of the sea while it was being churned. (2)
 
@@ -5930,7 +5930,7 @@ Putting on armour when commanded thus by Indra, the gods, who were equals of Ind
 
 Spoken to in these words by Indra, the said almighty Lord Nārāyaṇa replied as follows: “No apprehension need be entertained by you. And let My advice be heard by you. (14)
 
-* UTTARAKĀṆḌA *
+
 
 937
 
@@ -5998,7 +5998,7 @@ Then ensued a grim fight between the gods, on the one hand, and the Dānavas and
 
 938
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 roar and a flourish of weapons of every kind. (26)
 
@@ -6058,7 +6058,7 @@ roar and a flourish of weapons of every kind. (26)
 
 In the meantime turned up for an encounter the notorious ministers of Rāvaṇa, valiant ogres of grim aspect—Mārīca and Prahasta as well as Mahāpārśwa and Mahodara, Akampana and Nikumbha, Śūka and Sāraṇa, Saṃhrāda and Dhūmaketu, Mahādaṃṣṭra, Ghaṭodara, Jambumāli, Mahāhrāda and the ogre Virūpākṣa, Suptaghna and Yajñakopa, Durmukha, Dūṣaṇa, Khara, Triśīrā, Karavirākṣa and the ogre Sūryaśatru, Mahākāya and Atikāya, Devāntaka and Narāntaka. Surrounded by all these ogres of extraordinary valour, the very mighty Sumāli, Rāvaṇa's maternal grandfather, they say, duly entered the field of battle. Provoked to anger, he drove away all at once with his various sharp weapons all the celestial hosts even as a tempest scatters clouds. Being hit, O Rāma, by the rangers of the night, that army of gods fled in all directions like the deer chased by a lion. In the meantime a heroic Vasu, the eighth among the Vasus, widely known by the name of Sāvitra, duly entered the field of battle. Surrounded by exultant troops, equipped with every kind of weapon, he
 
-* UTTARAKĀṆḌA *
+
 
 939
 
@@ -6086,7 +6086,7 @@ A duel between Meghanāda and Jayanta (Indra's son); Jayanta is removed to anoth
 
 940
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Provoked to anger on seeing Sumāli killed and reduced to ashes by the Vasu, and on perceiving his army, too, put to flight when hard-pressed by the gods, nay, rallying all the ogres, the notorious Meghanāda, the mighty son of Rāvaṇa, firmly thereupon took his stand on the battlefield at that time. (1-2)
 
@@ -6152,7 +6152,7 @@ Filled with rage, the son of Rāvaṇa then let fly on the celestial troops ever
 
 The son of Rāvaṇa also hurled Śataghnis, pestles, spears, clubs, swords and battle-axes and huge crags on the celestial army. (14)
 
-* UTTARAKĀṆḌA *
+
 
 941
 
@@ -6221,7 +6221,7 @@ When the ruler of gods sallied forth, Gandharvas (celestial musicians) played on
 
 942
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 The suzerain lord of the gods sallied forth, surrounded by the eleven Rudras, the eight Vasus, the twelve sons of Aditi, accompanied by the hosts of the wind-gods, equipped with all kinds of weapons, and the two Aświns. (27)
 
@@ -6284,7 +6284,7 @@ Engaged in a hard struggle with the gods armed with all kinds of weapons and ass
 
 Some were killed, while others, who had been cut down, rolled about on the
 
-* UTTARAKĀṆḌA *
+
 
 943
 
@@ -6343,7 +6343,7 @@ Thus ends Canto Twenty-eight in the Uttarakāṇḍa of the glorious Rāmāyaṇ
 
 944
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # एकोनत्रिंशः सर्गः
 
@@ -6401,7 +6401,7 @@ In his fury, they say, the ogres, who was so difficult to overcome, spoke as fol
 
 “The place where we stand just now is a part of the Nandana grove, Indra's pleasure-garden; take me today to the place where the Udaya (eastern) mountain is. (The celestial host extended from the Nandana grove to the Udaya mountain).” (10)
 
-* UTTARAKĀṆḌA *
+
 
 945
 
@@ -6467,7 +6467,7 @@ Taking his seat in a chariot, Meghanāda, son of Rāvaṇa, who felt greatly enr
 
 946
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 nay, who was beside himself with anger, then penetrated deep into the fierce army of gods. (22)
 
@@ -6531,7 +6531,7 @@ Having duly reached the twelve sons of Aditi and the eight Vasus on that occasio
 
 Seeing his father languid and shattered by blows in the encounter, Meghanāda (son of Rāvaṇa) spoke to him as follows, remaining invisible all the while: (34)
 
-* UTTARAKĀṆḌA *
+
 
 947
 
@@ -6591,7 +6591,7 @@ Thus ends Canto Twenty-nine in the Uttarakāṇḍa of the glorious Rāmāyaṇa
 
 948
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # त्रिंशः सर्गः
 
@@ -6648,7 +6648,7 @@ Indrajit, who was victorious in battle and was endowed with extraordinary energy
 
 Thereupon Brahmā (the lord of created beings), who was endowed with extraordinary energy, replied as follows to Meghanāda: “There is no immunity from death at the hands of any for any living being whatsoever on earth, for a bird or a quadruped or for other created beings, though endowed with extraordinary might.” Hearing the observation made by Lord Brahmā (the grandfather of the creation), the exceptionally mighty
 
-* UTTARAKĀṆḌA *
+
 
 949
 
@@ -6711,7 +6711,7 @@ Seeing him in that (wretched) plight, Lord Brahmā (the grandfather of the entir
 
 950
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 "The woman was widely known as 'Ahalyā' in that there was no reproachability in her. Nay, 'Ahalyā' itself was proclaimed by me as her name. (23)
 
@@ -6777,7 +6777,7 @@ given over to lust, you saw at that time the said woman bright like a tongue of 
 
 "Whosoever comes to be the ruler of gods shall not endure. This is the curse
 
-* UTTARAKĀṆḌA *
+
 
 951
 
@@ -6842,7 +6842,7 @@ Having spoken as aforesaid, that Brahmāṛṣi (a seer of Vedic Mantras) re-ent
 
 952
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 पावितस्तेन यज्ञेन यास्यसे त्रिदिवं ततः।
 पुत्रश्च तव देवेन्द्र न विनष्टो महारणे ॥ ४८ ॥
@@ -6898,7 +6898,7 @@ Thus, O Rāma, was born Rāvaṇa, who with his son was a thorn in the side of t
 
 “Was there no Kṣatriya king or non-Kṣatriya ruler at that time on the earth,
 
-* UTTARAKĀṆḌA *
+
 
 953
 
@@ -6964,7 +6964,7 @@ Hearing the question of Śrī Rāma (a scion of Raghu), the glorious Sage Agasty
 
 954
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 पश्यमानस्ततो विंध्यं रावणो नर्मदां ययौ।
 चलोपलजलां पुण्यां पश्चिमोदधिगामिनीम् ॥ १९ ॥
@@ -7019,7 +7019,7 @@ constituted its thrilling contact and it had full-blown lotuses for its charming
 
 “Bearing crocodiles, fishes and birds
 
-* UTTARAKĀṆḌA *
+
 
 955
 
@@ -7100,7 +7100,7 @@ Having duly worshipped the supreme
 
 956
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and most excellent Lord Śiva (who bears moonbeams on His head as an ornament), the reliever of the agony of the virtuous and
 
@@ -7153,7 +7153,7 @@ That rapid flow of water, as though impelled by Arjuna (son of Kṛtavirya), the
 
 Leaving the observance when it was only half-way through, Rāvaṇa looked at the
 
-* UTTARAKĀṆḌA *
+
 
 957
 
@@ -7220,7 +7220,7 @@ When Rāvaṇa, the suzerain lord of ogres, set forth with his face directed tow
 
 958
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तं नर्मदाहृदं भीममाजगामाञ्जनप्रभः।
 स तत्र स्त्रीपरिवृतं वासिताभिरिव द्विपम् ॥ २४ ॥
@@ -7272,7 +7272,7 @@ The onrush of the warriors of the king of the Haihayas was fierce like the roar 
 
 Provoked to anger, the aforesaid ministers of Rāvaṇa—Prahasta, Śuka and
 
-* UTTARAKĀṆḌA *
+
 
 959
 
@@ -7342,7 +7342,7 @@ Seeing Prahasta fallen, Mārīca, Śuka and Sāraṇa alongwith Mahodara and Dh�
 
 960
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अपक्रान्तेष्वमात्येषु प्रहस्ते च निपातिते।
 रावणोऽभ्यद्रवत् तूर्णमर्जुनं नृपसत्तमम् ॥ ४९ ॥
@@ -7406,7 +7406,7 @@ Though hurled with full force on the breast of Rāvaṇa, which was protected by
 स त्वर्जुनप्रयुक्तेन गदाघातेन रावणः।
 अपासर्पद् धनुर्मात्रं निषसाद च निष्टनन् ॥ ६२ ॥
 
-* UTTARAKĀṆḌA *
+
 
 961
 
@@ -7471,7 +7471,7 @@ Being covered with heaps of flowers and unbroken grains of rice by Brāhmaṇas 
 
 962
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 resembled Indra (who is invoked by many), thereupon entered his well-known city even
 
@@ -7534,7 +7534,7 @@ Overawed to see the aforesaid Ṛṣi (the seer of Vedic Mantras) coming like th
 
 Having offered Madhuparka, a cow and
 
-* UTTARAKĀṆḌA *
+
 
 963
 
@@ -7597,7 +7597,7 @@ Having secured the deliverance of
 
 964
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Rāvaṇa (the ten-headed monster), they say, Pulastya too, (a mind-born) son of Brahmā (the grandfather of the entire creation) and the foremost of ascetics, went back to the realm of Brahmā (the creator). (20)
 
@@ -7655,7 +7655,7 @@ Thereupon Tārā, a minister of Vāli (the chief of monkeys), Suṣeṇa (father
 
 "Vāli, O ruler of ogres, who may be a match for you, has gone out. What other monkey is capable of standing before you? (5)
 
-* UTTARAKĀṆḌA *
+
 
 965
 
@@ -7726,7 +7726,7 @@ Making up his mind thus, Vāli remained standing like the king of mountains, sil
 
 966
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Each seeking to lay his hands on the other, the two warriors, the king of monkeys and the lord of ogres, both conceited by reason of their might, strove diligently to accomplish that end. (19)
 
@@ -7791,7 +7791,7 @@ Carrying him across many thousands of Yojanas, the mighty monkey moved with his 
 
 Having said his Sandhyā prayers at the northern ocean, the said Vāli actually proceeded to the eastern sea, carrying Rāvaṇa (the ten-headed monster). (31)
 
-* UTTARAKĀṆḌA *
+
 
 967
 
@@ -7862,7 +7862,7 @@ Rāvaṇa lived there for a month like Sugriva. He was then led away by his
 
 968
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 ministers who had come and who were desirous of exterminating the three worlds. (44)
 
@@ -7918,7 +7918,7 @@ The descent of Hanumān; he rushes against the sun, the planet Rāhu and Airāva
 
 The leaders of Rāvaṇa's army the sons of his counsellors, his own servants and his
 
-* UTTARAKĀṆḌA *
+
 
 969
 
@@ -7988,7 +7988,7 @@ Hearing this reasonable submission of Śrī Rāma (a scion of Raghu), the seer o
 
 970
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सूर्यदत्तवरस्वर्णः सुमेरुर्नाम पर्वतः।
 यत्र राज्यं प्रशस्त्यस्य केसरी नाम वै पिता ॥ १९ ॥
@@ -8055,7 +8055,7 @@ They said to themselves: ‘Neither the wind-god nor Garuḍa (the king of birds
 
 “Rāhu (the demon who is traditionally believed to devour the orb of the sun during
 
-* UTTARAKĀṆḌA *
+
 
 971
 
@@ -8114,7 +8114,7 @@ on his feet, holding up his gold necklace. (36)
 
 972
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इन्द्रमाशंसमानस्तु त्रातारं सिंहिकासुतः।
 इन्द्र इन्द्रेति संत्रासान्मुहुर्मुहुरभाषत ॥ ४२ ॥
@@ -8183,7 +8183,7 @@ the thunderbolt, the celebrated wind-god got angry with Indra to the detriment o
 
 “With bloated bellies resembling the
 
-* UTTARAKĀṆḌA *
+
 
 973
 
@@ -8243,7 +8243,7 @@ in all bodies preserving them. (57—60)
 
 974
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 by Gandharvas, Ṛṣis (the seers of Vedic Mantras), Yakṣas and ogres, including gods, thereupon immediately took pity on the child.” (65)
 
@@ -8296,7 +8296,7 @@ touched by Brahmā (the lotus-born), he thereupon forthwith came back to life li
 
 “Thereupon Brahmā, who is endowed with three pairs of divine properties (viz., glory and prowess, power and wealth, wisdom and dispassion), who appears in three forms (viz., Brahmā, Viṣṇu and Śiva), who has
 
-* UTTARAKĀṆḌA *
+
 
 975
 
@@ -8364,7 +8364,7 @@ darkness, for his part said on that occasion, ‘I bestow upon him a hundredth p
 
 976
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 with the rising sun, the highly intelligent Viśwakarmā, the foremost among the builders, granted him the following boon: (19)
 
@@ -8426,7 +8426,7 @@ with the rising sun, the highly intelligent Viśwakarmā, the foremost among the
 एवंविधानि कर्माणि प्रावर्तत महाबलः।
 सर्वेषां ब्रह्मदण्डानामवध्यः शम्भुना कृतः ॥ ३१ ॥
 
-* UTTARAKĀṆḌA *
+
 
 977
 
@@ -8482,7 +8482,7 @@ with the rising sun, the highly intelligent Viśwakarmā, the foremost among the
 
 978
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 period like a lion kept back by an elephant, in the course of the latter's combat with Vāli. (43)
 
@@ -8556,7 +8556,7 @@ period like a lion kept back by an elephant, in the course of the latter's comba
 
 "Nay, alongwith the aforesaid leaders of monkeys, Gaja, Gavākṣa, Gavaya, Sudaṃṣṭra, Mainda, Prabha, Jyotimukha and Nala—these bears too were actually procreated by the gods for your sake only, O Rāma! (50)
 
-* UTTARAKĀṆḌA *
+
 
 979
 
@@ -8623,7 +8623,7 @@ Hearing the aforesaid request and saying “Amen” to Him, the sages of rigid v
 
 980
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 due ceremony, Śrī Rāma, the foremost of jewels among men, for His part retired into the gynaecium when the night had set in. (62-63)
 
@@ -8680,7 +8680,7 @@ Sweet-voiced as they were and trained in the art of singing like the Kinnaras (c
 श्रीश्च धर्मश्च काकुत्स्थ त्वयि नित्यं प्रतिष्ठितौ।
 एताश्चान्याश्च मधुरा वन्दिभिः परिकीर्तिताः ॥ ९ ॥
 
-* UTTARAKĀṆḌA *
+
 
 981
 
@@ -8752,7 +8752,7 @@ Bowing with their heads bent low, sagacious human beings too, who were
 
 982
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 superior in the knowledge of the Vedas and of noble descent also, likewise sat at his side. (21)
 
@@ -8803,7 +8803,7 @@ In their presence when they were all comfortably seated, different stories, exce
 
 * Some editions of the Vālmiki-Rāmāyaṇa have inserted between Cantos XXXVII and XXXVIII five Cantos as interpolated detailing the descent of Vāli and Sugrīva and the story of Rāvaṇa's expedition to Śvetadwīpa (an abode of Lord Viṣṇu) as narrated by Sage Agastya. But, since mention is made of the departure of Agastya in the previous Canto, the insertion of these Cantos at the end of Canto XXXVII appeared to us unwarranted. We have, therefore, omitted the said interpolated Cantos.
 
-* UTTARAKĀṆḌA *
+
 
 983
 
@@ -8866,7 +8866,7 @@ Having sent him away and embraced his friend Pratardana, the ruler of Kāśi, wh
 
 984
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दर्शिता भवता प्रीतिर्दर्शितं सौहृदं परम्।
 उद्योगश्च त्वया राजन् भरतेन कृतः सह॥ १७॥
@@ -8920,7 +8920,7 @@ Nay, filled with great joy, the kings answered him thus: (23—27)
 
 “This was our highest ambition, and this constitutes our greatest satisfaction, that we see you having killed your enemy and come out victorious, O Rāma. (29)
 
-* UTTARAKĀṆḌA *
+
 
 985
 
@@ -8978,7 +8978,7 @@ Nay, fully possessed with pride of might, the aforesaid kings said to one anothe
 
 986
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Protected by the might of arms of Śrī Rāma and Lakṣmaṇa we could have fought at ease on the other side of the sea (dividing the island of Laṅkā from the mainland), free from anxiety.” (5)
 
@@ -9032,7 +9032,7 @@ Placing Hanūmān and Aṅgada too in His lap, Śrī Rāma, the powerful king of
 इत्युक्त्वा व्यवमुच्याङ्गाद् भूषणानि महायशाः।
 स बबन्ध महाहाणि तदाङ्गदहनूमतोः ॥ १९ ॥
 
-* UTTARAKĀṆḌA *
+
 
 987
 
@@ -9083,7 +9083,7 @@ Thus ends Canto Thirty-nine in the Uttarakāṇḍa of the glorious Rāmāyaṇa
 
 988
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # चत्वारिंशः सर्गः
 
@@ -9145,7 +9145,7 @@ Having spoken as aforesaid to Sugrīva and embraced him again and again, Śrī R
 
 “Nay, alongwith Sugrīva I should be constantly cherished in memory by you with supreme affection, O king! Depart you free from anxiety.” (12)
 
-* UTTARAKĀṆḌA *
+
 
 989
 
@@ -9215,7 +9215,7 @@ Taking off from his neck a string of pearls, shining as the moon, with a cat's-e
 
 990
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तेनोरसि निबद्धेन हारेण महता कपिः ।
 रराज हेमशैलेन्द्रश्चन्द्रेणाक्रान्तमस्तकः ॥ २६ ॥
@@ -9274,7 +9274,7 @@ Having respectfully bowed down to Śrī Rāma, the promoter of Raghu's race, the
 
 After sometime in the afternoon the mighty Lord Śrī Rāma (a scion of Raghu), heard, alongwith his brothers, a sweet voice
 
-* UTTARAKĀṆḌA *
+
 
 991
 
@@ -9348,7 +9348,7 @@ Having worshipped Puṣpaka after that with fried grains of rice and flowers as 
 
 992
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 जीर्णानामपि सत्त्वानां मृत्युनांयाति राघव।
 अरोगप्रसवा नार्यो वपुष्मन्तो हि मानवाः ॥ १९ ॥
@@ -9398,7 +9398,7 @@ the Aśoka-grove, which was rendered beautiful all around by the sandal, eaglewo
 
 * Also know as Sājā, its latin name is Terminalia tamanosu.
 
-* UTTARAKĀṆḌA *
+
 
 993
 
@@ -9455,7 +9455,7 @@ They were also bedecked with fences of various shapes and stone-slabs. Just ther
 
 994
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 रामस्याभ्यवहारार्थं किंकरास्तूर्णमाहरन्।
 उपानृत्यश्च राजानं नृत्यगीतविशारदाः ॥ २० ॥
@@ -9502,7 +9502,7 @@ On seeing His Consort bearing auspicious marks of pregnancy, Śrī Rāma (a scio
 
 * Śrī Govindarāja in his commentary states that winter season is indication of one year end, thus two years were spent in enjoyment after coronation.
 
-* UTTARAKĀṆḌA *
+
 
 995
 
@@ -9563,7 +9563,7 @@ After sometime, during the course of the narration of a certain story, Śrī Rā
 
 996
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “What are the people of the town and the country talking about me and about Sītā, Bharata and Lakṣmaṇa and what indeed about Śatrughna and mother Kaikeyi? Kings are criticized in the forests and in the kingdom.” (5-6)
 
@@ -9625,7 +9625,7 @@ a composed mind and with palms joined together replied to the mighty-armed Śrī
 
 “What must be the pleasure in his heart born out of conjugation with Śrī Sītā? Why does not Śrī Rāma censure her, who formerly had been forcibly carried away by Rāvaṇa, placing her in his lap and even
 
-* UTTARAKĀṆḌA *
+
 
 997
 
@@ -9690,7 +9690,7 @@ Wishing prosperity to the eminently high-souled Lakṣmaṇa and with his palms 
 
 998
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 received the command of Śrī Rāma (a scion of Raghu) Lakṣmaṇa (the son of Sumitrā) mounting a chariot drove speedily to the palace of Śrī Rāma (a scion of Raghu). (5)
 प्रयान्तं लक्ष्मणं दृष्ट्वा द्वाःस्थो भरतमन्तिकात्।
@@ -9738,7 +9738,7 @@ Then having them embraced between his arms and lifting them up, asked them to ta
 भवन्तः कृतशास्त्रार्था बुद्ध्या च परिनिष्ठिताः।
 सम्भूय च मदर्थोऽयमन्वेष्टव्यो नरेश्वराः ॥ २० ॥
 
-* UTTARAKĀṆḌA *
+
 
 999
 
@@ -9805,7 +9805,7 @@ The scion of Kakutstha bearing an emaciated face, spoke thus to them (his brothe
 
 1000
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 all the Ṛṣis. In Laṅkā Sītā, Pure of conduct, has been handed over to me by Mahendra (the lord of gods), in the presence of the gods and the Gandharvas and my inner conscience bears testimony to her purity and nobility. (8—10)
 
@@ -9855,7 +9855,7 @@ all the Ṛṣis. In Laṅkā Sītā, Pure of conduct, has been handed over to m
 
 “Therefore, O Lakṣmaṇa (son of Sumitrā), go soon and carry out my behest. Any resistance on your part will cause me extreme displeasure. I swear to you by my feet and also my life that whosoever speaks out to pacify me in any manner while I speak, shall always be inimical to me as he will shatter all that I desire. If you are prone to be at my command, then show respect to me, take away Sītā from here, this very day, do what I say, ‘I wish to behold the hermitage on the bank of the Gaṅgā’, thus she had told me formerly, now fulfil this desire of her. Thus saying the descendant of Kakutstha, Śrī Rāma, the noble one with
 
-* UTTARAKĀṆḌA *
+
 
 1001
 
@@ -9922,7 +9922,7 @@ Thus spoken to by Sumantra, Lakṣmaṇa, the foremost of men, after having ente
 
 1002
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 हृदयं चैव सौमित्रे अस्वस्थमिव लक्षये।
 औत्सुक्यं परमं चापि अधृतिश्च परा मम ॥ १५ ॥
@@ -9966,7 +9966,7 @@ After spending half a day (on reaching Gaṅgā) and looking at the streams of B
 
 The well composed Sītā knower of good
 
-* UTTARAKĀṆḌA *
+
 
 1003
 
@@ -10031,7 +10031,7 @@ Lakṣmaṇa struck with grief ordered
 
 1004
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Sumantra to stay with the chariot on the other banks of the Gaṅgā and told the ferryman to steer the boat. (2)
 
@@ -10094,7 +10094,7 @@ Urged by Sītā (the daughter of the Lord of Videha,) Lakṣmaṇa on his part, 
 
 “You have been forsaken by the king afraid of the ill-report circulating among the citizens, although you were proved to be free from blamishes by the gods even in my presence; you should not take it otherwise. You are to be left near the hermitage by me. Bearing in mind the orders of the king and the
 
-* UTTARAKĀṆḌA *
+
 
 1005
 
@@ -10154,7 +10154,7 @@ That daughter of Janaka, Sītā, swooned away as if for a moment and then with t
 
 1006
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 श्वश्रूणामविशेषेण प्राञ्जलिप्रग्रहेण च।
 शिरसा वन्द्य चरणौ कुशलं ब्रूहि पार्थिवम् ॥ १० ॥
@@ -10212,7 +10212,7 @@ That daughter of Janaka, Sītā, swooned away as if for a moment and then with t
 
 The dejected, Lakṣmaṇa on hearing Sītā having said so paid homage to the earth by his head and failed to speak, and going round her, loudly crying, contemplated for a moment, (and with great effort) addressed her thus: “O auspicious one, O faultless one, your body is not seen by me, as your feet alone were the object of my vision till now. Oh how shall I behold you, separated from Rāma, dwelling in this forest.” Thus saying to her and bowing to her, Lakṣmaṇa, approached and ascended the boat and urged the ferryman to steer the boat, then having reached the Northern banks, burdened by the weight of sorrow, went up the chariot in haste, bewildered as he was, and looking with
 
-* UTTARAKĀṆḌA *
+
 
 1007
 
@@ -10272,7 +10272,7 @@ Hearing their words, Vālmiki the foremost of the sages, knowing already everyth
 
 1008
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 and as he strode forward, the disciples of the great wise sage followed him. Walking barefooted and carrying Arghya in his hands, the sage Vālmiki reached the shore of the Gaṅgā and beheld Sītā, the consort of Śrī Rāma, lamenting there helplessly. (3—9)
 
@@ -10339,7 +10339,7 @@ Being thus addressed, Vālmiki replied to them thus: “The wife of Rāma has co
 
 “O ladies, look upon her, Sītā, with the greatest of affection : the honour that you
 
-* UTTARAKĀṆḌA *
+
 
 1009
 
@@ -10412,7 +10412,7 @@ Hearing such words of different kinds, spoken by Lakṣmaṇa, Sumantra, the wis
 
 1010
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “You should not be grieved for Maithili on this account, O Lakṣmaṇa as this was already foreseen by the Brāhmaṇas (Astrologers) in the presence of your father. (10)
 
@@ -10472,7 +10472,7 @@ Thus hearing this statement being spoken in highly meaningful words, Lakṣmaṇ
 
 Thus ends Canto Fifty in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1011
 
@@ -10571,7 +10571,7 @@ been granted security by her, dwelt there
 
 1012
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 at seeing them thus protected by her, severed the head of the spouse of Bhṛgu with his discus. (13)
 
@@ -10628,7 +10628,7 @@ at seeing them thus protected by her, severed the head of the spouse of Bhṛgu 
 एवं गते न संतापं कर्तुमर्हसि राघव।
 सीतार्थे राघवार्थे वा दृढो भव नरोत्तम ॥ २८ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1013
 
@@ -10700,7 +10700,7 @@ Mentally agitated Lakṣmaṇa touched the feet of his elder brother; somehow be
 
 1014
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 noble feet, leaving Sītā, the daughter of Janaka, so pure of conduct and famed among the wives devoted to their husbands, at the holy hermitage of Vālmiki on the banks of the Gaṅgā, as directed, I have returned once again to serve at the feet of yours, the heroic one, Śrī Rāma. (8-9)
 
@@ -10753,7 +10753,7 @@ Peace is attained, O Lakṣmaṇa, and grief has been averted by sweet words utt
 
 Thus ends Canto Fifty-two in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1015
 
@@ -10832,7 +10832,7 @@ earth, devoted to Brāhmaṇas, truth-speaking and pure of heart and conduct. (7
 
 1016
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “Responding indeed to that call of the hungry Brāhmaṇa, who was like the sacred fire, the cow followed him, as he went. (13)
 
@@ -10889,7 +10889,7 @@ earth, devoted to Brāhmaṇas, truth-speaking and pure of heart and conduct. (7
 
 Thus ends the Canto Fifty-three in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1017
 
@@ -10953,7 +10953,7 @@ Thus told by Lakṣmaṇa, the scion of Raghu said: “O courteous one, listen t
 
 1018
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 लब्धव्यान्येव लभते दुःखानि च सुखानि च।
 पूर्वे जात्यन्तरे वत्स मा विषादं कुरुष्व ह॥ १७॥
@@ -11004,7 +11004,7 @@ Having been thus told by Lakṣmaṇa, Śrī Rāma, a source of delight to the I
 
 “O Lakṣmaṇa (the joy of Sumitrā) there was a king named Nimi, who was the twelfth among the sons of Ikṣvāku. He was eminently full of prowess and highly religious. (4)
 
-* UTTARAKĀṆḌA *
+
 
 1019
 
@@ -11072,7 +11072,7 @@ Having been thus told by Lakṣmaṇa, Śrī Rāma, a source of delight to the I
 
 1020
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 infatuated by wrath, the king said to Vasiṣṭha,
 the son of Brahmā. (18)
@@ -11162,7 +11162,7 @@ another body. (5)
 सोऽभिवाद्य ततः पादौ देवदेवस्य धर्मवित्।
 पितामहमथोवाच वायुभूत इदं वचः ॥ ६ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1021
 
@@ -11229,7 +11229,7 @@ Tormented by the arrows of cupid, Varuṇa said the following words: In your pre
 
 1022
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 as Varuṇa-Loka, Urvaśi became very happy and said the following words: (19)
 
@@ -11289,7 +11289,7 @@ as Varuṇa-Loka, Urvaśi became very happy and said the following words: (19)
 
 Thus ends Canto Fifty-six in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1023
 
@@ -11360,7 +11360,7 @@ deposited first in the presence of Urvaśi. There in that pitcher Varuṇa’s l
 
 1024
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 “After the conclusion of the sacrifice, Bhṛgu addressed, ‘O King! I am pleased with you. I shall restore your soul (consciousness).’ (12)
 
@@ -11408,7 +11408,7 @@ deposited first in the presence of Urvaśi. There in that pitcher Varuṇa’s l
 
 Thus ends Canto Fifty-seven in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1025
 
@@ -11477,7 +11477,7 @@ Thus addressed to by him (Lakṣmaṇa), the foremost among the Kṣatriyas, Śr
 
 1026
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 'O mother, we shall enter the fire together, may the King enjoy himself with the daughter of the son of Diti for many nights. (13)
 
@@ -11544,7 +11544,7 @@ The best among the twice-born, thus said and consoled Devayāni, he with sunlike
 
 Thus ends Canto Fifty-eight in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1027
 
@@ -11616,7 +11616,7 @@ Then after a long time the king spoke thus to Pūru: 'O dear son, bring forth my
 
 1028
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 'O one of long-arms, I am pleased by your acceptance of my command, I shall also consecrate you with joy as a ruler of the subjects among men.' (12)
 
@@ -11679,7 +11679,7 @@ As Rāma with moon-like face narrated this, the sky with fading stars appeared. 
 
 Thus ends Canto Fifty-nine in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1029
 
@@ -11738,7 +11738,7 @@ Then the gracious-minded Śrī Rāma addressed the following words to Lakṣma�
 
 1030
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 king (due to the apprehension of royal punishment). My officers protect the subjects like arrows shot by Me. Even then, O long-armed one! protect the subjects righteously. (11—13)
 
@@ -11800,7 +11800,7 @@ On hearing this, the illustrious and glorious Lakṣmaṇa having entered the ro
 श्रूयतां मम विज्ञाप्यं कौसल्यानन्दवर्धन।
 यन्मयोक्तं महाबाहो तव शासनजं विभो ॥ २७ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1031
 
@@ -11861,7 +11861,7 @@ Thereafter the dog whose skull was shattered saw Śrī Rāma seated there. Havin
 
 1032
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 them on the right path and delights his subjects by 'Dharma'. Therefore, he (his rule) is known as 'Dharma'. (8)
 
@@ -11917,7 +11917,7 @@ On hearing this, Śrī Rāma sent the gatekeeper, who brought the learned Brāhm
 
 Thus told by the Brāhmaṇa, Śrī Rāma addressed the following words, 'O Brāhmaṇa! You hurt the dog. What ill did it do to you, for which you struck it with a stick? Anger is a deadly enemy, anger is a friend-faced enemy. Anger is a highly sharp sword. Anger takes away everything, destroys all virtues. Whichever sacrifices a person performs and whatever in charity he gives, all that he destroys by anger. Therefore, one should
 
-* UTTARAKĀṆḌA *
+
 
 1033
 
@@ -11978,7 +11978,7 @@ When all of them had addressed thus,
 
 1034
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the dog said as follows: “If you are pleased with me, O Rāma, and if you are to bestow on me a boon, then listen to me, O Valiant One! You asked me what you should do for me, and promised (to do what I would request you to do). So make him O King! a ‘Kulapati’ as promised by you. Your Majesty! make him ‘Kulapati’ of Kālanjara.” On hearing this Śrī Rāma consecrated him as a Kulapati.
 
@@ -12021,7 +12021,7 @@ behaved and was engaged in doing good to all living beings. Even then I have bee
 
 “Therefore, one should not in any circumstances become a Kulapati. Only, he should be made to look after gods, cows and the Brāhmaṇas, whom one would wish to condemn to go to hell alongwith sons, cattle and relatives. One who takes away the property of the Brāhmaṇas, gods, women and children and takes back again what has been given away in charity, perishes alongwith one’s all dear ones. O Śrī Rāma! One who takes away the property belonging to the Brāhmaṇas and the gods, soon goes to the fearful hell known as ‘Avici’ one who takes away even mentally the property belonging to the gods and the Brāhmaṇas, goes down from one hell to another.” On hearing the speech of the dog, the eyes of Śrī Rāma opened widely due to wonder, the dog, too possessed of lustre, went to place from where it had come. It was a high minded
 
-* UTTARAKĀṆḌA *
+
 
 1035
 
@@ -12076,7 +12076,7 @@ Hearing him say so, Śrī Rāma the righteous one spoke: 'Please let the Brāhma
 
 1036
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Śrī Rāma, of long arms, then addressed all the great ascetics thus: (4—10)
 
@@ -12137,7 +12137,7 @@ out the task that I should perform, so as your fear may be dispelled’. (1)
 तथा ब्रुवति काकुत्स्थे भार्गवो वाक्यमब्रवीत्।
 भयानां शृणु यन्मूलं देशस्य च नरेश्वर ॥ २ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1037
 
@@ -12214,7 +12214,7 @@ The Mahādeva, Śiva, the Lord of all, replied to Madhu, 'This cannot be so. (12
 
 1038
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Kumbhīnasi, the daughter of Viśvāvasu, was born from Analā. (16)
 
@@ -12281,7 +12281,7 @@ does he (Lavaṇa) take as his food, of what conduct is he and where does he sta
 राघवस्य वचः श्रुत्वा ऋषयः सर्व एव ते।
 ततो निवेदयामासुर्लवणो ववृधे यथा ॥ २ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1039
 
@@ -12357,7 +12357,7 @@ Hearing the words of Bharata, (Śatrughna) younger brother of Lakṣmaṇa, stoo
 
 1040
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 न विधत्ते नृपं तत्र नरकं स हि गच्छति।
 स त्वं हत्वा मधुसुतं लवणं पापनिश्रयम् ॥ १९ ॥
@@ -12414,7 +12414,7 @@ to supersede them. (3)
 उत्तरं नहि वक्तव्यं ज्येष्ठेनाभिहिते पुनः।
 अधर्मसहितं चैव परलोकविवर्जितम् ॥ ६ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1041
 
@@ -12482,7 +12482,7 @@ Then the scion of the Raghus, Śrī Rāma, placing Śatrughna on His lap uttered
 
 1042
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 सृष्टः शरोऽयं काकुत्स्थ यदा शेते महार्णवे।
 स्वयंभूरजितो दिव्यो यं नापश्यन् सुरासुराः ॥ २० ॥
@@ -12541,7 +12541,7 @@ of destroying the foes; placing that honourable weapon at home, Lavaṇa proceed
 
 Thus ends Canto Sixty-three in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1043
 
@@ -12612,7 +12612,7 @@ Thus being spoken to by Śrī Rāma, Śatrughna, having gathered together the
 
 1044
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 brave chiefs of the army spoke thus to them: (13)
 
@@ -12677,7 +12677,7 @@ After spending two nights on the way, Śatrughna, descendant of the Raghus, reac
 
 Having heard those words of Śatrughna, the best among the ascetics, Vālmīki, said
 
-* UTTARAKĀṆḌA *
+
 
 1045
 
@@ -12752,7 +12752,7 @@ The great sacrifice lasted for many
 
 1046
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 years and was comparable with the sacrifice of the gods being performed with great pomp. (19)
 
@@ -12821,7 +12821,7 @@ Then the pious Saudāsa employed the water held in his hand, which was infused w
 
 By it (this sprinkling) the feet of the king became variegated in colour, and thence the king by name Saudāsa, became famous as Kalmāṣapāda (with feet of dark-variegated colour), and was so known. That King with his wife falling at the feet of Vasiṣṭha again and again repeated to Vasiṣṭha what was
 
-* UTTARAKĀṆḌA *
+
 
 1047
 
@@ -12897,7 +12897,7 @@ The sage went there joyfully and looked
 
 1048
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 at the two sons and made the sacrament for both of them that kills the inauspicious Bhūtas and destroys the Rākṣasa. (5)
 
@@ -12966,7 +12966,7 @@ This way the mightiest among Raghus and great souled Śatrughna in the company o
 
 Thus ends Canto Sixty-six in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1049
 
@@ -13035,7 +13035,7 @@ Māndhātā said to Indra: 'O Indra, where does my rule over the earth is obstru
 
 1050
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तमुवाच सहस्राक्षो लवणो नाम राक्षसः।
 मधुपुत्रो मधुवने न तेऽऽज्ञां कुरुतेऽनघ ॥ १३ ॥
@@ -13109,7 +13109,7 @@ By you performing this deed the welfare of the worlds will be achieved. Thus all
 ध्रुवो जयस्ते भविता नरेन्द्र ॥ २६ ॥
 Tomorrow morning you will slay Lavaṇa
 
-* UTTARAKĀṆḌA *
+
 
 1051
 
@@ -13181,7 +13181,7 @@ Highly enraged, Śatrughna then
 
 1052
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 addressed the demon, who roamed about thus at right, 'O evil one, I wish to have a duel with you. (10)
 
@@ -13244,7 +13244,7 @@ All I had forgiven, the destruction of the family of Rāvaṇa, and ignoring spe
 
 Thus ends Canto Sixty-eight in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1053
 
@@ -13317,7 +13317,7 @@ Then the powerful Lavaṇa laughed, and lifting a tree attacked the brave one, �
 
 1054
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तस्मिन् निपतिते वीरे हाहाकारो महानभूत्।
 ऋषीणां देवसंघानां गन्धर्वाप्सरसां तथा ॥ १३ ॥
@@ -13386,7 +13386,7 @@ He said in a sweet voice: 'All the gods listen to me; the arrow has been held by
 
 'All the great gods are bewildered at the
 
-* UTTARAKĀṆḌA *
+
 
 1055
 
@@ -13443,7 +13443,7 @@ Thus ends Canto Sixty-nine in the Uttarakāṇḍa of the glorious Rāmāyaṇa 
 
 1056
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # सप्ततितमः सर्गः
 
@@ -13513,7 +13513,7 @@ That city, shaped like the half-moon, beautified by the banks of the Yamunā, wa
 आरामैश्च विहारैश्च शोभमानां समन्ततः।
 शोभितां शोभनीयैश्च तथान्यैर्देवमानुषैः ॥ १३ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1057
 
@@ -13575,7 +13575,7 @@ The sage, Vālmiki, narrated to the noble Śatrughna sweet tales of various them
 
 1058
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 उवाच च मुनिर्वाक्यं लवणस्य वधाश्रितम्।
 सुदुष्करं कृतं कर्म लवणं निष्ठता त्वया ॥ ६ ॥
@@ -13641,7 +13641,7 @@ Having heard the story duly sung, the lion among men, Śatrughna, with tears in 
 
 Śatrughna heard the deeds sung as if they were performed in the present. The warriors, who followed him, on hearing the
 
-* UTTARAKĀṆḌA *
+
 
 1059
 
@@ -13705,7 +13705,7 @@ Thus talking, Vālmiki embraced
 
 1060
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Śatrughna, the extirpator of foes, the scion of the Raghus, and let him go. (5)
 
@@ -13776,7 +13776,7 @@ Hearing these words of Śrī Rāma, spoken rightfully and in accordance with his
 
 As desired by the descendant of Raghu, Śrī Rāma, Śatrughna, the mighty one, made
 
-* UTTARAKĀṆḌA *
+
 
 1061
 
@@ -13846,7 +13846,7 @@ Filled with affection and sorrow, and crying, pronounced these words (exclamatio
 
 1062
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 'I have neither seen nor heard of such untimely death, of immature type, in the territory of Śrī Rāma. (9)
 
@@ -13904,7 +13904,7 @@ Thus making such pitiful utterances again and again and keeping in check the Kin
 
 Thus ends Canto Seventy-three in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1063
 
@@ -13973,7 +13973,7 @@ provided with seats. The councillors and citizens all were suitably seated after
 
 1064
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 austerity and effulgence but in Tretā both became equal and at par. (13-14)
 
@@ -14041,7 +14041,7 @@ adored the other three castes. (20-21)
 अधर्मः परमो राजन् द्वापरे शूद्रजन्मनः।
 स वै विषयपर्यन्ते तव राजन् महातपाः ॥ २८ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1065
 
@@ -14102,7 +14102,7 @@ Having thus told the auspicious
 
 1066
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Lakṣmaṇa, the scion of the Kakutsthas, Śrī Rāma summoned mentally Puṣpaka: 'Come O famous one.' (5)
 
@@ -14171,7 +14171,7 @@ The son of Raghu, the kind one, Śrī Rāma, having approached that ascetic, per
 इत्येवमुक्तः स नराधिपेन
 अवाक्शिरा दाशरथाय तस्मै।
 
-* UTTARAKĀṆḌA *
+
 
 1067
 
@@ -14245,7 +14245,7 @@ Hearing the words of the gods, Śrī Rāma of true valour spoke to Indra the des
 
 1068
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of the Brāhmaṇa come back to life, grant me this boon, this is the best and most coveted boon for me. (10)
 
@@ -14319,7 +14319,7 @@ After the gods had departed, the scion of Kakutstha descending from Puṣpaka, m
 सोऽभिवाद्य महात्मानं ज्वलन्तमिव तेजसा।
 आतिथ्यं परमं प्राप्य निषसाद नराधिपः ॥ २४ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1069
 
@@ -14391,7 +14391,7 @@ Then people went to god Brahmā in order to have a king and prayed to him, 'O
 
 1070
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Lord, you have appointed Indra as king of gods. Similarly, for us also provide a worthy man as our king, so that worshipping him we could move about in the world, becoming free of sins. (38-39)
 
@@ -14437,7 +14437,7 @@ The king nourished the people by the portion of power given to him by Varuṇa. 
 
 Thus ends Canto Seventy-six in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1071
 
@@ -14509,7 +14509,7 @@ Pondering over it lying with all its beauty inside the lake, I, for a moment, O 
 
 1072
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 with expensive chowries with gold-handles and the lustre comparable with the rays of the moon; Then raising himself up from the throne, as the sun rises on the summits of Meru mountain, he, the denizen of heaven getting down from the chariot ate up the corpse, while I looked on, O descendant of Raghu. (9—15)
 
@@ -14567,7 +14567,7 @@ folded hands replied thus: (1)
 
 “O Brāhmaṇa ! listen to what happened formerly, that could not be resisted and
 
-* UTTARAKĀṆḌA *
+
 
 1073
 
@@ -14642,7 +14642,7 @@ which is the cause of my pleasure and sorrow, as you desire to know it. (2)
 
 1074
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 स त्वं सुपुष्टमाहारैः स्वशरीरमनुत्तमम्।
 भक्षयित्वामृतरसं तेन वृत्तिभविष्यति ॥ १७ ॥
@@ -14711,7 +14711,7 @@ which is the cause of my pleasure and sorrow, as you desire to know it. (2)
 
 Thus ends Canto Seventy-eight in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1075
 
@@ -14786,7 +14786,7 @@ When Manu had left for heaven, Ikṣvāku of unlimited brilliance, fell to think
 
 1076
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Through true actions of many types, then the son of Manu, the pious one, procreated the hundred sons, comparable with the sons of the gods. (13)
 
@@ -14851,7 +14851,7 @@ Having thus narrated the story of Ikṣvāku to Śrī Rāma, the great sage, Aga
 
 Then at one time the king, Daṇḍa, went to the beautiful hermitage of sage
 
-* UTTARAKĀṆḌA *
+
 
 1077
 
@@ -14926,7 +14926,7 @@ Having committed that terrible heinous crime, he went back soon to the unparalle
 
 1078
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 अरजापि रुदन्ती सा आश्रमस्याविदूरतः।
 प्रतीक्षते सुसंज्ञस्ता पितरं देवसंनिभम् ॥ १८ ॥
@@ -15021,7 +15021,7 @@ of dust. (9)
 
 "After seven nights, the prosperous
 
-* UTTARAKĀṆḌA *
+
 
 1079
 
@@ -15085,7 +15085,7 @@ Thus ends Canto Eighty-one in the Uttarakāṇḍa of the glorious Rāmāyaṇa 
 
 1080
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # द्वयशीतितमः सर्गः
 
@@ -15153,7 +15153,7 @@ While Rāma spoke in this marvellous manner, the great ascetic possessed of virt
 
 'O best among the Raghus, in this manner you are the purifier of all mortals, O scion of Raghu. The one describing Your sports (Lilās) on earth shall attain perfection. (12)
 
-* UTTARAKĀṆḌA *
+
 
 1081
 
@@ -15222,7 +15222,7 @@ The scion of the Raghus seeing both
 
 1082
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the princes arrived, embraced them and then spoke to them these words : (2)
 
@@ -15296,7 +15296,7 @@ Hearing these words of the scion of Raghus, Śrī Rāma, Bharata, proficient in 
 उवाच च शुभं वाक्यं कैकेय्यानन्दवर्धनम्।
 प्रीतोऽस्मि परितुष्टोऽस्मि तवाद्य वचनेऽनघ ॥ १७ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1083
 
@@ -15357,7 +15357,7 @@ by the sin of the killing of Brāhmaṇa was purified by the Horse-sacrifice. (3
 
 1084
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 धर्मज्ञश्च कृतज्ञश्च बुद्ध्या च परिनिष्ठितः।
 शशास पृथिवीं स्फीतां धर्मेण सुसमाहितः ॥ ६ ॥
@@ -15428,7 +15428,7 @@ by the sin of the killing of Brāhmaṇa was purified by the Horse-sacrifice. (3
 
 Thus ends Canto Eighty-four in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1085
 
@@ -15531,7 +15531,7 @@ sky. (11)
 
 1086
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 दृष्ट्वैव चासुरश्रेष्ठं देवास्त्रासमुपागमन्।
 कथमेनं वधिष्यामः कथं न स्यात् पराजयः ॥ १२ ॥
@@ -15592,7 +15592,7 @@ Thus pronouncing those nectar-like words before the gods, the lord of the gods, 
 
 Thus ends Canto Eighty-five in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1087
 
@@ -15666,7 +15666,7 @@ Having heard the words of the noble gods, Brahma-hatyā (in person) split itself
 
 1088
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 of the rainy season, shattering the pride of sinful ones and moving at will in the rivers swollen with water. (13)
 
@@ -15734,7 +15734,7 @@ smilingly to him: (1)
 
 "O best among men, Lakṣmaṇa, it is as you say, all that you say about the killing
 
-* UTTARAKĀṆḌA *
+
 
 1089
 
@@ -15806,7 +15806,7 @@ Whatever there was, was rendered feminine. In the meantime that King Ila, the so
 
 1090
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 उमापतेश्च तत् कर्म ज्ञात्वा त्रासमुपागमत्।
 ततो देवं महात्मानं शितिकण्ठं कपर्दिनम् ॥ १७ ॥
@@ -15850,7 +15850,7 @@ O goddess whose vision is fruitful, with your benevolent eye favour me. Knowing 
 
 Thus ends Canto Eighty-seven in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1091
 
@@ -15955,7 +15955,7 @@ not control himself and moved in the waters.
 
 1092
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 'Perceiving Ilā, who was more auspicious than any other in the three worlds, it came to his mind: 'Who indeed is She, lovlier than a goddess. (13)
 
@@ -16018,7 +16018,7 @@ Then those women hearing the words of the son of Soma, changed into Kīmpuruṣ�
 
 Thus ends Canto Eighty-eight in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1093
 
@@ -16097,7 +16097,7 @@ Having heard those words of the bull among Kings, who had lost his consciousness
 
 1094
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 समाश्वसिहि भद्रं ते निर्भयो विगतज्वरः।
 फलमूलाशनो वीर निवसेह यथासुखम् ॥ १४ ॥
@@ -16163,7 +16163,7 @@ For the remaining months in the completion of a year, Budha, self-possessed, how
 
 Thus ends Canto Eighty-nine in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1095
 
@@ -16242,7 +16242,7 @@ Kardama, on his part, said that was best for his son, 'O Brāhmaṇas, listen to
 
 1096
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 मरुत इति विख्यातस्तं यज्ञं समुपाहरत्।
 ततो यज्ञो महानासीद् बुधाश्रमसमीपतः ॥ १५ ॥
@@ -16300,7 +16300,7 @@ Preparation for Aśvamedha by the order of Śrī Rāma
 
 Having narrated to his brothers, Śrī Rāma, with unlimited splendour, again spoke these righteous words to Lakṣmaṇa: (1)
 
-* UTTARAKĀṆḌA *
+
 
 1097
 
@@ -16369,7 +16369,7 @@ Knowing their intention to perform that sacrifice, Śrī Rāma spoke to Lakṣma
 
 1098
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 arms, in the Naimiṣa forest on the banks of the Gomati, that Naimiṣa forest is extremely holy; may propitiatory rites for averting evil be performed on all sides. (15-16)
 
@@ -16426,7 +16426,7 @@ Vibhiṣaṇa together with the Rākṣasas and many women, received with honour
 
 Thus ends Canto Ninety-one in the Uttarakāṇḍa of the glorious Rāmāyaṇa of Vālmiki, the work of a Ṛṣi and the oldest epic.
 
-* UTTARAKĀṆḌA *
+
 
 1099
 
@@ -16513,7 +16513,7 @@ In this manner the great sacrifice of the
 
 1100
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 lion among kings, Śrī Rāma, was performed; in that horse-sacrifice undertaken by Śrī Rāma, the noble one, no other sound was heard excepting cries of “Go on distributing till the needy ones are satisfied.” In that grand sacrifice of the noble one, were given various articles of jellys and also sugar. The monkeys and Rākṣasas were seen distributing food among those who begged for food till words of satisfaction did not come out of their lips.
 
@@ -16561,7 +16561,7 @@ The self-controlled Vālmiki of great lustre was respected by the king, Śrī R�
 
 Vālmiki addressed the two cheerful pupils thus; ‘Go and carefully sing the entire poem, Rāmāyaṇa, most joyfully. (5)
 
-* UTTARAKĀṆḌA *
+
 
 1101
 
@@ -16637,7 +16637,7 @@ Thus instructed by that sage, both those two sons of Maithili (Sītā), the subd
 
 1102
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 समुत्सुकौ तौ सुखमूषतुर्निशां
 यथाश्विनौ भार्गवनीतिसंहिताम् ॥ १९ ॥
@@ -16687,7 +16687,7 @@ the sage Vālmīki, the two young children, Lava and Kuśa, eager to sing slept 
 
 Then in the midst of the performance of the Aśvamedha Yajña, the king, Śrī Rāma, the tiger among men, having called, the great ascetics, the other kings and the learned citizens, the specialists in the Purāṇas, and also those aged Brāhmaṇas who were proficient in the knowledge of words, and also those best among Brāhmaṇas, who were curious to hear the Rāmāyaṇa and knew the specialities of musical notes, the knowers of auspicious marks, the musicians, all citizens, the knowers of the relation between the syllables of stanza and were proficient in metres; those who excelled in art only, and those well-versed in astrology, knowers of ritual performances, and also those specializing in the details of the ritual and those skilled in suggesting remedial forms of ritual, the logicians and also the erudite ones, the verifiers and knowers of the Purāṇas, the Vedas, the best among Brāhmaṇas, knowers of the Citra (forms of the Kāvya), knowers of the Sūtras on righteous conduct
 
-* UTTARAKĀṆḌA *
+
 
 1103
 
@@ -16760,7 +16760,7 @@ Desirous to know the composer of that poem, Śrī Rāma, the mighty one, asked b
 
 1104
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 the composer of this poem, the best among ascetics.” (24)
 
@@ -16825,7 +16825,7 @@ that wonderful song of holy content. (1)
 तस्याः परिषदो मध्ये रामो वचनमब्रवीत् ॥ २ ॥
 Having known through that song, Lava
 
-* UTTARAKĀṆḌA *
+
 
 1105
 
@@ -16903,7 +16903,7 @@ Thus deciding that the oath-taking shall
 
 1106
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 take place tomorrow, then the descendant of Raghu, the extirpator of foes, discharged the assembly. (16)
 
@@ -16964,7 +16964,7 @@ Then coming to know that all those who came were rendered motionless as stone, t
 
 Sītā followed the sage, with face downcast and hands folded, inarticulate due to tears, keeping Śrī Rāma in the heart. (11)
 
-* UTTARAKĀṆḌA *
+
 
 1107
 
@@ -17037,7 +17037,7 @@ Then in the midst of that assembly of men the great sage entering, accompanied b
 
 1108
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 censure, I have known her through divine vision to be of pure conduct and devoted to
 
@@ -17106,7 +17106,7 @@ Seeing all the gods and sages, who came out of respect for the scion of Raghu, a
 ततो वायुः शुभः पुण्यो दिव्यगन्धो मनोरमः।
 तं जनौघं सुरश्रेष्ठो ह्लादयामास सर्वतः ॥ ११ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1109
 
@@ -17180,7 +17180,7 @@ Some uttered hurrahs of joy, other fixed
 
 1110
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 their gaze on Sītā, while others looked at Śrī Rāma, although in meditation. (25)
 सीताप्रवेशनं दृष्ट्वा तेषामासीत् समागमः ।
@@ -17250,7 +17250,7 @@ to Laṅkā across the ocean; I brought her back from there; what to say of brin
 
 'Please bring that Sītā; I have gone mad for her; if you will not give back to me
 
-* UTTARAKĀṆḌA *
+
 
 1111
 
@@ -17323,7 +17323,7 @@ O Scion of Kākutstha, this best portion is indeed not to be heard by anyone els
 
 1112
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Having spoken this much, Brahmā, the lord of the three worlds, went to heaven together with other gods. (23)
 
@@ -17376,7 +17376,7 @@ Then after the great and noble sages had taken their seats, the twin Kuśa and L
 
 Leaving all kings, the bears and
 
-* UTTARAKĀṆḌA *
+
 
 1113
 
@@ -17449,7 +17449,7 @@ All happy and righteous ones, united with Daśaratha in heaven, attained the fru
 
 1114
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Many a thousand years passed while Śrī Rāma upraised the course of Dharma
 
@@ -17501,7 +17501,7 @@ Having heard that the great sage Gārgya had come, bringing with him the rich gi
 
 Thus having honoured that sage and accepting the gifts, he enquired of the welfare of his maternal uncle. Śrī Rāma asked the holy one when he had seated himself thus: 'What has my maternal uncle said for which O Venerable Sir, best among the knowers of Śāstras, like Bṛhaspti himself, you have come.' Having heard the words of Śrī Rāma,
 
-* UTTARAKĀṆḌA *
+
 
 1115
 
@@ -17561,7 +17561,7 @@ Lions, tigers, bears and the sky-roving birds, thousands in number went to heral
 
 1116
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Having spent one and half months on the way, the army, hale and hearty, bearing
 
@@ -17624,7 +17624,7 @@ Struck by the mighty Saṃvarta, as if bound by the noose of death, they the Gan
 
 Even the gods did not remember a battle so fierce in which those mighty Gandharvas were killed in a moment. (9)
 
-* UTTARAKĀṆḌA *
+
 
 1117
 
@@ -17679,7 +17679,7 @@ Hearing this account of Bharata, Śrī Rāma, together with his brothers, was pl
 
 1118
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 इमौ राज्येऽभिषेक्ष्यामि देशः साधु विधीयताम्।
 रमणीयो ह्यसम्बाधो रमेतां यत्र धन्विनौ ॥ ३ ॥
@@ -17748,7 +17748,7 @@ Both—the son of Sumitrā (Lakṣmaṇa) and Bharata, the most noble ones, arde
 
 Thus, ten thousand years passed with Śrī Rāma, Bharata and Lakṣmaṇa striving always to perform tasks for the citizens and always ready to follow Dharma. (16)
 
-* UTTARAKĀṆḌA *
+
 
 1119
 
@@ -17814,7 +17814,7 @@ That sage having approached the best among the descendants of Raghus, glowing wi
 
 1120
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 The powerful Śrī Rāma worshipped him with offerings of Arghya and then began to ask him about his welfare. (9)
 
@@ -17880,7 +17880,7 @@ one, I have been sent by the god Brahmā. (1)
 तवाहं पूर्वके भावे पुत्रः परपुरंजय।
 मायासम्भावितो वीर कालः सर्वसमाहरः ॥ २ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1121
 
@@ -17947,7 +17947,7 @@ one, I have been sent by the god Brahmā. (1)
 
 1122
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 श्रुत्वा पितामहेनोक्तं वाक्यं कालसमीरितम्।
 राघवः प्रहसन् वाक्यं सर्वसंहारमब्रवीत् ॥ १६ ॥
@@ -18011,7 +18011,7 @@ Having heard this, Durvāsā, the lion among sages, darkened by rage said to Lak
 अस्मिन् क्षणे गां सौमित्रे न निवेदयसे यदि।
 विषयं त्वां पुरं चैव शपिष्ये राघवं तथा ॥ ६ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1123
 
@@ -18080,7 +18080,7 @@ Thus ends Canto One hundred and five in the Uttarakāṇḍa of the glorious Rā
 
 1124
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # षडधिकशततमः सर्गः
 
@@ -18146,7 +18146,7 @@ Hearing these words all the councillors together with the preceptors kept mum. T
 
 Hearing these words full of righteous import, spoken by those assembled,
 
-* UTTARAKĀṆḌA *
+
 
 1125
 
@@ -18216,7 +18216,7 @@ Hearing these words of the descendant of Raghu, all subjects prostrated on the g
 
 1126
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 भरतश्च विसंज्ञोऽभूच्छ्रुत्वा राघवभाषितम्।
 राज्यं विगर्हयामास वचनं चेदमब्रवीत् ॥ ५ ॥
@@ -18284,7 +18284,7 @@ Then all the subjects said to Śrī Rāma: 'O Śrī Rāma, we shall follow you w
 
 Seeing the firm devotion of the citizens, He, Śrī Rāma, said, 'so be it. Visualizing the end of his earthly sojourn that very day, the descendant of Raghu, Śrī Rāma, having coronated both the noble ones Kuśa in the south Kośala territory and Lava in the Uttara Kośala territory, then seating them in his lap, embracing them, smelling their heads more than once and establishing them as kings, gave to each a thousand chariots, ten thousand elephants and hundred thousand horses. (16—19)
 
-* UTTARAKĀṆḌA *
+
 
 1127
 
@@ -18343,7 +18343,7 @@ That beautiful city of Kuśa at the foot of the Vindhya mountain, was named Kuś
 
 1128
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 He also communicated his approaching death with his brothers. Śatrughna then consecrated his two sons. Subāhu obtained Madhurā, while Śatrughāti, Vidiśa (Bhelsa). Having divided the army of Madhurā into two and making them possessed of wealth, the king, Śatrughna, established his two sons there. (9-10)
 
@@ -18408,7 +18408,7 @@ They said: 'O King, we have come to follow you, O Śrī Rāma, the best among me
 
 'O king of men, having coronated the brave Aṅgada (son of Vāli) on the throne, I have come. Know me, O king, as one having decided to follow you.' (23)
 
-* UTTARAKĀṆḌA *
+
 
 1129
 
@@ -18479,7 +18479,7 @@ Vibhīṣaṇa kept in mind the orders of the descendant of Raghu. Having spoken
 
 1130
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 Speaking thus to them, Śrī Rāma | and said: 'All right, you all accompany me
 addressed the rest of bears and monkeys | as stipulated'. (38)
@@ -18539,7 +18539,7 @@ The noble sages and all Brāhmaṇas followed the noble one to the gates of heav
 
 The women residing in female apartments, together with the old men and young boys and also the eunuchs and servants followed him as he went on. (10)
 
-* UTTARAKĀṆḌA *
+
 
 1131
 
@@ -18613,7 +18613,7 @@ Thus ends Canto One hundred and nine in the Uttarakāṇḍa of the glorious Rā
 
 1132
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 # दशाधिकशततमः सर्गः
 
@@ -18676,7 +18676,7 @@ Hearing the words of Brahmā, the very wise Śrī Rāma decided and entered into
 ततो विष्णुमयं देवं पूजयन्ति स्म देवताः।
 साध्या मरुद्रणाश्चैव सेन्द्राः साग्रिपुरोगमाः ॥ १३ ॥
 
-* UTTARAKĀṆḌA *
+
 
 1133
 
@@ -18739,7 +18739,7 @@ mortal frame and shall reside in Santānaka due to devotion to you. They will re
 
 1134
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 तस्मिन् येऽपि समापन्ना ऋक्षवानराक्षसाः ।
 तेऽपि स्वर्गं प्रविविशुर्देहान् निक्षिप्य चाम्भसि ॥ २७ ॥
@@ -18803,7 +18803,7 @@ Cloth, cow and gold should be offered to one who recites Rāmāyaṇa; if the re
 
 The man reading this life-giving legend enjoys pleasures with sons and grandsons
 
-* UTTARAKĀṆḌA *
+
 
 1135
 
@@ -18873,7 +18873,7 @@ His father, grandfather and great
 
 1136
 
-* VĀLMĪKI-RĀMĀYAṆA *
+
 
 grandfather and even the fathers of these attain the body of Viṣṇu. (22)
 
