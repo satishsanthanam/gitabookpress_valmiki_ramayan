@@ -1,0 +1,177 @@
+
+==========================================
+ SMART AUDIT REPORT: data/Valmiki_Ramayan_Balakanda.json
+==========================================
+📌 Sarga 7:
+   ❌ Genuine Missing Verses: [13, 21, 22]
+📌 Sarga 8:
+   ❌ Genuine Missing Verses: [16, 17]
+📌 Sarga 9:
+   ❌ Genuine Missing Verses: [4, 5, 6, 7, 8, 9, 10]
+📌 Sarga 13:
+   ❌ Genuine Missing Verses: [6, 7, 8]
+📌 Sarga 14:
+   ❌ Genuine Missing Verses: [7]
+📌 Sarga 18:
+   ⚠️ Out of order! Found order: [0, 34, 35, 36, 37, 2, 3, 4]...
+   ❌ Genuine Missing Verses: [1, 21, 22]
+📌 Sarga 23:
+   ❌ Genuine Missing Verses: [10, 11]
+📌 Sarga 24:
+   ❌ Genuine Missing Verses: [7, 8, 9, 10, 11, 12, 13, 14]
+📌 Sarga 30:
+   ❌ Genuine Missing Verses: [6]
+📌 Sarga 33:
+   ❌ Genuine Missing Verses: [21]
+📌 Sarga 35:
+   ❌ Genuine Missing Verses: [19]
+📌 Sarga 39:
+   ❌ Genuine Missing Verses: [15]
+📌 Sarga 41:
+   ❌ Genuine Missing Verses: [20]
+📌 Sarga 43:
+   ⚠️ Out of order! Found order: [0, 1, 2, 25, 3, 4, 9, 10]...
+📌 Sarga 45:
+   ❌ Genuine Missing Verses: [33]
+📌 Sarga 47:
+   ❌ Genuine Missing Verses: [4]
+📌 Sarga 50:
+   ❌ Genuine Missing Verses: [6, 7, 8, 9, 10]
+📌 Sarga 61:
+   ❌ Genuine Missing Verses: [16, 17]
+📌 Sarga 67:
+   ⚠️ Out of order! Found order: [0, 1, 24, 3, 4, 5, 6, 7]...
+   ❌ Genuine Missing Verses: [2]
+📌 Sarga 70:
+   ❌ Genuine Missing Verses: [37]
+📌 Sarga 71:
+   ❌ Genuine Missing Verses: [23]
+
+==========================================
+ SMART AUDIT REPORT: data/Valmiki_Ramayan_Ayodhyakanda.json
+==========================================
+📌 Sarga 1:
+   ❌ Genuine Missing Verses: [35]
+📌 Sarga 3:
+   ❌ Genuine Missing Verses: [42, 43, 44]
+📌 Sarga 7:
+   ❌ Genuine Missing Verses: [6]
+📌 Sarga 10:
+   ⚠️ Out of order! Found order: [0, 64, 65, 66, 2, 3, 19, 21]...
+   ❌ Genuine Missing Verses: [1, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+📌 Sarga 13:
+   ⚠️ Out of order! Found order: [0, 112, 3, 4, 5, 6, 7, 8]...
+   ❌ Genuine Missing Verses: [1, 2, 14, 15, 16, 17, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111]
+📌 Sarga 14:
+   ❌ Genuine Missing Verses: [14, 44]
+📌 Sarga 17:
+   ⚠️ Out of order! Found order: [0, 46, 47, 1, 10, 11, 12, 13]...
+   ❌ Genuine Missing Verses: [23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+📌 Sarga 19:
+   ❌ Genuine Missing Verses: [31]
+📌 Sarga 20:
+   ❌ Genuine Missing Verses: [33, 52]
+📌 Sarga 21:
+   ⚠️ Out of order! Found order: [0, 54, 55, 2, 4, 5, 6, 7]...
+   ❌ Genuine Missing Verses: [1]
+📌 Sarga 24:
+   ⚠️ Out of order! Found order: [0, 1, 2, 41, 4, 5, 6, 9]...
+   ❌ Genuine Missing Verses: [3, 39, 40]
+📌 Sarga 26:
+   ⚠️ Out of order! Found order: [0, 1, 47, 3, 4, 5, 6, 7]...
+   ❌ Genuine Missing Verses: [39, 40, 41, 42, 43, 44, 45, 46]
+📌 Sarga 29:
+   ❌ Genuine Missing Verses: [10]
+📌 Sarga 43:
+   ⚠️ Out of order! Found order: [0, 1, 2, 3, 35, 4, 5, 6]...
+   ❌ Genuine Missing Verses: [12, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]
+📌 Sarga 50:
+   ❌ Genuine Missing Verses: [16]
+📌 Sarga 52:
+   ❌ Genuine Missing Verses: [78, 99]
+📌 Sarga 54:
+   ❌ Genuine Missing Verses: [30]
+📌 Sarga 56:
+   ❌ Genuine Missing Verses: [24, 25, 33]
+📌 Sarga 60:
+   ⚠️ Out of order! Found order: [0, 1, 2, 34, 3, 4, 5, 6]...
+   ❌ Genuine Missing Verses: [24, 25, 26, 27, 28, 29, 30, 31, 32, 33]
+📌 Sarga 63:
+   ❌ Genuine Missing Verses: [44]
+📌 Sarga 68:
+   ⚠️ Out of order! Found order: [0, 36, 37, 38, 2, 4, 5, 6]...
+   ❌ Genuine Missing Verses: [1, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+📌 Sarga 71:
+   ❌ Genuine Missing Verses: [14, 15]
+📌 Sarga 72:
+   ⚠️ Out of order! Found order: [0, 1, 2, 46, 4, 5, 6, 7]...
+   ❌ Genuine Missing Verses: [3]
+📌 Sarga 76:
+   ⚠️ Out of order! Found order: [0, 1, 2, 64, 65, 3, 4, 6]...
+   ❌ Genuine Missing Verses: [24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+📌 Sarga 79:
+   ⚠️ Out of order! Found order: [0, 1, 25, 26, 2, 3, 4, 5]...
+   ❌ Genuine Missing Verses: [16, 17, 18, 19, 20, 21, 22, 23, 24]
+📌 Sarga 80:
+   ⚠️ Out of order! Found order: [0, 16, 17, 4, 5, 6, 7, 8]...
+   ❌ Genuine Missing Verses: [1, 2, 3]
+📌 Sarga 86:
+   ⚠️ Out of order! Found order: [0, 21, 22, 2, 3, 4, 5, 6]...
+   ❌ Genuine Missing Verses: [1]
+📌 Sarga 88:
+   ⚠️ Out of order! Found order: [0, 1, 23, 24, 2, 3, 4, 5]...
+📌 Sarga 90:
+   ❌ Genuine Missing Verses: [5]
+📌 Sarga 91:
+   ❌ Genuine Missing Verses: [11, 55]
+📌 Sarga 94:
+   ❌ Genuine Missing Verses: [8, 9, 10]
+📌 Sarga 100:
+   ⚠️ Out of order! Found order: [0, 1, 2, 3, 4, 5, 6, 7]...
+   ❌ Genuine Missing Verses: [40, 41, 42, 68, 69, 70]
+📌 Sarga 106:
+   ❌ Genuine Missing Verses: [20]
+📌 Sarga 107:
+   ⚠️ Out of order! Found order: [0, 1, 2, 3, 4, 1, 7, 8]...
+   ❌ Genuine Missing Verses: [5, 6]
+📌 Sarga 108:
+   ⚠️ Out of order! Found order: [0, 17, 18, 19, 2, 3, 4, 5]...
+   ❌ Genuine Missing Verses: [1]
+📌 Sarga 112:
+   ❌ Genuine Missing Verses: [15]
+
+==========================================
+ SMART AUDIT REPORT: data/Valmiki_Ramayan_Aranyakanda.json
+==========================================
+📌 Sarga 7:
+   ⚠️ Out of order! Found order: [0, 1, 24, 25, 26, 3, 4, 5]...
+   ❌ Genuine Missing Verses: [2, 22, 23]
+📌 Sarga 8:
+   ⚠️ Out of order! Found order: [0, 1, 2, 22, 23, 24, 3, 5]...
+   ❌ Genuine Missing Verses: [21]
+📌 Sarga 14:
+   ⚠️ Out of order! Found order: [0, 22, 23, 24, 25, 2, 3, 4]...
+   ❌ Genuine Missing Verses: [1]
+📌 Sarga 15:
+   ⚠️ Out of order! Found order: [0, 1, 2, 35, 36, 3, 4, 6]...
+   ❌ Genuine Missing Verses: [32, 33, 34]
+📌 Sarga 17:
+   ⚠️ Out of order! Found order: [0, 1, 41, 42, 43, 3, 5, 6]...
+   ❌ Genuine Missing Verses: [2, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+📌 Sarga 19:
+   ⚠️ Out of order! Found order: [0, 1, 2, 3, 4, 26, 5, 6]...
+📌 Sarga 35:
+   ❌ Genuine Missing Verses: [18]
+📌 Sarga 38:
+   ⚠️ Out of order! Found order: [0, 25, 5, 7, 9, 10, 11, 12]...
+   ❌ Genuine Missing Verses: [1, 2, 3, 4]
+📌 Sarga 56:
+   ⚠️ Out of order! Found order: [0, 1, 2, 4, 5, 6, 7, 8]...
+📌 Sarga 58:
+   ⚠️ Out of order! Found order: [0, 1, 2, 3, 23, 4, 5, 6]...
+   ❌ Genuine Missing Verses: [21, 22]
+📌 Sarga 65:
+   ⚠️ Out of order! Found order: [0, 76, 77, 4, 5, 6, 9, 11]...
+   ❌ Genuine Missing Verses: [1, 2, 3, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75]
+📌 Sarga 68:
+   ⚠️ Out of order! Found order: [0, 1, 2, 28, 29, 3, 4, 5]...

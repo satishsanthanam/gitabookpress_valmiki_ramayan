@@ -1,0 +1,485 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "श्रीसीतारामचन्द्राभ्यां नमः\n\n# श्रीमद्वाल्मीकीयरामायणम्\n\n# बालकाण्डम्\n\n# Śrīmad Vālmīki-Rāmāyaṇa\n\nBook One\n\n(Bālakāṇḍa)\n\nप्रथमः सर्गः\n\nCanto I\n\nThe celestial sage Nārada narrates to Vālmīki the\nStory of Śrī Rāma in a nutshell\n\nॐ तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।\nनारदं परिपप्रच्छ वाल्मीकिर्मुनिपुङ्गवम् ॥ १ ॥\n\nThe ascetic Vālmīki put the following question direct to Nārada, the chief of hermits, nay, the foremost of those skilled in expression, who remains ever engaged in askesis and self-study—the study of the Vedas : (1)\n\nको न्वस्मिन् साम्प्रतं लोके गुणवान् कश्च वीर्यवान् ।\nधर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ २ ॥\n\n“Who can possibly be full of virtues in this world at present? Nay, who is possessed of prowess and knows what is right? Who is conscious of services done, truthful of speech and firm of resolve? (2)\n\nचारित्रेण च को युक्तः सर्वभूतेषु को हितः ।\nविद्वान् कः कः समर्थश्च कश्चैकप्रियदर्शनः ॥ ३ ॥\n\n“Who is possessed of right conduct and who is friendly to all living beings? Who is a man of knowledge? Nay, who is powerful and who has a singularly lovable appearance? (3)\n\nआत्मवान् को जितक्रोधो द्युतिमान् कोऽनसूयकः ।\nकस्य बिभ्यति देवाश्च जातरोषस्य संयुगे ॥ ४ ॥\n\n“Who has subdued his self? Who has conquered anger? Who is possessed of splendour and who is above fault-finding, and whom do the very gods dread when his wrath has been (apparently) provoked in battle? (4)\n\nएतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे ।\nमहर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् ॥ ५ ॥\n\n“I wish to hear this; for there is a great curiosity in my mind about it, while you are capable of knowing such a man, O eminent seer !” (5)\n\nश्रुत्वा चैतत्रिलोकज्ञो वाल्मीकेर्नारदो वचः ।\nश्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत् ॥ ६ ॥\n\nHearing this appeal of Vālmīki, the sage Nārada, who possessed knowledge of the three worlds, said, “Listen !” and greatly delighted, addressed the following words : (6)\n\nबहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः ।\nमुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः ॥ ७ ॥\n\n“I shall duly consider and tell you of such a hero. Be pleased to hear from me of the man endowed with the manifold and",
+      "images": [],
+      "dimensions": {
+        "dpi": 109,
+        "height": 1018,
+        "width": 673
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 251,
+          "top_left_y": 12,
+          "bottom_right_x": 419,
+          "bottom_right_y": 36,
+          "content": "श्रीसीतारामचन्द्राभ्यां नमः",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 67,
+          "top_left_y": 52,
+          "bottom_right_x": 618,
+          "bottom_right_y": 108,
+          "content": "# श्रीमद्वाल्मीकीयरामायणम्",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 222,
+          "top_left_y": 124,
+          "bottom_right_x": 455,
+          "bottom_right_y": 167,
+          "content": "# बालकाण्डम्",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 98,
+          "top_left_y": 173,
+          "bottom_right_x": 572,
+          "bottom_right_y": 221,
+          "content": "# Śrīmad Vālmīki-Rāmāyaṇa",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 274,
+          "top_left_y": 234,
+          "bottom_right_x": 396,
+          "bottom_right_y": 262,
+          "content": "Book One",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 247,
+          "top_left_y": 274,
+          "bottom_right_x": 423,
+          "bottom_right_y": 310,
+          "content": "(Bālakāṇḍa)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 271,
+          "top_left_y": 323,
+          "bottom_right_x": 396,
+          "bottom_right_y": 352,
+          "content": "प्रथमः सर्गः",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 298,
+          "top_left_y": 362,
+          "bottom_right_x": 371,
+          "bottom_right_y": 384,
+          "content": "Canto I",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 127,
+          "top_left_y": 397,
+          "bottom_right_x": 544,
+          "bottom_right_y": 441,
+          "content": "The celestial sage Nārada narrates to Vālmīki the\nStory of Śrī Rāma in a nutshell",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 462,
+          "bottom_right_x": 331,
+          "bottom_right_y": 512,
+          "content": "ॐ तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।\nनारदं परिपप्रच्छ वाल्मीकिर्मुनिपुङ्गवम् ॥ १ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 518,
+          "bottom_right_x": 331,
+          "bottom_right_y": 645,
+          "content": "The ascetic Vālmīki put the following question direct to Nārada, the chief of hermits, nay, the foremost of those skilled in expression, who remains ever engaged in askesis and self-study—the study of the Vedas : (1)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 650,
+          "bottom_right_x": 331,
+          "bottom_right_y": 700,
+          "content": "को न्वस्मिन् साम्प्रतं लोके गुणवान् कश्च वीर्यवान् ।\nधर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ २ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 706,
+          "bottom_right_x": 331,
+          "bottom_right_y": 812,
+          "content": "“Who can possibly be full of virtues in this world at present? Nay, who is possessed of prowess and knows what is right? Who is conscious of services done, truthful of speech and firm of resolve? (2)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 817,
+          "bottom_right_x": 331,
+          "bottom_right_y": 867,
+          "content": "चारित्रेण च को युक्तः सर्वभूतेषु को हितः ।\nविद्वान् कः कः समर्थश्च कश्चैकप्रियदर्शनः ॥ ३ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 872,
+          "bottom_right_x": 331,
+          "bottom_right_y": 958,
+          "content": "“Who is possessed of right conduct and who is friendly to all living beings? Who is a man of knowledge? Nay, who is powerful and who has a singularly lovable appearance? (3)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 963,
+          "bottom_right_x": 331,
+          "bottom_right_y": 1013,
+          "content": "आत्मवान् को जितक्रोधो द्युतिमान् कोऽनसूयकः ।\nकस्य बिभ्यति देवाश्च जातरोषस्य संयुगे ॥ ४ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 462,
+          "bottom_right_x": 672,
+          "bottom_right_y": 585,
+          "content": "“Who has subdued his self? Who has conquered anger? Who is possessed of splendour and who is above fault-finding, and whom do the very gods dread when his wrath has been (apparently) provoked in battle? (4)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 590,
+          "bottom_right_x": 672,
+          "bottom_right_y": 640,
+          "content": "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे ।\nमहर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् ॥ ५ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 646,
+          "bottom_right_x": 672,
+          "bottom_right_y": 729,
+          "content": "“I wish to hear this; for there is a great curiosity in my mind about it, while you are capable of knowing such a man, O eminent seer !” (5)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 734,
+          "bottom_right_x": 672,
+          "bottom_right_y": 784,
+          "content": "श्रुत्वा चैतत्रिलोकज्ञो वाल्मीकेर्नारदो वचः ।\nश्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत् ॥ ६ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 789,
+          "bottom_right_x": 672,
+          "bottom_right_y": 891,
+          "content": "Hearing this appeal of Vālmīki, the sage Nārada, who possessed knowledge of the three worlds, said, “Listen !” and greatly delighted, addressed the following words : (6)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 897,
+          "bottom_right_x": 672,
+          "bottom_right_y": 947,
+          "content": "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः ।\nमुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः ॥ ७ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 952,
+          "bottom_right_x": 672,
+          "bottom_right_y": 1013,
+          "content": "“I shall duly consider and tell you of such a hero. Be pleased to hear from me of the man endowed with the manifold and",
+          "confidence_scores": null,
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "markdown": "60\n\n* VĀLMĪKI-RĀMĀYAṆA *\n\nrare virtues that have been described by you. (7)\n\nइक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः।\nनियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी ॥ ८ ॥\n\n“There is one descended in the line of Ikṣwāku, and known by the name of ‘Rāma’. He has fully controlled his mind, is very powerful, radiant and resolute and has brought his senses under control. (8)\n\nबुद्धिमान् नीतिमान् वाग्मी श्रीमाञ्छत्रुनिर्बर्हणः।\nविपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः ॥ ९ ॥\n\n“He is intelligent, sagacious, eloquent, glorious and an exterminator of foes. He is distinguished with broad shoulders, powerful arms, a neck shaped as a conch and a stout chin. (9)\n\nमहोरस्को महेष्वासो गूढजत्रुरिरिंदमः।\nआजानुबाहुः सुशिराः सुललाटः सुविक्रमः ॥ १० ॥\n\n“He is marked with a broad chest, a mighty bow and a collar-bone covered with flesh, and is capable of subduing his foes. His unusually long arms extend right upto his knees. He has a well-formed head, a shapely forehead and a charming gait. (10)\n\nसमः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्।\nपीनवक्षा विशालाक्षो लक्ष्मीवाञ्छुभलक्षणः ॥ ११ ॥\n\n“He is of medium stature, neither very tall nor very short, has well-proportioned limbs, has a shining complexion, is mighty, has a rounded chest, large eyes, is full of splendour and has auspicious marks on his body. (11)\n\nधर्मज्ञः सत्यसंधश्च प्रजानां च हिते रतः।\nयशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान् ॥ १२ ॥\n\n“He knows the secret of virtue, and is true to his promise and intent on the good of the people. He is illustrious, full of wisdom, pure in his dealings, a man of self-control and concentrated mind. (12)\n\nप्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः।\nरक्षिता जीवलोकस्य धर्मस्य परिरक्षिता ॥ १३ ॥\n\n“He is a supporter of the creation like Brahmā, the lord of created beings, affluent, the slayer of his enemies, a protector of living beings and a staunch defender of faith. (13)\n\nरक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता।\nवेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः ॥ १४ ॥\n\n“He is a vindicator of his own virtue and the protector of his own people. He knows the truth of the Vedas and the six sciences (grammar etc.) auxiliary to them and is a past master in archery. (14)\n\nसर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्।\nसर्वलोकप्रियः साधुरदीनात्मा विचक्षणः ॥ १५ ॥\n\n“He knows the real meaning of all the scriptures, is possessed of a sharp memory and quick wit. He is popular in all the worlds, is pious, high-minded and shrewd. (15)\n\nसर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः।\nआर्यः सर्वसमश्चैव सदैव प्रियदर्शनः ॥ १६ ॥\n\n“He is always sought by the righteous even as the ocean is by rivers. He is noble, nay, alike to all and always wears a pleasing countenance. (16)\n\nस च सर्वगुणोपेतः कौसल्यानन्दवर्धनः।\nसमुद्र इव गाम्भीर्ये धैर्येण हिमवानिव ॥ १७ ॥\n\n“He is endowed with all excellences and enhances the delight of his mother, Kausalyā. He vies with the ocean in profundity and compares with the Himālaya in point of firmness. (17)\n\nविष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः।\nकालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः ॥ १८ ॥\n\n“He is a replica of Lord Viṣṇu in prowess and is pleasing of aspect as the moon. In (show of) anger, he resembles the destructive fire at the end of creation and is a counterpart of Mother Earth in forbearance. (18)\n\nधनदेन समस्त्यागे सत्ये धर्म इवापरः।\nतमेवगुणसम्पन्नं रामं सत्यपराक्रमम् ॥ १९ ॥\nज्येष्ठं ज्येष्ठगुणैर्युक्तं प्रियं दशरथः सुतम्।\nप्रकृतीनां हितैर्युक्तं प्रकृतिप्रियकाम्यया ॥ २० ॥",
+      "images": [],
+      "dimensions": {
+        "dpi": 109,
+        "height": 1018,
+        "width": 673
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 2,
+          "top_left_y": 3,
+          "bottom_right_x": 26,
+          "bottom_right_y": 19,
+          "content": "60",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 245,
+          "top_left_y": 3,
+          "bottom_right_x": 428,
+          "bottom_right_y": 19,
+          "content": "* VĀLMĪKI-RĀMĀYAṆA *",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 41,
+          "bottom_right_x": 330,
+          "bottom_right_y": 83,
+          "content": "rare virtues that have been described by you. (7)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 88,
+          "bottom_right_x": 330,
+          "bottom_right_y": 137,
+          "content": "इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः।\nनियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी ॥ ८ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 143,
+          "bottom_right_x": 330,
+          "bottom_right_y": 250,
+          "content": "“There is one descended in the line of Ikṣwāku, and known by the name of ‘Rāma’. He has fully controlled his mind, is very powerful, radiant and resolute and has brought his senses under control. (8)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 255,
+          "bottom_right_x": 330,
+          "bottom_right_y": 305,
+          "content": "बुद्धिमान् नीतिमान् वाग्मी श्रीमाञ्छत्रुनिर्बर्हणः।\nविपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः ॥ ९ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 310,
+          "bottom_right_x": 330,
+          "bottom_right_y": 416,
+          "content": "“He is intelligent, sagacious, eloquent, glorious and an exterminator of foes. He is distinguished with broad shoulders, powerful arms, a neck shaped as a conch and a stout chin. (9)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 421,
+          "bottom_right_x": 330,
+          "bottom_right_y": 471,
+          "content": "महोरस्को महेष्वासो गूढजत्रुरिरिंदमः।\nआजानुबाहुः सुशिराः सुललाटः सुविक्रमः ॥ १० ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 477,
+          "bottom_right_x": 330,
+          "bottom_right_y": 605,
+          "content": "“He is marked with a broad chest, a mighty bow and a collar-bone covered with flesh, and is capable of subduing his foes. His unusually long arms extend right upto his knees. He has a well-formed head, a shapely forehead and a charming gait. (10)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 610,
+          "bottom_right_x": 330,
+          "bottom_right_y": 659,
+          "content": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्।\nपीनवक्षा विशालाक्षो लक्ष्मीवाञ्छुभलक्षणः ॥ ११ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 665,
+          "bottom_right_x": 330,
+          "bottom_right_y": 793,
+          "content": "“He is of medium stature, neither very tall nor very short, has well-proportioned limbs, has a shining complexion, is mighty, has a rounded chest, large eyes, is full of splendour and has auspicious marks on his body. (11)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 798,
+          "bottom_right_x": 330,
+          "bottom_right_y": 848,
+          "content": "धर्मज्ञः सत्यसंधश्च प्रजानां च हिते रतः।\nयशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान् ॥ १२ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 853,
+          "bottom_right_x": 330,
+          "bottom_right_y": 960,
+          "content": "“He knows the secret of virtue, and is true to his promise and intent on the good of the people. He is illustrious, full of wisdom, pure in his dealings, a man of self-control and concentrated mind. (12)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2,
+          "top_left_y": 965,
+          "bottom_right_x": 330,
+          "bottom_right_y": 1015,
+          "content": "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः।\nरक्षिता जीवलोकस्य धर्मस्य परिरक्षिता ॥ १३ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 41,
+          "bottom_right_x": 672,
+          "bottom_right_y": 125,
+          "content": "“He is a supporter of the creation like Brahmā, the lord of created beings, affluent, the slayer of his enemies, a protector of living beings and a staunch defender of faith. (13)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 130,
+          "bottom_right_x": 672,
+          "bottom_right_y": 180,
+          "content": "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता।\nवेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः ॥ १४ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 185,
+          "bottom_right_x": 672,
+          "bottom_right_y": 290,
+          "content": "“He is a vindicator of his own virtue and the protector of his own people. He knows the truth of the Vedas and the six sciences (grammar etc.) auxiliary to them and is a past master in archery. (14)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 296,
+          "bottom_right_x": 672,
+          "bottom_right_y": 345,
+          "content": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्।\nसर्वलोकप्रियः साधुरदीनात्मा विचक्षणः ॥ १५ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 351,
+          "bottom_right_x": 672,
+          "bottom_right_y": 436,
+          "content": "“He knows the real meaning of all the scriptures, is possessed of a sharp memory and quick wit. He is popular in all the worlds, is pious, high-minded and shrewd. (15)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 441,
+          "bottom_right_x": 672,
+          "bottom_right_y": 490,
+          "content": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः।\nआर्यः सर्वसमश्चैव सदैव प्रियदर्शनः ॥ १६ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 496,
+          "bottom_right_x": 672,
+          "bottom_right_y": 581,
+          "content": "“He is always sought by the righteous even as the ocean is by rivers. He is noble, nay, alike to all and always wears a pleasing countenance. (16)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 586,
+          "bottom_right_x": 672,
+          "bottom_right_y": 636,
+          "content": "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः।\nसमुद्र इव गाम्भीर्ये धैर्येण हिमवानिव ॥ १७ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 641,
+          "bottom_right_x": 672,
+          "bottom_right_y": 746,
+          "content": "“He is endowed with all excellences and enhances the delight of his mother, Kausalyā. He vies with the ocean in profundity and compares with the Himālaya in point of firmness. (17)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 751,
+          "bottom_right_x": 672,
+          "bottom_right_y": 801,
+          "content": "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः।\nकालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः ॥ १८ ॥",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 806,
+          "bottom_right_x": 672,
+          "bottom_right_y": 912,
+          "content": "“He is a replica of Lord Viṣṇu in prowess and is pleasing of aspect as the moon. In (show of) anger, he resembles the destructive fire at the end of creation and is a counterpart of Mother Earth in forbearance. (18)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 342,
+          "top_left_y": 917,
+          "bottom_right_x": 672,
+          "bottom_right_y": 1015,
+          "content": "धनदेन समस्त्यागे सत्ये धर्म इवापरः।\nतमेवगुणसम्पन्नं रामं सत्यपराक्रमम् ॥ १९ ॥\nज्येष्ठं ज्येष्ठगुणैर्युक्तं प्रियं दशरथः सुतम्।\nप्रकृतीनां हितैर्युक्तं प्रकृतिप्रियकाम्यया ॥ २० ॥",
+          "confidence_scores": null,
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "usage_info": {
+    "pages_processed": 2,
+    "doc_size_bytes": 63373
+  },
+  "document_annotation": null
+}

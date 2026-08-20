@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Śrī Vālmīki Rāmāyaṇa</title>
+  <style>
+    :root {
+      --bg-color: #fdfbf7;
+      --card-bg: #ffffff;
+      --accent-color: #8b0000;
+      --border-color: #e2d8c3;
+      --text-color: #2c2c2c;
+    }
+    body { font-family: 'Georgia', serif; background-color: var(--bg-color); color: var(--text-color); margin: 0; padding: 30px 20px; }
+    .container { max-width: 800px; margin: 0 auto; text-align: center; }
+    h1 { color: var(--accent-color); font-size: 2.2rem; margin-bottom: 10px; }
+    p.subtitle { font-style: italic; color: #555; margin-bottom: 40px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; }
+    .card { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 8px; padding: 24px 16px; text-decoration: none; color: var(--accent-color); font-weight: bold; font-size: 1.2rem; transition: all 0.2s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+    .card:hover { transform: translateY(-3px); box-shadow: 0 5px 15px rgba(139,0,0,0.15); background-color: #fffaf0; }
+    .sanskrit-title { display: block; font-size: 0.9rem; font-weight: normal; color: #666; margin-top: 6px; }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Śrī Vālmīki Rāmāyaṇa</h1>
+  <p class="subtitle">Gita Press Edition • Interactive Web & Audio Reader</p>
+
+  <div class="grid">
+    <a href="ram.html?kanda=balakanda" class="card">
+      1. Bāla Kāṇḍa
+      <span class="sanskrit-title">बालकाण्डम्</span>
+    </a>
+    <a href="ram.html?kanda=ayodhyakanda" class="card">
+      2. Ayodhyā Kāṇḍa
+      <span class="sanskrit-title">अयोध्याकाण्डम्</span>
+    </a>
+    <a href="ram.html?kanda=aranyakanda" class="card">
+      3. Araṇya Kāṇḍa
+      <span class="sanskrit-title">अरण्यकाण्डम्</span>
+    </a>
+    <a href="ram.html?kanda=kishkindhakanda" class="card">
+      4. Kiṣkindhā Kāṇḍa
+      <span class="sanskrit-title">किष्किन्धाकाण्डम्</span>
+    </a>
+    <a href="ram.html?kanda=sundarakanda" class="card">
+      5. Sundara Kāṇḍa
+      <span class="sanskrit-title">सुन्दरकाण्डम्</span>
+    </a>
+    <a href="ram.html?kanda=yuddhakanda" class="card">
+      6. Yuddha Kāṇḍa
+      <span class="sanskrit-title">युद्धकाण्डम्</span>
+    </a>
+    <a href="ram.html?kanda=uttarakanda" class="card">
+      7. Uttara Kāṇḍa
+      <span class="sanskrit-title">उत्तरकाण्डम्</span>
+    </a>
+  </div>
+</div>
+
+</body>
+</html>
