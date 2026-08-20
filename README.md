@@ -109,7 +109,7 @@ print(df.head())
 
 ## 📜 License & Credits
 
-* **Text Source:** Derived from classical Vālmīki Rāmāyaṇa texts.
+* **Text Source:** Derived from classical [Gita Book Press Vālmīki Rāmāyaṇa] (https://zlib-vip.com/s/Valmiki%20ramayan).
 * **OCR & Digitization:** Initial document processing, text extraction, and Markdown OCR generation powered by **Mistral AI** OCR services.  ref (process_pdf_via_batch_mistral_api.py)
 * **License:** Distributed under the [MIT License](https://www.google.com/search?q=LICENSE) for open-source educational, devotional, and developer use.
 
